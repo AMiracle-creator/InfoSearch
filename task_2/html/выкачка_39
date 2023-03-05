@@ -1,0 +1,1236 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	<meta name="yandex-verification" content="5c651905bae0c13f" />
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="газета журнал" />
+<meta name="description" content="Мы предлагаем широкий ассортимент качественных газет и журналов по адекватным ценам." />
+<script type="text/javascript" data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','storageBlocks':[],'dynamicBlocks':{'GydHei':'d41d8cd98f00','bx_cart_block':'6ee6543d0fea','y0XwfU':'d41d8cd98f00','XfrZBG':'3269fe32484c','7DqYyc':'0931854e962b','bx_basketT0kNhm':'9a186b2dc4d4'},'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'300','version':'2'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+
+
+<link href="/bitrix/css/main/bootstrap.css?1552558861141508" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/css/main/font-awesome.css?155255886128777" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/components/webstick/newsmain/templates/.default/style.css?16367145273152" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/eshop_adapt_blue/colors.css?1450942057283" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/search.title/search_top/style.css?14509989884170" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/sale.basket.basket.line/top_basket/style.css?15409576305165" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/menu/catalog_horizontal1/style.css?145560287312096" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/.default/components/bitrix/menu/catalog_horizontal1/themes/blue/colors.css?1450999383855" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/themes/.default/banner.css?14435077065024" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/eshop_adapt_blue/components/bitrix/menu/bottom_menu/style.css?1450942235399" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/components/bitrix/sale.basket.basket.line/templates/.default/style.css?16167516134470" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/eshop_adapt_blue/styles.css?16681432285618" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/eshop_adapt_blue/template_styles.css?166814322824322" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1650643405569185"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'pull_server_enabled':'N','pull_config_timestamp':'0','pull_guest_mode':'N','pull_guest_user_id':'0'});(window.BX||top.BX).message({'PULL_OLD_REVISION':'Для продолжения корректной работы с сайтом необходимо перезагрузить страницу.'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'18000','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/twim.recaptchafree/script.js?15560119234421"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadRecaptchafree&render=explicit&hl=ru"></script>
+<script type="text/javascript" src="/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js?1552558854913"></script>
+<script type="text/javascript" src="/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.js?1603441836196311"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.js?155255885310430"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_fx.js?155255885316888"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.js?163472773616871"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/protobuf.js?1603441895274055"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/model.js?160344189570928"></script>
+<script type="text/javascript" src="/bitrix/js/rest/client/rest.client.js?160344200017414"></script>
+<script type="text/javascript" src="/bitrix/js/pull/client/pull.client.js?163472799970757"></script>
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-2.1.3.min.js?155255885384320"></script>
+<script type="text/javascript">var bxDate = new Date(); document.cookie="BITRIX_SM_TIME_ZONE="+bxDate.getTimezoneOffset()+"; path=/; expires=Thu, 01 Feb 2024 00:00:00 +0500"</script>
+
+
+
+<script type="text/javascript" src="/bitrix/components/bitrix/search.title/script.js?16055382759847"></script>
+<script type="text/javascript" src="/bitrix/templates/.default/components/bitrix/sale.basket.basket.line/top_basket/script.js?14509993585292"></script>
+<script type="text/javascript" src="/bitrix/templates/.default/components/bitrix/menu/catalog_horizontal1/script.js?14509993756096"></script>
+<script type="text/javascript" src="/bitrix/components/bitrix/advertising.banner/templates/bootstrap/bxcarousel.js?147548280312118"></script>
+<script type="text/javascript" src="/bitrix/components/bitrix/sale.basket.basket.line/templates/.default/script.js?14909493895335"></script>
+<script type="text/javascript" src="/bitrix/components/webstick/newsmain/templates/.default/script.js?16346133681320"></script>
+
+		<title>Издательский дом Республика Башкортостан</title>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1523813134597607',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+setTimeout(function(){
+  $('li[data-onevalue=111] > span').trigger('click');
+}, 100);
+
+setTimeout(function(){
+	$('.monthlist input:checked').trigger('click');
+}, 200);
+
+setTimeout(function(){
+	$('.monthlist input:last-child').trigger('click');
+}, 300);
+
+
+
+</script>
+
+</head>
+<body>
+
+<div id="panel"></div>
+<div id="bxdynamic_GydHei_start" style="display:none"></div><div id="bxdynamic_GydHei_end" style="display:none"></div><div class="bx-wrapper" id="bx_eshop_wrap">
+	<header class="bx-header" itemscope itemtype="http://schema.org/Organization">
+		<div class="bx-header-section container top_header">
+
+			<div class="row">
+				<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+					<div class="bx-logo">
+						<a class="bx-logo-block hidden-xs" href="/">
+							<img src="/include/logo.png">						</a>
+						<a class="bx-logo-block hidden-lg hidden-md hidden-sm text-center" href="/">
+							<img src="/include/logo_mobile.png"  srcset="/include/logo_mobile_retina.png" />						</a>
+					</div>
+				</div>
+				<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
+					<div class="row">
+<div class="col-lg-5 col-md-5 col-sm-5 search">
+<div id="search" class="bx-searchtitle">
+	<form action="/catalog/">
+		<div class="bx-input-group">
+			<input id="title-search-input" type="text" name="q" value="" autocomplete="off" class="bx-form-control" placeholder="Поиск по сайту"/>
+			<span class="bx-input-group-btn">
+				<button class="btn btn-default" type="submit" name="s"><i class="fa fa-search"></i></button>
+			</span>
+		</div>
+	</form>
+</div>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/',
+			'CONTAINER_ID': 'search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+
+			<span class="bx-inc-orginfo-phone"></span>
+					</div>
+<div class="col-lg-7 col-md-7 col-sm-7 hidden-xs personal">
+
+<script>
+	var bx_basket1 = new BitrixSmallCart;
+</script>
+
+<div id="bx_basket1" class="bx-basket bx-opener">
+	
+<div class="bx-hdr-profile">
+			<div class="bx-basket-block personal_data">
+							<a href="/personal/podpiska/?login=yes">Войти</a>
+				�
+				<a href="/personal/podpiska/?register=yes">Регистрация</a>
+					</div>
+	
+	<div class="bx-basket-block basket_data">
+		<i class="fa fa-shopping-cart"></i>
+		<a href="/personal/cart/">Корзина</a>
+					0 позиций							<br />
+			<span>
+				на сумму									<strong>0 руб.</strong>
+							</span>
+					</div>
+</div>
+</div>
+
+<script>
+	bx_basket1.siteId       = 's1';
+	bx_basket1.cartId       = 'bx_basket1';
+	bx_basket1.ajaxPath     = '/bitrix/components/bitrix/sale.basket.basket.line/ajax.php';
+	bx_basket1.templateName = 'top_basket';
+	bx_basket1.arParams     =  {'PATH_TO_BASKET':'/personal/cart/','PATH_TO_PERSONAL':'/personal/','SHOW_PERSONAL_LINK':'N','SHOW_NUM_PRODUCTS':'Y','SHOW_TOTAL_PRICE':'Y','SHOW_PRODUCTS':'N','POSITION_FIXED':'N','SHOW_AUTHOR':'Y','PATH_TO_REGISTER':'/personal/podpiska/','PATH_TO_PROFILE':'/personal/','COMPONENT_TEMPLATE':'top_basket','SHOW_EMPTY_VALUES':'Y','PATH_TO_ORDER':'/personal/order/make/','HIDE_ON_BASKET_PAGES':'Y','PATH_TO_AUTHORIZE':'/personal/podpiska/','SHOW_REGISTRATION':'Y','COMPOSITE_FRAME_MODE':'A','COMPOSITE_FRAME_TYPE':'AUTO','CACHE_TYPE':'A','SHOW_DELAY':'Y','SHOW_NOTAVAIL':'Y','SHOW_IMAGE':'Y','SHOW_PRICE':'Y','SHOW_SUMMARY':'Y','POSITION_VERTICAL':'top','POSITION_HORIZONTAL':'right','MAX_IMAGE_SIZE':'70','AJAX':'N','~PATH_TO_BASKET':'/personal/cart/','~PATH_TO_PERSONAL':'/personal/','~SHOW_PERSONAL_LINK':'N','~SHOW_NUM_PRODUCTS':'Y','~SHOW_TOTAL_PRICE':'Y','~SHOW_PRODUCTS':'N','~POSITION_FIXED':'N','~SHOW_AUTHOR':'Y','~PATH_TO_REGISTER':'/personal/podpiska/','~PATH_TO_PROFILE':'/personal/','~COMPONENT_TEMPLATE':'top_basket','~SHOW_EMPTY_VALUES':'Y','~PATH_TO_ORDER':'/personal/order/make/','~HIDE_ON_BASKET_PAGES':'Y','~PATH_TO_AUTHORIZE':'/personal/podpiska/','~SHOW_REGISTRATION':'Y','~COMPOSITE_FRAME_MODE':'A','~COMPOSITE_FRAME_TYPE':'AUTO','~CACHE_TYPE':'A','~SHOW_DELAY':'Y','~SHOW_NOTAVAIL':'Y','~SHOW_IMAGE':'Y','~SHOW_PRICE':'Y','~SHOW_SUMMARY':'Y','~POSITION_VERTICAL':'top','~POSITION_HORIZONTAL':'right','~MAX_IMAGE_SIZE':'70','~AJAX':'N','cartId':'bx_basket1'};
+	bx_basket1.closeMessage = 'Скрыть';
+	bx_basket1.openMessage  = 'Раскрыть';
+	bx_basket1.activate();
+</script>
+					</div>
+					</div>
+				</div>
+			</div>
+
+</div>
+	<div class="row menu">
+		<div class="col-lg-12">
+					<div class="bx-top-nav bx-blue" id="catalog_menu_LkGdQn">
+	<nav class="bx-top-nav-container" id="cont_catalog_menu_LkGdQn">
+		<ul class="bx-nav-list-1-lvl" id="ul_catalog_menu_LkGdQn" >
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_LkGdQn.clickInMobile(this, event);"
+			>
+				<a
+					href="/about/"
+									>
+					<span>
+						О компании						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_LkGdQn.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/fil/"
+																		data-picture=""
+																	>
+									<span>Филиалы</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/info/"
+																		data-picture=""
+																	>
+									<span>Раскрытие информации</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/rukovodstvo/"
+																		data-picture=""
+																	>
+									<span>Руководство</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/zakupki/"
+																		data-picture=""
+																	>
+									<span>Закупки</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-0-col "
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_LkGdQn.clickInMobile(this, event);"
+			>
+				<a
+					href="/news/"
+									>
+					<span>
+						Новости											</span>
+				</a>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-0-col "
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_LkGdQn.clickInMobile(this, event);"
+			>
+				<a
+					href="/catalog/podpiska/"
+									>
+					<span>
+						Подписка											</span>
+				</a>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-0-col "
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_LkGdQn.clickInMobile(this, event);"
+			>
+				<a
+					href="/catalog/reklamnye-uslugi/"
+									>
+					<span>
+						Рекламные услуги											</span>
+				</a>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_LkGdQn.clickInMobile(this, event);"
+			>
+				<a
+					href="/poligrafy/"
+									>
+					<span>
+						Полиграфические услуги						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_LkGdQn.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/poligrafy/price/"
+																		data-picture=""
+																	>
+									<span>Прайс-листы типографий</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_LkGdQn.clickInMobile(this, event);"
+			>
+				<a
+					href="/help/"
+									>
+					<span>
+						Помощь						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_LkGdQn.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/support/"
+																		data-picture=""
+																	>
+									<span>Техподдержка</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/help/?SECTION_ID=305"
+																		data-picture=""
+																	>
+									<span>Если вы забыли пароль</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/subscription-problem/"
+																		data-picture=""
+																	>
+									<span>Проблема с подпиской на печатную версию</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/help/?SECTION_ID=27#3325"
+																		data-picture=""
+																	>
+									<span>Как оформить подписку на печатное или электронное издание?</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/help/?SECTION_ID=30#816"
+																		data-picture=""
+																	>
+									<span>Как читать электронное издание на сайте?</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/help/?SECTION_ID=796#15730"
+																		data-picture=""
+																	>
+									<span>Как подать рекламу (объявление) в газету или журнал?</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/help/?SECTION_ID=11725#1133143"
+																		data-picture=""
+																	>
+									<span>Как оформить заказ на полиграфические уcлуги?</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+				</ul>
+		<div style="clear: both;"></div>
+	</nav>
+</div>
+
+<script>
+	BX.ready(function () {
+		window.obj_catalog_menu_LkGdQn = new BX.Main.Menu.CatalogHorizontal('catalog_menu_LkGdQn', {'1430168220':{'PICTURE':'','DESC':''},'1832449930':{'PICTURE':'','DESC':''},'2528830886':{'PICTURE':'','DESC':''},'3748984497':{'PICTURE':'','DESC':''},'1891215667':{'PICTURE':'','DESC':''},'2478813668':{'PICTURE':'','DESC':''},'471733478':{'PICTURE':'','DESC':''},'2784498385':{'PICTURE':'','DESC':''},'2652236173':{'PICTURE':'','DESC':''},'2444681337':{'PICTURE':'','DESC':''},'664886038':{'PICTURE':'','DESC':''},'25954285':{'PICTURE':'','DESC':''},'899538267':{'PICTURE':'','DESC':''},'3899143437':{'PICTURE':'','DESC':''},'31917138':{'PICTURE':'','DESC':''},'1936548509':{'PICTURE':'','DESC':''},'2436228211':{'PICTURE':'','DESC':''},'828020747':{'PICTURE':'','DESC':''}});
+	});
+</script>		</div>
+	</div>
+
+<div class="bx-header-section container after_menu">
+						<div class="row">
+				<div class="col-lg-12">
+<!-- ?$APPLICATION->IncludeComponent(
+	"bisexpert:owlslider", 
+	"start", 
+	array(
+		"COMPONENT_TEMPLATE" => "start",
+		"CACHE_TYPE" => "N",
+		"CACHE_TIME" => "3600",
+		"CACHE_NOTES" => "",
+		"MAIN_TYPE" => "advert",
+		"COUNT" => "6",
+		"WIDTH_RESIZE" => "1000",
+		"HEIGHT_RESIZE" => "312",
+		"IS_PROPORTIONAL" => "Y",
+		"ENABLE_OWL_CSS_AND_JS" => "Y",
+		"ENABLE_JQUERY" => "Y",
+		"RESPONSIVE" => "Y",
+		"COMPOSITE" => "Y",
+		"AUTO_PLAY" => "Y",
+		"AUTO_PLAY_SPEED" => "5000",
+		"SCROLL_COUNT" => "1",
+		"SPECIAL_CODE" => "unic",
+		"AUTO_HEIGHT" => "Y",
+		"RANDOM_TRANSITION" => "N",
+		"TRANSITION_TYPE_FOR_ONE_ITEM" => "default",
+		"SLIDE_SPEED" => "200",
+		"PAGINATION_SPEED" => "800",
+		"REWIND_SPEED" => "1000",
+		"STOP_ON_HOVER" => "Y",
+		"IMAGE_CENTER" => "Y",
+		"RANDOM" => "N",
+		"SHOW_DESCRIPTION_BLOCK" => "N",
+		"NAVIGATION" => "N",
+		"NAVIGATION_TYPE" => "arrows",
+		"PAGINATION" => "Y",
+		"PAGINATION_NUMBERS" => "N",
+		"DRAG_BEFORE_ANIM_FINISH" => "Y",
+		"MOUSE_DRAG" => "Y",
+		"TOUCH_DRAG" => "Y",
+		"ITEMS_SCALE_UP" => "N",
+		"DISABLE_LINK_DEV" => "Y",
+		"ADVERT_TYPE" => "slider_start",
+		"COMPOSITE_FRAME_MODE" => "A",
+		"COMPOSITE_FRAME_TYPE" => "AUTO"
+	),
+	false
+);? -->
+
+
+
+<div id="bxdynamic_y0XwfU_start" style="display:none"></div><div id="bxdynamic_y0XwfU_end" style="display:none"></div>
+
+<!-- br>
+<a href="https://rbsmi.ru/catalog/podpiska/"><img src="/include/podpiska2023.jpg" style="width: 100%"></a -->
+<br><br>
+
+
+				</div>
+
+			</div>
+			
+					</div>
+	</header>
+
+	<div class="workarea">
+		<div class="container bx-content-seection">
+			<div class="row">
+
+
+							<div class="bx-content col-xs-12">
+<!--
+    <br>
+<div class="row">
+	<div class="start_ico">
+ <a href="/catalog/podpiska/"><img src="/bitrix/templates/eshop_adapt_blue/images/start_ico1.png"><br>
+		 Подписка на газеты и журналы</a>
+	</div>
+	<div class="start_ico">
+ <a href="/catalog/reklamnye-uslugi/"><img src="/bitrix/templates/eshop_adapt_blue/images/start_ico2.png"><br>
+		 Размещение рекламы</a>
+	</div>
+	<div class="start_ico">
+ <a href="/poligrafy/"><img src="/bitrix/templates/eshop_adapt_blue/images/start_ico3.png"><br>
+		 Полиграфическая продукция</a>
+	</div>
+	<div class="start_ico">
+ <a href="/personal/"><img src="/bitrix/templates/eshop_adapt_blue/images/start_ico4.png"><br>
+		 Личный кабинет</a>
+	</div>
+
+</div>
+ <br>
+ <br>
+ -->
+ <div id="bxdynamic_XfrZBG_start" style="display:none"></div>
+<div class="col-md-8">
+    <div class="big-news">
+    
+                        <div class="big-news__item">
+                <div class="big-news__block">
+                                            <a class="big-news__img" href="https://resbash.ru/news/proishestviya/2023-02-20/pyanyy-zhitel-bashkirii-ugnal-u-priyatelya-mashinu-i-katal-na-ney-druzey-3150388?utm_source=rbsmi" target="_blank" style="background-image: url(/work/frontend/web/upload/photo_archive/9472c60be807a3ebf3d01fe6b5debefa.jpg)" title="Пьяный житель Башкирии угнал у приятеля машину и катал на ней друзей"></a>
+                    
+                    <div class="big-news__content">
+                        <a class="big-news__title" href="https://resbash.ru/news/proishestviya/2023-02-20/pyanyy-zhitel-bashkirii-ugnal-u-priyatelya-mashinu-i-katal-na-ney-druzey-3150388?utm_source=rbsmi" target="_blank">Пьяный житель Башкирии угнал у приятеля машину и катал на ней друзей</a>
+
+                        <div class="big-news__extra">
+                            <div class="big-news__category">Республика Башкортостан</div>
+                            <div class="big-news__date">Сегодня, 18:34</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                <div class="big-news__item">
+                <div class="big-news__block">
+                                            <a class="big-news__img" href="https://duv-vest.ru/news/sobytiya-i-fakty/2023-02-20/zhiteli-bashkortostana-mogut-prinyat-uchastie-v-premii-sdelano-v-rossii-2023-3150307?utm_source=rbsmi" target="_blank" style="background-image: url(/work/frontend/web/upload/photo_archive/c0277743ce636712d6f2304277950304.jpg)" title="Жители Башкортостана могут принять участие в премии «Сделано в России-2023»"></a>
+                    
+                    <div class="big-news__content">
+                        <a class="big-news__title" href="https://duv-vest.ru/news/sobytiya-i-fakty/2023-02-20/zhiteli-bashkortostana-mogut-prinyat-uchastie-v-premii-sdelano-v-rossii-2023-3150307?utm_source=rbsmi" target="_blank">Жители Башкортостана могут принять участие в премии «Сделано в России-2023»</a>
+
+                        <div class="big-news__extra">
+                            <div class="big-news__category">Дуванский вестник</div>
+                            <div class="big-news__date">Сегодня, 17:25</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                <div class="big-news__item">
+                <div class="big-news__block">
+                                            <a class="big-news__img" href="https://nashikigi.ru/news/novosti/2023-02-20/v-bashkirii-poyavyatsya-tsentry-podderzhki-semey-uchastnikov-svo-3150319?utm_source=rbsmi" target="_blank" style="background-image: url(/work/frontend/web/upload/photo_archive/e112a2969ddb49fec8aee2be42057777.jpeg)" title="В Башкирии появятся центры поддержки семей участников СВО"></a>
+                    
+                    <div class="big-news__content">
+                        <a class="big-news__title" href="https://nashikigi.ru/news/novosti/2023-02-20/v-bashkirii-poyavyatsya-tsentry-podderzhki-semey-uchastnikov-svo-3150319?utm_source=rbsmi" target="_blank">В Башкирии появятся центры поддержки семей участников СВО</a>
+
+                        <div class="big-news__extra">
+                            <div class="big-news__category">Наши Киги</div>
+                            <div class="big-news__date">Сегодня, 17:20</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                <div class="big-news__item">
+                <div class="big-news__block">
+                                            <a class="big-news__img" href="https://resbash.ru/news/ekonomika/2023-02-20/radiy-habirov-rasskazal-o-proizvoditele-podsolnechnogo-masla-iz-sterlibashevo-3150292?utm_source=rbsmi" target="_blank" style="background-image: url(/work/frontend/web/upload/photo_archive/82c444538809c6db5b2db87ce48c5b83.jpg)" title="Радий Хабиров рассказал о производителе подсолнечного масла из Стерлибашево"></a>
+                    
+                    <div class="big-news__content">
+                        <a class="big-news__title" href="https://resbash.ru/news/ekonomika/2023-02-20/radiy-habirov-rasskazal-o-proizvoditele-podsolnechnogo-masla-iz-sterlibashevo-3150292?utm_source=rbsmi" target="_blank">Радий Хабиров рассказал о производителе подсолнечного масла из Стерлибашево</a>
+
+                        <div class="big-news__extra">
+                            <div class="big-news__category">Республика Башкортостан</div>
+                            <div class="big-news__date">Сегодня, 17:15</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                <div class="big-news__item">
+                <div class="big-news__block">
+                                            <a class="big-news__img" href="https://belokatay.ru/news/common_material/2023-02-20/v-bashkirii-v-2023-godu-proveryat-na-vich-32-zhiteley-3150220?utm_source=rbsmi" target="_blank" style="background-image: url(/work/frontend/web/upload/photo_archive/4d72661ff3adb61ca12d21902dab6f09.jpg)" title="В Башкирии в 2023 году проверят на ВИЧ 32% жителей"></a>
+                    
+                    <div class="big-news__content">
+                        <a class="big-news__title" href="https://belokatay.ru/news/common_material/2023-02-20/v-bashkirii-v-2023-godu-proveryat-na-vich-32-zhiteley-3150220?utm_source=rbsmi" target="_blank">В Башкирии в 2023 году проверят на ВИЧ 32% жителей</a>
+
+                        <div class="big-news__extra">
+                            <div class="big-news__category">Новый Белокатай</div>
+                            <div class="big-news__date">Сегодня, 17:10</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                <div class="big-news__item">
+                <div class="big-news__block">
+                                            <a class="big-news__img" href="https://put-okt.com/news/eto-interesno/2023-02-20/v-bashkortostane-uspeshno-realizuyutsya-programmy-zemskiy-doktor-i-zemskiy-feldsher-3150280?utm_source=rbsmi" target="_blank" style="background-image: url(/work/frontend/web/upload/photo_archive/fbdb2b0a0b96f766b66fd0c6fa5f0a07.jpg)" title="В Башкортостане успешно реализуются программы «Земский доктор» и «Земский фельдшер»"></a>
+                    
+                    <div class="big-news__content">
+                        <a class="big-news__title" href="https://put-okt.com/news/eto-interesno/2023-02-20/v-bashkortostane-uspeshno-realizuyutsya-programmy-zemskiy-doktor-i-zemskiy-feldsher-3150280?utm_source=rbsmi" target="_blank">В Башкортостане успешно реализуются программы «Земский доктор» и «Земский фельдшер»</a>
+
+                        <div class="big-news__extra">
+                            <div class="big-news__category">Путь Октября</div>
+                            <div class="big-news__date">Сегодня, 17:06</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+    </div>
+
+
+    <div class="news">
+        <h3 class="news__title">Единая лента новостей</h3>
+
+        <div class="news__list">
+                            <!--
+                <div class="news-item">
+                    <a href="https://bv02.info/news/predprinimatelstvo/2023-02-20/v-2023-godu-na-podderzhku-biznesa-vlasti-bashkirii-napravyat-694-5-mln-rubley-3150528?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/313ae48d1b9a9a6aaf507fb28c227335.jpg" title="В 2023 году на поддержку бизнеса власти Башкирии направят 694,5 млн. рублей" style="float:left"></a>
+                    <a href="https://bv02.info/news/predprinimatelstvo/2023-02-20/v-2023-godu-na-podderzhku-biznesa-vlasti-bashkirii-napravyat-694-5-mln-rubley-3150528?utm_source=rbsmi"><b>В 2023 году на поддержку бизнеса власти Башкирии направят 694,5 млн. рублей</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:31</span>
+                    Об этом&nbsp;написал в соцсетях премьер-министр РБ Андрей Назаров                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://bv02.info/news/predprinimatelstvo/2023-02-20/v-2023-godu-na-podderzhku-biznesa-vlasti-bashkirii-napravyat-694-5-mln-rubley-3150528?utm_source=rbsmi" target="_blank">В 2023 году на поддержку бизнеса власти Башкирии направят 694,5 млн. рублей</a>
+                            <div class="news__item-desc">Об этом&nbsp;написал в соцсетях премьер-министр РБ Андрей Назаров</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Баймакский вестник</div>
+                            <div class="news__item-date">Сегодня, 20:31</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://blvesti.ru/news/aktualno/2023-02-20/v-gretsii-proizoydet-silneyshee-zemletryasenie-za-vsyu-ee-istoriyu-3150522?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/ecd9488e2a02b46cedb7b2d46fad04d1.jpeg" title="В Греции произойдет сильнейшее землетрясение за всю ее историю" style="float:left"></a>
+                    <a href="https://blvesti.ru/news/aktualno/2023-02-20/v-gretsii-proizoydet-silneyshee-zemletryasenie-za-vsyu-ee-istoriyu-3150522?utm_source=rbsmi"><b>В Греции произойдет сильнейшее землетрясение за всю ее историю</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:29</span>
+                    Даже сильнее, чем в Сирии и Турции                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://blvesti.ru/news/aktualno/2023-02-20/v-gretsii-proizoydet-silneyshee-zemletryasenie-za-vsyu-ee-istoriyu-3150522?utm_source=rbsmi" target="_blank">В Греции произойдет сильнейшее землетрясение за всю ее историю</a>
+                            <div class="news__item-desc">Даже сильнее, чем в Сирии и Турции</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Благоварские вести</div>
+                            <div class="news__item-date">Сегодня, 20:29</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://resbash.ru/news/pravo/2023-02-20/v-bashkirii-osudili-muzhchinu-do-smerti-zabivshego-invalida-3150514?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/6ccf457c3629329a3b5cb92bf7918644.jpg" title="В Башкирии осудили мужчину до смерти забившего инвалида" style="float:left"></a>
+                    <a href="https://resbash.ru/news/pravo/2023-02-20/v-bashkirii-osudili-muzhchinu-do-smerti-zabivshego-invalida-3150514?utm_source=rbsmi"><b>В Башкирии осудили мужчину до смерти забившего инвалида</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:27</span>
+                    В умышленном причинении тяжкого вреда здоровью, повлекшем смерть потерпевшего, признали виновным 30-летнего жителя Мелеуза.                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://resbash.ru/news/pravo/2023-02-20/v-bashkirii-osudili-muzhchinu-do-smerti-zabivshego-invalida-3150514?utm_source=rbsmi" target="_blank">В Башкирии осудили мужчину до смерти забившего инвалида</a>
+                            <div class="news__item-desc">В умышленном причинении тяжкого вреда здоровью, повлекшем смерть потерпевшего, признали виновным 30-летнего жителя Мелеуза.</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Республика Башкортостан</div>
+                            <div class="news__item-date">Сегодня, 20:27</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://tuvest.ru/news/novosti/2023-02-20/blagodarya-tvorcheskoy-elke-zhelaniy-zhitelnitsa-tuymazinskogo-rayona-spela-so-zvezdoy-i-ozvuchila-rol-v-multfilme-3150512?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/f505989db7827f12bea9769738e00259.jpg" title="Благодаря «Творческой елке желаний» жительница Туймазинского района спела со звездой и озвучила роль в мультфильме" style="float:left"></a>
+                    <a href="https://tuvest.ru/news/novosti/2023-02-20/blagodarya-tvorcheskoy-elke-zhelaniy-zhitelnitsa-tuymazinskogo-rayona-spela-so-zvezdoy-i-ozvuchila-rol-v-multfilme-3150512?utm_source=rbsmi"><b>Благодаря «Творческой елке желаний» жительница Туймазинского района спела со звездой и озвучила роль в мультфильме</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:25</span>
+                    С 2021 года акцию для детей организует партия &laquo;Единая Россия&raquo;.                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://tuvest.ru/news/novosti/2023-02-20/blagodarya-tvorcheskoy-elke-zhelaniy-zhitelnitsa-tuymazinskogo-rayona-spela-so-zvezdoy-i-ozvuchila-rol-v-multfilme-3150512?utm_source=rbsmi" target="_blank">Благодаря «Творческой елке желаний» жительница Туймазинского района спела со звездой и озвучила роль в мультфильме</a>
+                            <div class="news__item-desc">С 2021 года акцию для детей организует партия &laquo;Единая Россия&raquo;.</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Туймазинский вестник</div>
+                            <div class="news__item-date">Сегодня, 20:25</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://buzdyaknews.ru/news/novosti/2023-02-20/glava-administratsii-buzdyakskogo-rayona-vstretilsya-s-boytsami-zemlyakami-v-zone-svo-3150519?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/a0b6bd71a45ae5e136345f12ac7c0200.jpg" title="Глава администрации Буздякского района встретился с бойцами-земляками в зоне СВО" style="float:left"></a>
+                    <a href="https://buzdyaknews.ru/news/novosti/2023-02-20/glava-administratsii-buzdyakskogo-rayona-vstretilsya-s-boytsami-zemlyakami-v-zone-svo-3150519?utm_source=rbsmi"><b>Глава администрации Буздякского района встретился с бойцами-земляками в зоне СВО</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:24</span>
+                    Последними новостями из зоны СВО Ильнур Игдиев поделился на своей странице в социальных сетях                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://buzdyaknews.ru/news/novosti/2023-02-20/glava-administratsii-buzdyakskogo-rayona-vstretilsya-s-boytsami-zemlyakami-v-zone-svo-3150519?utm_source=rbsmi" target="_blank">Глава администрации Буздякского района встретился с бойцами-земляками в зоне СВО</a>
+                            <div class="news__item-desc">Последними новостями из зоны СВО Ильнур Игдиев поделился на своей странице в социальных сетях</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Буздякские новости</div>
+                            <div class="news__item-date">Сегодня, 20:24</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://selskieogni.ru/news/godpoleznihdel/2023-02-20/glava-bashkirii-poruchil-pravitelstvu-respubliki-chyotko-kontrolirovat-realizatsiyu-natsproektov-3150508?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/4da7ada1248642bb7a127d7577f3c89f.jpg" title="Глава Башкирии поручил Правительству республики чётко контролировать реализацию нацпроектов" style="float:left"></a>
+                    <a href="https://selskieogni.ru/news/godpoleznihdel/2023-02-20/glava-bashkirii-poruchil-pravitelstvu-respubliki-chyotko-kontrolirovat-realizatsiyu-natsproektov-3150508?utm_source=rbsmi"><b>Глава Башкирии поручил Правительству республики чётко контролировать реализацию нацпроектов</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:20</span>
+                    В прошлом году из федерального бюджета на реализацию проектов привлекли порядка 39&nbsp;млрд рублей, что почти в два раза выше показателя 2021&nbsp;года                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://selskieogni.ru/news/godpoleznihdel/2023-02-20/glava-bashkirii-poruchil-pravitelstvu-respubliki-chyotko-kontrolirovat-realizatsiyu-natsproektov-3150508?utm_source=rbsmi" target="_blank">Глава Башкирии поручил Правительству республики чётко контролировать реализацию нацпроектов</a>
+                            <div class="news__item-desc">В прошлом году из федерального бюджета на реализацию проектов привлекли порядка 39&nbsp;млрд рублей, что почти в два раза выше показателя 2021&nbsp;года</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Зилаирские огни</div>
+                            <div class="news__item-date">Сегодня, 20:20</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://igenche.ru/news/novosti/2023-02-20/radiy-habirov-poruchil-pravitelstvu-bashkortostana-chyotko-kontrolirovat-realizatsiyu-natsproektov-3150518?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/2da6c74eece5ef85f2e69f3686cfa61d.jpg" title="Радий Хабиров поручил Правительству Башкортостана чётко контролировать реализацию нацпроектов" style="float:left"></a>
+                    <a href="https://igenche.ru/news/novosti/2023-02-20/radiy-habirov-poruchil-pravitelstvu-bashkortostana-chyotko-kontrolirovat-realizatsiyu-natsproektov-3150518?utm_source=rbsmi"><b>Радий Хабиров поручил Правительству Башкортостана чётко контролировать реализацию нацпроектов</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:20</span>
+                    20&nbsp;февраля Глава Башкортостана Радий Хабиров в режиме видеоконференции провёл еженедельное оперативное совещание, на котором рассмотрели планы по реализации в республике национальных проектов.                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://igenche.ru/news/novosti/2023-02-20/radiy-habirov-poruchil-pravitelstvu-bashkortostana-chyotko-kontrolirovat-realizatsiyu-natsproektov-3150518?utm_source=rbsmi" target="_blank">Радий Хабиров поручил Правительству Башкортостана чётко контролировать реализацию нацпроектов</a>
+                            <div class="news__item-desc">20&nbsp;февраля Глава Башкортостана Радий Хабиров в режиме видеоконференции провёл еженедельное оперативное совещание, на котором рассмотрели планы по реализации в республике национальных проектов.</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Игенче</div>
+                            <div class="news__item-date">Сегодня, 20:20</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://haibh.ru/news/m-arif/2023-02-20/shatly-balalar-ba-sa-y-i-ya-shylar-i-bend-3150509?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/0ce2b52924cf3fd791a412ee82020f8d.jpg" title=""Шатлыҡ" балалар баҡсаһы иң яҡшылар иҫәбендә!" style="float:left"></a>
+                    <a href="https://haibh.ru/news/m-arif/2023-02-20/shatly-balalar-ba-sa-y-i-ya-shylar-i-bend-3150509?utm_source=rbsmi"><b>"Шатлыҡ" балалар баҡсаһы иң яҡшылар иҫәбендә!</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:19</span>
+                    &nbsp; &nbsp; &nbsp;&nbsp;                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://haibh.ru/news/m-arif/2023-02-20/shatly-balalar-ba-sa-y-i-ya-shylar-i-bend-3150509?utm_source=rbsmi" target="_blank">"Шатлыҡ" балалар баҡсаһы иң яҡшылар иҫәбендә!</a>
+                            <div class="news__item-desc">&nbsp; &nbsp; &nbsp;&nbsp;</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Хайбулла хэбэрзэре</div>
+                            <div class="news__item-date">Сегодня, 20:19</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://baltachtan.ru/news/novosti/2023-02-20/bashkortstanda-rossiyad-eshl-ng-n-2023-premiyase-ig-lan-itelg-n-3150500?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/236210ccca06fe59809b3048a489f9ea.jpg" title="Башкортстанда «Россиядә эшләнгән-2023» премиясе игълан ителгән" style="float:left"></a>
+                    <a href="https://baltachtan.ru/news/novosti/2023-02-20/bashkortstanda-rossiyad-eshl-ng-n-2023-premiyase-ig-lan-itelg-n-3150500?utm_source=rbsmi"><b>Башкортстанда «Россиядә эшләнгән-2023» премиясе игълан ителгән</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:18</span>
+                    Башкортстан халкы &laquo;Россиядә эшләнгән-2023&raquo; премиясен алу өчен &nbsp;сынау тота &nbsp;ала                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://baltachtan.ru/news/novosti/2023-02-20/bashkortstanda-rossiyad-eshl-ng-n-2023-premiyase-ig-lan-itelg-n-3150500?utm_source=rbsmi" target="_blank">Башкортстанда «Россиядә эшләнгән-2023» премиясе игълан ителгән</a>
+                            <div class="news__item-desc">Башкортстан халкы &laquo;Россиядә эшләнгән-2023&raquo; премиясен алу өчен &nbsp;сынау тота &nbsp;ала</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Балтач таннары</div>
+                            <div class="news__item-date">Сегодня, 20:18</div>
+                        </div>
+                    </div>
+                </div>
+                            <!--
+                <div class="news-item">
+                    <a href="https://amanat.su/news/novosti/2023-02-20/bash-ort-batyr-ary-tura-ynda-kviz-uyyn-3150498?utm_source=rbsmi"><img class="preview_picture" border="0" src="/work/frontend/web/upload/photo_archive/d201c4d0efa6f9ef0d6817a8c0ecdbfb.jpg" title="БАШҠОРТ БАТЫРҘАРЫ ТУРАҺЫНДА КВИЗ-УЙЫН" style="float:left"></a>
+                    <a href="https://amanat.su/news/novosti/2023-02-20/bash-ort-batyr-ary-tura-ynda-kviz-uyyn-3150498?utm_source=rbsmi"><b>БАШҠОРТ БАТЫРҘАРЫ ТУРАҺЫНДА КВИЗ-УЙЫН</b></a><br>
+                    <span class="news-date-time">Сегодня, 20:18</span>
+                    20 февраль Өфө фән һәм технологиялар университетының башҡорт филологияһы, шәрҡиәт һәм журналистика факультеты базаһында башҡорт телендә Квиз үтте. Сара 21 февралдә билдәләнеүсе Халыҡ-ара туған тел көнөнә ҡарата ойошторолдо.                    <div style="clear:both"></div>
+                </div>
+                -->
+
+                <div class="news__item">
+                    <div class="news__item-block">
+                        <!--<div class="col-md-3">
+                                                        <a href="">
+                            <img class="preview_picture" border="0" style="width:100%;" src="" title="" />
+                            </a>
+                                                    </div>-->
+
+                        <div class="news__item-left">
+                            <a class="news__item-title" href="https://amanat.su/news/novosti/2023-02-20/bash-ort-batyr-ary-tura-ynda-kviz-uyyn-3150498?utm_source=rbsmi" target="_blank">БАШҠОРТ БАТЫРҘАРЫ ТУРАҺЫНДА КВИЗ-УЙЫН</a>
+                            <div class="news__item-desc">20 февраль Өфө фән һәм технологиялар университетының башҡорт филологияһы, шәрҡиәт һәм журналистика факультеты базаһында башҡорт телендә Квиз үтте. Сара 21 февралдә билдәләнеүсе Халыҡ-ара туған тел көнөнә ҡарата ойошторолдо.</div>
+                        </div>
+                        <div class="news__item-right">
+                            <div class="news__item-category" style="color:#006a00">Аманат</div>
+                            <div class="news__item-date">Сегодня, 20:18</div>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+
+        <div class="btn-block"><a class="news-btn" href="/newsmain/list/">Все материалы</a></div>
+    </div>
+</div>
+<div class="col-md-4">
+    <div class="small-news">
+        <h3 class="small-news__title">Новости отрасли</h3>
+            <div class="small-news__item">
+            <a class="small-new__title" href="/news/amanat_tura_ynda_b_t_r_s_y_portalynda_ya_andar/">&quot;Аманат&quot; тураһында бөтә Рәсәй порталында яҙғандар</a>
+            <div class="small-new__date">Сегодня</div>
+        </div>
+            <div class="small-news__item">
+            <a class="small-new__title" href="/news/b_g_n_kh_y_r_ni_m_t_uly_tapa_ov_tyu_an_k_n_n_bild_l_y_/"> Бөгөн Хәйҙәр Ниғәмәт улы Тапаҡов тыуған көнөн билдәләй! </a>
+            <div class="small-new__date">Сегодня</div>
+        </div>
+            <div class="small-news__item">
+            <a class="small-new__title" href="/news/v_karmaskalinskom_rayone_proshel_seminar_aspekty_sovremennoy_zhurnalistiki/">В Кармаскалинском районе прошел семинар &quot;Аспекты современной журналистики&quot;</a>
+            <div class="small-new__date">Сегодня</div>
+        </div>
+            <div class="small-news__item">
+            <a class="small-new__title" href="/news/v_ufe_otmetyat_mezhdunarodnyy_den_rodnykh_yazykov/">В Уфе отметят Международный день родных языков</a>
+            <div class="small-new__date">Сегодня</div>
+        </div>
+            <div class="small-news__item">
+            <a class="small-new__title" href="/news/startuet_konkurs_natsionalnaya_sistema_kvalifikatsiy_dlya_zhurnalistov_smi_sotsialnykh_media/">Стартует Конкурс «Национальная система квалификаций» для журналистов, СМИ, социальных медиа</a>
+            <div class="small-new__date">Сегодня</div>
+        </div>
+        </div>
+
+    <div class="banners">
+                <a href="https://rbsmi.ru/catalog/reklamnye-uslugi/" class="banners__item">
+            <img src="/upload/rk/09f/5gght14i52ir5emyydyaccjjgwvyq6d0.png" alt="">
+        </a>
+                <a href="https://rbsmi.ru/poligrafy/" class="banners__item">
+            <img src="/upload/rk/651/7v19yd9tk4ek74ojb77epzi482e3alf9.png" alt="">
+        </a>
+                <a href="https://play.google.com/store/apps/details?id=ru.rbsmi" class="banners__item">
+            <img src="/upload/rk/d7e/zld5ogdl9men13i8ujy1a94ky7afock9.png" alt="">
+        </a>
+            </div>
+</div>
+
+
+<div id="bxdynamic_XfrZBG_end" style="display:none"></div><div>
+	 <div id="bxdynamic_7DqYyc_start" style="display:none"></div>    <style>
+        .a-d-v-block {
+            margin-left: -15px;
+            margin-right: -15px;
+            margin-top: 25px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .a-d-v-block_wrap{
+            width: 25%;
+            margin-bottom: 15px;
+        }
+        .a-d-v-block_item {
+            padding: 10px 15px;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .a-d-v-block_img img {
+            max-width: 100%;
+            width: 225px;
+        }
+        .a-d-v-block_name{
+            display: none;
+            font-size: 20px;
+            margin: auto 0 0;
+            padding: 0;
+            font-weight: normal;
+            text-align: left;
+        }
+        .a-d-v-title{
+            display: none;
+        }
+        .commerce{
+            padding: 0;
+        }
+    </style>
+    <div class="container commerce">
+        <h2 class="line-title a-d-v-title title-home home-gallery__title home-title">
+            <span>Реклама</span>
+        </h2>
+        <div class="news-slider-2 a-d-v-block">
+                        <div class="news-slider__item a-d-v-block_wrap">
+                <div class="news-slider__item a-d-v-block_item">
+                                                                <a class="news-slider__img a-d-v-block_img " href="http://narkotikam.net/"
+                           target="_blank">
+                            <img src="/upload/resize_cache/iblock/719/225_0_1/71958a3d70c171285684f90fb6ce1f71.png">
+                        </a>
+                                        <h2 class="news-slider__name a-d-v-block_name">
+                                                    <a class="slider2-a" href="http://narkotikam.net/"
+                               target="_blank">Скажи наркотикам НЕТ</a>
+                                                                        </h2>
+                </div>
+            </div>
+                        <div class="news-slider__item a-d-v-block_wrap">
+                <div class="news-slider__item a-d-v-block_item">
+                                                                <a class="news-slider__img a-d-v-block_img " href="https://02.мвд.рф/Press_sluzhba/Nashi_proekti/JEKSTREMIZMU.HET"
+                           target="_blank">
+                            <img src="/upload/resize_cache/iblock/e45/225_0_1/e459572670ffab80516fd5344e6f9f7e.png">
+                        </a>
+                                        <h2 class="news-slider__name a-d-v-block_name">
+                                                    <a class="slider2-a" href="https://02.мвд.рф/Press_sluzhba/Nashi_proekti/JEKSTREMIZMU.HET"
+                               target="_blank"> Экстремизму.нет</a>
+                                                                        </h2>
+                </div>
+            </div>
+                        <div class="news-slider__item a-d-v-block_wrap">
+                <div class="news-slider__item a-d-v-block_item">
+                                                                <a class="news-slider__img a-d-v-block_img " href="https://investrb.ru/"
+                           target="_blank">
+                            <img src="/upload/resize_cache/iblock/772/225_0_1/772632ffab703f506de0e460512c6769.png">
+                        </a>
+                                        <h2 class="news-slider__name a-d-v-block_name">
+                                                    <a class="slider2-a" href="https://investrb.ru/"
+                               target="_blank">https://investrb.ru/</a>
+                                                                        </h2>
+                </div>
+            </div>
+                    </div>
+    </div>
+<div id="bxdynamic_7DqYyc_end" style="display:none"></div></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-383780-1",
+                renderTo: "yandex_rtb_R-A-383780-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+
+									</div>
+			</div><!--//row-->
+		</div><!--//container bx-content-seection-->
+	</div><!--//workarea-->
+
+		<footer class="bx-footer">
+
+
+			<div class="bx-footer-section container bx-center-section">
+				<div class="col-sm-5 col-md-5">
+					<nav class="bx-inclinksfooter-container">
+	<ul class="bx-inclinksfooter-list">
+									<li class="bx-inclinksfooter-item"><a href="/about/">О компании</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/promo/">Акции</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/news/">Новости</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/catalog/podpiska/">Подписка</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/catalog/reklamnye-uslugi/">Рекламные услуги</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/poligrafy/">Полиграфические услуги</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/sitemap/">Карта сайта</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/about/polzovatelskoe-soglashenie">Договор-оферта по подписке на издания средств массовой информации</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/about/dogovor-oferta-poligrafy/">Договор-оферта на предоставление полиграфических услуг</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/help/pravila-razmeshcheniya-reklamy.php">Правила размещения рекламы</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/about/ofitsialnaya-informatsiya">Официальная информация</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/about/protivodeystvie-korruptsii.php">Противодействие коррупции</a></li>
+												<li class="bx-inclinksfooter-item"><a href="/help/">Cлужба поддержки</a></li>
+						</ul>
+</nav>				</div>
+
+				<div class="col-sm-5 col-md-5">
+					<div class="bx-inclogofooter">
+
+						<div class="bx-inclogofooter-block">
+							<h4>
+							<a class="bx-inclogofooter-logo" href="/">
+								Издательский дом "Республика Башкортостан"
+							</a>
+							</h4>
+							<div class="bx-inclogofooter-adres">г. Уфа, ул. 50-летия Октября, 13</div>
+							<div class="bx-inclogofooter-tel">Электронный адрес: <a href="mailto:info@rbsmi.ru">info@rbsmi.ru</a><br>
+Техподдержка: <a href="mailto:help@rbsmi.ru">help@rbsmi.ru</a></div>
+							<div class="bx-inclogofooter-worktime">Время работы:&nbsp;<br>
+ пн–пт: 9:00–18:00<br>
+<div>
+	 сб, вс — выходной
+</div>
+<div>
+ <br>
+</div>
+<div>
+	 Приемная: (347) 226-99-52<br>
+</div>
+ <br></div>
+							<div class="bx-inclogofooter-politic"><a href="/policy.php">Политика конфиденциальности</a></div>
+							<div style="padding-bottom:0px;font-size:12px">Поддержка и развитие сайта — <a href="http://act.com.ru/" target="blank">Агентство СМАРТ технологий</a>
+<br>
+<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click;GUP_RB" 
+target="_blank"><img id="licnt1F7D" width="31" height="31" style="border:0" 
+title="LiveInternet" 
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" 
+alt=""/></a><script>(function(d,s){d.getElementById("licnt1F7D").src= 
+"https://counter.yadro.ru/hit;GUP_RB?t38.6;r"+escape(d.referrer)+ 
+((typeof(s)=="undefined")?"":";s"+s.width+""+s.height+""+ 
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+ 
+";h"+escape(d.title.substring(0,150))+";"+Math.random()}) 
+(document,screen)</script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=37032945&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/37032945/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="37032945" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(37032945, "init", {
+        id:37032945,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/37032945" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120242318-1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-120242318-1'); </script>
+
+</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-2 col-md-2">
+					<h4>Приложения</h4>
+					<ul>
+						<li><a href="https://play.google.com/store/apps/details?id=ru.rbsmi" target="blank">Android</a></li>
+						<!-- li><a href="https://apps.apple.com/ru/app/rbsmi/id1510705578" target="blank">iOS</a></li -->
+					</ul>
+				</div>
+			</div>
+
+
+
+		</footer>
+		<div class="col-xs-12 hidden-lg hidden-md hidden-sm">
+			<script>
+var bx_basketT0kNhm = new BitrixSmallCart;
+</script>
+<div id="bx_basketT0kNhm" class="bx-basket-fixed right bottom"><div class="bx-hdr-profile">
+	<div class="bx-basket-block"><i class="fa fa-shopping-cart"></i>
+			<a href="/personal/cart/">Корзина</a>	</div>
+</div></div>
+<script type="text/javascript">
+	bx_basketT0kNhm.siteId       = 's1';
+	bx_basketT0kNhm.cartId       = 'bx_basketT0kNhm';
+	bx_basketT0kNhm.ajaxPath     = '/bitrix/components/bitrix/sale.basket.basket.line/ajax.php';
+	bx_basketT0kNhm.templateName = '.default';
+	bx_basketT0kNhm.arParams     =  {'PATH_TO_BASKET':'/personal/cart/','PATH_TO_PERSONAL':'/personal/','SHOW_PERSONAL_LINK':'N','SHOW_NUM_PRODUCTS':'Y','SHOW_TOTAL_PRICE':'Y','SHOW_PRODUCTS':'N','POSITION_FIXED':'Y','POSITION_HORIZONTAL':'right','POSITION_VERTICAL':'bottom','SHOW_AUTHOR':'Y','PATH_TO_REGISTER':'/login/','PATH_TO_PROFILE':'/personal/','CACHE_TYPE':'A','PATH_TO_ORDER':'/personal/order/make/','HIDE_ON_BASKET_PAGES':'Y','SHOW_EMPTY_VALUES':'Y','SHOW_REGISTRATION':'Y','PATH_TO_AUTHORIZE':'/login/','SHOW_DELAY':'Y','SHOW_NOTAVAIL':'Y','SHOW_IMAGE':'Y','SHOW_PRICE':'Y','SHOW_SUMMARY':'Y','MAX_IMAGE_SIZE':'70','AJAX':'N','~PATH_TO_BASKET':'/personal/cart/','~PATH_TO_PERSONAL':'/personal/','~SHOW_PERSONAL_LINK':'N','~SHOW_NUM_PRODUCTS':'Y','~SHOW_TOTAL_PRICE':'Y','~SHOW_PRODUCTS':'N','~POSITION_FIXED':'Y','~POSITION_HORIZONTAL':'right','~POSITION_VERTICAL':'bottom','~SHOW_AUTHOR':'Y','~PATH_TO_REGISTER':'/login/','~PATH_TO_PROFILE':'/personal/','~CACHE_TYPE':'A','~PATH_TO_ORDER':'/personal/order/make/','~HIDE_ON_BASKET_PAGES':'Y','~SHOW_EMPTY_VALUES':'Y','~SHOW_REGISTRATION':'Y','~PATH_TO_AUTHORIZE':'/login/','~SHOW_DELAY':'Y','~SHOW_NOTAVAIL':'Y','~SHOW_IMAGE':'Y','~SHOW_PRICE':'Y','~SHOW_SUMMARY':'Y','~MAX_IMAGE_SIZE':'70','~AJAX':'N','cartId':'bx_basketT0kNhm'}; // TODO \Bitrix\Main\Web\Json::encode
+	bx_basketT0kNhm.closeMessage = 'Скрыть';
+	bx_basketT0kNhm.openMessage  = 'Раскрыть';
+	bx_basketT0kNhm.activate();
+</script>		</div>
+	</div> <!-- //bx-wrapper -->
+
+
+<script>
+	BX.ready(function(){
+		var upButton = document.querySelector('[data-role="eshopUpButton"]');
+		BX.bind(upButton, "click", function(){
+			var windowScroll = BX.GetWindowScrollPos();
+			(new BX.easing({
+				duration : 500,
+				start : { scroll : windowScroll.scrollTop },
+				finish : { scroll : 0 },
+				transition : BX.easing.makeEaseOut(BX.easing.transitions.quart),
+				step : function(state){
+					window.scrollTo(0, state.scroll);
+				},
+				complete: function() {
+				}
+			})).animate();
+		})
+	});
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter37032945 = new Ya.Metrika({
+id:37032945,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+} catch(e) { }
+});
+
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/37032945" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44738836 = new Ya.Metrika({
+                    id:44738836,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44738836" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://cdn.bitrix24.ru/b10417617/crm/tag/call.tracker.js');
+</script>
+
+
+</body>
+</html>
+
+<!--db6a932176708cdaba14019fb1fbf601-->

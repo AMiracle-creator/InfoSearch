@@ -1,0 +1,1467 @@
+<!DOCTYPE html><html lang="en" style="height:100%">	<head>
+<script>
+'use strict';
+var lazyScripts;
+var s;
+var j;
+var flag;
+document.addEventListener("DOMContentLoaded", function() {
+    lazyScripts = document.getElementsByTagName("script");
+    j = 0;
+flag = 1;
+    window.addEventListener("scroll", function() {
+        init();
+    });
+    window.addEventListener("mousemove", function() {
+        init();
+    });
+    window.addEventListener("touchstart", function() {
+        init();
+    });
+    setTimeout(function() {
+        init();
+    }, 6000);
+});
+ 
+ 
+function init() {
+    if (flag) {
+        flag = 0;
+        load_all_js();
+    }
+}
+ 
+function lazyLoadScripts() {
+    if (j == lazyScripts.length) {
+        return;
+    }
+    //console.log('lazy new call...');
+    if (lazyScripts[j].getAttribute("type") == "lazyload2") {
+        lazyScripts[j].setAttribute("type", "lazyloaded");
+        if (typeof lazyScripts[j].dataset.src !== "undefined") {
+            s = document.createElement("script");
+            s.src = lazyScripts[j].dataset.src;
+            document.body.appendChild(s);
+            //console.log('lazy src: '+(lazyScripts[j].dataset.src))
+            s.onload = function() {
+                j++;
+                lazyLoadScripts();
+            };
+        } else {
+            s = document.createElement("script");
+            s.innerHTML = lazyScripts[j].innerHTML;
+            document.body.appendChild(s);
+            //console.log('lazy code: '+(lazyScripts[j].outerHTML))
+            j++;
+            lazyLoadScripts();
+        }
+    } else {
+        j++;
+        lazyLoadScripts();
+    }
+}
+ 
+ 
+function load_all_js() {
+    setTimeout(function() {
+        var defaultsLoaded = new Event("inline_event_load");
+        window.dispatchEvent(defaultsLoaded);
+    }, 1 * 100);
+ 
+    j = 0;
+ 
+    lazyScripts = document.getElementsByTagName("script");
+    lazyLoadScripts();    
+}
+</script>
+	
+
+
+
+
+<link rel="preconnect" href="https://technicalcity.b-cdn.net" crossorigin>
+<link rel="preconnect" href="https://counter.yadro.ru">
+<link rel="preconnect" href="https://connect.facebook.net">
+<link rel="preconnect" href="https://www.facebook.com">
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta name="viewport" content="width=device-width, user-scalable=no" />
+		
+<title>Unbiased hardware comparisons</title>
+
+<meta name="description" content="Computer hardware comparisons at Technical Сity assist you in making purchasing decisions and entertaining yourself. " />
+
+		<link rel="apple-touch-icon" sizes="152x152" href="//technicalcity.b-cdn.net/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="//technicalcity.b-cdn.net/favicon/android-chrome-192x192.png">
+		<link rel="icon" type="image/png" sizes="256x256" href="//technicalcity.b-cdn.net/favicon/android-chrome-256x256.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="//technicalcity.b-cdn.net/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="//technicalcity.b-cdn.net/favicon/favicon-16x16.png">
+		<link rel="manifest" href="//technicalcity.b-cdn.net/favicon/site.webmanifest">
+		<link rel="mask-icon" href="//technicalcity.b-cdn.net/favicon/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="msapplication-TileImage" content="//technicalcity.b-cdn.net/favicon/mstile-150x150.png">
+		<meta name="theme-color" content="#ffffff">
+				<link rel="stylesheet" href="//technicalcity.b-cdn.net/css/css_parts/part_all_site.css?121?121" type="text/css" />
+				<link rel="stylesheet" href="//technicalcity.b-cdn.net/css/css_parts/part_compare_block.css?121?121" type="text/css" />
+				<link rel="stylesheet" href="//technicalcity.b-cdn.net/css/css_parts/part_autocomplete_select.css?121?121" type="text/css" />
+				<link rel="stylesheet" href="//technicalcity.b-cdn.net/css/css_parts/part_choose_game_form.css?121?121" type="text/css" />
+				<link rel="stylesheet" href="//technicalcity.b-cdn.net/css/css_parts/part_games_block.css?121?121" type="text/css" />
+				
+				
+				<meta name="google-site-verification" content="FzIYsnCauNpziSIUoJaEvsHHEg5_D8YGiJ5arPMyp2w" />
+		
+				
+		<script type="text/javascript" src="//technicalcity.b-cdn.net/js/jquery-3.6.0.min.js"></script>
+				
+		<script type="text/javascript" src="//technicalcity.b-cdn.net/js/jquery.suggest.js"></script>
+				
+		<script type="text/javascript" src="//technicalcity.b-cdn.net/js/jquery.fs.selecter.min.js"></script>
+				
+		<script type="text/javascript" src="//technicalcity.b-cdn.net/js/jquery-ui.js?1"></script>
+				
+		<script type="text/javascript" src="//technicalcity.b-cdn.net/js/chart.min.js"></script>
+				
+		<script type="text/javascript" src="//technicalcity.b-cdn.net/js/jquery.main.js?21"></script>
+				
+		
+<link rel="canonical" href="https://technical.city/en" />
+
+
+
+<link rel="alternate" href="https://technical.city/ru" hreflang="ru" />
+<link rel="alternate" href="https://technical.city/en" hreflang="en" />
+<link rel="alternate" href="https://technical.city/es" hreflang="es" />
+<link rel="alternate" href="https://technical.city/pt" hreflang="pt" />
+<link rel="alternate" href="https://technical.city/de" hreflang="de" />
+<link rel="alternate" href="https://technical.city/fr" hreflang="fr" />
+<link rel="alternate" href="https://technical.city/it" hreflang="it" />
+<link rel="alternate" href="https://technical.city/pl" hreflang="pl" />
+<link rel="alternate" href="https://technical.city/zh" hreflang="zh" />
+<link rel="alternate" href="https://technical.city/ja" hreflang="ja" />
+<link rel="alternate" href="https://technical.city/ko" hreflang="ko" />
+<link rel="alternate" href="https://technical.city/hi" hreflang="hi" />
+<link rel="alternate" href="https://technical.city/tr" hreflang="tr" />
+<link rel="alternate" href="https://technical.city/id" hreflang="id" />
+<link rel="alternate" href="https://technical.city/ar" hreflang="ar" />
+<link rel="alternate" href="https://technical.city/en" hreflang="x-default" />
+
+
+
+
+<style>
+@media /*(hover: hover) and*/ (min-width: 600px) and (min-height: 600px) {
+    .mobile-only{
+		display: none;
+	}
+}
+
+@media /*(hover: none) or*/ (max-width: 599px) or (max-height: 599px) {
+    .not-mobile-only{
+		display: none;
+	}
+}
+
+@supports (-webkit-touch-callout: none) {
+	.not-mobile-only{
+		display: none;
+	}
+}
+
+</style>
+<script>
+function is_mobile_device(){
+	if((window.matchMedia("(max-device-width: 599px)").matches || window.matchMedia("(max-device-height: 599px)").matches) || !window.matchMedia('(hover: hover)').matches){ // mobile
+		return true;
+	}
+	return false;
+}
+</script>
+
+<script type="lazyload2" data-src="https://cdn.fuseplatform.net/publift/tags/2/2097/fuse.js"></script>
+
+
+
+<style>
+			@media (min-width: 600px) {
+			#footer .holder {
+				padding-bottom: 124px;
+			}
+		}
+			body {
+		font-size: 17px;
+		line-height: 26px;
+	}
+	.block {
+		font-size: 17px;
+		line-height: 22px;
+	}
+	.items .item .title {
+		font-size: 15px !important;
+	}
+	@media (max-width: 639px) {
+		.items .item .title {
+			font-size: 13px !important;
+		}
+	}
+	.items .item .info {
+		font-size: 14px !important;
+	}
+	@media (max-width: 639px) {
+		.items .item .info {
+			font-size: 13px !important;
+		}
+	}
+	.block .search-results {
+		font-size: 15px;
+	}
+	.search-results td {
+		line-height: 17px;
+	}
+</style>
+<script type="lazyload2" data-src="//s.clickiocdn.com/t/224640/360_light.js"></script>
+
+
+
+<script>
+var left_bar_links=[];
+
+function recalculate_places_from_left_bar() {
+	//console.log('left_bar_links.length: ' + left_bar_links.length);
+	//console.log('left_bar_links: ' + left_bar_links.join(' / '));
+	for(i=0;i<left_bar_links.length;++i){
+		if($("a[name="+left_bar_links[i]+"]").length){
+			places_from_left_bar[left_bar_links[i]]=$("a[name="+left_bar_links[i]+"]").offset().top;
+		}
+	}
+}
+</script>
+
+	</head>
+	
+	<body style="overflow-y: scroll">
+	
+	<div style="position: absolute; left: 0; top: 0; z-index: -1; max-height: 100%; max-width: 100%; overflow: hidden"><img src="//technicalcity.b-cdn.net/images/big_transparent_for_largest_contentful_paint.png" class="no-lazy" /></div>
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLXPQD2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<div id="wrapper">
+			<main id="main">
+				
+				<div class="shadow_over_site_under_opened_menu popup"></div>
+				
+				<header id="header" itemscope itemtype="http://schema.org/WPHeader">
+				
+<div id="shadow_over_site" class="shadow_over_site"></div>
+
+					<div class="container" style="Xmargin-bottom: 20px">
+						<strong class="logo"><a href="/en">Technical City</a></strong>
+
+						<span class="icon-open-menu"></span>
+						<span class="icon-open-search"></span>
+						<nav id="navigation">
+														<div class="popup" id="show_admin_data_background" style="display: none; z-index: 1000"></div>
+														
+							<ul style="position: relative; z-index: 1001">
+																	<li  onmouseover="document.getElementById('show_admin_data_background').style.display='block'" onmouseout="document.getElementById('show_admin_data_background').style.display='none'">
+																			Graphics cards <i class="icon-arrow_down"></i>																					<ul>
+												<li><a href="/en/video" itemprop="url">Compare graphics cards</a></li>
+																									<li><a href="/en/video/rating">Graphics card rating</a></li>
+																										<li><a href="/en/video/nvidia-rating">NVIDIA rating</a></li>
+																										<li><a href="/en/video/amd-rating">AMD rating</a></li>
+																										<li><a href="/en/video/best-value-under-300-rating">Best value under $300</a></li>
+																										<li><a href="/en/video/best-value-over-300-rating">Best value over $300</a></li>
+																										<li><a href="/en/video/bitcoin-rating">Bitcoin mining</a></li>
+																										<li><a href="/en/video/decred-rating">Decred mining</a></li>
+																										<li><a href="/en/video/ethereum-rating">Ethereum mining</a></li>
+																										<li><a href="/en/video/monero-rating">Monero mining</a></li>
+																										<li><a href="/en/video/siacoin-rating">Siacoin mining</a></li>
+																										<li><a href="/en/video/zcash-rating">ZCash mining</a></li>
+																										<li><a href="/en/video/history">History</a></li>
+																										<li><a href="/en/video/desktop-rating">Desktop graphics card rating</a></li>
+																								</ul>
+																				</li>
+																		<li  onmouseover="document.getElementById('show_admin_data_background').style.display='block'" onmouseout="document.getElementById('show_admin_data_background').style.display='none'">
+																			Processors <i class="icon-arrow_down"></i>																					<ul>
+												<li><a href="/en/cpu" itemprop="url">Compare processors</a></li>
+																									<li><a href="/en/cpu/rating">Processors rating</a></li>
+																										<li><a href="/en/cpu/intel-rating">Intel rating</a></li>
+																										<li><a href="/en/cpu/amd-rating">AMD rating</a></li>
+																										<li><a href="/en/cpu/best-value-under-300-rating">Best value under $300</a></li>
+																										<li><a href="/en/cpu/best-value-over-300-rating">Best value over $300</a></li>
+																										<li><a href="/en/cpu/bitcoin-rating">Bitcoin mining</a></li>
+																										<li><a href="/en/cpu/history">History</a></li>
+																								</ul>
+																				</li>
+																		<li  onmouseover="document.getElementById('show_admin_data_background').style.display='block'" onmouseout="document.getElementById('show_admin_data_background').style.display='none'">
+										Games <i class="icon-arrow_down"></i>
+										<ul>
+																					<li><a href="/en/can-i-run-it">Can I run it</a></li>
+																						<li><a href="/en/what-games-can-i-run">What games can I run?</a></li>
+																						<li><a href="/en/rate-my-pc">Rate my PC</a></li>
+																					</ul>
+									</li>
+																		<li  onmouseover="document.getElementById('show_admin_data_background').style.display='block'" onmouseout="document.getElementById('show_admin_data_background').style.display='none'">
+										Statistics <i class="icon-arrow_down"></i>
+										<ul>
+																					<li><a href="/en/hardware-survey">Hardware Survey</a></li>
+																					</ul>
+									</li>
+																</ul>
+						</nav>
+						<nav id="languages">
+							<ul>
+							
+							
+								<li onmouseover="document.getElementById('show_admin_data_background').style.display='block'" onmouseout="document.getElementById('show_admin_data_background').style.display='none'">
+									English <i class="icon-arrow_down"></i>
+									<ul>
+																						<li><a href="/ru">Русский</a></li>
+																								<li><a href="/es">Español</a></li>
+																								<li><a href="/pt">Português</a></li>
+																								<li><a href="/de">Deutsch</a></li>
+																								<li><a href="/fr">Français</a></li>
+																								<li><a href="/it">Italiano</a></li>
+																								<li><a href="/pl">Polski</a></li>
+																								<li><a href="/zh">中文</a></li>
+																								<li><a href="/ja">日本語</a></li>
+																								<li><a href="/ko">한국어</a></li>
+																								<li><a href="/hi">हिंदी</a></li>
+																								<li><a href="/tr">Türkçe</a></li>
+																								<li><a href="/id">Bahasa Indonesia</a></li>
+																								<li><a href="/ar">اللغة العربية</a></li>
+																					</ul>
+								</li>
+							</ul>
+						</nav>
+						<form action="/en/search" method="get" id="search">
+							<input type="hidden" name="mode" value="short_ajax">
+							<fieldset>
+								<label>Search</label>
+								<input type="text" name="q" value="" placeholder="Search">
+								<button type="submit"><i class="icon-search"></i></button>
+								<button type="reset"><i class="icon-close"></i></button>
+							</fieldset>
+						</form>
+						<div class="search-panel">
+							<div class="search-content">
+														</div>
+							<footer class="search-footer">
+														</footer>
+						</div>
+					</div>
+				</header>
+				
+<script src="//technicalcity.b-cdn.net/prepare_videos.js"></script>
+					
+								<div class="container">
+														</div>
+				
+				<div id="content" >
+					<div class="container">
+					
+<div style="margin-bottom:20px">
+
+<style>
+
+@media (max-width: 600px) {
+	.banner_space_globalsun{
+		height:0;
+		padding-bottom: calc(56.25% + 18px);
+	}
+}
+@media (min-width: 601px) {
+	.banner_space_globalsun{
+		min-height:264px;
+	}
+}
+
+</style>
+
+<div class="banner_space_globalsun">
+
+<div id="globalsun" style="height:264px"></div>
+
+<script>
+
+if((window.matchMedia("(max-device-width: 600px)").matches || window.matchMedia("(max-device-height: 600px)").matches) || !window.matchMedia('(hover: hover)').matches){ // mobile
+
+(function () { var ukJS = document.createElement("script"); ukJS.src = "//player.globalsun.io/v/2.0/content-player.js"; ukJS.type = "text/javascript"; ukJS.addEventListener("load", function () { var player = new uk_videoPlayer({ width: 420, height: 350, adserver_id: "4a00b1ac96bc7941112e43", category: "07c2441a62df008fb7c2bf", item: "4e66381bd1da21a7592923", }); player.init(); }); document.getElementsByTagName("head")[0].append(ukJS); })();
+
+}else{ //  desktop
+
+(function () { var ukJS = document.createElement("script"); ukJS.src = "//player.globalsun.io/v/2.0/content-player.js"; ukJS.type = "text/javascript"; ukJS.addEventListener("load", function () { var player = new uk_videoPlayer({ width: 420, height: 350, adserver_id: "4a00b1ac96bc7941112e43", category: "07c2441a62df008fb7c2bf", item: "94f91af4bc8d6e0dd2344d", }); player.init(); }); document.getElementsByTagName("head")[0].append(ukJS); })();
+
+}
+
+
+
+</script>
+</div>
+
+</div>
+
+<!-- CONTENT -->
+							<span itemprop="articleBody" style="display:block">
+		<div class="head-title"><h1>Unbiased hardware comparisons</h1></div>	
+<div class="compare-block compare-block-before-banner">
+	<div class="tab_control_space">
+	<ul class="tab-control">
+		<li class="active swiper-slide"><span>Graphics cards</span></li>
+		<li class="swiper-slide"><span>Processors</span></li>
+				<li class="swiper-slide"><span>Can I run it</span></li>
+	</ul>
+	</div>
+
+	
+	<div class="tabs">
+		<div class="tab active">
+						<style>
+.block_item_title_and_its_button {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.one_items_button {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	background-color: transparent;
+	border: none;
+	line-height: 20px;
+}
+.one_items_button span {
+	color: #ffffff;
+	font-size: 15px;
+	text-decoration: underline;
+}
+.one_items_button_2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50px;
+	height: 62px;
+	border: none;
+	border-radius: 6px;
+	background: linear-gradient(135deg, #09C400 0%, #08A400 100%);
+	box-shadow: 0px 2px 4px -2px rgba(7, 8, 49, 0.395842), 0px 20px 30px -6px rgba(2, 11, 28, 0.202825);
+}
+.one_items_button_2:hover {
+	background: linear-gradient(135deg, #08A400 0%, #09C400 100%);
+    box-shadow: 0px 2px 4px -2px rgba(7, 8, 49, 0.395842), 0px 20px 30px -6px rgba(2, 11, 28, 0.202825);
+}
+.one_items_button_2:active {
+	background: linear-gradient(135deg, #08A400 0%, #09C400 100%);
+    box-shadow: 0px 10px 20px -6px rgba(2, 28, 8, 0.157698);
+}
+.compare-block .form-row {
+	align-items: flex-end;
+}
+.form-split{
+	padding-bottom: 22px;
+	text-transform: uppercase;
+}
+.single .only-pair{
+	display:none;
+}
+.inline-compare .only-single{
+	display:none;
+}
+</style>
+					<form action="/en/video" onsubmit="
+				//console.log('try...');
+				setTimeout(
+					function(){
+						if(
+							(this.elements.item1.value=='' && this.elements.item2.value=='') ||
+							this.elements.item1.value==this.elements.item2.value
+						){
+							// no submit
+							console.log('no submit');
+						}else{
+							this.submit();
+						}
+					}.bind(this) , 50);
+				return false;
+				"
+				>
+				<fieldset>
+					<div class="form-row">
+						<div class="form-col">
+							
+							<div class="mobile-hide block_item_title_and_its_button" style="justify-content: flex-end">
+																								<div style="padding-bottom: 8px">
+									<button class="one_items_button" onclick="
+										if(document.getElementById('item1_1_video').value!=''){
+											location.href='/en/video?item1='+document.getElementById('item1_1_video').value;
+										}
+										return false;
+									"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+								</div>
+															</div>
+														<div class="form-group">
+							<div class="autocomplete-select" data-src="video" data-load="1" data-type="video" data-limit="15" data-selected="">
+								<span class="icon"><img data-img="//technicalcity.b-cdn.net/images/gpu.png" src="//technicalcity.b-cdn.net/images/gpu.png" alt=""></span>
+								<input type="text" class="select-input"  autocomplete="off" value="">
+								<input type="hidden" name="item1" id="item1_1_video" value="" autocomplete="off">
+								<button class="open">Select...<i class="icon-small_arrow_down"></i></button>
+							</div>
+																					<div class="mobile-title" style="padding-top: 4px">
+							<div style="display: flex; flex-direction: row-reverse">
+								<button class="one_items_button" onclick="
+									if(document.getElementById('item1_1_video').value!=''){
+										location.href='/en/video?item1='+document.getElementById('item1_1_video').value;
+									}
+									return false;
+								"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+							</div>
+							</div>
+														</div>
+						</div>
+						
+												
+						  <div class="form-split only-pair">
+														<span>VS</span>
+						  </div>
+						
+						<div class="form-col only-pair">
+														<div class="mobile-hide block_item_title_and_its_button" style="justify-content: flex-end">
+																								<div style="padding-bottom: 8px">
+									<button class="one_items_button" onclick="
+										if(document.getElementById('item2_1_video').value!=''){
+											location.href='/en/video?item1='+document.getElementById('item2_1_video').value;
+										}
+										return false;
+									"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+								</div>
+															</div>							
+														<div class="form-group">
+							<div class="autocomplete-select" data-src="video" data-load="1" data-type="video" data-limit="15" data-selected="">
+								<span class="icon"><img data-img="//technicalcity.b-cdn.net/images/gpu.png" src="//technicalcity.b-cdn.net/images/gpu.png" alt=""></span>
+								<input type="text" class="select-input"  autocomplete="off" value="">
+								<input type="hidden" name="item2" id="item2_1_video" value="" autocomplete="off">
+								<button class="open">Select...<i class="icon-small_arrow_down"></i></button>
+							</div>
+																					<div class="mobile-title" style="padding-top: 4px">
+							<div style="display: flex; flex-direction: row-reverse">
+								<button class="one_items_button" onclick="
+									if(document.getElementById('item2_1_video').value!=''){
+										location.href='/en/video?item1='+document.getElementById('item2_1_video').value;
+									}
+									return false;
+								"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+							</div>
+							</div>
+														</div>
+						</div>
+												<div class="form-action">
+							<button type="submit" class="btn btn-primary waves-effect waves-light">Compare</button>
+						</div>
+											</div>
+				</fieldset>
+			</form>
+						
+		</div>
+		<div class="tab">
+			<style>
+.block_item_title_and_its_button {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.one_items_button {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	background-color: transparent;
+	border: none;
+	line-height: 20px;
+}
+.one_items_button span {
+	color: #ffffff;
+	font-size: 15px;
+	text-decoration: underline;
+}
+.one_items_button_2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50px;
+	height: 62px;
+	border: none;
+	border-radius: 6px;
+	background: linear-gradient(135deg, #09C400 0%, #08A400 100%);
+	box-shadow: 0px 2px 4px -2px rgba(7, 8, 49, 0.395842), 0px 20px 30px -6px rgba(2, 11, 28, 0.202825);
+}
+.one_items_button_2:hover {
+	background: linear-gradient(135deg, #08A400 0%, #09C400 100%);
+    box-shadow: 0px 2px 4px -2px rgba(7, 8, 49, 0.395842), 0px 20px 30px -6px rgba(2, 11, 28, 0.202825);
+}
+.one_items_button_2:active {
+	background: linear-gradient(135deg, #08A400 0%, #09C400 100%);
+    box-shadow: 0px 10px 20px -6px rgba(2, 28, 8, 0.157698);
+}
+.compare-block .form-row {
+	align-items: flex-end;
+}
+.form-split{
+	padding-bottom: 22px;
+	text-transform: uppercase;
+}
+.single .only-pair{
+	display:none;
+}
+.inline-compare .only-single{
+	display:none;
+}
+</style>
+					<form action="/en/cpu" onsubmit="
+				//console.log('try...');
+				setTimeout(
+					function(){
+						if(
+							(this.elements.item1.value=='' && this.elements.item2.value=='') ||
+							this.elements.item1.value==this.elements.item2.value
+						){
+							// no submit
+							console.log('no submit');
+						}else{
+							this.submit();
+						}
+					}.bind(this) , 50);
+				return false;
+				"
+				>
+				<fieldset>
+					<div class="form-row">
+						<div class="form-col">
+							
+							<div class="mobile-hide block_item_title_and_its_button" style="justify-content: flex-end">
+																								<div style="padding-bottom: 8px">
+									<button class="one_items_button" onclick="
+										if(document.getElementById('item1_1_cpu').value!=''){
+											location.href='/en/cpu?item1='+document.getElementById('item1_1_cpu').value;
+										}
+										return false;
+									"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+								</div>
+															</div>
+														<div class="form-group">
+							<div class="autocomplete-select" data-src="cpu" data-load="1" data-type="cpu" data-limit="15" data-selected="">
+								<span class="icon"><img data-img="//technicalcity.b-cdn.net/images/cpu.png" src="//technicalcity.b-cdn.net/images/cpu.png" alt=""></span>
+								<input type="text" class="select-input"  autocomplete="off" value="">
+								<input type="hidden" name="item1" id="item1_1_cpu" value="" autocomplete="off">
+								<button class="open">Select...<i class="icon-small_arrow_down"></i></button>
+							</div>
+																					<div class="mobile-title" style="padding-top: 4px">
+							<div style="display: flex; flex-direction: row-reverse">
+								<button class="one_items_button" onclick="
+									if(document.getElementById('item1_1_cpu').value!=''){
+										location.href='/en/cpu?item1='+document.getElementById('item1_1_cpu').value;
+									}
+									return false;
+								"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+							</div>
+							</div>
+														</div>
+						</div>
+						
+												
+						  <div class="form-split only-pair">
+														<span>VS</span>
+						  </div>
+						
+						<div class="form-col only-pair">
+														<div class="mobile-hide block_item_title_and_its_button" style="justify-content: flex-end">
+																								<div style="padding-bottom: 8px">
+									<button class="one_items_button" onclick="
+										if(document.getElementById('item2_1_cpu').value!=''){
+											location.href='/en/cpu?item1='+document.getElementById('item2_1_cpu').value;
+										}
+										return false;
+									"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+								</div>
+															</div>							
+														<div class="form-group">
+							<div class="autocomplete-select" data-src="cpu" data-load="1" data-type="cpu" data-limit="15" data-selected="">
+								<span class="icon"><img data-img="//technicalcity.b-cdn.net/images/cpu.png" src="//technicalcity.b-cdn.net/images/cpu.png" alt=""></span>
+								<input type="text" class="select-input"  autocomplete="off" value="">
+								<input type="hidden" name="item2" id="item2_1_cpu" value="" autocomplete="off">
+								<button class="open">Select...<i class="icon-small_arrow_down"></i></button>
+							</div>
+																					<div class="mobile-title" style="padding-top: 4px">
+							<div style="display: flex; flex-direction: row-reverse">
+								<button class="one_items_button" onclick="
+									if(document.getElementById('item2_1_cpu').value!=''){
+										location.href='/en/cpu?item1='+document.getElementById('item2_1_cpu').value;
+									}
+									return false;
+								"><span>View</span><div style="padding-left: 4px; padding-top: 5px"><img src="//technicalcity.b-cdn.net/images/link.svg" width="14" height="14" style="width: 14px; height: 14px" /></div></button>
+							</div>
+							</div>
+														</div>
+						</div>
+												<div class="form-action">
+							<button type="submit" class="btn btn-primary waves-effect waves-light">Compare</button>
+						</div>
+											</div>
+				</fieldset>
+			</form>
+							</div>
+		<div class="tab" style="padding-top: 3px">
+			<div class="choose-game" >
+			
+			<div style="height: 12px"></div>
+			
+			<p class="colored" >Check whether your PC can run a specific game using our advanced system requirements checker and FPS calculator.</p>
+			
+			<div style="height: 15px"></div>
+			
+			<form action="" onsubmit="window.location.href=this.elements['goto'].value;return false">
+				<fieldset>
+					<div class="form-row" style="padding-bottom: 0">
+													<div class="form-group">
+								<div class="autocomplete-select selected inside_list_of_items_without_icons" data-src="games_go" id="games_to_selector" style="margin-top: 21px; margin-bottom: 9px">
+									<label></label>
+									
+									<!--<span class="icon"><img data-img="/images/stub-v2.png" src="/images/stub-v2.png" alt=""></span>-->
+									<input type="text" class="select-input"  value="">
+									<input type="hidden" name="goto" value="" data-submit-form="1">
+									<button class="open">Select the game:<i class="icon-small_arrow_down"></i></button>
+								</div>
+								
+								<script>
+								//console.log('xxx>'+(document.getElementById('games_to_selector').getElementsByClassName('select-input').value))
+								if(document.getElementById('games_to_selector').getElementsByClassName('select-input')[0].value==''){
+									document.getElementById('games_to_selector').classList.remove('selected');
+								}
+								</script>
+							</div>
+												
+											</div>
+				</fieldset>
+			</form>
+			</div>
+					</div>
+	</div>
+</div>
+
+<!--<div style="height: 6px"></div>-->
+
+
+<style>
+.banner_under_h1{
+  margin-bottom:24px;
+}
+</style>
+<div class="banner_under_h1"></div>
+
+
+<h2>Can your PC run these popular games?</h2>
+<p class="colored">We have minimum and recommended system requirements for 7813 PC games in our database, 2923 (37%) of them with actual FPS information. You can check them against the graphics card, processor, RAM and hard drive of your desktop PC or a laptop. Here are some popular games of last month:</p><div style="height: 12px"></div><div class="items">
+		<style>
+	.banner_in_games_list{
+		order:11;
+		width:100%;
+		z-index:0;
+	}
+	
+	.banner_in_games_list{
+		margin-bottom: 30px;
+	}
+	.banner_in_games_list>div>*:first-child{
+		margin-bottom: 30px;
+	}
+	
+	@media (max-width: 799px) {
+		.banner_in_games_list{
+			order:7;
+		}
+		.banner_in_games_list{
+			margin-bottom: 23px;
+		}
+    }
+    
+   	@media (max-width: 639px) {
+		.banner_in_games_list{
+		}
+		.banner_in_games_list{
+			margin-bottom: 13px;
+		}
+		.banner_in_games_list>div>*:first-child{
+			margin-bottom: 0px;
+		}
+
+    }
+   	@media (max-width: 424px) {
+		.banner_in_games_list{
+		}
+		.banner_in_games_list{
+			margin-bottom: 28px;
+		}
+    }
+	</style>
+	<div class="banner_in_games_list"><!-- 71161633/product_header/product_header -->
+<div data-fuse="22045322330"></div>
+</div>		<div class="item" style="order:0">
+			<div class="frame">
+				<a href="/en/system-requirements/GTA-V" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/2/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="GTA V" title="GTA V"></div>
+										<strong class="title">GTA V</strong>
+					<ul class="info">
+						<li>2015</li>
+													<li><i class="icon-m"></i>96</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:2">
+			<div class="frame">
+				<a href="/en/system-requirements/cyberpunk-2077" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/409/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Cyberpunk 2077" title="Cyberpunk 2077"></div>
+										<strong class="title">Cyberpunk 2077</strong>
+					<ul class="info">
+						<li>2020</li>
+													<li><i class="icon-m"></i>86</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:4">
+			<div class="frame">
+				<a href="/en/system-requirements/csgo" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/5/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Counter Strike Global Offensive" title="Counter Strike Global Offensive"></div>
+										<strong class="title">Counter Strike Global Offensive</strong>
+					<ul class="info">
+						<li>2012</li>
+													<li><i class="icon-m"></i>83</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:6">
+			<div class="frame">
+				<a href="/en/system-requirements/red-dead-redemption-2" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/435/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Red Dead Redemption 2" title="Red Dead Redemption 2"></div>
+										<strong class="title">Red Dead Redemption 2</strong>
+					<ul class="info">
+						<li>2019</li>
+													<li><i class="icon-m"></i>93</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:8">
+			<div class="frame">
+				<a href="/en/system-requirements/fortnite" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/20/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Fortnite" title="Fortnite"></div>
+										<strong class="title">Fortnite</strong>
+					<ul class="info">
+						<li>2017</li>
+													<li><i class="icon-m"></i>81</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:10">
+			<div class="frame">
+				<a href="/en/system-requirements/hogwarts-legacy" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/1157/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Hogwarts Legacy" title="Hogwarts Legacy"></div>
+										<strong class="title">Hogwarts Legacy</strong>
+					<ul class="info">
+						<li>2023</li>
+													<li><i class="icon-m"></i>84</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:12">
+			<div class="frame">
+				<a href="/en/system-requirements/witcher-3" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/4/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="The Witcher 3: Wild Hunt" title="The Witcher 3: Wild Hunt"></div>
+										<strong class="title">The Witcher 3: Wild Hunt</strong>
+					<ul class="info">
+						<li>2015</li>
+													<li><i class="icon-m"></i>93</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:14">
+			<div class="frame">
+				<a href="/en/system-requirements/minecraft" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/180/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Minecraft" title="Minecraft"></div>
+										<strong class="title">Minecraft</strong>
+					<ul class="info">
+						<li>2011</li>
+													<li><i class="icon-m"></i>93</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:16">
+			<div class="frame">
+				<a href="/en/system-requirements/call-of-duty-warzone" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/547/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Call of Duty: Warzone" title="Call of Duty: Warzone"></div>
+										<strong class="title">Call of Duty: Warzone</strong>
+					<ul class="info">
+						<li>2020</li>
+													<li><i class="icon-m"></i>80</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:18">
+			<div class="frame">
+				<a href="/en/system-requirements/metro-exodus" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/183/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="Metro Exodus" title="Metro Exodus"></div>
+										<strong class="title">Metro Exodus</strong>
+					<ul class="info">
+						<li>2019</li>
+													<li><i class="icon-m"></i>82</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:20">
+			<div class="frame">
+				<a href="/en/system-requirements/pubg" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/21/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="PUBG" title="PUBG"></div>
+										<strong class="title">PUBG</strong>
+					<ul class="info">
+						<li>2017</li>
+													<li><i class="icon-m"></i>86</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+				<div class="item" style="order:22">
+			<div class="frame">
+				<a href="/en/system-requirements/world-of-tanks" class="link_on_image_that_looks_closer_on_hover">
+					<div class="holder_of_image_that_looks_closer_on_hover">					<img src="//technicalcity.b-cdn.net/en/game_image/165/image?thumbnail=yes&amp;maxwidth=400&amp;maxheight=400&amp;webp=1" alt="World of Tanks" title="World of Tanks"></div>
+										<strong class="title">World of Tanks</strong>
+					<ul class="info">
+						<li>2010</li>
+													<li><i class="icon-m"></i>80</li>
+																		</ul>
+				</a>
+			</div>
+		</div>
+		</div>
+
+
+<div class="banner_wide" style="margin-top:14px;position: relative;z-index:0"><div class="banner-clickio">
+<script class='__lxGc__' type='text/javascript'>((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_224640']=__lxGc__['s']['_224640']||{'b':{}})['b']['_681030']={'i':__lxGc__.b++};</script><script class='__lxGc__' type='text/javascript'>((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_224640']=__lxGc__['s']['_224640']||{'b':{}})['b']['_681028']={'i':__lxGc__.b++};</script></div></div>		</span>
+		
+<!-- /CONTENT -->
+					</div>
+				</div>
+				<div class="sticky-right">
+										<div class="banner-1-right">
+						<!-- 71161633/product_vrec_1/product_vrec_1 -->
+<div data-fuse="22045399389"></div>
+					</div>
+				</div>
+				<div class="sticky-left">
+																</div>
+			</main>
+			<footer id="footer" itemscope itemtype="http://schema.org/WPFooter">
+<meta itemprop="copyrightYear" content="2023">
+				<div class="container">
+				
+				
+					<ul class="languages">
+														<li><a href="/ru">Русский</a></li>
+																<li class="active">English</li>
+																<li><a href="/es">Español</a></li>
+																<li><a href="/pt">Português</a></li>
+																<li><a href="/de">Deutsch</a></li>
+																<li><a href="/fr">Français</a></li>
+																<li><a href="/it">Italiano</a></li>
+																<li><a href="/pl">Polski</a></li>
+																<li><a href="/zh">中文</a></li>
+																<li><a href="/ja">日本語</a></li>
+																<li><a href="/ko">한국어</a></li>
+																<li><a href="/hi">हिंदी</a></li>
+																<li><a href="/tr">Türkçe</a></li>
+																<li><a href="/id">Bahasa Indonesia</a></li>
+																<li><a href="/ar">اللغة العربية</a></li>
+													</ul>
+					<div class="holder">
+						<strong class="logo"><a href="/en">Technical city</a></strong>
+						<div class="col">
+							<span class="note">Found an error? Select it and press Ctrl+Enter.</span>
+							<ul class="about note">
+								<li>Games benchmarked by <a href="https://www.notebookcheck.net" target="_blank" rel="noopener">notebookcheck.net</a></li>
+							</ul>
+													</div>
+						<div class="col">
+															<nav class="menu">
+									<ul>
+										<li><a href="/en/about">About us</a></li><li><a href="/en/privacy">Privacy Policy</a></li>									</ul>
+								</nav>
+														</div>
+						<div class="by">
+														<strong class="logo-bg"><a>B-G</a></strong>
+							<span>Web design by <em class="copyright">Baturin Group</em></span>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+<script src="//technicalcity.b-cdn.net/responsive_tables/responsive-tables.js"></script>
+<script src="//technicalcity.b-cdn.net/scroll_sticky.js"></script>
+
+<script src="//technicalcity.b-cdn.net/equal_width.js"></script>
+
+
+<script>
+	selectedText = '';
+	near_selection = '';
+	
+	function send_site_error_message() {
+		//alert("Тестовая отправка" + document.getElementById('site_error_selection_content').innerHTML + " / " + document.getElementById('site_error_comment').value);
+		//site_error_confirm_dialog.dialog( "close" );
+		
+
+		
+		//$('#site_error_send-popup').hide();
+		
+
+		  $('#site_error_send-popup').fadeOut(300);
+		  $('body').removeClass('popup-show');
+		  --openedPopupsCounter;
+		  if (openedPopupsCounter <= 0) {
+			enableWindowScroll();
+		  }
+	 
+		//$('#site_error_send-confirm-popup').show();
+		
+		  $('body').addClass('popup-show');
+		  $('#site_error_send-confirm-popup').fadeIn(300);
+		  ++openedPopupsCounter;
+		  if (openedPopupsCounter == 1) {
+			disableWindowScroll();
+		  }		
+
+		$('.ui-dialog :button').blur();
+		
+		//...и отправляем запрос
+		
+		$.ajax({
+			type: "POST",
+			url: "/en/errors_collector",
+			data: {error_fragment:selectedText, pageurl:window.location.href, near_error_fragment:near_selection, user_comment:document.getElementById('site_error_comment').value},
+			success: function(msg) {
+				//alert(msg);
+				document.getElementById('site_error_comment').value = '';
+			}
+		});
+		
+		//alert(selectedText);
+	}
+	
+	$(document).ready(
+	function() {
+		
+		/*
+		site_error_confirm_dialog = $( "#site_error_confirm_dialog" ).dialog({
+		  autoOpen: false,
+		  modal: true,
+		  buttons:
+		  [
+			  {
+				  text: "Submit",
+				  click: send_site_error_message,
+				  class: "btn btn-primary waves-effect waves-light btn-primary-2"
+			  },
+			  {
+				  text: "Cancel",
+				  click: function() {
+					  site_error_confirm_dialog.dialog( "close" );
+				  },
+				  class: "btn btn-primary waves-effect waves-light btn-primary-2"
+			  }
+		  ]
+		});
+		*/
+		
+		//назначаем обработчик нажатия на Ctrl + Enter
+		var isCtrl = false;
+		$(document).keyup(function (e) {
+			if(e.which == 17) isCtrl=false;
+		}).keydown(function (e) {
+			if(e.which == 17) isCtrl=true;
+			if(e.which == 13 && isCtrl == true) {
+				//...ищем выделенный текст... 
+				if (window.getSelection) {
+					selectedText = window.getSelection().toString();
+					near_selection = window.getSelection().anchorNode.textContent;
+				}
+				else if (document.getSelection) {
+					selectedText = document.getSelection().toString();
+					near_selection = document.getSelection().anchorNode.textContent;
+				}
+				else if (document.selection) {
+					selectedText = document.selection.createRange().text;
+					near_selection = document.selection.createRange().startContainer.innerHTML.toString();
+				}
+				if (selectedText) {
+					document.getElementById('site_error_selection_content').innerHTML = selectedText;
+					//document.getElementById('site_error_near_selection').innerHTML = near_selection;
+					
+					//site_error_confirm_dialog.dialog( "open" );
+					
+					//$('#site_error_send-popup').show();
+					
+					  $('body').addClass('popup-show');
+					  $('#site_error_send-popup').fadeIn(300);
+					  
+					  var buttons = document.getElementById('site_error_send-popup').getElementsByTagName('button')
+					  for(var i=0;i<buttons.length;i++){
+						  buttons[i].blur();
+					  }
+					  
+					  ++openedPopupsCounter;
+					  if (openedPopupsCounter == 1) {
+						disableWindowScroll();
+					  }
+				}
+			}
+		});
+	});
+	
+	var left_menu_timeout=null;
+	
+	function scroll_effect_on_left_menu(){
+		if (document.getElementById('show_left_menu_when_scrolled_to_this')) {
+			var window_top=jQuery(window).scrollTop();
+			//console.log('window_top: ' + window_top);
+			var show_left_menu_when_scrolled_to_this = $('#show_left_menu_when_scrolled_to_this').offset().top;
+			//console.log('show_left_menu_when_scrolled_to_this: ' + show_left_menu_when_scrolled_to_this);
+			if(window_top>show_left_menu_when_scrolled_to_this){
+				//console.log('visibility: visible');
+				clearTimeout(left_menu_timeout);
+				jQuery('.left_menu_itself').css( "visibility", "visible" );
+				jQuery('.left_menu_itself').removeClass('left_menu_hidden_state');
+			}else{
+				//console.log('visibility: hidden...');
+				clearTimeout(left_menu_timeout);
+				jQuery('.left_menu_itself').addClass('left_menu_hidden_state');
+				//setTimeout(() => jQuery('.left_menu_itself').css( "visibility", "hidden" ), 320);
+				left_menu_timeout = setTimeout(function(){jQuery('.left_menu_itself').css( "visibility", "hidden" );}, 320);
+			}
+		}
+	}
+	jQuery(window).scroll(scroll_effect_on_left_menu);scroll_effect_on_left_menu();
+	
+	
+	var places_from_left_bar=[];
+	left_bar_places_length=0;
+	for(i=0;i<left_bar_links.length;++i){
+		if($("a[name="+left_bar_links[i]+"]").length){
+			places_from_left_bar[left_bar_links[i]]=$("a[name="+left_bar_links[i]+"]").offset().top;
+			++left_bar_places_length;
+		}
+		else{
+		}
+	}
+	var do_mark_position_in_leftbar;
+	if(left_bar_places_length){
+		do_mark_position_in_leftbar=true;
+	}
+	else{
+		do_mark_position_in_leftbar=false;
+	}
+	places_from_left_bar_array_numeric=[];
+	for(x in places_from_left_bar){
+		cur_array=[];
+		cur_array.key=x;
+		cur_array.value=places_from_left_bar[x];
+		places_from_left_bar_array_numeric.push(cur_array);
+	}
+	places_from_left_bar_array_numeric.sort(function(a,b){
+		return a.value-b.value;
+	});
+	places_from_left_bar=[];
+	for(x in places_from_left_bar_array_numeric){
+		if(places_from_left_bar_array_numeric[x]&&places_from_left_bar_array_numeric[x]["key"]){
+			places_from_left_bar[places_from_left_bar_array_numeric[x]["key"]]=places_from_left_bar_array_numeric[x]["value"];
+		}
+	}
+
+	function find_near_anchor_by_scroll_position(scr_pos){
+		found_key="";
+		for(x in places_from_left_bar){
+			if(places_from_left_bar[x]<=scr_pos){
+				found_key=x;
+			}
+			else{
+				break;
+			}
+		}
+		return found_key;
+	}
+
+	function mark_link_by_position(scr_pos){
+		$(".left_bar_link").removeClass("leftbar_currently_positioned_here");
+		leftbar_active_element=find_near_anchor_by_scroll_position(scr_pos);
+		if(leftbar_active_element){
+			$(".left_bar_link_"+leftbar_active_element).addClass("leftbar_currently_positioned_here");
+		}
+	}
+
+	$(document).ready(function(){
+		if(do_mark_position_in_leftbar){
+			mark_link_by_position($(document).scrollTop());
+		}
+	});
+
+	$(document).scroll(function(){
+		if(do_mark_position_in_leftbar){
+			mark_link_by_position($(document).scrollTop());
+		}
+	});
+</script>
+
+	
+<div class="popup" id="site_error_send-popup">
+	<div class="popup-content">
+		<span class="close"><i class="icon-close"></i></span>
+		<div style="margin-bottom: 12px; font-size: 20px; line-height: 27px; color: #000; font-weight: bold">Report an error</div>
+		<div style="color: #000000">Highlighted fragment with error:</div>
+		<div id="site_error_selection_content" style="padding-bottom: 10px; color: #000000; font-weight: bold"></div>
+		<div style="padding-bottom: 10px; color: #000000">Indicate exactly what the error is, if it is not obvious:</div>
+		<form action="" onsubmit="send_site_error_message();return false">
+			<fieldset>
+				<div>
+					<textarea id="site_error_comment" name="site_error_comment" placeholder="Note" style="width: 100%; color: #000000"></textarea>
+				</div>
+				<div class="form-row">
+					<div class="form-action">
+						<button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+						<button type="submit" class="btn-close btn btn-primary waves-effect waves-light">Cancel</button>
+					</div>
+				</div>
+			</fieldset>
+		</form>
+	</div>
+</div>
+<div class="popup" id="site_error_send-confirm-popup">
+	<div class="popup-content align-center">
+		<span class="close"><i class="icon-close"></i></span>
+		<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<circle cx="32" cy="32" r="31" stroke="#09C400" stroke-width="2"/>
+			<path d="M21.25 30L30.4808 40L45.25 24" stroke="#09C400" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+		</svg>
+		<p style="font-weight: bold">Your error message has been sent!</p>
+				<button class="btn-close btn btn-primary waves-effect waves-light">Continue</button>
+	</div>
+</div>
+
+<!-- Yandex.Metrika counter --> <script xtype="text/javascript" type="lazyload2"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(42278779, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42278779" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<script Xtype="text/javascript" type="lazyload2">!(function(o,_name){function n(){(n.q=n.q||[]).push(arguments)}n.v=1,o[_name]=o[_name]||n;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://muteknife.com/v2gjh4zXeblCaYngKl7gAGJ9IpkCgQaKXW8JHJPnKqgK5s2y03TrLlyE",t.parentNode.insertBefore(i,t)})(document,"script");</script>
+
+<script>
+
+
+var lazy_check_interval = 100;
+
+/* is element on screen*/
+function elementInViewport2(element) {
+    const rect = element.getBoundingClientRect();
+    return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+}
+
+function prepare_lazy_images(all){
+	var transparent_gif="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+	
+	var images=document.getElementsByTagName('img');
+	var i;
+	for(i=0;i<images.length;i++){
+		if(images[i]){
+			if((all || !elementInViewport2(images[i])) && !images[i].classList.contains('seregalazy') && !images[i].classList.contains('seregalazy-loaded') && !images[i].classList.contains('no-lazy')){
+				images[i].classList.add('seregalazy');
+				images[i].dataset.lazysrc=images[i].src;
+				images[i].src=transparent_gif;
+				
+				images[i].style.opacity="0";
+				images[i].style.transitionProperty="opacity";
+				images[i].style.transitionTimingFunction="ease-in";
+				images[i].style.transitionDuration=".3s";
+				
+			}
+		}
+	}
+	var backgrounds=document.querySelectorAll('*');
+	for(i=0;i<backgrounds.length;i++){
+	//for(i=0;i<backgrounds.length;i++){
+		if(backgrounds && backgrounds[i] && backgrounds[i].style){
+			var bg = getComputedStyle(backgrounds[i])
+			if(bg) {
+				bg=bg.backgroundImage;
+				if(bg.match(/http[s]?:/) && !elementInViewport2(backgrounds[i]) && !backgrounds[i].classList.contains('seregalazybg') && !backgrounds[i].classList.contains('seregalazybg-loaded') && !backgrounds[i].classList.contains('no-lazy')){
+					backgrounds[i].classList.add('seregalazybg');
+					backgrounds[i].dataset.lazysrc=bg;
+					backgrounds[i].style.backgroundImage="url("+transparent_gif+")";
+					
+					backgrounds[i].style.opacity="0";
+					backgrounds[i].style.transitionProperty="opacity";
+					backgrounds[i].style.transitionTimingFunction="ease-in";
+					backgrounds[i].style.transitionDuration=".3s";
+				}
+			}
+		}
+	}
+}
+
+prepare_lazy_images();
+
+var lazy_timeout;
+
+function show_lazy_image(image){
+	if(!image.classList.contains('seregalazy')) return;
+
+	image.classList.remove('seregalazy');
+	image.classList.add('seregalazy-loaded');
+
+	image.onload=function(){
+		
+		//console.log('onload ok')
+		
+		var image = this;
+		image.style.opacity="1";
+		
+		
+		//console.log('image1 '+i+' '+(images[i].alt));
+		setTimeout(function(image){
+			image.style.transitionProperty="";
+			image.style.transitionTimingFunction="";
+			image.style.transitionDuration="";
+			//console.log('image2 '+(image.alt));
+			//console.log(image.style.transitionProperty)
+		}, 333, image);
+		
+	}
+
+	image.src = image.dataset.lazysrc;
+	image.dataset.lazysrc='';
+	
+}
+
+var show_lazy_images_last_run=0;
+
+function show_lazy_images(){
+	
+	//console.log(show_lazy_images_last_run);
+	
+	
+	if(Date.now() - show_lazy_images_last_run < lazy_check_interval * 5) {
+		//console.log('no: '+(Date.now() - show_lazy_images_last_run))
+//		show_lazy_images_last_run=Date.now();
+		return; // skip tik
+	}else{
+		//console.log('show_lazy_images ok');
+	}
+	
+
+	
+//console.log('show_lazy_images()');
+	var images=document.getElementsByClassName('seregalazy');
+	//var msg=''
+	var i;
+	for(i=0;i<images.length;i++){
+	//for(i in images){
+		
+		//msg+=(''+images[i].alt+':'+(elementInViewport2(images[i]))+' ')
+		//console.log('image '+i+' '+(images[i].dataset.lazysrc)+" in viewport:"+elementInViewport2(images[i]));
+		if(images[i] && images[i].dataset.lazysrc && images[i].dataset.lazysrc!='' && elementInViewport2(images[i])){
+			//console.log('yes, show ^^');
+			setTimeout(show_lazy_image, 10, images[i])
+		}
+		//console.log('images.length '+(images.length))
+	}
+	//console.log(msg);
+	var backgrounds=document.getElementsByClassName('seregalazybg');
+	for(i=0;i<backgrounds.length;i++){
+		if(backgrounds[i] && backgrounds[i].dataset.lazysrc && backgrounds[i].dataset.lazysrc!='' && elementInViewport2(backgrounds[i])){
+			//backgrounds[i].style.backgroundImage = backgrounds[i].dataset.lazysrc;
+			
+			backgrounds[i].style.opacity="1";
+
+			backgrounds[i].style.backgroundImage = '';
+			backgrounds[i].dataset.lazysrc='';
+			backgrounds[i].classList.add('seregalazybg-loaded');
+			backgrounds[i].classList.remove('seregalazybg');
+
+		}
+	}
+	//clearTimeout(lazy_timeout);
+	//lazy_timeout = setTimeout(show_lazy_images, 200);
+	
+	show_lazy_images_last_run=Date.now();
+}
+
+show_lazy_images();
+
+window.onscroll=function(){
+	show_lazy_images();
+}
+
+setInterval(show_lazy_images, lazy_check_interval);
+</script>
+
+
+<script>
+function reload_yandex_ads(){
+	var scripts = document.getElementsByTagName("script");
+	var script
+	for(script of scripts){
+		if(script.innerHTML != '' && script.innerHTML.match(/window\.yaContextCb\.push/g)){
+			//alert(script.innerHTML);
+			var found;
+			found = script.innerHTML.match(/Ya\.Context\.AdvManager\.render\({[\s\S]*?}\)/g);
+			if(found && !found[0].match(/type:\s*'(floorAd|fullscreen)'/g)){
+				var container_id = found[0].match(/renderTo:\s*'(.*?)'/)
+				//console.log(container_id)
+				if(container_id){
+					//console.log(container_id[1])
+					//banner container
+					var container = document.getElementById(container_id[1])
+					
+					if(elementInViewport2(container) && container.offsetHeight>0){
+						//console.log(found[0]);
+						eval(found[0])
+						//return;
+					}else{
+						//console.log('not visible');
+					}
+				}
+			}
+		}
+	}
+}
+setInterval('reload_yandex_ads()', 30*1000);
+</script>
+
+
+	</body>
+</html>

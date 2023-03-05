@@ -1,0 +1,407 @@
+  <!doctype html>  
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="keywords" content="Новости Луганска, Луганские новости, Новости, Новости Луганщины, Политика, Экономика, Происшествия, Общество, Спорт, Конференции, Блог, Гостиницы, Гороскоп, Погода, Погода в Луганске, Новости луганской области, Луганск новости, происшествия в луганске, счшв штащ, cxid.info, схид инфо, Луганск , Новости Луганска, Луганские новости, Новости, Новости Луганщины, счшв штащ, cxid.info, схид инфо, Луганск новости 2023" />
+  <meta name="news_keywords" content="Новости Луганска, Луганские новости, Новости, Новости Луганщины, Политика, Экономика, Происшествия, Общество, Спорт, Конференции, Блог, Гостиницы, Гороскоп, Погода, Погода в Луганске, Новости луганской области, Луганск новости, происшествия в луганске, счшв штащ, cxid.info, схид инфо, Луганск , Новости Луганска, Луганские новости, Новости, Новости Луганщины, счшв штащ, cxid.info, схид инфо, Луганск новости 2023" />
+
+  <meta name="description" content="Новостной портал Луганского региона. - Новости Луганска и области сегодня, все новости 2023, события дня - новости видео и фото" />
+  <meta name="robots" content="all" />
+  <meta name="revisit-after" content="1 days" />
+  <meta name="referrer" content="always" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="cxidinfo" />
+    <meta name="twitter:title" content="Новости Луганска и области Новости Украины сегодня Cxid.info" />
+    <meta name="twitter:description" content="Новостной портал Луганского региона. - Новости Луганска и области сегодня, все новости 2023, события дня - новости видео и фото" />
+    <meta name="twitter:image" content="https://cxid.info/images/cx.jpg" />
+    <meta name="twitter:url" content="https://cxid.info" />
+    
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://cxid.info">
+    <meta property="og:site_name" content="Новости Луганска и области Новости Украины сегодня Cxid.info">
+    <meta property="og:image" content="https://cxid.info/images/cx.jpg">
+    <meta property="og:title" content="Новости Луганска и области Новости Украины сегодня Cxid.info">
+    <meta property="og:description" content="Новостной портал Луганского региона. - Новости Луганска и области сегодня, все новости 2023, события дня - новости видео и фото">
+    <meta property="og:image:secure_url" content="https://cxid.info/images/cx.jpg"/>
+    
+    <script data-ad-client="ca-pub-9004150064162061" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <meta name="yandex-verification" content="76bd1ee6b1db1882" />
+    <meta name="yandex-verification" content="2e212efbc0727ad3" />
+
+    <script src="https://cdn.usefulcontentsites.com/js/push/subscribe.js?v=7"></script>
+      
+  <title>Новости Луганска и области Новости Украины сегодня Cxid.info</title>
+
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="search.css">
+  <link rel="stylesheet" href="popup.css">
+  <link rel="stylesheet" href="covid19.css">
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
+
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.5.3/modernizr.min.js"></script>
+  <script src="https://cxid.info/js/Chart.js"></script>
+
+
+<link rel="stylesheet" href="normalize.css">
+<link href='//fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+<script>
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('nav ul');
+				menuHeight	= menu.height();
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle();
+			});
+			
+			/*$("#search_box" ).focus(function() {
+			 menu.slideToggle();
+			 return false;
+			});*/
+		
+			$(window).resize(function(){
+        		var w = $(window).width();
+        		if(w > 320 && menu.is(':hidden')) {
+        			menu.removeAttr('style');
+        		}
+    		});
+		});
+		
+
+		
+		
+		
+	</script>
+    
+    <script type="text/javascript">
+	
+	  $(window).scroll(function(e) {
+		  var height = $(this).scrollTop();
+	      $('#sticky')[height >= 1 ? 'addClass' : 'removeClass']('active')
+		});
+	
+	</script>
+    
+    
+
+
+
+<style>
+  #form {
+  padding: 5px;
+  background-color: #fff;
+  display: none;
+  border-top:0;
+  border-bottom:1px solid #ff5100;
+  border-left:1px solid #ff5100;
+  border-right:1px solid #ff5100;
+}
+</style>
+
+
+
+
+<script>
+$(document).ready(function () {
+  var searchBlock = $('#form');
+  $(document).on('click', '#open', function () {
+    searchBlock.slideToggle();
+    return false;
+  });
+});
+		$('html').click(function(){
+			$('#search_box').val("");
+			$('#search_advice_wrapper').hide();
+			$('#search_advice_wrapper').empty();	
+		});
+		
+		
+		/*$( "#search_box" ).click(function() {
+			 menu.slideToggle();
+		});*/
+
+		/*#search_box.onfocus = function() {
+		  searchBlock.slideToggle();
+		};*/
+		
+		
+		
+		
+</script>
+<!-- <script charset="UTF-8" src="//web.webpushs.com/js/push/45e0aa5fa256195831eb5129ac6e201a_1.js" async></script> -->
+<script async src="https://ipzlsr.com/tphl71219lvi0pm30y8qh/768vqu/786kypjslrv.php"></script>
+
+</head>
+
+<body class="cf">
+  <a href="https://cxid.info" class="stickylogo"><img src="https://cxid.info/images/cxidinfo.png" style="height: 40px;" border="0" alt="Новости Луганска Cxid.info" title="Новости Луганска Cxid.info"></a>
+  <header id="sticky">
+  <script src="https://cxid.info/js/search.js" type="text/javascript"></script> 
+  <div class="cxidlogos" style="height:40px; float:left;"><a href="//cxid.info/" title="cxid.info новости"><img src="https://cxid.info/images/cxidinfo.png" width="130" height="40" border="0" alt="Новости Луганска Cxid.info" title="Новости Луганска Cxid.info"></a></div><div class="soclogos"><a href="https://www.facebook.com/Cxidinfo-100907504745711/" title="Мы в Facebook"><img src="ico/fb.png" width="20" style="padding-right:7px; border:0px;"></a><a href="https://twitter.com/cxidinfo" title="Мы в Twitter"><img src="ico/tw.png" width="20" style="padding-right:7px; border:0px;"></a><a href="https://vk.com/lugansk_novosti" title="Мы в VK"><img src="ico/vk.png" width="20" style="padding-right:7px; border:0px;"></a><a href="#" title="Мы в Instagram"><img src="ico/ig.png" width="20" style="padding-right:7px; border:0px;"></a><a href="https://www.youtube.com/channel/UCzKAj2x1uKQX2TlODZZGPVQ" title="Мы в Youtube"><img src="ico/yt.png" width="20" style="padding-right:7px; border:0px;"></a><a href="https://t.me/cxidinfo" title="Мы в Telegram"><img src="ico/tg.png" width="20" style="padding-right:7px; border:0px;"></a><a href="#" title="Подпишись на новости cxid.info"><img src="ico/mail.png" width="20" style="padding-right:7px; border:0px;"></a><a href="https://cxid.info/rss/rss.xml" title="Подпишись на новости cxid.info - RSS"><img src="ico/rss.png" width="20" style="padding-right:12px; border:0px;"></a><a href="#" id="open" style="background-image:url(ico/search.png); border:0px solid red; background-position:left bottom; background-repeat:no-repeat; display:inline-block; height:25px;"><img src="https://cxid.info/images/find.png" style="padding-left:65px;"></a></div>
+
+  
+	<nav class="clearfix">
+    	<a href="#" id="pull">&nbsp;</a>
+		<ul class="clearfix">
+            <li><a href="//cxid.info/theme_lugansk.html" title="Последние новости Луганска">Новости Луганска</a></li>
+			<li><a href="//cxid.info/section_region_.html" title="Новости Региона">Новости Региона</a></li>
+            <li><a href="//cxid.info/section_Donezk.html" title="Новости Донецка">Новости Донецка</a></li>
+            <li><a href="//cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a></li>
+			<li><a href="//cxid.info/section_politics.html" title="Новости политики">Политика</a></li>
+			<li><a href="//cxid.info/section_incidents.html" title="Происшествия">Происшествия</a></li>            
+            <li><a href="//cxid.info/section_pogoda.html" title="Погода Луганск">Погода в Луганске</a></li>
+            <!-- <li><a href="//cxid.info/theme_sport.html" title="Новости спорта">Спорт</a></li> -->
+            <li><a href="https://mix.cxid.info/" title="Полезные новости">Микс</a></li>
+            <!-- <div align="center" class="finder"><a href="#" id="open"><img src="images/find.png" style="margin:0 auto;">Поиск</a></div> -->
+		</ul>
+        
+	</nav>
+    <div id="form">
+ <form action="/search" method="GET">
+ <div class="search_area">
+      <div style=" margin-top:10px; height:38px;position:relative;">
+      	  
+	      <input type="search" name="q" id="search_box" value="" autocomplete="off" placeholder="Поиск">
+    	  <div id="search_advice_wrapper"></div>
+      	  </div>
+      </div>      	  
+
+ </form>
+ </div>
+  </header>
+
+
+  <div id="container" class="cf" style="background-color:#FFF;">  
+  	<article class="span8">
+          <a href="https://cxid.info/special_covid-19.html" style="text-decoration:none;"><div style="border: 2px solid #003663; width: 100%; text-align: center; margin-top: 5px; margin-bottom: 5px;"><h3 style="padding:5px; margin:1px;">СПЕЦТЕМА: <font style="color:#e74900;">COVID-19</font></h3></div></a><section><main>
+		<a href="168200_grazhdan-ukrainy-budut-lishat-pensii-za-vyezd-za-granicu-i-na-nepodkontrolnuyu.html" class="lnk"><img src="https://cxid.info/upload/670x/1676852024.jpg" border="0" alt="Граждан Украины будут лишать пенсии за выезд за границу и на неподконтрольную"></a><span class="spangrey"><a class="rubric" href="section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 07:00 <img src="images/eye.png" align="absmiddle" style="width: 10px;"> 215098</span><h1><a href="168200_grazhdan-ukrainy-budut-lishat-pensii-za-vyezd-za-granicu-i-na-nepodkontrolnuyu.html" class="lnk">Граждан Украины будут лишать пенсии за выезд за границу и на неподконтрольную</a></h1>
+          <p class="stext">Реформа ПФУ во имя &laquo;социальной справедливости&raquo;</p></main></section>
+		
+<section><main><a href="https://cxid.info/168215_kak-uznat-i-oplatit-shtrafy-za-narushenie-pdd-cherez-privat-monobank-i-diya.html" class="lnk"><img src="https://cxid.info/upload/300x/1676899226.jpg" height="150" border="0" alt="Как узнать и оплатить штрафы за нарушение ПДД через Приват24, monobank и Дія" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 17:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 140</span><h2><a href="https://cxid.info/168215_kak-uznat-i-oplatit-shtrafy-za-narushenie-pdd-cherez-privat-monobank-i-diya.html" class="lnk">Как узнать и оплатить штрафы за нарушение ПДД через Приват24, monobank и Дія</a></h2><p class="stext">Чтобы не забыть о штрафе и не получить дополнительные санкции водителям необходимо периодически проверять их наличие.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168217_lunnyi-posevnoi-kalendar-dachnika-na-nedelyu-s-po-fevralya.html" class="lnk"><img src="https://cxid.info/upload/300x/1676901894.jpg" height="150" border="0" alt="Лунный посевной календарь дачника на неделю с 20 по 26&nbsp;февраля" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_shkola-vyjivaniya.html" title="Школа выживания">Школа выживания</a> - Сегодня, 16:30 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 206</span><h2><a href="https://cxid.info/168217_lunnyi-posevnoi-kalendar-dachnika-na-nedelyu-s-po-fevralya.html" class="lnk">Лунный посевной календарь дачника на неделю с 20 по 26&nbsp;февраля</a></h2><p class="stext">Лунный календарь на неделю, дачники и огородники уже вовсю могут занимаются посевом семян на рассаду.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168214_ukraincam-razreshili-ne-platit-za-odnu-kommunalnuyu-uslugu-kakuyu-imenno.html" class="lnk"><img src="https://cxid.info/upload/300x/1676898049.jpg" height="150" border="0" alt="Украинцам разрешили не платить за одну коммунальную услугу&nbsp;&mdash; какую именно" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 16:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 4407</span><h2><a href="https://cxid.info/168214_ukraincam-razreshili-ne-platit-za-odnu-kommunalnuyu-uslugu-kakuyu-imenno.html" class="lnk">Украинцам разрешили не платить за одну коммунальную услугу&nbsp;&mdash; какую именно</a></h2><p class="stext">Украинцы во время военного положения не освобождаются от уплаты коммунальных платежей, но есть одно исключение.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168213_minimalnaya-zarplata-ves-skolko-mogut-zarabatyvat-ukraincy.html" class="lnk"><img src="https://cxid.info/upload/300x/1676897489.jpg" height="150" border="0" alt="Минимальная зарплата в&nbsp;ЕС: сколько могут зарабатывать украинцы" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 15:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 400</span><h2><a href="https://cxid.info/168213_minimalnaya-zarplata-ves-skolko-mogut-zarabatyvat-ukraincy.html" class="lnk">Минимальная зарплата в&nbsp;ЕС: сколько могут зарабатывать украинцы</a></h2><p class="stext">Какую сегодня минималку получают европейцы и на что могут рассчитывать украинцы.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168212_ves-mir-osharashen-baiden-priexal-v-kiev.html" class="lnk"><img src="https://cxid.info/upload/300x/1676896420.jpg" height="150" border="0" alt="Весь Мир ошарашен: Байден приехал в Киев" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 14:31 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 691</span><h2><a href="https://cxid.info/168212_ves-mir-osharashen-baiden-priexal-v-kiev.html" class="lnk">Весь Мир ошарашен: Байден приехал в Киев</a></h2><p class="stext">Байден в Киеве: в сети появились десятки фото Президента США вместе с Зеленским.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168211_novaya-porciya-uslug-no-ceny-kusayutsya-vodafone-zapustil-novuyu-nacionalnuyu-lineiku-tarifov.html" class="lnk"><img src="https://cxid.info/upload/300x/1676894931.jpg" height="150" border="0" alt="Новая порция услуг, но цены кусаются: Vodafone запустил новую национальную линейку тарифов" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 14:03 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 351</span><h2><a href="https://cxid.info/168211_novaya-porciya-uslug-no-ceny-kusayutsya-vodafone-zapustil-novuyu-nacionalnuyu-lineiku-tarifov.html" class="lnk">Новая порция услуг, но цены кусаются: Vodafone запустил новую национальную линейку тарифов</a></h2><p class="stext">Оператор Vodafone запустил новые тарифные планы.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168210_situaciya-so-svetom-fevralya-otklyuchenii-ne-predviditsya.html" class="lnk"><img src="https://cxid.info/upload/300x/1676893907.jpg" height="150" border="0" alt="Ситуация со светом 20&nbsp;февраля: отключений не предвидится" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 13:30 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 261</span><h2><a href="https://cxid.info/168210_situaciya-so-svetom-fevralya-otklyuchenii-ne-predviditsya.html" class="lnk">Ситуация со светом 20&nbsp;февраля: отключений не предвидится</a></h2><p class="stext">Украинцам разъяснили, будет&nbsp;ли исчезать свет в домах в ближайшее время.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168208_pensionnyi-fond-rasskazal-kto-ne-poluchil-pensii-za-fevral.html" class="lnk"><img src="https://cxid.info/upload/300x/1676882635.jpg" height="150" border="0" alt="Пенсионный фонд рассказал кто не получил пенсии за февраль" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_ukraina.html" title="Новости Украины">Новости Украины</a> - Сегодня, 11:30 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 874</span><h2><a href="https://cxid.info/168208_pensionnyi-fond-rasskazal-kto-ne-poluchil-pensii-za-fevral.html" class="lnk">Пенсионный фонд рассказал кто не получил пенсии за февраль</a></h2><p class="stext">Пресс-служба ПФУ отчиталась о выдаче пенсии за февраль по состоянию на 17&nbsp;февраля.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168207_segodnya-priobresti-evro-v-ukraine-mozhno-bolee-vygodnee.html" class="lnk"><img src="https://cxid.info/upload/300x/1676881979.jpg" height="150" border="0" alt="Сегодня приобрести евро в Украине можно более выгоднее" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_economy.html" title="Экономика">Экономика</a> - Сегодня, 11:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 495</span><h2><a href="https://cxid.info/168207_segodnya-priobresti-evro-v-ukraine-mozhno-bolee-vygodnee.html" class="lnk">Сегодня приобрести евро в Украине можно более выгоднее</a></h2><p class="stext">Стоимость доллара осталась неизменной, ситуация обменниках и на межбанке.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168206_pensionery-pereselency-mogut-besplatno-poluchit-vitaminy-i-poverbankov.html" class="lnk"><img src="https://cxid.info/upload/300x/1676881602.jpg" height="150" border="0" alt="Пенсионеры&nbsp;&mdash; переселенцы могут бесплатно получить витамины и повербанков" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_economy.html" title="Экономика">Экономика</a> - Сегодня, 10:30 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 784</span><h2><a href="https://cxid.info/168206_pensionery-pereselency-mogut-besplatno-poluchit-vitaminy-i-poverbankov.html" class="lnk">Пенсионеры&nbsp;&mdash; переселенцы могут бесплатно получить витамины и повербанков</a></h2><p class="stext">Пенсионеры получают витаминные комплексы и повербанки для мобильных телефонов.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168204_otkuda-berutsya-lishnie-kuby-v-platezhkax-za-gaz-i-chto-s-nimi-delat.html" class="lnk"><img src="https://cxid.info/upload/300x/1676856196.jpg" height="150" border="0" alt="Откуда берутся лишние кубы в платежках за газ и что с ними делать" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_shkola-vyjivaniya.html" title="Школа выживания">Школа выживания</a> - Сегодня, 10:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 38542</span><h2><a href="https://cxid.info/168204_otkuda-berutsya-lishnie-kuby-v-platezhkax-za-gaz-i-chto-s-nimi-delat.html" class="lnk">Откуда берутся лишние кубы в платежках за газ и что с ними делать</a></h2><p class="stext">Нафтогаз объяснил, откуда берутся &laquo;лишние&raquo; объемы газа в платежках и что с этим делать.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168205_kakie-produkty-luchshe-vsego-razzhizhayut-krov-dnevnaya-doza-protiv-tromboza.html" class="lnk"><img src="https://cxid.info/upload/300x/1676857007.jpg" height="150" border="0" alt="Какие продукты лучше всего разжижают кровь&nbsp;&mdash; дневная доза против тромбоза" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_krasota_i_zdorovie.html" title="Красота и здоровье">Красота и здоровье</a> - Сегодня, 09:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 1606</span><h2><a href="https://cxid.info/168205_kakie-produkty-luchshe-vsego-razzhizhayut-krov-dnevnaya-doza-protiv-tromboza.html" class="lnk">Какие продукты лучше всего разжижают кровь&nbsp;&mdash; дневная доза против тромбоза</a></h2><p class="stext">Список продуктов, которые разжижают кровь и являются лучшими антикоагулянтами.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168201_v-germanii-mogut-oshtrafovat-na-tysyach-evro-za-rabotu-v-sadu.html" class="lnk"><img src="https://cxid.info/upload/300x/1676852998.jpg" height="150" border="0" alt="В Германии могут оштрафовать на 15 тысяч евро за работу в саду" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_kultura.html" title="Культура">Культура</a> - Сегодня, 08:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 21746</span><h2><a href="https://cxid.info/168201_v-germanii-mogut-oshtrafovat-na-tysyach-evro-za-rabotu-v-sadu.html" class="lnk">В Германии могут оштрафовать на 15 тысяч евро за работу в саду</a></h2><p class="stext">Садоводство запрещено законом в Германии с марта по октябрь.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168198_privatbank-oschadbank-i-drugie-v-ukraine-massovo-zakryvayutsya-otdeleniya-bankov-i-bankomaty.html" class="lnk"><img src="https://cxid.info/upload/300x/1676833462.jpg" height="150" border="0" alt="ПриватБанк, Ощадбанк и другие: в Украине массово закрываются отделения банков и банкоматы" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_economy.html" title="Экономика">Экономика</a> - Сегодня, 06:00 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 12030</span><h2><a href="https://cxid.info/168198_privatbank-oschadbank-i-drugie-v-ukraine-massovo-zakryvayutsya-otdeleniya-bankov-i-bankomaty.html" class="lnk">ПриватБанк, Ощадбанк и другие: в Украине массово закрываются отделения банков и банкоматы</a></h2><p class="stext">Украинские банки существенно сократили количество своих отделений и банкоматов.<br></p></main></section>
+
+<section><main><a href="https://cxid.info/168202_cifry-na-nakleike-pomogut-vybrat-banany-bez-pesticidov.html" class="lnk"><img src="https://cxid.info/upload/300x/1676854062.jpg" height="150" border="0" alt="Цифры на наклейке помогут выбрать бананы без пестицидов" class="images"></a><span class="spangrey"><a class="rubric" href="https://cxid.info/section_krasota_i_zdorovie.html" title="Красота и здоровье">Красота и здоровье</a> - Сегодня, 05:05 <img src="https://cxid.info/images/eye.png" align="absmiddle" style="width: 10px;"> 673</span><h2><a href="https://cxid.info/168202_cifry-na-nakleike-pomogut-vybrat-banany-bez-pesticidov.html" class="lnk">Цифры на наклейке помогут выбрать бананы без пестицидов</a></h2><p class="stext">Мы научим Вас читать шифр.<br></p></main></section>
+<br><div data-la-block="da0a7d51-38b6-4eec-94ae-dec29d244216"></div><div style="width: 100%; text-align: center; margin-top: 15px; margin-bottom: 5px;"> <a id="paginator" style="background-color: #b0b0b0; color:#000;"><b>1</b></a>  <a id="paginator" href="/page2.html">2</a>  <a id="paginator" href="/page3.html">3</a>  <a id="paginator" href="/page4.html"><b>...</b></a>  <a id="paginator" href="/page10706.html"> Последняя </a></div>	</article>
+	<aside class="span4 col" style="background-color:#FFF;">
+          
+
+
+<div style="width: 100%; font-size: 16px; text-transform: uppercase; font-weight:bold; text-align: left; padding-top:5px; margin-bottom: 5px; border-bottom:1px solid #e2e2e2;">Популярное</div><div class="span4div"><a href="https://cxid.info/167969_nbu-obratilsya-ko-vsem-kto-poluchaet-pensii-na-bankovskuyu-kartu.html"><img src="https://cxid.info/upload/300x/1676046313.jpg" height="150" border="0" alt="НБУ обратился ко всем, кто получает пенсии на банковскую карту." class="images"></a><h2><a href="https://cxid.info/167969_nbu-obratilsya-ko-vsem-kto-poluchaet-pensii-na-bankovskuyu-kartu.html">НБУ обратился ко всем, кто получает пенсии на банковскую карту.</a></h2><p class="stext">Что делать если ПриватБанк, Ощадбанк и другие не продлевают срок действия карт для выплат пенсии. </p></div>  <div class="span4div"><a href="https://cxid.info/168141_oschadbank-pripodnes-ochen-nepriyatnyi-syurpriz-pensioneram-i-pereselencam.html"><img src="https://cxid.info/upload/300x/1676660049.jpg" height="150" border="0" alt="&laquo;Ощадбанк&raquo; приподнес очень неприятный сюрприз пенсионерам и переселенцам" class="images"></a><h2><a href="https://cxid.info/168141_oschadbank-pripodnes-ochen-nepriyatnyi-syurpriz-pensioneram-i-pereselencam.html">&laquo;Ощадбанк&raquo; приподнес очень неприятный сюрприз пенсионерам и переселенцам</a></h2><p class="stext">&laquo;Ощадбанк&raquo; прекратил выпускать электронные пенсионные удостоверения. Наибольшие проблемы в этой связи возникают у ВПЛ и... </p></div>  <div class="span4div"><a href="https://cxid.info/168152_vse-potrebiteli-gaza-dolzhny-proiti-proceduru-naftogaz.html"><img src="https://cxid.info/upload/300x/1676720876.jpg" height="150" border="0" alt="Все потребители газа должны пройти процедуру&nbsp;&mdash; Нафтогаз" class="images"></a><h2><a href="https://cxid.info/168152_vse-potrebiteli-gaza-dolzhny-proiti-proceduru-naftogaz.html">Все потребители газа должны пройти процедуру&nbsp;&mdash; Нафтогаз</a></h2><p class="stext">Пошаговая инструкция как пройти регистрацию. </p></div> 	 <div class="span4div"><a href="https://cxid.info/168022_nad-ukrainskoi-nacionalnoi-valyutoi-navisla-ugroza-stremitelnogo-obescenivaniya.html"><img src="https://cxid.info/upload/300x/1676279940.jpg" height="150" border="0" alt="Над украинской национальной валютой нависла угроза стремительного обесценивания" class="images"></a><h2><a href="https://cxid.info/168022_nad-ukrainskoi-nacionalnoi-valyutoi-navisla-ugroza-stremitelnogo-obescenivaniya.html">Над украинской национальной валютой нависла угроза стремительного обесценивания</a></h2><p class="stext">Об этом заявил глава НБУ Андрей Пышный. </p></div>  <div class="span4div"><a href="https://cxid.info/168107_vlasti-germanii-vvedut-vtoroi-oficialnyi-yazyk-dlya-privlecheniya-kvalificirovannyx-rabotnikov.html"><img src="https://cxid.info/upload/300x/1676561258.jpg" height="150" border="0" alt="Власти Германии введут второй официальный язык для привлечения квалифицированных работников" class="images"></a><h2><a href="https://cxid.info/168107_vlasti-germanii-vvedut-vtoroi-oficialnyi-yazyk-dlya-privlecheniya-kvalificirovannyx-rabotnikov.html">Власти Германии введут второй официальный язык для привлечения квалифицированных работников</a></h2><p class="stext">В последнее время Германия активно меняет миграционную политику, делая ее более лояльной иностранных граждан. </p></div>  <br>                <!-- Composite Start -->
+<div id="M638540ScriptRootC1340182"></div>
+<script src="https://jsc.mgid.com/p/u/push.cxid.info.1340182.js" async></script>
+<!-- Composite End --><br><div style="width: 100%; font-size: 16px; text-transform: uppercase; font-weight:bold; text-align: left; margin-bottom: 5px; padding-top:10px; padding-bottom:3px; border-bottom:1px solid #e2e2e2;"><a href="//cxid.info/section_novosti-partnerov.html">Новости партнеров</a></div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168172_gaid-dlya-ovladeniya-nemeckim-yazykom.html">Гайд для овладения немецким языком</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168171_yakii-internet-pidklyuchiti-ta-yak-viznachitis-z-postachalnikom-poslug-tarifom.html">Який інтернет підключити та як визначитись з постачальником послуг, тарифом</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168170_zimnie-zhenskie-puxoviki-po-rasprodazhe-kak-vygodno-naiti-brendovye-puxoviki-v-ukraine.html">Зимние женские пуховики по распродаже: как выгодно найти брендовые пуховики в Украине</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168169_kak-vybrat-samyi-luchshii-korm-dlya-sobaki.html">Как выбрать самый лучший корм для собаки?</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168162_texnologii-i-azartnye-igry.html">Технологии и азартные игры</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168157_volna-emocii-kazino-onlain-dlya-igry-na-realnye-stavki.html">Volna эмоций: казино онлайн для игры на реальные ставки</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell" style="width:10px;"><span style="color:#ff5100;">&nbsp;&#9679;&nbsp;</span></div>
+		<div class="last10TableCell"><a href="https://cxid.info/168145_samye-novye-recepty-i-novosti-mira-kulinarii-ot-fokus.html">Самые новые рецепты и новости мира кулинарии от Фокус</a></div>
+		</div>
+		</div>
+		</div>  
+			<!-- Composite Start -->
+			<div id="M638540ScriptRootC1340182"></div>
+			<script src="https://jsc.mgid.com/p/u/push.cxid.info.1340182.js" async></script>
+			<!-- Composite End -->
+		 <div style="width: 100%; font-size: 16px; text-transform: uppercase; font-weight:bold; text-align: left; margin-bottom: 5px; padding-top:10px; padding-bottom:3px; border-bottom:1px solid #e2e2e2;"><a href="https://mix.cxid.info/" title="Информационный микс: интересное и познавательное" target="_blank">Микс Cxid.info</a></div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">19.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/307_sem-stran-rekordsmenov-po-zolotomu-zapasu.html">7 стран-рекордсменов по золотому запасу</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">18.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/306_pochemu-sovremennye-samolety-ne-letayut-nad-tibetom.html">Почему современные самолеты не летают над Тибетом</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">18.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/305_sem-sposobov-kak-ochistit-protiven-ot-zhira-i-drugix-zagryaznenii-bez-bytovoi-ximii.html">7 способов, как очистить противень от жира и других загрязнений без бытовой химии</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">15.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/304_v-preddverii-posevnogo-sezona-kakuyu-teplicu-vybrat-dlya-dachnogo-uchastka.html">В преддверии посевного сезона: какую теплицу выбрать для дачного участка</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">15.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/303_zachem-v-srednevekovoi-italii-stroili-vysokie-kamennye-bashni-vnutri-gorodskix-sten.html">Зачем в средневековой Италии строили высокие каменные башни внутри городских стен</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">15.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/302_devyat-poleznyx-devaisov-s-kotorymi-bliny-smozhet-prigotovit-dazhe-shkolnik.html">9 полезных девайсов, с которыми блины сможет приготовить даже школьник</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">15.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/301_gde-naxoditsya-lednik-sudnogo-dnya-i-v-chem-potencialnaya-opasnost-ego-tayaniya.html">Где находится «ледник Судного дня», и в чём потенциальная опасность его таяния</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">15.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/300_pochemu-odni-avtomobili-rzhaveyut-v-pervyi-god-a-drugie-ezdyat-bez-problem-desyatiletiyami.html">Почему одни автомобили ржавеют в первый год, а другие ездят без проблем десятилетиями</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">15.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/299_pochemu-v-starinu-zhenschiny-ezdili-na-loshadi-ne-tak-kak-muzhchiny.html">Почему в старину женщины ездили на лошади не так, как мужчины</a></div>
+		</div>
+		</div>
+		</div><div class="last10Table">
+		<div class="last10TableBody">
+		<div class="last10TableRow">
+		<div class="last10TableCell"><span style="color:#ff5100;">13.02</span></div>
+		<div class="last10TableCell"><a href="https://mix.cxid.info/298_matovuyu-ili-glyancevuyu-kakuyu-kuxnyu-vybrat-razbiraemsya-s-plyusami-i-minusami-kazhdoi.html">Матовую или глянцевую, какую кухню выбрать: разбираемся с плюсами и минусами каждой</a></div>
+		</div>
+		</div>
+		</div>	</aside>
+  </div> <!--! end of #container -->
+  <footer>
+  	<table width="100%" border="1" style="height:200px;">
+    	<tr>
+			<td style="width:600px; font-weight:normal;">ООО «Сxiд Медiа Холдинг»
+<hr class="fancy-line"></hr>
+«Cxid.info» &copy; 2002-2023 Использование материалов сайта разрешается при условии ссылки (для интернет-изданий - гиперссылки) на сайт cxid.info. Редакция может не разделять точку зрения авторов статей и ответственности за содержание републицируемых материалов не несет.
+<hr class="fancy-line"></hr>
+<a href="//cxid.info/onas.html" id="footertd"><b>О нас</b></a> &nbsp; <a href="//cxid.info/contacts.html" id="footertd"><b>Контакты</b></a> &nbsp; <a href="//cxid.info/reklama.html" id="footertd"><b>Реклама</b></a> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 16+
+<hr class="fancy-line"></hr>
+<div style="width:100px;">
+</div>
+<div style="width:100px;"><!--LiveInternet counter--><script type="text/javascript">document.write("<a href='//www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t14.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'><\/a>")</script><!--/LiveInternet-->
+</div>
+</td>
+			<td style="width:20px;"></td>
+        	<td style="width:170px; border-left: 2px solid #ccc; margin-left: 20px; padding-left: 10px; text-decoration:underline;">
+            <a href="//cxid.info" title="Последние Новости Луганска" class="footer">Последние Новости</a><br>
+            <a href="//cxid.info/theme_lugansk.html" title="Новости Луганска сегодня" class="footer">Новости Луганска</a><br>
+            <a href="//cxid.info/section_mir.html" title="Новости Мира схид.инфо" class="footer">Новости в Мире</a><br>
+            <a href="//cxid.info/section_ukraina.html" title="новости Украины" class="footer">Новости Украины</a><br>
+            <a href="//cxid.info/section_region_.html" title="новости Луганской области" class="footer">Новости Региона</a><br>
+            <a href="//cxid.info/section_kharkov.html" title="новости Харькова" class="footer">Новости Харькова</a><br>
+            <a href="//cxid.info/section_Donezk.html" title="новости Донецк" class="footer">Новости Донецка</a><br>
+            <a href="//cxid.info/section_shkola-vyjivaniya.html" title="новости Школа выживания" class="footer">Школа выживания</a><br></td>
+            <td style="width:170px; border-left: 2px solid #ccc; margin-left: 20px; padding-left: 10px; text-decoration:underline;">
+            <a href="//cxid.info/section_economy.html" title="новости Экономики Луганск" class="footer">Экономика</a><br>
+            <a href="//cxid.info/section_politics.html" title="новости политики Луганск" class="footer">Политика</a><br>
+            <a href="//cxid.info/section_incidents.html" title="новости Происшествия Луганск" class="footer">Происшествия</a><br>
+            <a href="//cxid.info/section_pogoda.html" title="Погода в Луганске, новости" class="footer">Погода в Луганске</a><br>
+            <a href="//cxid.info/section_kultura.html" title="интересные новости спорта" class="footer">Культура</a><br>
+            <a href="//cxid.info/theme_iz-jizni.html" title="Из жизни. Новости" class="footer">Из жизни</a><br>
+            <a href="//cxid.info/theme_style.html" title="Красота и здоровье, Стиль, Мода" class="footer">Красота и здоровье</a><br>
+            <a href="//cxid.info/theme_fkzl.html" title="Заря Луганск, Клуб, Болельщики, Команда" class="footer">ФК Заря Луганск</a><br>
+            </td>
+        </tr>
+   </table>
+  </footer>
+
+<!-- <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<div id="gpt-passback-CF">
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/21710144538/DR-GAM-AD-cxid.info-Direct-RS-CF-1X1', [1, 1], 'gpt-passback-CF').addService(googletag.pubads()).setClickUrl('%%CLICK_URL_UNESC%%');
+googletag.pubads().set('page_url','cxid.info');
+    googletag.enableServices();
+    googletag.display('gpt-passback-CF');
+    });
+  </script>
+</div>      -->
+
+</div>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym"); ym(1801081, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/1801081" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>

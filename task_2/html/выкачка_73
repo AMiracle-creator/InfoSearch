@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="width=device-width,user-scalable=yes,initial-scale=1" name="viewport">
+<title>Росбалт - Новости России и мира сегодня</title>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rosbalt.ru",
+  "url": "https://www.rosbalt.ru",
+  "logo": "https://www.rosbalt.ru/img/icons/icon-512x512.png",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "RU",
+    "addressLocality": "Санкт-Петербург",
+    "postalCode": "191186",
+    "streetAddress": "Марсово поле, дом 3"
+  },
+  "funder": "АО «РС-Балт»",
+  "email": "mailto:main@rosbalt.ru",
+  "sameAs": [
+    "https://www.facebook.com/rosbaltru/",
+    "https://twitter.com/rosbaltru",
+    "https://www.instagram.com/rosbaltru/",
+    "https://www.youtube.com/user/RosbaltMoscow"
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.rosbalt.ru/search/?q={search_term}",
+    "query-input": "required name=search_term"
+  }
+}</script>
+<link href="https://img.rosbalt.ru" rel="dns-prefetch">
+<link href="https://www.rosbalt.ru/" rel="canonical">
+<link href="https://m.rosbalt.ru/" media="only screen and (max-width: 640px)" rel="alternate" />
+<link rel="shortcut icon" type="image/x-icon" href="https://www.rosbalt.ru/favicon.ico">
+<link rel="apple-touch-icon" type="image/x-icon" href="https://www.rosbalt.ru/apple-touch-icon-256x256.png" size="256x256">
+<link rel="apple-touch-icon" type="image/x-icon" href="https://www.rosbalt.ru/apple-touch-icon-192x192.png" size="192x192">
+<link rel="apple-touch-icon" type="image/x-icon" href="https://www.rosbalt.ru/apple-touch-icon-152x152.png" size="152x152">
+<link rel="apple-touch-icon" type="image/x-icon" href="https://www.rosbalt.ru/apple-touch-icon-120x120.png" size="120x120">
+<link rel="apple-touch-icon" type="image/x-icon" href="https://www.rosbalt.ru/apple-touch-icon-76x76.png" size="76x76">
+<meta content="Новостная лента о событиях в российской и мировой экономике, политике, культуре. Мультимедийные проекты. Блоги. Сведения об агентстве." name="description" />
+<meta property="fb:app_id" content="495352693835597"/>
+    <meta property="og:type"        content="website" />
+    <meta property="og:url"         content="https://www.rosbalt.ru/" />
+    <meta property="og:title"       content="Росбалт" />
+    <meta property="og:description" content="Последние новости мира и России" />
+    <meta property="og:image:width"  content="600" />
+    <meta property="og:image:height" content="315" />
+    <meta property="og:image" content="https://img.rosbalt.ru/banner.png"/>
+    <meta property="twitter:title"       content="Росбалт" />
+    <meta property="twitter:description" content="Последние новости мира и России" />
+    <meta property="twitter:site"        content="@rosbaltru" />
+    <meta property="twitter:url"         content="https://www.rosbalt.ru/" />
+    <meta property="twitter:card"        content="summary_large_image" />
+    <meta property="twitter:image:src"   content="https://img.rosbalt.ru/banner.png" />
+<link rel="stylesheet" type="text/css" href="/assets/main-02e4051ea1.css" />
+<script src="/assets/main-2b85014980.js" defer="defer"></script>
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FNYY36WDE5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FNYY36WDE5');
+</script>
+</head>
+<body>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(55757050, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/55757050" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!--AdFox START-->
+<!--rosbalt.ru-->
+<!--Площадка: rosbalt.ru / * / *-->
+<!--Тип баннера: 994x180js-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_162790640836953851" style="text-align:center;min-width:1264px;max-height:180px;margin:0 auto;overflow:hidden;"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 165068,
+        containerId: 'adfox_162790640836953851',
+            params: {
+                pp: 'g',
+            ps: 'nze',
+            p2: 'ejnj'
+            }
+        })
+    })
+</script>
+            <nav>
+    <div class="nav-menu">
+        <div class="nav-wrapper">
+        <ul class="nav-menu__main">
+            <li><a href="#" id="btnHamburger" title="Меню" class="ham"><!--&equiv;--></a></li>
+            <li><a href="/allnews/">Новости</a></li>
+            <li><a href="/articles/">Статьи</a></li>
+            <li><a href="/posts/">Реакция</a></li>
+                        <li><a href="/russia/">В России</a></li>
+                        <li><a href="/world/">В мире</a></li>
+            <li><a href="/business/">Бизнес</a></li>
+            <li><a href="/style/">Стиль</a></li>
+                    
+                                                <li><a href="/press/">Релизы</a></li>
+            <li><a href="/press-center/">Пресс-центр</a></li>
+            <li><a href="/page/kvartirnik/">Квартирник</a></li>
+                    </ul>
+        <ul class="nav-menu__btn">
+            <li class="mobile"><a href="https://m.rosbalt.ru/" title="Мобильная версия"></a></li>
+            <li class="search"><a href="/search/" id="btnSearch" title="Поиск"></a></li>
+        </ul>
+        </div>
+    </div>
+    <div class="nav-logo color-default color-main">
+                <div class="nav-wrapper">
+
+        <a class="logo" title="Росбалт" href="/"></a>
+
+                <div class="nav-logo-wrapper__themes">
+            <ul class="nav-logo__themes">
+            <li><a class="" href="/theme/272/">Землетрясение в Турции</a></li>
+        <li><a class="" href="/theme/260/">Россия под санкциями</a></li>
+        <li><a class="" href="/theme/251/">Специальная военная операция</a></li>
+    </ul>
+
+        </div>
+        
+        <ul class="nav-logo__social"> 
+            <li class="tw"><a target="_blank" rel="noopener" href="https://twitter.com/rosbaltru"></a></li>
+            <li class="te"><a target="_blank" rel="noopener" href="https://t.me/RosbaltPoint"></a></li>
+            <li class="vk"><a target="_blank" rel="noopener" href="https://vk.com/public34710108"></a></li>
+            <li class="yt"><a target="_blank" rel="noopener" href="https://www.youtube.com/user/RosbaltMoscow"></a></li>
+        </ul>
+        </div>
+    </div>
+        <div class="nav-info">
+        <div class="nav-wrapper nav-wrapper-info">
+        Понедельник, 20 февраля 2023<span>|</span>В Москве: -6°<span>|</span>В Петербурге: -6°<span>|</span>USD: 74.76<span>|</span>EUR: 79.61
+        </div>
+    </div>
+    </nav>
+
+  <main>
+
+    <div class="main" data-equalizer>
+        
+      
+<div class="main-content" data-equalizer-watch>
+
+    <div class="row headblock-main">
+    
+
+
+<div style='display: grid;grid-template-columns: 1fr 1fr 1fr;'>
+          
+
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/20/1984112.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/20/1984112.html" data-title="Советник Байдена сообщил, что США до поездки президента в Киев связывались с РФ">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">602</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/ca/e2/8d/66/XwhMY8mVKQ74-280.jpg" class="th280" alt="Стоп-кадр видео WH.GOV" />
+    <span class="head">Советник Байдена сообщил, что США до поездки президента в Киев связывались с РФ</span>
+    <span class="lead">Целью коммуникации было «предотвращение конфликтных ситуаций».</span>
+    </a> 
+</div>
+
+          
+
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/russia/2023/02/20/1984108.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/russia/2023/02/20/1984108.html" data-title="В Курской области шестеро военных погибли при пожаре в блиндаже">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">567</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/f/4/7/1/fxBhT7vM-280.jpg" class="th280" alt="СС0 Public Domain" />
+    <span class="head">В Курской области шестеро военных погибли при пожаре в блиндаже</span>
+    <span class="lead">По данным Минобороны, причиной стало грубое нарушение требований безопасности при обращении с горючими материалами. </span>
+    </a> 
+</div>
+
+          
+
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/20/1984105.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/20/1984105.html" data-title="Байден в Киеве анонсировал новый пакет военной помощи Украине">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">1333</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/ac/28/3c/d9/Th86HXLKbWDP-280.jpg" class="th280" alt="Стоп-кадр видео NBC News" />
+    <span class="head">Байден в Киеве анонсировал новый пакет военной помощи Украине</span>
+    <span class="lead">Вероятность этого визита «почти исключалась».</span>
+    </a> 
+</div>
+
+          
+
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/19/1984064.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/19/1984064.html" data-title="Китай намерен представить мирный план в годовщину СВО, Евросоюз стал армией Украины, Киев просит кассетные боеприпасы">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">22231</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/a8/1c/c5/1b/pxGfygbdX6zY-280.jpg" class="th280" alt="Стоп-кадр видео" />
+    <span class="head">Китай намерен представить мирный план в годовщину СВО, Евросоюз стал армией Украины, Киев просит кассетные боеприпасы</span>
+    <span class="lead">Специальная военная операция продолжается: главное за 18–19 февраля.</span>
+    </a> 
+</div>
+
+          
+
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/19/1984057.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/19/1984057.html" data-title="Bloomberg: Новые санкции США в отношении России коснутся энергосектора и ВПК">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">1475</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/1a/68/d7/95/Mf32gGKXxjZH-280.jpg" class="th280" alt="CC0 Public Domain" />
+    <span class="head">Bloomberg: Новые санкции США в отношении России коснутся энергосектора и ВПК</span>
+    <span class="lead">Также под ограничительные меры подпадут финансовые институты и несколько лиц.</span>
+    </a> 
+</div>
+
+          
+
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/russia/2023/02/19/1984049.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/russia/2023/02/19/1984049.html" data-title="Песков раскрыл часть тем послания Путина Федеральному собранию">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">2591</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/47/3b/e7/04/zDZVqKLJ49NG-280.jpg" class="th280" alt="Фото с сайта &lt;a href=&quot;http://www.kremlin.ru&quot;&gt;kremlin.ru&lt;/a&gt;" />
+    <span class="head">Песков раскрыл часть тем послания Путина Федеральному собранию</span>
+    <span class="lead">Президент оценит ход специальной военной операции на Украине, а также ситуацию на международной арене и расскажет о перспективах развития России.</span>
+    </a> 
+</div>
+
+    </div>
+
+
+    </div>
+
+    <div class="row">
+        
+        <div class="newslist">
+       
+        <div class="divider" style='margin-top:20px;'></div>
+
+<ul class="selector">
+    <li class="active" data-tab="all">Все новости</li>
+    <li class="" data-tab="russia">В России</li>
+    <li class="" data-tab="world">В мире</li>
+</ul>
+<div class="scroll-pane scroll-pane__main">
+<ul class="topnews-main active" data-page="all">
+                <li><a href="/world/2023/02/20/1984117.html"><time datetime="2023-02-20T15:48:00Z">18:48</time>В парламент Грузии внесли законопроект об иноагентах</a></li>
+            <li><a href="/world/2023/02/20/1984118.html"><time datetime="2023-02-20T15:22:00Z">18:22</time>В Белоруссии 11 человек погибли в ДТП с маршруткой</a></li>
+            <li><a href="/russia/2023/02/20/1984114.html"><time datetime="2023-02-20T14:55:00Z">17:55</time>В Сочи сошла лавина на санно-бобслейную трассу</a></li>
+            <li><a href="/russia/2023/02/20/1984113.html"><time datetime="2023-02-20T14:30:00Z">17:30</time>В шести регионах РФ отменили концерты рок-группы «Мумий Тролль»</a></li>
+            <li><a href="/world/2023/02/20/1984112.html"><time datetime="2023-02-20T14:05:00Z">17:05</time>Советник Байдена сообщил, что США до поездки президента в Киев связывались с РФ</a></li>
+            <li><a href="/russia/2023/02/20/1984111.html"><time datetime="2023-02-20T13:43:00Z">16:43</time>Песков посоветовал Молдавии осторожно говорить о выводе российских миротворцев из Приднестровья</a></li>
+            <li><a href="/world/2023/02/20/1984110.html"><time datetime="2023-02-20T13:20:55Z">16:20</time>Япония окажет помощь Украине на сумму $5,5 млрд</a></li>
+            <li><a href="/russia/2023/02/20/1984108.html"><time datetime="2023-02-20T12:50:00Z">15:50</time>В Курской области шестеро военных погибли при пожаре в блиндаже</a></li>
+            <li><a href="/world/2023/02/20/1984107.html"><time datetime="2023-02-20T12:21:00Z">15:21</time>Глава Евросовета: Власти ЕС уже приняли все основные санкции против России</a></li>
+            <li><a href="/world/2023/02/20/1984105.html"><time datetime="2023-02-20T11:59:00Z">14:59</time>Байден в Киеве анонсировал новый пакет военной помощи Украине</a></li>
+            <li><a href="/russia/2023/02/20/1984095.html"><time datetime="2023-02-20T10:40:00Z">13:40</time>На Алтае женщина заживо сожгла маленькую дочь на глазах у сына</a></li>
+            <li><a href="/world/2023/02/20/1984103.html"><time datetime="2023-02-20T10:18:00Z">13:18</time>Президент США Джо Байден тайно приехал в Киев</a></li>
+            <li><a href="/russia/2023/02/20/1984093.html"><time datetime="2023-02-20T09:40:00Z">12:40</time>В Новосибирске отменили прямые выборы мэра</a></li>
+            <li><a href="/world/2023/02/20/1984094.html"><time datetime="2023-02-20T09:20:00Z">12:20</time>РБК: На центральных улицах Киева перекрыли движение по неизвестной причине</a></li>
+            <li><a href="/russia/2023/02/20/1984088.html"><time datetime="2023-02-20T08:40:00Z">11:40</time>Бастрыкин назвал количество уголовных дел по статье о дискредитации армии</a></li>
+            <li><a href="/world/2023/02/20/1984087.html"><time datetime="2023-02-20T08:20:00Z">11:20</time>В Турции прекратили почти все поисково-спасательные работы после землетрясений</a></li>
+            <li><a href="/world/2023/02/20/1984085.html"><time datetime="2023-02-20T07:40:00Z">10:40</time>Германия из-за конфликта на Украине потеряла 100 млрд евро</a></li>
+            <li><a href="/world/2023/02/20/1984083.html"><time datetime="2023-02-20T06:59:00Z">09:59</time>Глава Минобороны ФРГ: Предстоящие недели станут решающими для Украины</a></li>
+            <li><a href="/world/2023/02/20/1984082.html"><time datetime="2023-02-20T06:30:00Z">09:30</time>Япония запросила заседание Совбеза ООН в связи с ракетным пуском КНДР</a></li>
+            <li><a href="/world/2023/02/20/1984081.html"><time datetime="2023-02-20T05:59:00Z">08:59</time>Польша потребовала от НАТО гарантий для Украины</a></li>
+            <li><a href="/business/2023/02/20/1984080.html"><time datetime="2023-02-20T05:30:00Z">08:30</time>Bloomberg: Власти США обеспокоены лидерством России и Китая на рынке удобрений</a></li>
+            <li><a href="/world/2023/02/20/1984077.html"><time datetime="2023-02-20T04:59:00Z">07:59</time>Сестра Ким Чен Ына пригрозила запускать ракеты в Тихий океан</a></li>
+            <li><a href="/world/2023/02/20/1984076.html"><time datetime="2023-02-20T04:30:00Z">07:30</time>Дуда: Вступление Белоруссии в конфликт на Украине станет «концом» для Лукашенко</a></li>
+            <li><a href="/world/2023/02/20/1984070.html"><time datetime="2023-02-19T21:32:00Z">00:32</time>Звезда «Спасти рядового Райана» Сайзмор экстренно госпитализирован с аневризмой головного мозга</a></li>
+                <li><time>19 февраля 2023</time></li>
+                <li><a href="/world/2023/02/19/1984069.html"><time datetime="2023-02-19T20:21:00Z">23:21</time>Землетрясения в Турции унесли жизни более 41 тыс. человек</a></li>
+            <li><a href="/world/2023/02/19/1984066.html"><time datetime="2023-02-19T19:59:00Z">22:59</time>В Белоруссии заявили о готовности нарастить численность силовых структур до 2 млн человек</a></li>
+            <li><a href="/world/2023/02/19/1984065.html"><time datetime="2023-02-19T19:18:00Z">22:18</time>В Турции завершены спасательные работы в 9 из 11 пострадавших от землетрясений провинций</a></li>
+            <li><a href="/russia/2023/02/19/1984063.html"><time datetime="2023-02-19T18:55:00Z">21:55</time>Неизвестный открыл стрельбу в ТРЦ в Ростове-на-Дону</a></li>
+            <li><a href="/world/2023/02/19/1984061.html"><time datetime="2023-02-19T18:29:00Z">21:29</time>Украинские власти попросили Spotify удалить песни ряда российских исполнителей</a></li>
+            <li><a href="/world/2023/02/19/1984058.html"><time datetime="2023-02-19T17:49:00Z">20:49</time>Президент Украины утвердил санкции в отношении более 300 россиян</a></li>
+            <li><a href="/world/2023/02/19/1984057.html"><time datetime="2023-02-19T17:28:00Z">20:28</time>Bloomberg: Новые санкции США в отношении России коснутся энергосектора и ВПК</a></li>
+            <li><a href="/moscow/2023/02/19/1984055.html"><time datetime="2023-02-19T16:34:00Z">19:34</time>В Зеленограде мужчина швырнул ребенка в сугроб за то, что тот упал в лужу</a></li>
+            <li><a href="/moscow/2023/02/19/1984054.html"><time datetime="2023-02-19T16:10:00Z">19:10</time>В Москве водитель мусоровоза насмерть сбил женщину</a></li>
+            <li><a href="/world/2023/02/19/1984053.html"><time datetime="2023-02-19T15:51:00Z">18:51</time>Актера Ричарда Гира госпитализировали с пневмонией в Мексике</a></li>
+            <li><a href="/world/2023/02/19/1984052.html"><time datetime="2023-02-19T15:26:00Z">18:26</time>Bloomberg: ЕС и страны «семерки» хотят отслеживать торговлю российскими алмазами</a></li>
+            <li><a href="/russia/2023/02/19/1984051.html"><time datetime="2023-02-19T14:58:00Z">17:58</time>В СК РФ подтвердили причастность украинских спецслужб к инциденту на Крымском мосту</a></li>
+            <li><a href="/russia/2023/02/19/1984050.html"><time datetime="2023-02-19T14:22:00Z">17:22</time>Минпросвещения: «Разговоры о важном» будут проводиться не только для школьников, но и их родителей</a></li>
+            <li><a href="/russia/2023/02/19/1984049.html"><time datetime="2023-02-19T13:59:00Z">16:59</time>Песков раскрыл часть тем послания Путина Федеральному собранию</a></li>
+            <li><a href="/russia/2023/02/19/1984046.html"><time datetime="2023-02-19T12:52:00Z">15:52</time>Кадыров задумался о создании собственной ЧВК</a></li>
+            <li><a href="/russia/2023/02/19/1984038.html"><time datetime="2023-02-19T11:47:00Z">14:47</time>В Красноярском крае мужчина пытался выбросить из окна годовалую дочь</a></li>
+            <li><a href="/world/2023/02/19/1984044.html"><time datetime="2023-02-19T11:24:00Z">14:24</time>Обменянная на Бута американская баскетболистка вернулась в женскую НБА</a></li>
+            <li><a href="/russia/2023/02/19/1984043.html"><time datetime="2023-02-19T11:04:00Z">14:04</time>Володин назвал подлостью планы отмены Дня Победы на Украине</a></li>
+            <li><a href="/world/2023/02/19/1984042.html"><time datetime="2023-02-19T10:47:00Z">13:47</time>ВВС Южной Кореи и США провели совместные учения</a></li>
+            <li><a href="/world/2023/02/19/1984041.html"><time datetime="2023-02-19T10:34:00Z">13:34</time>Блинкен заявил, что США опасаются помощи Китая РФ с летальным оружием</a></li>
+            <li><a href="/world/2023/02/19/1984040.html"><time datetime="2023-02-19T10:18:00Z">13:18</time>В Чехии заявили о нулевом импорте газа из РФ в январе</a></li>
+            <li><a href="/world/2023/02/19/1984039.html"><time datetime="2023-02-19T09:58:00Z">12:58</time>При стрельбе в Техасе погибли не менее четырех человек</a></li>
+            <li><a href="/russia/2023/02/19/1984045.html"><time datetime="2023-02-19T09:40:03Z">12:40</time>В Курской области с Украины трижды за утро обстреляли село</a></li>
+            <li><a href="/world/2023/02/19/1984037.html"><time datetime="2023-02-19T09:19:00Z">12:19</time>Боррель заявил, что Украина получает достаточно вооружений, но мало боеприпасов</a></li>
+            <li><a href="/world/2023/02/19/1984036.html"><time datetime="2023-02-19T09:00:54Z">12:00</time>Сестра Ким Чен Ына заявила, что КНДР не направит межконтинентальные ракеты на Сеул</a></li>
+            <li><a href="/world/2023/02/19/1984033.html"><time datetime="2023-02-19T07:07:00Z">10:07</time>В Китае заявили об успешном преодолении периода пандемии</a></li>
+            <li><a href="/world/2023/02/19/1984032.html"><time datetime="2023-02-19T06:46:00Z">09:46</time>В Сирии обстреляли ракетами военную базу США</a></li>
+            <li><a href="/world/2023/02/19/1984031.html"><time datetime="2023-02-19T06:23:00Z">09:23</time>Премьер Грузии заявил, что Саакашвили собирался устроить революцию</a></li>
+            <li><a href="/world/2023/02/19/1984030.html"><time datetime="2023-02-19T05:50:00Z">08:50</time>В Италии 16 человек пострадали на карнавале из-за перевернувшейся платформы</a></li>
+            <li><a href="/world/2023/02/19/1984029.html"><time datetime="2023-02-19T05:27:00Z">08:27</time>Макрон заявил, что Франция против «разгрома» России</a></li>
+            <li><a href="/world/2023/02/19/1984028.html"><time datetime="2023-02-19T05:03:00Z">08:03</time>В результате израильского ракетного удара в Дамаске погибли пять человек</a></li>
+            <li><a href="/world/2023/02/19/1984027.html"><time datetime="2023-02-19T04:39:00Z">07:39</time>В КНДР провели испытания баллистической ракеты «Хвасон-15»</a></li>
+            <li><a href="/main/2023/02/19/1984016.html"><time datetime="2023-02-19T04:15:00Z">07:15</time>Широкая Масленица: запреты и приметы</a></li>
+            <li><a href="/world/2023/02/19/1983979.html"><time datetime="2023-02-19T00:28:00Z">03:28</time>Эксперты рассказали, можно ли кормить кошку хлебом</a></li>
+            <li><a href="/world/2023/02/19/1984014.html"><time datetime="2023-02-18T22:29:00Z">01:29</time>Финляндия готова вступить в НАТО, не дожидаясь Швеции</a></li>
+                <li><time>18 февраля 2023</time></li>
+                <li><a href="/piter/2023/02/18/1984025.html"><time datetime="2023-02-18T20:55:00Z">23:55</time>В Петербурге временно закроют генконсульство Нидерландов</a></li>
+    </ul>
+<ul class="topnews-main" data-page="russia" style="display: none;">
+                <li><a href="/russia/2023/02/20/1984114.html"><time datetime="2023-02-20T14:55:00Z">17:55</time>В Сочи сошла лавина на санно-бобслейную трассу</a></li>
+            <li><a href="/russia/2023/02/20/1984113.html"><time datetime="2023-02-20T14:30:00Z">17:30</time>В шести регионах РФ отменили концерты рок-группы «Мумий Тролль»</a></li>
+            <li><a href="/piter/2023/02/20/1984119.html"><time datetime="2023-02-20T14:21:00Z">17:21</time>В Петербурге после капремонта открылась старейшая библиотека имени Белинского</a></li>
+            <li><a href="/russia/2023/02/20/1984111.html"><time datetime="2023-02-20T13:43:00Z">16:43</time>Песков посоветовал Молдавии осторожно говорить о выводе российских миротворцев из Приднестровья</a></li>
+            <li><a href="/russia/2023/02/20/1984108.html"><time datetime="2023-02-20T12:50:00Z">15:50</time>В Курской области шестеро военных погибли при пожаре в блиндаже</a></li>
+            <li><a href="/russia/2023/02/20/1984099.html"><time datetime="2023-02-20T11:30:00Z">14:30</time>В Красноярске задержали мужчину за развратные действия в отношении школьницы</a></li>
+            <li><a href="/moscow/2023/02/20/1984098.html"><time datetime="2023-02-20T10:59:00Z">13:59</time>В Новой Москве у девушки в руках взорвалась подарочная коробка</a></li>
+            <li><a href="/russia/2023/02/20/1984095.html"><time datetime="2023-02-20T10:40:00Z">13:40</time>На Алтае женщина заживо сожгла маленькую дочь на глазах у сына</a></li>
+            <li><a href="/russia/2023/02/20/1984092.html"><time datetime="2023-02-20T09:59:00Z">12:59</time>В Кузбассе аварийно сел вертолет, один человек погиб</a></li>
+            <li><a href="/russia/2023/02/20/1984093.html"><time datetime="2023-02-20T09:40:00Z">12:40</time>В Новосибирске отменили прямые выборы мэра</a></li>
+            <li><a href="/russia/2023/02/20/1984089.html"><time datetime="2023-02-20T08:59:00Z">11:59</time>Оползень разрушил часть федеральной трассы под Сочи</a></li>
+            <li><a href="/russia/2023/02/20/1984088.html"><time datetime="2023-02-20T08:40:00Z">11:40</time>Бастрыкин назвал количество уголовных дел по статье о дискредитации армии</a></li>
+            <li><a href="/russia/2023/02/20/1984086.html"><time datetime="2023-02-20T07:59:00Z">10:59</time>Жителя Приморья обвинили в хулиганстве за притворную «стрельбу» по мемориалу</a></li>
+            <li><a href="/piter/2023/02/20/1984091.html"><time datetime="2023-02-20T07:46:00Z">10:46</time>Бастрыкин поручил проверить сделку на 1 млрд рублей по продаже участка на Васильевском острове</a></li>
+            <li><a href="/piter/2023/02/20/1983747.html"><time datetime="2023-02-20T07:35:00Z">10:35</time>В арт-пространстве mArs ресторанный критик Иванова-Исаева будет искать различия между Масленицей и Mardi Gras</a></li>
+            <li><a href="/russia/2023/02/20/1984084.html"><time datetime="2023-02-20T07:20:00Z">10:20</time>В Хабаровске дедушка, лишенный водительских прав, дал порулить восьмилетнему внуку</a></li>
+            <li><a href="/russia/2023/02/20/1984056.html"><time datetime="2023-02-20T00:47:00Z">03:47</time>Психолог перечислила пять правил женщины, которую мужчины заваливают подарками</a></li>
+            <li><a href="/russia/2023/02/20/1984071.html"><time datetime="2023-02-19T22:42:00Z">01:42</time>Уролог рассказал, какие напитки помогут почкам оставаться здоровыми</a></li>
+                <li><time>19 февраля 2023</time></li>
+                <li><a href="/russia/2023/02/19/1984063.html"><time datetime="2023-02-19T18:55:00Z">21:55</time>Неизвестный открыл стрельбу в ТРЦ в Ростове-на-Дону</a></li>
+            <li><a href="/world/2023/02/19/1984061.html"><time datetime="2023-02-19T18:29:00Z">21:29</time>Украинские власти попросили Spotify удалить песни ряда российских исполнителей</a></li>
+            <li><a href="/piter/2023/02/19/1984059.html"><time datetime="2023-02-19T17:51:19Z">20:51</time>Умерла петербурженка, получившая тяжелые ожоги на кухне</a></li>
+            <li><a href="/world/2023/02/19/1984058.html"><time datetime="2023-02-19T17:49:00Z">20:49</time>Президент Украины утвердил санкции в отношении более 300 россиян</a></li>
+            <li><a href="/world/2023/02/19/1984057.html"><time datetime="2023-02-19T17:28:00Z">20:28</time>Bloomberg: Новые санкции США в отношении России коснутся энергосектора и ВПК</a></li>
+            <li><a href="/moscow/2023/02/19/1984055.html"><time datetime="2023-02-19T16:34:00Z">19:34</time>В Зеленограде мужчина швырнул ребенка в сугроб за то, что тот упал в лужу</a></li>
+            <li><a href="/moscow/2023/02/19/1984054.html"><time datetime="2023-02-19T16:10:00Z">19:10</time>В Москве водитель мусоровоза насмерть сбил женщину</a></li>
+            <li><a href="/russia/2023/02/19/1984051.html"><time datetime="2023-02-19T14:58:00Z">17:58</time>В СК РФ подтвердили причастность украинских спецслужб к инциденту на Крымском мосту</a></li>
+            <li><a href="/russia/2023/02/19/1984050.html"><time datetime="2023-02-19T14:22:00Z">17:22</time>Минпросвещения: «Разговоры о важном» будут проводиться не только для школьников, но и их родителей</a></li>
+            <li><a href="/russia/2023/02/19/1984049.html"><time datetime="2023-02-19T13:59:00Z">16:59</time>Песков раскрыл часть тем послания Путина Федеральному собранию</a></li>
+            <li><a href="/piter/2023/02/19/1984048.html"><time datetime="2023-02-19T13:11:00Z">16:11</time>В Петербурге 50-летнюю женщину не допустили в молодежное пространство</a></li>
+            <li><a href="/russia/2023/02/19/1984046.html"><time datetime="2023-02-19T12:52:00Z">15:52</time>Кадыров задумался о создании собственной ЧВК</a></li>
+            <li><a href="/russia/2023/02/19/1984038.html"><time datetime="2023-02-19T11:47:00Z">14:47</time>В Красноярском крае мужчина пытался выбросить из окна годовалую дочь</a></li>
+            <li><a href="/russia/2023/02/19/1984043.html"><time datetime="2023-02-19T11:04:00Z">14:04</time>Володин назвал подлостью планы отмены Дня Победы на Украине</a></li>
+            <li><a href="/russia/2023/02/19/1984045.html"><time datetime="2023-02-19T09:40:03Z">12:40</time>В Курской области с Украины трижды за утро обстреляли село</a></li>
+            <li><a href="/piter/2023/02/19/1983977.html"><time datetime="2023-02-19T03:31:00Z">06:31</time>В Петербурге минус пять и снегопад</a></li>
+            <li><a href="/moscow/2023/02/19/1983976.html"><time datetime="2023-02-19T02:30:00Z">05:30</time>В Москве минус четыре и метель</a></li>
+            <li><a href="/russia/2023/02/19/1984021.html"><time datetime="2023-02-18T23:40:00Z">02:40</time>Названы семь продуктов, усиливающих половое влечение</a></li>
+                <li><time>18 февраля 2023</time></li>
+                <li><a href="/piter/2023/02/18/1984025.html"><time datetime="2023-02-18T20:55:00Z">23:55</time>В Петербурге временно закроют генконсульство Нидерландов</a></li>
+            <li><a href="/world/2023/02/18/1984020.html"><time datetime="2023-02-18T18:20:00Z">21:20</time>Санду: Россия ведет гибридную войну против Молдавии</a></li>
+            <li><a href="/world/2023/02/18/1984019.html"><time datetime="2023-02-18T17:43:00Z">20:43</time>Нидерланды ограничат число работающих в стране российских дипломатов</a></li>
+            <li><a href="/moscow/2023/02/18/1984018.html"><time datetime="2023-02-18T17:19:00Z">20:19</time>В Москве арестован второй обвиняемый в захвате заложников в цветочном магазине</a></li>
+            <li><a href="/moscow/2023/02/18/1984015.html"><time datetime="2023-02-18T16:34:00Z">19:34</time>Суд арестовал одного из фигурантов дела о захвате заложников в Москве</a></li>
+            <li><a href="/world/2023/02/18/1984012.html"><time datetime="2023-02-18T15:32:00Z">18:32</time>USADA не станет проводить расследование в отношении российского бойца Махачева</a></li>
+            <li><a href="/russia/2023/02/18/1984009.html"><time datetime="2023-02-18T14:52:00Z">17:52</time>Врач раскрыл неочевидные причины набора веса</a></li>
+            <li><a href="/world/2023/02/18/1984008.html"><time datetime="2023-02-18T14:26:00Z">17:26</time>Страны G7 договорились усиливать санкционное давление на Россию</a></li>
+            <li><a href="/piter/2023/02/18/1984007.html"><time datetime="2023-02-18T13:52:40Z">16:52</time>На подъезде к аэропорту «Пулково» ограничат скоростной режим</a></li>
+            <li><a href="/moscow/2023/02/18/1984005.html"><time datetime="2023-02-18T13:29:00Z">16:29</time>РЕН ТВ: Москвич до смерти забил знакомого интерьерной ракушкой</a></li>
+            <li><a href="/russia/2023/02/18/1984002.html"><time datetime="2023-02-18T11:59:00Z">14:59</time>На Ямале сотрудник агрофирмы застрелил человека вместо оленя</a></li>
+            <li><a href="/piter/2023/02/18/1984003.html"><time datetime="2023-02-18T11:24:00Z">14:24</time>Станцию метро «Площадь Восстания» в 2026 году могут закрыть на ремонт</a></li>
+            <li><a href="/russia/2023/02/18/1983993.html"><time datetime="2023-02-18T10:59:00Z">13:59</time>Олимпийского чемпиона по волейболу Ильиных дисквалифицировали из-за пробы 2013 года</a></li>
+            <li><a href="/russia/2023/02/18/1983997.html"><time datetime="2023-02-18T10:20:00Z">13:20</time>В России за сутки госпитализированы более полутора тысяч человек с коронавирусом</a></li>
+            <li><a href="/russia/2023/02/18/1983995.html"><time datetime="2023-02-18T09:59:00Z">12:59</time>В Хабаровском крае мужчина убил пенсионера из ревности к общей знакомой</a></li>
+            <li><a href="/piter/2023/02/18/1983999.html"><time datetime="2023-02-18T09:54:00Z">12:54</time>Социолог Новкунская объяснила, к чему приводят представления о «правильных» мужчинах и женщинах</a></li>
+            <li><a href="/moscow/2023/02/18/1983992.html"><time datetime="2023-02-18T08:59:00Z">11:59</time>Пенсионер погиб под мусоровозом на юге Москвы</a></li>
+            <li><a href="/russia/2023/02/18/1983987.html"><time datetime="2023-02-18T07:20:00Z">10:20</time>Сход «Прогресса» с орбиты отложили, не найдя на нем повреждений</a></li>
+            <li><a href="/piter/2023/02/18/1983919.html"><time datetime="2023-02-18T03:31:00Z">06:31</time>В Петербурге минус четыре и снегопад</a></li>
+            <li><a href="/moscow/2023/02/18/1983918.html"><time datetime="2023-02-18T02:30:00Z">05:30</time>В Москве минус семь и метель</a></li>
+            <li><a href="/russia/2023/02/18/1983966.html"><time datetime="2023-02-17T23:06:00Z">02:06</time>Диетолог рассказала, каким должен быть идеальный завтрак</a></li>
+                <li><time>17 февраля 2023</time></li>
+                <li><a href="/russia/2023/02/17/1983975.html"><time datetime="2023-02-17T20:57:00Z">23:57</time>Астрономы вновь предупредили метеозависимых людей о скорой магнитной буре</a></li>
+            <li><a href="/russia/2023/02/17/1983974.html"><time datetime="2023-02-17T20:21:00Z">23:21</time>Путин присвоил командующим войсками ЗВО и ВВО звания генерал-полковников</a></li>
+            <li><a href="/piter/2023/02/17/1983972.html"><time datetime="2023-02-17T20:11:00Z">23:11</time>В Смольном соборе прошел первый концерт после передачи его РПЦ</a></li>
+    </ul>
+<ul class="topnews-main" data-page="world" style="display: none;">
+                <li><a href="/world/2023/02/20/1984117.html"><time datetime="2023-02-20T15:48:00Z">18:48</time>В парламент Грузии внесли законопроект об иноагентах</a></li>
+            <li><a href="/world/2023/02/20/1984118.html"><time datetime="2023-02-20T15:22:00Z">18:22</time>В Белоруссии 11 человек погибли в ДТП с маршруткой</a></li>
+            <li><a href="/world/2023/02/20/1984112.html"><time datetime="2023-02-20T14:05:00Z">17:05</time>Советник Байдена сообщил, что США до поездки президента в Киев связывались с РФ</a></li>
+            <li><a href="/world/2023/02/20/1984110.html"><time datetime="2023-02-20T13:20:55Z">16:20</time>Япония окажет помощь Украине на сумму $5,5 млрд</a></li>
+            <li><a href="/world/2023/02/20/1984107.html"><time datetime="2023-02-20T12:21:00Z">15:21</time>Глава Евросовета: Власти ЕС уже приняли все основные санкции против России</a></li>
+            <li><a href="/world/2023/02/20/1984105.html"><time datetime="2023-02-20T11:59:00Z">14:59</time>Байден в Киеве анонсировал новый пакет военной помощи Украине</a></li>
+            <li><a href="/world/2023/02/20/1984097.html"><time datetime="2023-02-20T11:50:00Z">14:50</time>В Новой Каледонии акула убила туриста из Австралии</a></li>
+            <li><a href="/world/2023/02/20/1984103.html"><time datetime="2023-02-20T10:18:00Z">13:18</time>Президент США Джо Байден тайно приехал в Киев</a></li>
+            <li><a href="/world/2023/02/20/1984094.html"><time datetime="2023-02-20T09:20:00Z">12:20</time>РБК: На центральных улицах Киева перекрыли движение по неизвестной причине</a></li>
+            <li><a href="/world/2023/02/20/1984087.html"><time datetime="2023-02-20T08:20:00Z">11:20</time>В Турции прекратили почти все поисково-спасательные работы после землетрясений</a></li>
+            <li><a href="/world/2023/02/20/1984085.html"><time datetime="2023-02-20T07:40:00Z">10:40</time>Германия из-за конфликта на Украине потеряла 100 млрд евро</a></li>
+            <li><a href="/world/2023/02/20/1984083.html"><time datetime="2023-02-20T06:59:00Z">09:59</time>Глава Минобороны ФРГ: Предстоящие недели станут решающими для Украины</a></li>
+            <li><a href="/world/2023/02/20/1984082.html"><time datetime="2023-02-20T06:30:00Z">09:30</time>Япония запросила заседание Совбеза ООН в связи с ракетным пуском КНДР</a></li>
+            <li><a href="/world/2023/02/20/1984081.html"><time datetime="2023-02-20T05:59:00Z">08:59</time>Польша потребовала от НАТО гарантий для Украины</a></li>
+            <li><a href="/business/2023/02/20/1984080.html"><time datetime="2023-02-20T05:30:00Z">08:30</time>Bloomberg: Власти США обеспокоены лидерством России и Китая на рынке удобрений</a></li>
+            <li><a href="/world/2023/02/20/1984077.html"><time datetime="2023-02-20T04:59:00Z">07:59</time>Сестра Ким Чен Ына пригрозила запускать ракеты в Тихий океан</a></li>
+            <li><a href="/world/2023/02/20/1984076.html"><time datetime="2023-02-20T04:30:00Z">07:30</time>Дуда: Вступление Белоруссии в конфликт на Украине станет «концом» для Лукашенко</a></li>
+            <li><a href="/world/2023/02/20/1984060.html"><time datetime="2023-02-19T23:16:00Z">02:16</time>«Аватар 2» занял третье место в списке самых кассовых картин в истории</a></li>
+            <li><a href="/world/2023/02/20/1984070.html"><time datetime="2023-02-19T21:32:00Z">00:32</time>Звезда «Спасти рядового Райана» Сайзмор экстренно госпитализирован с аневризмой головного мозга</a></li>
+                <li><time>19 февраля 2023</time></li>
+                <li><a href="/world/2023/02/19/1984069.html"><time datetime="2023-02-19T20:21:00Z">23:21</time>Землетрясения в Турции унесли жизни более 41 тыс. человек</a></li>
+            <li><a href="/world/2023/02/19/1984066.html"><time datetime="2023-02-19T19:59:00Z">22:59</time>В Белоруссии заявили о готовности нарастить численность силовых структур до 2 млн человек</a></li>
+            <li><a href="/world/2023/02/19/1984067.html"><time datetime="2023-02-19T19:57:25Z">22:57</time>Израильские истребители нанесли ракетный удар по Дамаску</a></li>
+            <li><a href="/world/2023/02/19/1984065.html"><time datetime="2023-02-19T19:18:00Z">22:18</time>В Турции завершены спасательные работы в 9 из 11 пострадавших от землетрясений провинций</a></li>
+            <li><a href="/world/2023/02/19/1984061.html"><time datetime="2023-02-19T18:29:00Z">21:29</time>Украинские власти попросили Spotify удалить песни ряда российских исполнителей</a></li>
+            <li><a href="/world/2023/02/19/1984058.html"><time datetime="2023-02-19T17:49:00Z">20:49</time>Президент Украины утвердил санкции в отношении более 300 россиян</a></li>
+            <li><a href="/world/2023/02/19/1984057.html"><time datetime="2023-02-19T17:28:00Z">20:28</time>Bloomberg: Новые санкции США в отношении России коснутся энергосектора и ВПК</a></li>
+            <li><a href="/world/2023/02/19/1984053.html"><time datetime="2023-02-19T15:51:00Z">18:51</time>Актера Ричарда Гира госпитализировали с пневмонией в Мексике</a></li>
+            <li><a href="/world/2023/02/19/1984052.html"><time datetime="2023-02-19T15:26:00Z">18:26</time>Bloomberg: ЕС и страны «семерки» хотят отслеживать торговлю российскими алмазами</a></li>
+            <li><a href="/russia/2023/02/19/1984051.html"><time datetime="2023-02-19T14:58:00Z">17:58</time>В СК РФ подтвердили причастность украинских спецслужб к инциденту на Крымском мосту</a></li>
+            <li><a href="/world/2023/02/19/1984047.html"><time datetime="2023-02-19T13:23:00Z">16:23</time>Новое исследование выявило связь между COVID-19 и диабетом</a></li>
+            <li><a href="/world/2023/02/19/1984044.html"><time datetime="2023-02-19T11:24:00Z">14:24</time>Обменянная на Бута американская баскетболистка вернулась в женскую НБА</a></li>
+            <li><a href="/world/2023/02/19/1984042.html"><time datetime="2023-02-19T10:47:00Z">13:47</time>ВВС Южной Кореи и США провели совместные учения</a></li>
+            <li><a href="/world/2023/02/19/1984041.html"><time datetime="2023-02-19T10:34:00Z">13:34</time>Блинкен заявил, что США опасаются помощи Китая РФ с летальным оружием</a></li>
+            <li><a href="/world/2023/02/19/1984040.html"><time datetime="2023-02-19T10:18:00Z">13:18</time>В Чехии заявили о нулевом импорте газа из РФ в январе</a></li>
+            <li><a href="/world/2023/02/19/1984039.html"><time datetime="2023-02-19T09:58:00Z">12:58</time>При стрельбе в Техасе погибли не менее четырех человек</a></li>
+            <li><a href="/world/2023/02/19/1984037.html"><time datetime="2023-02-19T09:19:00Z">12:19</time>Боррель заявил, что Украина получает достаточно вооружений, но мало боеприпасов</a></li>
+            <li><a href="/world/2023/02/19/1984036.html"><time datetime="2023-02-19T09:00:54Z">12:00</time>Сестра Ким Чен Ына заявила, что КНДР не направит межконтинентальные ракеты на Сеул</a></li>
+            <li><a href="/world/2023/02/19/1984033.html"><time datetime="2023-02-19T07:07:00Z">10:07</time>В Китае заявили об успешном преодолении периода пандемии</a></li>
+            <li><a href="/world/2023/02/19/1984032.html"><time datetime="2023-02-19T06:46:00Z">09:46</time>В Сирии обстреляли ракетами военную базу США</a></li>
+            <li><a href="/world/2023/02/19/1984031.html"><time datetime="2023-02-19T06:23:00Z">09:23</time>Премьер Грузии заявил, что Саакашвили собирался устроить революцию</a></li>
+            <li><a href="/world/2023/02/19/1984030.html"><time datetime="2023-02-19T05:50:00Z">08:50</time>В Италии 16 человек пострадали на карнавале из-за перевернувшейся платформы</a></li>
+            <li><a href="/world/2023/02/19/1984029.html"><time datetime="2023-02-19T05:27:00Z">08:27</time>Макрон заявил, что Франция против «разгрома» России</a></li>
+            <li><a href="/world/2023/02/19/1984028.html"><time datetime="2023-02-19T05:03:00Z">08:03</time>В результате израильского ракетного удара в Дамаске погибли пять человек</a></li>
+            <li><a href="/world/2023/02/19/1984027.html"><time datetime="2023-02-19T04:39:00Z">07:39</time>В КНДР провели испытания баллистической ракеты «Хвасон-15»</a></li>
+            <li><a href="/world/2023/02/19/1983979.html"><time datetime="2023-02-19T00:28:00Z">03:28</time>Эксперты рассказали, можно ли кормить кошку хлебом</a></li>
+            <li><a href="/world/2023/02/19/1984014.html"><time datetime="2023-02-18T22:29:00Z">01:29</time>Финляндия готова вступить в НАТО, не дожидаясь Швеции</a></li>
+            <li><a href="/world/2023/02/19/1984011.html"><time datetime="2023-02-18T21:19:00Z">00:19</time>Эксперты: Одиночество так же опасно для здоровья, как выкуривание полпачки сигарет в день или ожирение</a></li>
+                <li><time>18 февраля 2023</time></li>
+                <li><a href="/piter/2023/02/18/1984025.html"><time datetime="2023-02-18T20:55:00Z">23:55</time>В Петербурге временно закроют генконсульство Нидерландов</a></li>
+            <li><a href="/world/2023/02/18/1984026.html"><time datetime="2023-02-18T20:31:00Z">23:31</time>В Турции произошло новое землетрясение</a></li>
+            <li><a href="/world/2023/02/18/1984024.html"><time datetime="2023-02-18T19:59:00Z">22:59</time>Пашинян заявил об «определенной обеспокоенности» в связи с ОДКБ</a></li>
+            <li><a href="/world/2023/02/18/1984023.html"><time datetime="2023-02-18T19:34:00Z">22:34</time>В США анонсировали «очень значимую» речь Байдена, в ходе которой он может обратиться к Путину и россиянам</a></li>
+            <li><a href="/world/2023/02/18/1984022.html"><time datetime="2023-02-18T18:59:56Z">21:59</time>Reuters: ЕС рассматривает возможность совместных закупок боеприпасов для Украины</a></li>
+            <li><a href="/world/2023/02/18/1984020.html"><time datetime="2023-02-18T18:20:00Z">21:20</time>Санду: Россия ведет гибридную войну против Молдавии</a></li>
+            <li><a href="/world/2023/02/18/1984019.html"><time datetime="2023-02-18T17:43:00Z">20:43</time>Нидерланды ограничат число работающих в стране российских дипломатов</a></li>
+            <li><a href="/world/2023/02/18/1984017.html"><time datetime="2023-02-18T16:56:00Z">19:56</time>Молдавия попросила НАТО помочь системами ПВО</a></li>
+            <li><a href="/world/2023/02/18/1984013.html"><time datetime="2023-02-18T15:55:00Z">18:55</time>Турецкие власти не намерены переносить выборы президента из-за землетрясения</a></li>
+            <li><a href="/world/2023/02/18/1984012.html"><time datetime="2023-02-18T15:32:00Z">18:32</time>USADA не станет проводить расследование в отношении российского бойца Махачева</a></li>
+            <li><a href="/world/2023/02/18/1984008.html"><time datetime="2023-02-18T14:26:00Z">17:26</time>Страны G7 договорились усиливать санкционное давление на Россию</a></li>
+            <li><a href="/world/2023/02/18/1984006.html"><time datetime="2023-02-18T13:59:00Z">16:59</time>Число жертв землетрясений в Турции превысило 40 тысяч</a></li>
+            <li><a href="/world/2023/02/18/1984004.html"><time datetime="2023-02-18T12:59:00Z">15:59</time>Пекин готовит план урегулирования конфликта на Украине</a></li>
+    </ul>
+</div>
+<a href="/allnews/" class="read-allnews">Читать все новости</a>
+
+
+        </div>
+        <div class="articleslist">
+            
+            <div class="admain">
+            <!--AdFox START-->
+<!--adsmart-->
+<!--Площадка: Rosbalt.ru / all_pages / adsmart-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: adsmart-->
+<div id="adfox_157414543436579217"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+        ownerId: 1435,
+        containerId: 'adfox_157414543436579217',
+        params: {
+            p1: 'chyra',
+            p2: 'ul',
+            puid20: ''
+        }
+    })
+    })
+</script>
+
+            </div>
+                        <div class="artrow-head">
+<hr style='margin-right:12px;'>    
+                <a href="/articles/" class="heading">Статьи, мнения</a>
+        </div>
+<div style='display: grid;grid-template-columns: 1fr 1fr;'>
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/piter/2023/02/20/1984096.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/piter/2023/02/20/1984096.html" data-title="Мальчики — защитники, девочки — украшение?">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">940</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/ed/2c/9c/d1/wQnGYMTg2WJX-280.jpg" class="th280" alt="CC0 Public Domain" />
+        <span class="head">Мальчики — защитники, девочки — украшение?</span>
+    <span class="lead">Споры, как должны вести себя идеальные мужчина и женщина, человечество ведет давно и с переменным успехом. </span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/main/2023/02/18/1983986.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/main/2023/02/18/1983986.html" data-title="За отказ от бензина будут доплачивать">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">3966</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/ab/6c/d0/39/bt9yHgLpBX38-280.jpg" class="th280" alt="CC0 Public Domain" />
+        <span class="head">За отказ от бензина будут доплачивать</span>
+    <span class="lead">Российские власти начали делать конкретные шаги по развитию не только промышленного производства электрического автотранспорта, но и его использования гражданами.</span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/17/1983964.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/17/1983964.html" data-title="США ждут последствия за подрыв «Северных потоков», ВСУ выбиты из Парасковиевки, Макрон признал, что Россия останется частью Европы">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">24184</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/05/6f/d1/26/qLnC3ytN9Gvz-280.jpg" class="th280" alt="Стоп-кадр видео МО РФ" />
+        <span class="head">США ждут последствия за подрыв «Северных потоков», ВСУ выбиты из Парасковиевки, Макрон признал, что Россия останется частью Европы</span>
+    <span class="lead">Специальная военная операция продолжается: главное за 17 февраля.</span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/17/1983913.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/17/1983913.html" data-title="Ереван, Анкара и Баку ухватились за шанс договориться">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">2316</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/bd/d9/c8/44/LjvXwk2TrMWB-280.jpg" class="th280" alt="Фото с сайта &lt;a href=&quot;https://www.mfa.am&quot;&gt;МИД Армении&lt;/a&gt;" />
+        <span class="head">Ереван, Анкара и Баку ухватились за шанс договориться</span>
+    <span class="lead">Взаимные претензии никуда не делись, но процесс урегулирования на Южном Кавказе еще никогда не подходил так близко к реальному успеху.</span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/world/2023/02/16/1983910.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/world/2023/02/16/1983910.html" data-title="ВС РФ поразили командные пункты трех бригад ВСУ, Нуланд обвинила Россию в желании «ложного» мира, Европарламент не хочет переговоров по Украине">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">16149</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/be/b8/bc/88/FXjhRcYytTD4-280.jpg" class="th280" alt="Фото с сайта Минобороны РФ" />
+        <span class="head">ВС РФ поразили командные пункты трех бригад ВСУ, Нуланд обвинила Россию в желании «ложного» мира, Европарламент не хочет переговоров по Украине</span>
+    <span class="lead">Специальная военная операция продолжается: главное за 16 февраля.</span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/piter/2023/02/16/1983875.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/piter/2023/02/16/1983875.html" data-title="Операция «Акапулько»: дело о тонне кокаина">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">2328</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/e4/c3/ab/8e/78HYcyJBNhVz-280.jpg" class="th280" alt="Фото пресс-службы Следственного комитета" />
+        <span class="head">Операция «Акапулько»: дело о тонне кокаина</span>
+    <span class="lead">В 1993 году в Санкт-Петербурге была проведена весьма неординарная операция по пресечению контрабанды наркотиков. </span>
+    </a> 
+</div>
+
+    </div>
+
+
+
+<div class="artrow-head">
+<hr style='margin-right:12px;'>    
+                <a href="/posts/" class="heading">Реакция</a>
+        </div>
+<div style='display: grid;grid-template-columns: 1fr 1fr;'>
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/20/1984120.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/20/1984120.html" data-title="Telegram-канал Proeconomics. В развитых странах становятся все популярнее мини-АЭС">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">73</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/d/2/f/5/cGNxhwpP-280.jpg" class="th280" alt="CC0" />
+        <span class="head">Telegram-канал Proeconomics. В развитых странах становятся все популярнее мини-АЭС</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/20/1984109.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/20/1984109.html" data-title="Алексей Макаркин. Что кроется за визитом Байдена в Киев">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">1507</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/ca/e2/8d/66/XwhMY8mVKQ74-280.jpg" class="th280" alt="Стоп-кадр видео WH.GOV" />
+        <span class="head">Алексей Макаркин. Что кроется за визитом Байдена в Киев</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/20/1984104.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/20/1984104.html" data-title="Евгений Коган. Искусственный интеллект может лишить работы каждого пятого жителя России">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">1428</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/2a/b4/a2/7d/cxqR9kCmgXdV-280.jpg" class="th280" alt="CC0 Public Domain" />
+        <span class="head">Евгений Коган. Искусственный интеллект может лишить работы каждого пятого жителя России</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/20/1984101.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/20/1984101.html" data-title="Ярослав Игнатовский. Конспирология и реальность">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">1755</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/90/de/8f/c0/YXQTpnHwGzv8-280.jpg" class="th280" alt="Фото с сайта &lt;a href=&quot;https://www.tccb.gov.tr/&quot;&gt;tccb.gov.tr&lt;/a&gt;" />
+        <span class="head">Ярослав Игнатовский. Конспирология и реальность</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/20/1984090.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/20/1984090.html" data-title="Telegram-канал «Записки на заборе». Как разные страны видят будущее России">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">5193</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/1/2/d/9/6yWwQpVD-280.jpg" class="th280" alt="Иллюстрация ИА «Росбалт»" />
+        <span class="head">Telegram-канал «Записки на заборе». Как разные страны видят будущее России</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/19/1984035.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/19/1984035.html" data-title="Аркадий Дубнов. Вся президентская рать встретилась в Дубае">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">6493</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/0/8/1/a/FPDRmcgk-280.jpg" class="th280" alt="СС0 Public Domain" />
+        <span class="head">Аркадий Дубнов. Вся президентская рать встретилась в Дубае</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/19/1984034.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/19/1984034.html" data-title="Василий Головнин. Китай пока явно не готов отказываться от доллара">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">11100</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/9/5/d/e/LNBfxpPc-280.jpg" class="th280" alt="СС0 Public Domain" />
+        <span class="head">Василий Головнин. Китай пока явно не готов отказываться от доллара</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    
+<div class="hotmat" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+  <a href="/posts/2023/02/18/1984010.html">
+    <div class="hover" data-url="https://www.rosbalt.ru/posts/2023/02/18/1984010.html" data-title="Илья Гращенков. Путин и парламентские партии — каковы итоги встреч?">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+      <div class="image-rollover rollover-views">7085</div>
+    </div>
+    <img src="https://img.rosbalt.ru/photobank/d3/e3/24/0d/Dy2Yqbt8h3RM-280.jpg" class="th280" alt="Фото с сайта &lt;a href=&quot;http://www.kremlin.ru&quot;&gt;kremlin.ru&lt;/a&gt;" />
+        <span class="head">Илья Гращенков. Путин и парламентские партии — каковы итоги встреч?</span>
+    <span class="lead"></span>
+    </a> 
+</div>
+
+    </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+       
+      <!-- sidebar -->
+      <div class="sidebar sidebar-wrapper" data-equalizer>
+          <div class="sticky">
+            <div style='width:300px;'>
+
+
+<!--AdFox START-->
+<!--rosbalt.ru-->
+<!--Площадка: rosbalt.ru / * / *-->
+<!--Тип баннера: TGB 100х300 MITS-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_150478077676336102"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+        ownerId: 165068,
+        containerId: 'adfox_150478077676336102',
+        params: {
+            pp: 'g',
+            ps: 'nze',
+            p2: 'ewvu'
+        }
+    })
+    })
+</script>
+
+</div>
+
+<!--AdFox START-->
+<!--adsmart-->
+<!--Площадка: Rosbalt.ru [vs3] / all_pages / 300x600-->
+<!--Категория: <не задана>-->
+<!--Тип баннера: 300x600-->
+<div id="adfox_162799006365523415" style="width:300px;"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+        ownerId: 1435,
+        containerId: 'adfox_162799006365523415',
+        params: {
+            p1: 'cqgwr',
+            p2: 'hhro'
+        }
+    })
+})
+</script>
+
+<div id="tgb">
+
+<div class="clear"></div><div style='margin-top:5px;width:300px;'>
+
+<!--AdFox START-->
+<!--rosbalt.ru-->
+<!--Площадка: rosbalt.ru / * / *-->
+<!--Тип баннера: TGB 100х300-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_150478086022016486"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+        ownerId: 165068,
+        containerId: 'adfox_150478086022016486',
+        params: {
+            pp: 'g',
+            ps: 'nze',
+            p2: 'eobm'
+        }
+        })
+    })
+</script>
+
+
+<div class="clear"></div>
+
+</div>
+</div>
+
+<div class="editorschoice">
+<span class="themed-heading editors-choice-1" style='padding:0;'>Выбор читателей</span>
+    <ul class="exclusive">
+        <li>
+        <a href="/world/2023/02/19/1984064.html?utm_source=rosbalt&utm_medium=web&utm_campaign=editorchoice">
+                        <div class="editorschoice-thumb" style="background:url('https://img.rosbalt.ru/photobank/a8/1c/c5/1b/pxGfygbdX6zY-112.jpg')"></div>
+                        <span>Китай намерен представить мирный план в годовщину СВО, Евросоюз стал армией Украины, Киев просит кассетные боеприпасы</span>
+        </a>
+    </li>
+        <li>
+        <a href="/russia/2023/02/19/1984038.html?utm_source=rosbalt&utm_medium=web&utm_campaign=editorchoice">
+                        <div class="editorschoice-thumb" style="background:url('https://img.rosbalt.ru/photobank/2/b/5/b/KY8XHG2Q-112.jpg')"></div>
+                        <span>В Красноярском крае мужчина пытался выбросить из окна годовалую дочь</span>
+        </a>
+    </li>
+        <li>
+        <a href="/world/2023/02/19/1984044.html?utm_source=rosbalt&utm_medium=web&utm_campaign=editorchoice">
+                        <div class="editorschoice-thumb" style="background:url('https://img.rosbalt.ru/photobank/f1/b1/33/33/7bmZyRxcHqgB-112.jpg')"></div>
+                        <span>Обменянная на Бута американская баскетболистка вернулась в женскую НБА</span>
+        </a>
+    </li>
+        <li>
+        <a href="/main/2023/02/19/1984016.html?utm_source=rosbalt&utm_medium=web&utm_campaign=editorchoice">
+                        <div class="editorschoice-thumb" style="background:url('https://img.rosbalt.ru/photobank/dd/5d/1e/14/gR86WYxrjv4F-112.jpg')"></div>
+                        <span>Широкая Масленица: запреты и приметы</span>
+        </a>
+    </li>
+        <li>
+        <a href="/style/2023/02/19/1983978.html?utm_source=rosbalt&utm_medium=web&utm_campaign=editorchoice">
+                        <div class="editorschoice-thumb" style="background:url('https://img.rosbalt.ru/photobank/db/00/38/be/VFjcnTN3JHCw-112.jpg')"></div>
+                        <span>Астролог Глоба назвала знак зодиака, которому весна принесет удачу</span>
+        </a>
+    </li>
+        <li>
+        <a href="/style/2023/02/18/1983920.html?utm_source=rosbalt&utm_medium=web&utm_campaign=editorchoice">
+                        <div class="editorschoice-thumb" style="background:url('https://img.rosbalt.ru/photobank/9a/58/b7/65/PYFjbc987TMN-112.jpg')"></div>
+                        <span>Астрологи раскрыли пять знаков зодиака, которые всегда нравятся работодателям</span>
+        </a>
+    </li>
+        </ul>
+</div>
+
+
+      
+    
+    </div>
+          
+      </div>
+
+    </div>
+    
+  
+  
+  
+  
+
+       <div class="block4">
+  <div class="main-content">
+    <div class="row">
+      <div class="newslist">
+        <hr class="c1">
+          <a href="/style/" class="heading name4">Стиль жизни</a>
+                
+          <div class="shot" onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+            <a href="/piter/2023/02/20/1984096.html">
+              <div class="hover" data-url="https://www.rosbalt.ru/piter/2023/02/20/1984096.html" data-title="Мальчики — защитники, девочки — украшение?">
+                        <div class="image-rollover fader"></div>
+<div onclick="share.vk(this.parentNode);" class="image-rollover rollover-vk"></div>
+<div onclick="share.tw(this.parentNode)" class="image-rollover rollover-tw"></div>
+<div onclick="share.tg(this.parentNode)" class="image-rollover rollover-tg"></div>
+                <div class="image-rollover rollover-views">940</div>
+              </div>
+
+              <img class="th280" loading="lazy" width="280" height="210" src="//img.rosbalt.ru/photobank/ed/2c/9c/d1/wQnGYMTg2WJX-280.jpg" alt="" />
+              <span class="head">Мальчики — защитники, девочки — украшение?</span>
+            </a>
+
+          </div>
+
+      </div>
+
+      <div class="articleslist">
+        <div class="row">
+          <div class="slide4">
+            <hr class="c2">
+            <div class="shot">
+              <ul class="col3">
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                  <a href="/moscow/2023/02/20/1984100.html">
+                    <div class="hover">
+                      <div class="image-rollover fader-small"></div>
+                      <div class="image-rollover rollover-views-small">568</div>
+                    </div>
+                    <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/0/a/a/2/83MNdpcP-112.jpg" alt="" />
+                    <span>Черешня, абрикосы и кивано: какие экзотические плоды можно вырастить на подмосковных участках</span>
+                  </a>
+                </li>
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                  <a href="/piter/2023/02/20/1983747.html">
+                    <div class="hover">
+                      <div class="image-rollover fader-small"></div>
+                      <div class="image-rollover rollover-views-small">2234</div>
+                    </div>
+                    <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/26/99/96/a0/PxYfXGtmKM3n-112.jpg" alt="" />
+                    <span>В арт-пространстве mArs ресторанный критик Иванова-Исаева будет искать различия между Масленицей и Mardi Gras</span>
+                  </a>
+                </li>
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                  <a href="/style/2023/02/20/1984062.html">
+                    <div class="hover">
+                      <div class="image-rollover fader-small"></div>
+                      <div class="image-rollover rollover-views-small">4796</div>
+                    </div>
+                    <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/0b/80/e2/b5/rXLDGcR8x3pF-112.jpg" alt="" />
+                    <span>Астрологи раскрыли три знака зодиака, которые не умеют любить</span>
+                  </a>
+                </li>
+                              </ul>
+            </div>
+
+          </div>
+          <div class="slide4">
+            <hr class="c3">
+            <div class="shot">
+
+            <ul class="col3">
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                    <a href="/russia/2023/02/20/1984056.html">
+                        <div class="hover">
+                            <div class="image-rollover fader-small"></div>
+                            <div class="image-rollover rollover-views-small">1822</div>
+                        </div>
+                        <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/8/f/9/c/DfhbnGF3-112.jpg" alt="" />
+                        <span>Психолог перечислила пять правил женщины, которую мужчины заваливают подарками</span>
+                    </a>
+                </li>
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                    <a href="/world/2023/02/20/1984060.html">
+                        <div class="hover">
+                            <div class="image-rollover fader-small"></div>
+                            <div class="image-rollover rollover-views-small">977</div>
+                        </div>
+                        <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/aa/60/6f/fa/7Kv6HnrCDPwZ-112.jpg" alt="" />
+                        <span>«Аватар 2» занял третье место в списке самых кассовых картин в истории</span>
+                    </a>
+                </li>
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                    <a href="/russia/2023/02/20/1984071.html">
+                        <div class="hover">
+                            <div class="image-rollover fader-small"></div>
+                            <div class="image-rollover rollover-views-small">1398</div>
+                        </div>
+                        <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/d8/7d/aa/2b/WHNXfqKmn4TB-112.jpg" alt="" />
+                        <span>Уролог рассказал, какие напитки помогут почкам оставаться здоровыми</span>
+                    </a>
+                </li>
+                            </ul>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="sidebar">
+        <hr class="c4">
+        <div class="shot">
+
+            <ul class="col3">
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                    <a href="/world/2023/02/20/1984070.html">
+                        <div class="hover">
+                            <div class="image-rollover fader-small"></div>
+                            <div class="image-rollover rollover-views-small">940</div>
+                        </div>
+                        <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/60/18/d7/98/HC2nbfPr79YX-112.jpg" alt="" />
+                        <span>Звезда «Спасти рядового Райана» Сайзмор экстренно госпитализирован с аневризмой головного мозга</span>
+                    </a>
+                </li>
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                    <a href="/world/2023/02/19/1984053.html">
+                        <div class="hover">
+                            <div class="image-rollover fader-small"></div>
+                            <div class="image-rollover rollover-views-small">2630</div>
+                        </div>
+                        <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/c/7/2/d/6R9KbJjW-112.jpg" alt="" />
+                        <span>Актера Ричарда Гира госпитализировали с пневмонией в Мексике</span>
+                    </a>
+                </li>
+                                <li onmouseout="hide_sub(this)" onmouseover="show_sub(this)">
+                    <a href="/world/2023/02/19/1984047.html">
+                        <div class="hover">
+                            <div class="image-rollover fader-small"></div>
+                            <div class="image-rollover rollover-views-small">1419</div>
+                        </div>
+                        <img loading="lazy" width="112" height="80" src="//img.rosbalt.ru/photobank/b/a/8/5/cFnNzQTt-112.jpg" alt="" />
+                        <span>Новое исследование выявило связь между COVID-19 и диабетом</span>
+                    </a>
+                </li>
+                            </ul>
+
+        </div>
+    </div>
+</div>
+
+
+  
+
+    
+            
+  
+<!-- Yandex.RTB R-A-45272-23 -->
+<div id="yandex_rtb_R-A-45272-23" style='max-width:1200px;margin:0 auto;max-height:300px;'></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-45272-23',
+    blockId: 'R-A-45272-23'
+  })
+})</script>
+
+      <div class="main-press">
+    <div class="press">
+            
+    <hr class="c1">
+    <a href="/press-center/" class="heading name4">Пресс-центр</a>
+
+    <ul>
+            <li><a href="/main/2023/02/21/1983751.html"><time datetime="2023-02-21T12:00:00Z">21 февраля 2023, 15:00</time> Петербург будущего: каким должен быть мегаполис, чтобы в нем хотелось жить</a></li>
+        </ul>
+
+    </div>
+</div>
+
+  
+
+</main>
+
+    <footer>
+        <div class="footer-wrapper">
+
+    <div class="footer-menu">
+        <ul class="footer-menu__main">
+            <li><a href="/">Главная</a></li>
+            <li><a href="https://m.rosbalt.ru/">Мобильная версия</a></li>
+            <li><a href="/feed/">RSS</a></li>
+            <li><a href="/search/">Поиск</a></li>
+            <li><a href="/page/proj/">Спецпроекты</a></li>
+            <li><a href="/poll/">Опросы</a></li>
+            <li><a href="/photobank/">Фотобанк</a></li>
+            <li><a href="/page/ads/">Реклама</a></li>
+            <li><a href="/page/vacancy/">Вакансии</a></li>
+            <li><a href="/about/">Контакты</a></li>
+            <li><a href="/aboutus/">О нас</a></li>
+        </ul>
+        <ul class="footer-menu__btn">
+            <li class="mobile"><a href="https://m.rosbalt.ru/"></a></li>
+            <li class="search"><a href="/search/"></a></li>
+            <li><span class="esrb">18+</span></li>
+        </ul>
+    </div>
+    <div class="copyrights">
+        <div>
+            © 2000-2023 Росбалт.RU<br/>
+            Все права на материалы,<br/>
+            размещенные на сайте ИА «Росбалт»,<br/>
+            защищены и охраняются законом<br/>
+            Российской Федерации.
+        </div>
+        <div>
+            При полном или частичном<br/>
+            использовании аналитики, интервью<br/>
+            или новостей ИА «Росбалт» активная<br/>
+            гиперссылка на главную страницу<br/>
+            www.rosbalt.ru обязательна.
+        </div>
+        <div>
+            Мнение редакции не всегда<br/>
+            совпадает с мнением авторов.<br/>
+            Заметили ошибку в тексте?<br/>
+            Выделите её и нажмите Ctrl-Enter,<br/>
+            чтобы отослать информацию редактору.
+        </div>
+        <div>
+            © 2023 ИА «Росбалт»<br/>
+            © 2023 Программирование и дизайн: ИА «Росбалт»<br/>
+            Использование иллюстраций<br/>
+            возможно только с письменного согласия редакции.
+        </div>
+    </div>
+
+    <div class="counters">
+        <div class="social">
+            <ul class="footer-logo__social"> 
+     <li class="tw"><a target="_blank" rel="noopener" href="https://twitter.com/rosbaltru"></a></li>
+    <li class="vk"><a target="_blank" rel="noopener" href="https://vk.com/public34710108"></a></li>
+    <li class="te"><a target="_blank" rel="noopener" href="https://t.me/RosbaltPoint"></a></li>
+    <li class="yt"><a target="_blank" rel="noopener" href="https://www.youtube.com/user/RosbaltMoscow"></a></li>
+  </ul>
+        </div>
+        <div class="count">
+            <a href="https://www.liveinternet.ru/click" rel="nofollow noopener" target="_blank"><img src="//counter.yadro.ru/logo?45.01" title="LiveInternet" alt=""/></a>
+        </div>
+    </div>
+
+    <div class="registration">
+    Свидетельство о регистрации СМИ Эл N77-20023 выдано Федеральной службой по надзору за соблюдением законодательства в сфере массовых коммуникаций и охране культурного наследия 15.10.2004<br/>
+Свидетельство о регистрации СМИ ИА N77-7286 выдано Министерством Российской Федерации по делам печати, телерадиовещания и средств массовой информации 28.01.2001<br/>
+Учредитель: АО «РС-Балт», внесенное Минюстом в реестр иностранных средств массовой информации, выполняющих функции иностранного агента<br/>
+Главный редактор: Афонина Л.В.<br/>
+Адрес электронной почты редакции: main@rosbalt.ru<br/>
+Настоящий ресурс содержит материалы 18+
+    </div>
+
+</div>
+</footer>
+    <div class="popup-search" id="popupSearch">
+	<div class="popup-search__close" id="popupSearchClose"></div>
+    <div class="popup-search__form">
+
+
+        <form method="POST" action="/search/">
+            <input type="text" value="" name="q" class="search" id="search_field">
+            <input type="submit" class="submit" name="submit" value="">
+        </form>
+
+    <div class="popup-search-results">
+    </div>
+
+    </div>
+
+</div>
+
+
+    <div class="popup-hamburger" id="popupHamburger">
+    <div class="ham-menu">
+
+        <div class="ham-logo__container">
+        <a class="ham-logo" href="/"></a>
+        </div>
+
+        <div class="row">
+        <ul class="ham-menu__main ham-menu__main1">
+            <li><a href="/allnews/">Новости</a></li>
+            <li><a href="/articles/">Статьи</a></li>
+            <li><a href="/opinions/">Мнения</a></li>
+                        <li><a href="/blogs/">Блоги</a></li>
+            <li><a href="/business/">Бизнес</a></li>
+            <li><a href="/style/">Стиль</a></li>
+            <li><a href="/press/">Релизы</a></li>
+            <li><a href="/press-center/">Пресс-центр</a></li>
+            <li><a href="/federal/">В России</a></li>
+            <li><a href="/moscow/">Москва</a></li>
+            <li><a href="/piter/">Петербург</a></li>
+                        <li><a href="/exussr/">В мире</a></li>
+        </ul>
+            
+        </div>
+
+        <div class="row">
+            <div class="ham-menu__divider"></div>
+        </div>
+
+        <div class="social ham-social">
+        <div class="social-likes" data-url="https://www.rosbalt.ru" data-title="Росбалт" >
+    <div class="telegram" title="Поделиться ссылкой в Telegram"></div>
+    <div class="vkontakte" title="Поделиться ссылкой во Вконтакте"></div>
+    <div class="odnoklassniki" title="Поделиться ссылкой в Одноклассниках"></div>
+    <div class="twitter" title="Поделиться ссылкой в Твиттере"></div>
+</div>
+
+        </div>
+
+        <div class="row">
+
+        <ul class="ham-menu__main ham-menu__black">
+            <li><a href="https://m.rosbalt.ru/">Мобильная версия</a></li>
+            <li><a href="/poll/">Опросы</a></li>
+            <li><a href="/photobank/">Фотобанк</a></li>
+            <li><a href="/page/proj/">Спецпроекты</a></li>
+            <li><a href="/page/ads/">Реклама</a></li>
+            <li><a href="/page/vacancy/">Вакансии</a></li>
+            <li><a href="/about/">Контакты</a></li>
+            <li><a href="/aboutus/">О нас</a></li>
+        </ul>
+
+        </div>
+
+    </div>
+</div>
+
+
+  
+</body>
+</html>

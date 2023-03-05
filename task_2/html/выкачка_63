@@ -1,0 +1,1134 @@
+<!doctype html>
+<html lang="ru" bounces="no">
+<head>
+    <meta charset="UTF-8">
+    <title>Сайт Владивостока</title>
+            <link rel="stylesheet" href="/assets/css/styles.9bdf4fc48d530a8adcb3901bd42ed789.css">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <link rel="canonical" href="https://www.vl.ru">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <meta name="title" content="Сайт Владивостока">
+
+    <meta name="keywords"
+          content="владивосток новости работа бизнес отдых кино рестораны спорт развлечения спортивные залы интернет барахолка доска объявлений форумы телефоны пейджеры провайдер связь автомобили предприятия фирма">
+    <meta name="description"
+          content="Сайт Владивостока: городские новости, курс валют, банки и кредиты. Доска объявлений, продажа, квартиры, дома, земельные участки, автомобили, сотовые телефоны, животные. Досуг: знакомства девушки, кино, тв-программа, театр, рестораны и кафе, клубы. Погода. Городские форумы, комментарии.">
+    <meta name="author" lang="ru" content="VL.ru">
+
+            <meta property="og:image" content="/apple-touch-icon-192-precomposed.png">
+    
+        <meta name="Copyright" lang="ru" content="VL.ru Сайт города">
+
+        <meta name="candy.config" content='{"id":9,"geoc":4,"geor":25,"block":1,"blockcampaign":1}'>
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <meta name="yandex-verification" content="363f81432886c35b" />
+    <meta name="google-site-verification" content="xTim7baCt8XMYo97L483l_PEDCBmXWuyCgCuq9FgV0Y" />
+
+        <meta name="apple-mobile-web-app-title" content="VL.ru">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-152-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon-180-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="192x192" href="/apple-touch-icon-192-precomposed.png">
+        <script>window.optimizeLoaded = false;
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){a.optimizeLoaded = true; a.dispatchEvent(new Event('optimize:loaded'))};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+            {'GTM-NLNPGDQ':true});
+</script>
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-16970504-1', 'vl.ru');
+    ga('require', 'GTM-NLNPGDQ');
+    ga('require', 'ec');
+    ga('send', 'pageview');
+
+        ga('create', 'UA-16970504-20', 'vl.ru', {'name': 'allProjects'});
+    ga('allProjects.require', 'ec');
+    ga('allProjects.send', 'pageview');
+</script>
+</head>
+<body bounces="no">
+            <!--LiveInternet counter-->
+<script type="text/javascript"><!--
+    new Image().src = "//counter.yadro.ru/hit;farpost?r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";"+Math.random();//-->
+</script>
+<!--/LiveInternet-->
+
+    <div class="offcanvas">
+    <div class="offcanvas__inner">
+        <ul class="nav_main">
+            <li class="nav_main__item"><a class="nav_main__item-link nav_main__item-link_seagull nav_main__item-link_important" href="/">Главная VL.ru</a></li>
+        </ul>
+            <ul class="nav_main">
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_martini" href="https://www.vl.ru/afisha/vladivostok?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Афиша">Афиша</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://kino.vl.ru/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Кино">Кино</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/afisha/vladivostok/events/by-category-concert?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Концерты">Концерты</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_lightning" href="https://www.vl.ru/off/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Отключения воды и света">Отключения воды и света</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/off/o/?utm_medium=left_menu&amp;utm_source=vl.ru&amp;utm_term=%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2">Показания счетчиков</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_home" href="https://www.vl.ru/vladivostok/real-estate-building/all-property/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=недвижимость">Недвижимость</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.farpost.ru/vladivostok/realty/sell_flats/">Продажа квартир</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/vladivostok/real-estate-building/all-property/new-buildings/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=новостройки">Новостройки</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_phone" href="https://www.vl.ru/spravochnik">Справочник компаний</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/fun/cafe">кафе, бары и рестораны</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_relaxbase" href="https://www.vl.ru/travel?utm_source=vl.ru&amp;utm_medium=menu">Базы отдыха</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_advert" href="https://www.farpost.ru/vladivostok/">FarPost - объявления</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.farpost.ru/vladivostok/auto/wheel/tire/">шины</a>
+                            </li>
+                                                                                                                                                                                                    <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link nav_main-subitems__item-link_job" href="https://www.farpost.ru/vladivostok/job/">Работа</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_med" href="https://www.vl.ru/med/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Врачи Владивостока">Врачи Владивостока</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_tv" href="https://www.vl.ru/tv/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=ТВ-программа">ТВ-программа</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_bus" href="https://www.vl.ru/transport/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Транспорт">Транспорт</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/transport/trains?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Пригородные поезда">Пригородные поезда</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/transport/bus?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Расписание автобусов">Расписание автобусов</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/transport/flight/arrive">авиарейсы</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_auto" href="https://www.drom.ru/">Авто на Дроме</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_sp" href="https://www.100sp.ru/vladivostok?utm_source=utm_vl.ru&amp;utm_medium=link&amp;utm_campaign=main">Совместные покупки</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_primkupon" href="https://vladivostok.lovikupon.ru/today/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=ЛовиКупон">ЛовиКупон</a>
+                
+                            </li>
+            </ul>
+
+    </div>
+</div>
+    <div class="sticky-header">
+    <div class="sticky-header__wrapper">
+        <div class="sticky-header__block sticky-header__block_logo">
+            <a href="/" class="sticky-header__logo">VL.ru</a>
+        </div>
+
+        <div class="sticky-header__block sticky-header__block_widget">
+            <div class="sticky-header__controls">
+                <div class="sticky-header__widget">                    
+            <div class="weather weather_mobile">
+            <a href="https://www.vl.ru/weather/vladivostok" class="weather__info" title="Облачно, до 7 м/с" style="background-image: url(https://www.vl.ru/weather/assets/forecast-icons/n_c2.svg);" target="_blank">
+                <div class="weather__temperature">
+                    <span class="weather__temperature-degree">-9°</span>
+                    <span class="weather__wind-temperature">ощущение как -17°</span>
+                </div>
+                <span class="weather__wind">до 7 м/с</span>
+                <span class="weather__wind-direction">
+                    <span class="weather__wind-direction-compass">С-З</span>
+                    <span class="weather__wind-direction-degrees" style="transform: rotate(330deg)"></span>
+                </span>
+            </a>
+            <div class="weather__description">
+                Облачно
+            </div>
+        </div>
+    </div>
+                <div class="sticky-header__widget">        
+            <div class="currency-rates">
+            <a href="https://www.vl.ru/dengi/" class="currency-rates__list" target="_blank">
+                <span class="currency-rates__item" data-currency-symbol="$">
+                    <span class="currency-rates__item-value currency-rates__arrow-down"
+                          title="−0,7156">74,0432</span>
+                    <span class="currency-rates__item-label">USD</span>
+                </span>
+                <span class="currency-rates__item" data-currency-symbol="€">
+                    <span class="currency-rates__item-value currency-rates__arrow-down"
+                          title="−0,4774">79,1330</span>
+                    <span class="currency-rates__item-label">EUR</span>
+                </span>
+            </a>
+        </div>
+    </div>
+            </div>
+        </div>
+
+        <div class="sticky-header__block sticky-header__block_menu js-offcanvas-toggler">
+            <div class="sticky-header__hamburger">VL.ru</div>
+        </div>
+    </div>
+</div>
+
+    <div class="body" xmlns="http://www.w3.org/1999/html">
+        <div class="header">
+    <div class="header__logo"><a href="/">VL.ru</a></div>
+
+    <div class="header__blocks-container">
+        <div class="header__controls">
+            <div class="header__controls-block header__search" data-toggle-selector=".header__search-form-toggle"
+                 data-toggle-class="is-active" data-query-element-selector=".header__search-query">
+                <a href="#" class="header__search-form-toggle">Поиск</a>
+
+                <form class="header__search-form" action="https://www.vl.ru/search" method="get">
+                    <input class="header__search-query" type="text" name="search" placeholder="Поиск" value="">
+                    <input type="hidden" name="utm_source" value="vl.ru">
+                    <input type="hidden" name="utm_medium" value="header_search">
+                    <input type="hidden" name="utm_term" value="">
+                </form>
+            </div>
+        </div>
+
+        <div class="header__widgets">
+                                
+                    <div class="weather">
+            <h2 class="weather__title"><a href="https://www.vl.ru/weather/vladivostok">Погода во Владивостоке</a></h2>
+            <div class="weather__info" title="Облачно, до 7 м/с" style="background-image: url(https://www.vl.ru/weather/assets/forecast-icons/n_c2.svg);">
+                <div class="weather__temperature">
+                    <span class="weather__temperature-degree">-9°</span>
+                    <span class="weather__wind-temperature-max">ощущение как -17°</span>
+                    <span class="weather__wind-temperature-min">как -17°</span>
+                </div>
+                <span class="weather__wind">до 7 м/с</span>
+                <span class="weather__wind-direction">
+                    <span class="weather__wind-direction-compass">С-З</span>
+                    <span class="weather__wind-direction-degrees" style="transform: rotate(330deg)"></span>
+                </span>
+                <span class="weather__description-min">облачно</span>
+            </div>
+            <div class="weather__description-max">
+                Облачно
+            </div>
+        </div>
+    
+                    
+            <div class="currency-rates">
+            <h2 class="currency-rates__title"><a href="https://www.vl.ru/dengi/">Деньги по курсу ЦБ</a></h2>
+
+            <div class="currency-rates__list">
+                <div class="currency-rates__item" data-currency-symbol="$">
+                    <span class="currency-rates__item-value currency-rates__arrow-down"
+                          title="−0,7156">74,0432</span>
+                    <span class="currency-rates__item-label">USD</span>
+                </div>
+                <div class="currency-rates__item" data-currency-symbol="€">
+                    <span class="currency-rates__item-value currency-rates__arrow-down"
+                          title="−0,4774">79,1330</span>
+                    <span class="currency-rates__item-label">EUR</span></div>
+            </div>
+        </div>
+    
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+
+        
+
+        <div class="layout_default layout_fixed">
+            <div class="layout__left">
+                                        <ul class="nav_main">
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_martini" href="https://www.vl.ru/afisha/vladivostok?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Афиша">Афиша</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://kino.vl.ru/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Кино">Кино</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/afisha/vladivostok/events/by-category-concert?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Концерты">Концерты</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_lightning" href="https://www.vl.ru/off/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Отключения воды и света">Отключения воды и света</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/off/o/?utm_medium=left_menu&amp;utm_source=vl.ru&amp;utm_term=%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2">Показания счетчиков</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_home" href="https://www.vl.ru/vladivostok/real-estate-building/all-property/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=недвижимость">Недвижимость</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.farpost.ru/vladivostok/realty/sell_flats/">Продажа квартир</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/vladivostok/real-estate-building/all-property/new-buildings/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=новостройки">Новостройки</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_phone" href="https://www.vl.ru/spravochnik">Справочник компаний</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/fun/cafe">кафе, бары и рестораны</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_relaxbase" href="https://www.vl.ru/travel?utm_source=vl.ru&amp;utm_medium=menu">Базы отдыха</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_advert" href="https://www.farpost.ru/vladivostok/">FarPost - объявления</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.farpost.ru/vladivostok/auto/wheel/tire/">шины</a>
+                            </li>
+                                                                                                                                                                                                    <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link nav_main-subitems__item-link_job" href="https://www.farpost.ru/vladivostok/job/">Работа</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_med" href="https://www.vl.ru/med/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Врачи Владивостока">Врачи Владивостока</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_tv" href="https://www.vl.ru/tv/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=ТВ-программа">ТВ-программа</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_bus" href="https://www.vl.ru/transport/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Транспорт">Транспорт</a>
+                
+                                    <ul class="nav_main-subitems">
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/transport/trains?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Пригородные поезда">Пригородные поезда</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/transport/bus?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=Расписание автобусов">Расписание автобусов</a>
+                            </li>
+                                                                                                                                        <li class="nav_main-subitems__item">
+                                <a class="nav_main-subitems__item-link" href="https://www.vl.ru/transport/flight/arrive">авиарейсы</a>
+                            </li>
+                                            </ul>
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_auto" href="https://www.drom.ru/">Авто на Дроме</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_sp" href="https://www.100sp.ru/vladivostok?utm_source=utm_vl.ru&amp;utm_medium=link&amp;utm_campaign=main">Совместные покупки</a>
+                
+                            </li>
+                    <li class="nav_main__item">
+                                                                                    
+                                    <a class="nav_main__item-link nav_main__item-link_primkupon" href="https://vladivostok.lovikupon.ru/today/?utm_source=vl.ru&amp;utm_medium=left_menu&amp;utm_term=ЛовиКупон">ЛовиКупон</a>
+                
+                            </li>
+            </ul>
+
+                            </div>
+            <div class="layout__content">
+                        <div class="news">
+    <h1 class="news__title"><a href="https://www.newsvl.ru">Новости Владивостока на VL.ru</a></h1>
+
+            <div class="news__main-post">
+                            <a class="news__main-post-thumb"
+                   href="https://www.newsvl.ru/vlad/2023/02/20/215431/"
+                   data-product-id="215431"
+                   data-product-name="Курортно-строительный роман: история и перспективы владивостокского Садгорода"
+                   data-product-category="Владивосток">
+                    <img src="https://static.vl.ru/news/1676872598902_default"
+                         alt="Курортно-строительный роман: история и перспективы владивостокского Садгорода">
+                </a>
+                        <h2 class="news__main-post-title">
+                <a href="https://www.newsvl.ru/vlad/2023/02/20/215431/"
+                   data-product-id="215431"
+                   data-product-name="Курортно-строительный роман: история и перспективы владивостокского Садгорода"
+                   data-product-category="Владивосток">Курортно-строительный роман: история и перспективы владивостокского Садгорода</a></h2>
+
+            <div class="news__main-post-announce">
+                <p>«Город-сад завтрашнего дня» в пригороде Владивостока начали создавать ещё в начале прошлого века. Прибрежная и лесистая территория, получившая название «Сад-город», превратилась в отдельный анклав даже с собственным управлением. Революция, становление советской власти, Великая Отечественная война и другие сложные эпизоды истории не убили желание сделать во Владивостоке собственный курорт. Как рекреационная зона превратилась в массово застраиваемый пригород и почему никто не хочет восстанавливать детские лагеря и санатории, разбирались Новости VL.ru.</p>
+            </div>
+        </div>
+    
+
+    <div class="news__latest-posts">
+                                                                    <div class="news__latest-post">
+                                            <span class="news__latest-post-time">21:05</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215436/"
+                           data-product-id="215436"
+                           data-product-name="Поставщика музыкального оборудования для Приморской краевой филармонии будут судить за мошенничество на 5 млн рублей"
+                           data-product-category="Владивосток">Поставщика музыкального оборудования для Приморской краевой филармонии будут судить за мошенничество на 5 млн рублей</a>
+                                            </h3>
+                </div>
+                                                            <div class="news__latest-post">
+                                            <span class="news__latest-post-date">20.02</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215435/"
+                           data-product-id="215435"
+                           data-product-name="Во Владивостоке на этой неделе будет то тепло, то холодно"
+                           data-product-category="Владивосток">Во Владивостоке на этой неделе будет то тепло, то холодно</a>
+                                            </h3>
+                </div>
+                                                            <div class="news__latest-post">
+                                            <span class="news__latest-post-date">20.02</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215433/"
+                           data-product-id="215433"
+                           data-product-name="Совладельцев ГК &laquo;Каньон&raquo; братьев Барановых приговорили к 5 годам колонии за непоставленные плиты в комплекс &laquo;Д&raquo; на Снеговой Пади"
+                           data-product-category="Владивосток">Совладельцев ГК &laquo;Каньон&raquo; братьев Барановых приговорили к 5 годам колонии за непоставленные плиты в комплекс &laquo;Д&raquo; на Снеговой Пади</a>
+                                            </h3>
+                </div>
+                                                            <div class="news__latest-post">
+                                            <span class="news__latest-post-date">20.02</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215417/"
+                           data-product-id="215417"
+                           data-product-name="Цель – &laquo;Ориентир&raquo;: как создаётся первая игра о национальном парке в Приморье"
+                           data-product-category="Владивосток">Цель – &laquo;Ориентир&raquo;: как создаётся первая игра о национальном парке в Приморье</a>
+                                            </h3>
+                </div>
+                                                            <div class="news__latest-post">
+                                            <span class="news__latest-post-date">20.02</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215432/"
+                           data-product-id="215432"
+                           data-product-name="Безвизовые поездки между Россией и КНР возобновятся после актуализации списка китайских туроператоров"
+                           data-product-category="Владивосток">Безвизовые поездки между Россией и КНР возобновятся после актуализации списка китайских туроператоров</a>
+                                            </h3>
+                </div>
+                                                            <div class="news__latest-post">
+                                            <span class="news__latest-post-date">20.02</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215424/"
+                           data-product-id="215424"
+                           data-product-name="Классические домашние и изысканные авторские: где поесть блинов во Владивостоке в масленичную неделю и как выгодно приготовить их самим"
+                           data-product-category="Владивосток">Классические домашние и изысканные авторские: где поесть блинов во Владивостоке в масленичную неделю и как выгодно приготовить их самим</a>
+                                            </h3>
+                </div>
+                                                            <div class="news__latest-post">
+                                            <span class="news__latest-post-date">20.02</span>
+                                        <h3 class="news__latest-post-title">
+                        <a class="news__latest-post-link"
+                           href="https://www.newsvl.ru/vlad/2023/02/20/215430/"
+                           data-product-id="215430"
+                           data-product-name="Жилой комплекс вместо леса — небольшой зелёный участок на БАМе начали застраивать (ФОТО)"
+                           data-product-category="Владивосток">Жилой комплекс вместо леса — небольшой зелёный участок на БАМе начали застраивать (ФОТО)</a>
+                                            </h3>
+                </div>
+                    
+        <div class="candy_news"><div id='69ede957e6cf33d6e39773228664b6fc' style='width:100%;' data-zone-id='236'></div></div>
+
+                
+        <div class="news__more-link-container">
+            <a href="https://www.newsvl.ru" class="news__more-link">Все новости</a>
+        </div>
+    </div>
+</div>
+
+
+    <div class="candy candy__item_550-120"><div id='b6af62fa3df0456c6c72d33ca1dc5df5' style='width:100%;' data-zone-id='20'></div></div>
+
+                        <div class="events">
+        <nav class="events__nav">
+            <div class="events__nav-item">
+                <a class="events__nav-item-link afisha-widget-visible-magic" href="https://www.vl.ru/afisha/vladivostok">Афиша Владивостока</a>
+            </div>
+            <div class="events__filters">
+                <div class="events__nav-button__group button__group">
+                    <a class="events__category-button active afisha-widget-sort-buttons-magic" data-event-category="Popular">Популярные</a>
+                    <a class="events__category-button afisha-widget-sort-buttons-magic" data-event-category="Concerts">Концерты</a>
+                    <a class="events__category-button afisha-widget-sort-buttons-magic" data-event-category="Theatres">Театры</a>
+                </div>
+                <div class="events__sale-filter">
+                    <input id="with-sales" name="with-sales" class="events__checkbox" type="checkbox" autocomplete="off">
+                    <label for="with-sales" class="events__label-with-sales afisha-widget-sales-checkbox-magic">Билеты онлайн</label>
+                </div>
+            </div>
+        </nav>
+
+        <div class="events__list">
+            <div class="events-slider">
+                <div class="events-slider__btn events-slider__btn_next afisha-widget-sidescroll-button-magic"></div>
+                <div class="events-slider__btn events-slider__btn_prev afisha-widget-sidescroll-button-magic"></div>
+
+                <div class="events-slider__swiper swiper">
+                                            <div class="events__swiper-wrapper swiper-wrapper active">
+                            <div class="events__no-events">
+                                <div class="events__no-events__text">Увы, мы ничего не нашли</div>
+                                <div class="events__no-events__small-text">Выберите другую категорию или все события</div>
+                                <div class="events__no-events__picture"></div>
+                            </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/174430?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=174430">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/202/174430_217x295.png?v=1674695498"
+                                             alt="Стендап-концерт Виктории Складчиковой"
+                                             data-product-name="Стендап-концерт Виктории Складчиковой"
+                                             data-product-id="174430"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Стендап-концерт Виктории Складчиковой"
+                                              data-product-id="174430">Стендап-концерт Виктории Складчиковой</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/174430#look=/afisha/purchase/events/174430/782060?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=174430"
+                                               data-product-name="Стендап-концерт Виктории Складчиковой"
+                                               data-product-id="174430">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/175743?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175743">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/5a6/175743_217x295.png?v=1676425914"
+                                             alt="Спектакль &quot;Старший сын&quot;"
+                                             data-product-name="Спектакль &quot;Старший сын&quot;"
+                                             data-product-id="175743"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Спектакль &quot;Старший сын&quot;"
+                                              data-product-id="175743">Спектакль &quot;Старший сын&quot;</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/175743#look=/afisha/purchase/events/175743/787870?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175743"
+                                               data-product-name="Спектакль &quot;Старший сын&quot;"
+                                               data-product-id="175743">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/175953?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175953">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/c05/175953_217x295.png?v=1676616900"
+                                             alt="Квартет Евгения Побожего"
+                                             data-product-name="Квартет Евгения Побожего"
+                                             data-product-id="175953"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Квартет Евгения Побожего"
+                                              data-product-id="175953">Квартет Евгения Побожего</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/175953#look=/afisha/purchase/events/175953/788441?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175953"
+                                               data-product-name="Квартет Евгения Побожего"
+                                               data-product-id="175953">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/165595?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=165595">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/a0a/165595_217x295.jpeg?v=1671754363"
+                                             alt="Кирилл Туриченко"
+                                             data-product-name="Кирилл Туриченко"
+                                             data-product-id="165595"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Кирилл Туриченко"
+                                              data-product-id="165595">Кирилл Туриченко</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/165595#look=/afisha/purchase/events/165595/763366?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=165595"
+                                               data-product-name="Кирилл Туриченко"
+                                               data-product-id="165595">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/172475?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=172475">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/fe7/172475_217x295.jpeg?v=1671169689"
+                                             alt="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                             data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                             data-product-id="172475"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                              data-product-id="172475">Спектакль «Раневская. Сквозь смех и слёзы!»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/172475#look=/afisha/purchase/events/172475/772633?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=172475"
+                                               data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                               data-product-id="172475">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/139070?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=139070">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/dc6/139070_217x295.jpeg?v=1674627208"
+                                             alt="Праздничная концертная программа «Все для тебя!»"
+                                             data-product-name="Праздничная концертная программа «Все для тебя!»"
+                                             data-product-id="139070"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Праздничная концертная программа «Все для тебя!»"
+                                              data-product-id="139070">Праздничная концертная программа «Все для тебя!»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/139070#look=/afisha/purchase/events/139070/781658?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=139070"
+                                               data-product-name="Праздничная концертная программа «Все для тебя!»"
+                                               data-product-id="139070">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/171370?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=171370">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/dbc/171370_217x295.jpeg?v=1671675944"
+                                             alt="Концертная программа «Саундтрек...Синематограф»"
+                                             data-product-name="Концертная программа «Саундтрек...Синематограф»"
+                                             data-product-id="171370"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Концертная программа «Саундтрек...Синематограф»"
+                                              data-product-id="171370">Концертная программа «Саундтрек...Синематограф»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/171370#look=/afisha/purchase/events/171370/766728?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=171370"
+                                               data-product-name="Концертная программа «Саундтрек...Синематограф»"
+                                               data-product-id="171370">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/175344?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175344">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/71d/175344_217x295.png?v=1675841405"
+                                             alt="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                             data-product-name="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                             data-product-id="175344"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                              data-product-id="175344">Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/175344#look=/afisha/purchase/events/175344/786342?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175344"
+                                               data-product-name="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                               data-product-id="175344">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                    </div>
+                                            <div class="events__swiper-wrapper swiper-wrapper ">
+                            <div class="events__no-events">
+                                <div class="events__no-events__text">Увы, мы ничего не нашли</div>
+                                <div class="events__no-events__small-text">Выберите другую категорию или все события</div>
+                                <div class="events__no-events__picture"></div>
+                            </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/171370?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=171370">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/dbc/171370_217x295.jpeg?v=1671675944"
+                                             alt="Концертная программа «Саундтрек...Синематограф»"
+                                             data-product-name="Концертная программа «Саундтрек...Синематограф»"
+                                             data-product-id="171370"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Концертная программа «Саундтрек...Синематограф»"
+                                              data-product-id="171370">Концертная программа «Саундтрек...Синематограф»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/171370#look=/afisha/purchase/events/171370/766728?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=171370"
+                                               data-product-name="Концертная программа «Саундтрек...Синематограф»"
+                                               data-product-id="171370">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/139070?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=139070">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/dc6/139070_217x295.jpeg?v=1674627208"
+                                             alt="Праздничная концертная программа «Все для тебя!»"
+                                             data-product-name="Праздничная концертная программа «Все для тебя!»"
+                                             data-product-id="139070"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Праздничная концертная программа «Все для тебя!»"
+                                              data-product-id="139070">Праздничная концертная программа «Все для тебя!»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/139070#look=/afisha/purchase/events/139070/781658?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=139070"
+                                               data-product-name="Праздничная концертная программа «Все для тебя!»"
+                                               data-product-id="139070">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/172475?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=172475">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/fe7/172475_217x295.jpeg?v=1671169689"
+                                             alt="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                             data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                             data-product-id="172475"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                              data-product-id="172475">Спектакль «Раневская. Сквозь смех и слёзы!»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/172475#look=/afisha/purchase/events/172475/772633?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=172475"
+                                               data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                               data-product-id="172475">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/165595?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=165595">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/a0a/165595_217x295.jpeg?v=1671754363"
+                                             alt="Кирилл Туриченко"
+                                             data-product-name="Кирилл Туриченко"
+                                             data-product-id="165595"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Кирилл Туриченко"
+                                              data-product-id="165595">Кирилл Туриченко</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/165595#look=/afisha/purchase/events/165595/763366?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=165595"
+                                               data-product-name="Кирилл Туриченко"
+                                               data-product-id="165595">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/175344?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175344">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/71d/175344_217x295.png?v=1675841405"
+                                             alt="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                             data-product-name="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                             data-product-id="175344"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                              data-product-id="175344">Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/175344#look=/afisha/purchase/events/175344/786342?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175344"
+                                               data-product-name="Большой ретро-концерт &quot;Дискотека СОЮЗ&quot;"
+                                               data-product-id="175344">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/174430?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=174430">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/202/174430_217x295.png?v=1674695498"
+                                             alt="Стендап-концерт Виктории Складчиковой"
+                                             data-product-name="Стендап-концерт Виктории Складчиковой"
+                                             data-product-id="174430"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Стендап-концерт Виктории Складчиковой"
+                                              data-product-id="174430">Стендап-концерт Виктории Складчиковой</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/174430#look=/afisha/purchase/events/174430/782060?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=174430"
+                                               data-product-name="Стендап-концерт Виктории Складчиковой"
+                                               data-product-id="174430">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/175953?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175953">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/c05/175953_217x295.png?v=1676616900"
+                                             alt="Квартет Евгения Побожего"
+                                             data-product-name="Квартет Евгения Побожего"
+                                             data-product-id="175953"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Квартет Евгения Побожего"
+                                              data-product-id="175953">Квартет Евгения Побожего</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/175953#look=/afisha/purchase/events/175953/788441?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175953"
+                                               data-product-name="Квартет Евгения Побожего"
+                                               data-product-id="175953">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                    </div>
+                                            <div class="events__swiper-wrapper swiper-wrapper ">
+                            <div class="events__no-events">
+                                <div class="events__no-events__text">Увы, мы ничего не нашли</div>
+                                <div class="events__no-events__small-text">Выберите другую категорию или все события</div>
+                                <div class="events__no-events__picture"></div>
+                            </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/172475?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=172475">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/fe7/172475_217x295.jpeg?v=1671169689"
+                                             alt="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                             data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                             data-product-id="172475"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                              data-product-id="172475">Спектакль «Раневская. Сквозь смех и слёзы!»</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/172475#look=/afisha/purchase/events/172475/772633?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=172475"
+                                               data-product-name="Спектакль «Раневская. Сквозь смех и слёзы!»"
+                                               data-product-id="172475">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                                                            <div class="events__item swiper-slide events__item_with-buy-link">
+                                    <a class="events__item-link" href="https://www.vl.ru/afisha/vladivostok/event/175743?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175743">
+                                        <img src="https://www.vl.ru/afisha/uploads/events/5a6/175743_217x295.png?v=1676425914"
+                                             alt="Спектакль &quot;Старший сын&quot;"
+                                             data-product-name="Спектакль &quot;Старший сын&quot;"
+                                             data-product-id="175743"
+                                             class="afisha-widget-event-poster-magic">
+                                        <span class="events__item-title afisha-widget-event-title-magic"
+                                              data-product-name="Спектакль &quot;Старший сын&quot;"
+                                              data-product-id="175743">Спектакль &quot;Старший сын&quot;</span>
+                                                                                    <a class="events__buy-link afisha-widget-event-buy-button-magic"
+                                               href="/afisha/vladivostok/event/175743#look=/afisha/purchase/events/175743/787870?utm_source=vl.ru&amp;utm_medium=widget&amp;utm_campaign=afisha_widget&amp;utm_term=175743"
+                                               data-product-name="Спектакль &quot;Старший сын&quot;"
+                                               data-product-id="175743">Купить билет</a>
+                                                                            </a>
+                                </div>
+                                                    </div>
+                                    </div>
+            </div>
+        </div>
+
+        <p class="events__more-link-container">
+            <a class="events__more-link afisha-widget-more-link-magic" href="https://www.vl.ru/afisha/vladivostok/events/all">Все события</a>
+        </p>
+    </div>
+
+    
+    <div class="candy candy__item_468-80"><div id='4acec02808197fd5a27d9ce2cf576c77' style='width:100%;' data-zone-id='1097'></div></div>
+
+        <div id="VlruSearchWidget"></div>
+<script defer src="https://www.vl.ru/widgets/vlru/catalogItemsSearch.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="https://vladivostok.lovikupon.ru/bundles/vlrucore/css/widget/catalog_promos.css" />
+<div class="lovikupon-widget" data-url="https://vladivostok.lovikupon.ru/widget/catalog/ajax/"></div>
+<script defer src="https://vladivostok.lovikupon.ru/bundles/vlrucore/js/widget/catalog_promos.js" type="text/javascript"></script>
+
+
+    <div class="candy candy__item_468-80"><div id='4994bef4c911ac988be0c3727b84e74c' style='width:100%;' data-zone-id='1090'></div></div>
+
+            </div>
+                            <div class="layout__sidebar">
+                                            <div class="job">
+    <h2 class="job__title">
+        <a href="https://www.farpost.ru/vladivostok/job/vacancy/">Вакансии во Владивостоке</a>
+    </h2>
+
+            <ul class="job__vacancies">
+                            <li class="job__vacancy">
+                    <a class="job__vacancy-title"
+                       href="https://www.farpost.ru/specialist-po-kontrolju-zakupochnyh-procedur-105499653.html"
+                       data-product-id="105499653"
+                       data-product-name="Специалист по контролю закупочных процедур">Специалист по контролю закупочных процедур</a>&nbsp;—
+                    <span class="job__vacancy-sell-price">60&nbsp;000&nbsp;&ndash; 80&nbsp;000&nbsp;р.</span>
+                </li>
+                            <li class="job__vacancy">
+                    <a class="job__vacancy-title"
+                       href="https://www.farpost.ru/voditel-na-furgon-babochku-100665345.html"
+                       data-product-id="100665345"
+                       data-product-name="Водитель на фургон-бабочку">Водитель на фургон-бабочку</a>&nbsp;—
+                    <span class="job__vacancy-sell-price">65&nbsp;000&nbsp;&ndash; 70&nbsp;000&nbsp;р.</span>
+                </li>
+                            <li class="job__vacancy">
+                    <a class="job__vacancy-title"
+                       href="https://www.farpost.ru/peshij-kurjer-105873745.html"
+                       data-product-id="105873745"
+                       data-product-name="Пеший курьер">Пеший курьер</a>&nbsp;—
+                    <span class="job__vacancy-sell-price">60&nbsp;000&nbsp;&ndash; 80&nbsp;000&nbsp;р.</span>
+                </li>
+                    </ul>
+
+        <p class="job__more-link-container">
+            <a class="job__more-link" href="https://www.farpost.ru/vladivostok/job/vacancy/">Все вакансии</a>
+        </p>
+    </div>
+
+
+                        
+                        <div class="candy candy__item_270-150"><div id='8daa58fbaf9d7540566eeb5ee1cf892e' style='width:100%;' data-zone-id='30'></div></div>
+
+                        <div class="films-widget">
+        <div class="films-slider">
+        <div class="films-slider__wrapper">
+            <div class="films-slider__title">
+                <a href="https://kino.vl.ru?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Кино во Владивостоке" class="films-slider__title-link">Кино во Владивостоке</a>
+            </div>
+
+            <span class="films-slider__btn films-slider__btn_prev"></span>
+            <span class="films-slider__btn films-slider__btn_next"></span>
+
+            <div class="films-slider__swiper js-films-swiper-container">
+                <div class="films-slider__swiper-wrapper js-films-swiper-wrapper">
+                                            <div class="films-slider__slide js-films-swiper-slide" data-index="1">
+                            <a href="https://kino.vl.ru/films/44279/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Аватар: Путь воды"
+                               class="films-slider__film-image"
+                               data-product-id="44279"
+                               data-product-name="Аватар: Путь воды"
+                               data-index="1">
+                                <img src="https://kino.vl.ru/kino/images/big_5281382.jpeg" alt="">
+                            </a>
+                            <div class="films-slider__film-title">
+                                <a href="https://kino.vl.ru/films/44279/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Аватар: Путь воды" class="link"
+                                   data-product-id="44279"
+                                   data-product-name="Аватар: Путь воды"
+                                   data-index="1">
+                                    Аватар: Путь воды
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="films-slider__slide js-films-swiper-slide" data-index="2">
+                            <a href="https://kino.vl.ru/films/44884/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Праведник"
+                               class="films-slider__film-image"
+                               data-product-id="44884"
+                               data-product-name="Праведник"
+                               data-index="2">
+                                <img src="https://kino.vl.ru/kino/images/big_w1500_51490596.jpeg" alt="">
+                            </a>
+                            <div class="films-slider__film-title">
+                                <a href="https://kino.vl.ru/films/44884/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Праведник" class="link"
+                                   data-product-id="44884"
+                                   data-product-name="Праведник"
+                                   data-index="2">
+                                    Праведник
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="films-slider__slide js-films-swiper-slide" data-index="3">
+                            <a href="https://kino.vl.ru/films/44226/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Чебурашка"
+                               class="films-slider__film-image"
+                               data-product-id="44226"
+                               data-product-name="Чебурашка"
+                               data-index="3">
+                                <img src="https://kino.vl.ru/kino/images/big_2721293.jpeg" alt="">
+                            </a>
+                            <div class="films-slider__film-title">
+                                <a href="https://kino.vl.ru/films/44226/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Чебурашка" class="link"
+                                   data-product-id="44226"
+                                   data-product-name="Чебурашка"
+                                   data-index="3">
+                                    Чебурашка
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="films-slider__slide js-films-swiper-slide" data-index="4">
+                            <a href="https://kino.vl.ru/films/44587/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Кот в сапогах 2: Последнее желание"
+                               class="films-slider__film-image"
+                               data-product-id="44587"
+                               data-product-name="Кот в сапогах 2: Последнее желание"
+                               data-index="4">
+                                <img src="https://kino.vl.ru/kino/images/big_big_w1500_51168199.jpeg" alt="">
+                            </a>
+                            <div class="films-slider__film-title">
+                                <a href="https://kino.vl.ru/films/44587/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Кот в сапогах 2: Последнее желание" class="link"
+                                   data-product-id="44587"
+                                   data-product-name="Кот в сапогах 2: Последнее желание"
+                                   data-index="4">
+                                    Кот в сапогах 2: Последнее желание
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="films-slider__slide js-films-swiper-slide" data-index="5">
+                            <a href="https://kino.vl.ru/films/44875/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Непослушная"
+                               class="films-slider__film-image"
+                               data-product-id="44875"
+                               data-product-name="Непослушная"
+                               data-index="5">
+                                <img src="https://kino.vl.ru/kino/images/big_10081064.jpeg" alt="">
+                            </a>
+                            <div class="films-slider__film-title">
+                                <a href="https://kino.vl.ru/films/44875/?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Непослушная" class="link"
+                                   data-product-id="44875"
+                                   data-product-name="Непослушная"
+                                   data-index="5">
+                                    Непослушная
+                                </a>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+
+            <p class="films-list__more-link-container">
+                <a class="films-list__more-link" href="https://kino.vl.ru?utm_source=vl.ru&amp;utm_medium=kino_widget&amp;utm_term=Все фильмы">Все фильмы</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+                        <link rel="stylesheet" href="https://www.vl.ru/off/bundles/vlrublackout/block/widget/brief.css?v=1" />
+<div class="js-off-widget off hidden">
+    <div
+    class="off-building-brief"
+    data-backend-url="/off/widget/brief/building"
+    data-autocomplete-url="/off/autocomplete-addresses?cityId=1"
+>
+    <a href="https://www.vl.ru/off/?utm_campaign=vl_25_vladivostok_off_otklyucheniya&amp;utm_medium=free&amp;utm_source=vidget" class="off-building-brief__heading">Отключения воды и света</a>
+    <div class="off-building-brief__inner off-building-brief__inner_search">
+        <div class="off-building-brief__search-wrapper">
+            <div class="off-building-brief__resource-info"></div>
+            <div class="off-building-brief__input-wrapper">
+                <input class="off-building-brief__input"
+                       type="text"
+                       name="address"
+                       placeholder="Мой адрес, например, Светланская, 161"
+                       autocomplete="off" />
+                <span class="off-building-brief__input-clear">&times;</span>
+            </div>
+            <div class="off-building-brief__error"></div>
+        </div>
+        <a href="#" class="off-building-brief__button off-building-brief__button_search off-building-brief__button_disabled">
+            Проверить адрес
+            <span class="off-building-brief__animate"></span>
+        </a>
+    </div>
+    <div class="off-building-brief__inner off-building-brief__inner_resume">
+        <div class="off-building-brief__resume-wrapper">
+            <div class="off-building-brief__resume__head">
+                <a class="off-building-brief__address" title="" href="">
+                    <span class="off-building-brief__address-text"></span>
+                </a>
+                <a href="#" class="off-building-brief__switch">[ другой адрес ]</a>
+            </div>
+            <ul class="off-building-brief__blackouts"></ul>
+        </div>
+        <a href="#" class="off-building-brief__button off-building-brief__button_resume">
+            <span class="off-building-brief__button-text">Сообщите нам, если что-то не так</span>
+        </a>
+    </div>
+</div>
+
+</div>
+<div class="js-off-app-widget off hidden">
+    <div class="off-app-brief">
+    <a class="off-app-brief__link" href="https://www.vl.ru/off/o/?utm_campaign=vl_25_vladivostok_off_otklyucheniya&amp;utm_medium=free&amp;utm_source=widget">Подать показания счетчиков</a>
+</div>
+
+</div>
+<script defer type="application/javascript" src="https://www.vl.ru/off/bundles/vlrublackout/js/jquery.autocomplete.js"></script>
+<script defer type="application/javascript" src="https://www.vl.ru/off/bundles/vlrublackout/block/widget/brief.js?v=1"></script>
+
+                                    </div>
+                    </div>
+
+        
+        <div class="candy candy__item_600-250"><div id='bd2d3ad3ccb764df590d91dd67436b59' style='width:100%;' data-zone-id='959'></div></div>
+
+<div class="footer">
+    <div class="footer__nav-container_news"><h4>Разделы</h4>
+        <ul>
+            <li><a href="https://map.vl.ru/">Карта</a></li>
+            <li><a href="https://www.vl.ru/transport">Транспорт</a></li>
+            <li><a href="https://www.vl.ru/tv/">ТВ-программа</a></li>
+            <li><a href="https://www.vl.ru/exams">Абитуриентам</a></li>
+        </ul>
+    </div>
+    <div class="footer__nav-container_vl"><h4>Сайты&nbsp;Владивостока</h4>
+        <ul>
+            <li><a href="https://www.drom.ru/">Авто</a></li>
+            <li><a href="https://www.vl.ru/afisha/vladivostok/">Афиша</a></li>
+            <li><a href="https://kino.vl.ru">Кино</a></li>
+            <li><a href="https://www.farpost.ru/realty/">Недвижимость</a></li>
+            <li><a href="https://www.vl.ru/travel?utm_source=vl.ru&amp;utm_medium=footer">Базы отдыха</a></li>
+            <li><a href="https://www.newsvl.ru/">Новости</a></li>
+            <li><a href="https://www.farpost.ru/">Объявления</a></li>
+            <li><a href="https://www.farpost.ru/vladivostok/job/">Работа</a></li>
+            <li><a href="https://www.vl.ru/spravochnik">Справочник компаний</a></li>
+        </ul>
+    </div>
+    <div class="footer__info"><h4>Информация</h4>
+        <ul>
+            <li><a href="https://www.farpost.ru/user/hrfarpost/">Вакансии</a></li>
+            <li><a href="/contacts/">Контакты</a></li>
+            <li><a href="/about/">Информационное сотрудничество и продажа билетов на VL.ru</a>
+            </li>
+        </ul>
+
+        <div class="footer__phone">8&thinsp;(423)&thinsp;243&thinsp;22&thinsp;22</div>
+
+        <p>Адрес редакции новостей: <a href="mailto:lenta@vl.ru">lenta@vl.ru</a></p>
+
+        <p>Обнаружили ошибку или у Вас есть предложения?<br>
+            Напишите нам письмо: <a href="mailto:hello@vl.ru">hello@vl.ru</a></p>
+
+        <p class="footer__copyright">
+            © ООО «Фарпост», 2003—2023<br>
+            При любом использовании материалов <a href="//www.vl.ru/">ссылка на VL.ru</a> обязательна.<br>
+            Цитирование в Интернете возможно только при наличии гиперссылки.<br>
+            Все права защищены.</p>
+    </div>
+</div>
+
+                                <!--LiveInternet logo-->
+<a href="//www.liveinternet.ru/click;farpost"
+target="_blank"><img src="//counter.yadro.ru/logo;farpost?52.6"
+alt="" border="0" width="1" height="1"/></a>
+<!--/LiveInternet-->            </div>
+
+
+        <script src="/vendor/swiper/swiper.min.js" type="text/javascript"></script>
+    <script src="/assets/js/main.44f0a9dfec1c7da513ba.js" type="text/javascript"></script>
+    <script async src="https://nps.vl.ru/widget?q=vlru_main&c=265e16915805c4e192f14ba125d0d25d" type="application/javascript"></script>
+
+    <script>
+        window.BASE_URL = 'https://www.vl.ru/';
+    </script>
+
+<script type="text/javascript" async src="https://bs-dante.ru/js/dante_migrate.js?version=1676908143"></script>
+
+</body>
+</html>

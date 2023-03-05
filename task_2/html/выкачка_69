@@ -1,0 +1,3139 @@
+<!doctype html>
+<html lang="ru" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile# fb: http://ogp.me/ns/fb#">
+<head>
+    <title>ÐÐ¾Ð²Ð¾ÑÑÐ¸ Ð£ÑÑ Ð¸ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ ÑÐµÐ³Ð¾Ð´Ð½Ñ | ÐÑÑÑÑ</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÑÑ Ð¸ Ð±Ð°ÑÐºÐ¾ÑÑÐ¾ÑÑÐ°Ð½Ð° ÑÐµÐ³Ð¾Ð´Ð½Ñ, Ð»ÐµÐ½ÑÐ° Ð½Ð¾Ð²Ð¾ÑÑÐµÐ¹ ÑÑÑ Ð¸ Ð±Ð°ÑÐºÐ¾ÑÑÐ¾ÑÑÐ°Ð½ ÑÐµÐ³Ð¾Ð´Ð½Ñ, Ð»ÐµÐ½ÑÐ° Ð½Ð¾Ð²Ð¾ÑÑÐµÐ¹ ÑÑÐ°, Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÐµÐ³Ð¾Ð´Ð½Ñ, ÑÐ²ÐµÐ¶Ð¸Ðµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ Ð³Ð¾Ð´Ð°, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ Ð½ÐµÐ´ÐµÐ»Ð¸, ÐºÑÐ¸Ð¼Ð¸Ð½Ð°Ð»ÑÐ½ÑÐµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÑÑ, Ð¿ÑÐ¾ÑÑÑ, Ð¿ÑÐ¾ ÑÑÐ°, Ð¿ÑÐ¾ÑÑÑ ÑÑ, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÑÐ°, Ð¿ÑÐ¾Ð¸ÑÐµÑÑÐ²Ð¸Ñ, ÑÐºÐ¾Ð½Ð¾Ð¼Ð¸ÐºÐ°, ÑÐ¾Ð±ÑÑÐ¸Ñ, prufy, Ð¿ÑÑÑÑ, prufy ru, Ð¿ÑÑÑÑ ÑÑ" />
+<meta name="description" content="Ð¡Ð°Ð¼ÑÐµ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²Ð½ÑÐµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸ Ð£ÑÑ Ð¸ Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ¸ ÐÐ°ÑÐºÐ¾ÑÑÐ¾ÑÑÐ°Ð½" />
+<script type="text/javascript" data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','storageBlocks':[],'dynamicBlocks':{'LkGdQn':'9a6f6512652a','UXXHkL':'fa822eed1cf7','2gu145':'2c649a5910cf','6F0QtJ':'7024247e1897','e5C6FS':'f565eb1c5988'},'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'120','version':'2'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+
+<link href="/bitrix/cache/css/s1/Prufy/page_b40f305421809494f72101b11fcbbe0b/page_b40f305421809494f72101b11fcbbe0b_v1.css?16768894351024" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/Prufy/template_a66b36335fee9cbeb2d557f1dd6540d1/template_a66b36335fee9cbeb2d557f1dd6540d1_v1.css?167688942534698" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'ÐÐ°Ð³ÑÑÐ·ÐºÐ°...','JS_CORE_NO_DATA':'- ÐÐµÑ Ð´Ð°Ð½Ð½ÑÑ -','JS_CORE_WINDOW_CLOSE':'ÐÐ°ÐºÑÑÑÑ','JS_CORE_WINDOW_EXPAND':'Ð Ð°Ð·Ð²ÐµÑÐ½ÑÑÑ','JS_CORE_WINDOW_NARROW':'Ð¡Ð²ÐµÑÐ½ÑÑÑ Ð² Ð¾ÐºÐ½Ð¾','JS_CORE_WINDOW_SAVE':'Ð¡Ð¾ÑÑÐ°Ð½Ð¸ÑÑ','JS_CORE_WINDOW_CANCEL':'ÐÑÐ¼ÐµÐ½Ð¸ÑÑ','JS_CORE_WINDOW_CONTINUE':'ÐÑÐ¾Ð´Ð¾Ð»Ð¶Ð¸ÑÑ','JS_CORE_H':'Ñ','JS_CORE_M':'Ð¼','JS_CORE_S':'Ñ','JSADM_AI_HIDE_EXTRA':'Ð¡ÐºÑÑÑÑ Ð»Ð¸ÑÐ½Ð¸Ðµ','JSADM_AI_ALL_NOTIF':'ÐÐ¾ÐºÐ°Ð·Ð°ÑÑ Ð²ÑÐµ','JSADM_AUTH_REQ':'Ð¢ÑÐµÐ±ÑÐµÑÑÑ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð°ÑÐ¸Ñ!','JS_CORE_WINDOW_AUTH':'ÐÐ¾Ð¹ÑÐ¸','JS_CORE_IMAGE_FULL':'ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ°Ð·Ð¼ÐµÑ'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1671774938220366"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'pull_server_enabled':'Y','pull_config_timestamp':'1673285717','pull_guest_mode':'N','pull_guest_user_id':'0'});(window.BX||top.BX).message({'PULL_OLD_REVISION':'ÐÐ»Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶ÐµÐ½Ð¸Ñ ÐºÐ¾ÑÑÐµÐºÑÐ½Ð¾Ð¹ ÑÐ°Ð±Ð¾ÑÑ Ñ ÑÐ°Ð¹ÑÐ¾Ð¼ Ð½ÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð¾ Ð¿ÐµÑÐµÐ·Ð°Ð³ÑÑÐ·Ð¸ÑÑ ÑÑÑÐ°Ð½Ð¸ÑÑ.'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'18000','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/'});</script>
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/Prufy/kernel_main/kernel_main_v1.js?1676889427152878"></script>
+<script type="text/javascript" src="/bitrix/js/delight.webpconverter/delight.webp.js?16322038812093"></script>
+<script type="text/javascript" src="/bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?166486017088295"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?16216235377365"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?165182984811264"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/protobuf.min.js?162162353576433"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/model.min.js?162162353514190"></script>
+<script type="text/javascript" src="/bitrix/js/rest/client/rest.client.min.js?16216235389240"></script>
+<script type="text/javascript" src="/bitrix/js/pull/client/pull.client.min.js?167100290848293"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/templates/Prufy/js/main.js','/bitrix/templates/Prufy/js/modernizr.js','/bitrix/templates/Prufy/components/bitrix/menu/region1/script.js','/bitrix/components/bitrix/search.title/script.js','/bitrix/templates/Prufy/components/bitrix/menu/topmenu/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/Prufy/components/bitrix/news.index/news.index/style.css','/bitrix/templates/Prufy/components/bitrix/news.list/long/style.css','/bitrix/templates/Prufy/css/yamm.css','/bitrix/templates/Prufy/css/yamm.min.css','/bitrix/templates/Prufy/css/style2.css','/bitrix/templates/Prufy/components/bitrix/menu/region1/style.css','/bitrix/templates/Prufy/components/bitrix/search.title/searche/style.css','/bitrix/templates/Prufy/components/bitrix/menu/topmenu/style.css','/bitrix/templates/Prufy/styles.css','/bitrix/templates/Prufy/template_styles.css']);</script>
+<meta name="delight_webpconverter_attr" content="data-src|src">
+<script type="text/javascript">if (Intl && Intl.DateTimeFormat) document.cookie="BITRIX_SM_TZ="+Intl.DateTimeFormat().resolvedOptions().timeZone+"; path=/; expires=Thu, 01 Feb 2024 00:00:00 +0500";</script>
+<link rel="canonical" href="https://prufy.ru">
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"copyrightHolder" : "ÐÐÐ Ð¡Ð²Ð¾Ð±Ð¾Ð´Ð½ÑÐµ Ð¼ÐµÐ´Ð¸Ð°",
+	"description" : "ÐÐ¾Ð²Ð¾ÑÑÐ¸ Ð£ÑÑ Ð¸ Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ¸ ÐÐ°ÑÐºÐ¾ÑÑÐ¾ÑÑÐ°Ð½. ÐÐ¾Ð²Ð¾ÑÑÐ¸ ÑÐµÐ³Ð¾Ð´Ð½Ñ Ð² Ð Ð¾ÑÑÐ¸Ð¸ Ð¸ ÐÐ¸ÑÐµ",
+	"keywords" : "Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÑÑ Ð¸ Ð±Ð°ÑÐºÐ¾ÑÑÐ¾ÑÑÐ°Ð½Ð° ÑÐµÐ³Ð¾Ð´Ð½Ñ, Ð»ÐµÐ½ÑÐ° Ð½Ð¾Ð²Ð¾ÑÑÐµÐ¹ ÑÑÐ°, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÑÑ, Ð¿ÑÐ¾ÑÑÑ, Ð¿ÑÐ¾ ÑÑÐ°, Ð¿ÑÐ¾ÑÑÑ ÑÑ, Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÑÐ°",
+	"publisher" : {
+    "@type" : "Organization",
+    "address": "Ð³. Ð£ÑÐ°, ÑÐ». ÐÑÐ°ÑÐ¸Ð½Ð°, Ð´. 21, Ð¾Ñ. 508.",
+	"email": "red@prufy.ru",
+	"name": "ÐÑÑÑÑ | Ð£ÑÐ°",
+	"telephone": "+7(347)292-78-25",
+	"url": "https://prufy.ru"
+  }
+	
+	
+}
+
+}</script>
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/Prufy/template_36330ecf9d04c9ed42a035c6a4e232f3/template_36330ecf9d04c9ed42a035c6a4e232f3_v1.js?167688942525659"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "8379e57c07ed004dac0c30533b6f435f"]); _ba.push(["host", "prufy.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+    <link rel="shortcut icon" type="image/svg+xml" href="/bitrix/templates/Prufy/favicon.svg" />
+    <link rel="preload" href="/fonts/MuseoSansCyrl-300.woff" as="font" type="font/woff" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-544L77R');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Fotorama from CDNJS, 19 KB -->
+    <link  href="/bitrix/templates/Prufy/fotorama/fotorama.css" rel="stylesheet">
+    <script src="/bitrix/templates/Prufy/fotorama/fotorama.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#naviga-zoraned').prepend("<div id='kantovkam'><b>ÐÐµÐ½Ñ</b></div>");
+            $("#kantovkam").on("click", function(){
+                $(".gresazopan").slideToggle();
+            });
+
+        });
+    </script>
+
+    <meta name="c2f6fe68a61f4191eeb4319b8974d166" content="">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132412689-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-132412689-1');
+    </script>
+
+    <!-- OwlCarousel -->
+    <link rel="stylesheet" href="/bitrix/templates/Prufy/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/bitrix/templates/Prufy/css/owl.theme.default.min.css">
+    <script type="text/javascript" src="/bitrix/templates/Prufy/js/owl.carousel.min.js"></script>
+    <!-- OwlCarousel end -->
+        <script async src="https://jsn.24smi.net/smi.js"></script>
+    <!-- LuckyAds -->
+    <script async src="https://xjwzbo.com/zo817l/129vli0mp/03yhq8867vqu678/pkyrm3.php"></script>
+    <!-- /LuckyAds -->
+    <!-- LuckyAds Ð½Ð¾Ð²ÑÐ¹, Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸ÑÐµÐ»ÑÐ½ÑÐ¹ ÑÐºÑÐ¸Ð¿Ñ -->
+    <script async src="https://qgmwby.com/m3s71l921vilp0m/y038hq867vqu768kypdvja.php"></script>
+    <!-- /LuckyAds -->
+    <!-- Sparrow -->
+    <script async src="https://widget.sparrow.ru/js/embed.js"></script>
+    <!-- /Sparrow -->
+    <link rel="apple-touch-icon" sizes="512x512" href="/images/android-icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/images/android-icon-192.png" />
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials" />
+    <script>
+    if ('serviceWorker' in navigator) {
+    // ÐÐµÑÑ ÐºÐ¾Ð´ ÑÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ Ñ Ð½Ð°Ñ Ð°ÑÐ¸Ð½ÑÑÐ¾Ð½Ð½ÑÐ¹.
+    navigator.serviceWorker.register('./sw.js')
+    .then(() => navigator.serviceWorker.ready.then((worker) => {
+    worker.sync.register('syncdata');
+    }))
+    .catch((err) => console.log(err));
+    }
+    </script>
+    <link rel="dns-prefetch" href="//static.criteo.net">
+<link rel="dns-prefetch" href="//bidder.criteo.com">
+<link rel="preload" href="//static.criteo.net/js/ld/publishertag.js" as="script" crossorigin="anonymous">
+<link rel="preconnect" href="https://ads.betweendigital.com" crossorigin>
+<link rel="preconnect" href="https://static.criteo.net">
+<link rel="preconnect" href="https://exchange.buzzoola.com">
+<link rel="preconnect" href="https://pb.adriver.ru">
+<link rel="preconnect" href="https://ad.mail.ru">
+<script async src="https://cdn.afp.ai/ssp/sdk.js"></script>
+<script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+<script>
+    var adfoxBiddersMap = {
+        "criteo": "1717012",
+        "rtbhouse": "1717026",
+        "betweenDigital": "1239116",
+        "myTarget": "1403696",
+        "adriver": "1717094",
+        "otm": "1717369",
+        "segmento": "1717068",
+        "buzzoola": "1717103",
+        "adfox_adsmart": "1717430",
+        "hybrid": "1717428"
+    };
+    var adUnits = window.innerWidth && window.innerWidth < 480
+        ?
+        [
+            {
+                // Mobile_Top
+                "code": "adfox_162463473351661054",
+                "sizes": [[320, 100]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609193"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "DEHjQj998v4Mg1vmSmm1"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421788"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953609"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_320x100mob"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24380"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "6157339404ec24d130892675"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224731"
+                        }
+                    }
+                ]
+            },
+            {
+                // 300x250_Mobile_Inpage
+                "code": "adfox_in-text",
+                "sizes": [[300, 250], [336, 280]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609194"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "m9ZTA2ZgQHxCBZdXFZiV"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421789"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953611"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_300x250mob_1"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24416"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "6157342520776ca3e84f0620"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224757"
+                        }
+                    },
+                    {
+                        "bidder": "adfox_adsmart",
+                        "params": {
+                            "p1": "cqwiz",
+                            "p2": "ul"
+                        }
+                    }
+                ]
+            },
+            {
+                // 300x250_Mobile_After_Article
+                "code": "adfox_162463498674745378",
+                "sizes": [[300, 250], [336, 280]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609195"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "4c3D4f79WBvkXExrvMCE"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421790"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953613"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_300x250mob_2"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24417"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "615734cb20776ca3e84f0621"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224758"
+                        }
+                    },
+                    {
+                        "bidder": "adfox_adsmart",
+                        "params": {
+                            "p1": "cqwiz",
+                            "p2": "ul"
+                        }
+                    }
+                ]
+            }
+        ]
+        :
+        [
+            {
+                // Desktop_Billboard
+                "code": "adfox_162463470818949087",
+                "sizes": [[970, 250], [970, 90], [1100, 250]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609188"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "tKcUU9N1cAr9ywmixPQ9"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421791"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953615"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_970x250"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24418"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "615735e604ec24d130892676"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224759"
+                        }
+                    }
+                ]
+            },
+            {
+                // Desktop_Inpage
+                "code": "adfox_in-text",
+                "sizes": [[728, 90], [730, 200]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609190"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "RqIBKVZhTqWA2N7tLtUY"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421792"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953617"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_728x90"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24419"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "6157382120776ca3e84f0622"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224760"
+                        }
+                    },
+                    {
+                        "bidder": "adfox_adsmart",
+                        "params": {
+                            "p1": "cqwiz",
+                            "p2": "ul"
+                        }
+                    }
+                ]
+            },
+            {
+                // Desktop_Sidebar_1
+                "code": "adfox_162463506071058649",
+                "sizes": [[300, 600]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609191"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "a1YHFbytxEMnnVBMiBaI"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421793"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953619"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_300x600_1"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24420"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "6157385304ec24d130892677"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224761"
+                        }
+                    },
+                    {
+                        "bidder": "adfox_adsmart",
+                        "params": {
+                            "p1": "cqwja",
+                            "p2": "hhro"
+                        }
+                    }
+                ]
+            },
+            {
+                // Desktop_Sidebar_2
+                "code": "adfox_162463515293538436",
+                "sizes": [[300, 600]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609192"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "uEee7Yv1tr0CE9ZxSsdP"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421794"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953623"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_300x600_2"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24421"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "6157389120776ca3e84f0623"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224762"
+                        }
+                    },
+                    {
+                        "bidder": "adfox_adsmart",
+                        "params": {
+                            "p1": "cqwja",
+                            "p2": "hhro"
+                        }
+                    }
+                ]
+            },
+            {
+                // Desktop_After_Article
+                "code": "adfox_162463494964389116",
+                "sizes": [[730, 400], [728, 90], [580, 400], [730, 200]],
+                "bids": [
+                    {
+                        "bidder": "criteo",
+                        "params": {
+                            "placementId": "1609189"
+                        }
+                    },
+                    {
+                        "bidder": "rtbhouse",
+                        "params": {
+                            "placementId": "eLoX77twvoLF6Z0UXTxS"
+                        }
+                    },
+                    {
+                        "bidder": "betweenDigital",
+                        "params": {
+                            "placementId": "4421795"
+                        }
+                    },
+                    {
+                        "bidder": "myTarget",
+                        "params": {
+                            "placementId": "953625"
+                        }
+                    },
+                    {
+                        "bidder": "adriver",
+                        "params": {
+                            "placementId": "41:prufy_728x90"
+                        }
+                    },
+                    {
+                        "bidder": "segmento",
+                        "params": {
+                            "placementId": "1361"
+                        }
+                    },
+                    {
+                        "bidder": "otm",
+                        "params": {
+                            "placementId": "24422"
+                        }
+                    },
+                    {
+                        "bidder": "hybrid",
+                        "params": {
+                            "placementId": "6157390920776ca3e84f0624"
+                        }
+                    },
+                    {
+                        "bidder": "buzzoola",
+                        "params": {
+                            "placementId": "1224763"
+                        }
+                    },
+                    {
+                        "bidder": "adfox_adsmart",
+                        "params": {
+                            "p1": "cqwiz",
+                            "p2": "ul"
+                        }
+                    }
+                ]
+            }
+        ];
+    var userTimeout = 1600;
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout
+    };
+</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>        <script async src="https://www.tiktok.com/embed.js"></script>
+
+    <!-- Tolstoy Comments Init -->
+    <script type="text/javascript">
+        !(function(w, d, s, l, x) {
+            w[l] = w[l] || [];
+            w[l].t = w[l].t || new Date().getTime();
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s);
+            j.async = !0;
+            j.src = "//web.tolstoycomments.com/sitejs/app.js?i=" + l + "&x=" + x + "&t=" + w[l].t;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "tolstoycomments", "4159");
+    </script>
+    <!-- /Tolstoy Comments Init -->
+    <!-- Tolstoy Comments Comment Counter -->
+    <script type="text/javascript">
+        window["tolstoycomments"] = window["tolstoycomments"] || [];
+        window["tolstoycomments"].push({
+            action: "init",
+            values: {
+                comment_class: "tolstoycomments-cc"
+            }
+        });
+    </script>
+    <!-- /Tolstoy Comments Comment Counter -->
+</head>
+
+<body>
+<div id="brand"></div>
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3235977", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div>
+        <img src="https://top-fwz1.mail.ru/counter?id=3235977;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div></noscript>
+<!-- //Rating Mail.ru counter -->
+
+<!--LiveInternet counter--><script>
+    new Image().src = "https://counter.yadro.ru/hit;Prufy?r"+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+        ";h"+escape(document.title.substring(0,150))+
+        ";"+Math.random();</script>
+<!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(16232839, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/16232839" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+    <div class="wrapper">
+
+        <div class="header" style="">
+            <div class="block-logo">
+                <a href="/"><img class="logo" width="400px" height="108px" src="https://prufy.ru/images/reg/prufy.ru.svg" loading="lazy" ></a>
+            </div>
+            <div style="display:none" class="ages">18+</div>
+            <br>
+            <div class="block-service">
+
+<div class="donate_top">
+    <a href="/donate">
+        <img  src="/upload/delight.webpconverter/images/alert_top.png.webp?1634902375928" data-webp-src="/images/alert_top.png" loading="lazy" >
+    </a>
+</div>
+
+                <div class="region s-region-wrapper">
+                    
+                    <div id="bxdynamic_LkGdQn_start" style="display:none"></div>
+
+
+
+<select class="root-item" onchange="window.location.href = this.options[this.selectedIndex].value"> <!--Supplement an id here instead of using 'name'-->
+   <option class="root-item" selected>Ð£ÑÐ°</option>
+
+
+    <option class="root-item" value="https://kazan.prufy.ru">ÐÐ°Ð·Ð°Ð½Ñ</option>
+
+
+
+    <option class="root-item" value="https://chel.prufy.ru">Ð§ÐµÐ»ÑÐ±Ð¸Ð½ÑÐº</option>
+
+
+</select>
+<div class="menu-clear-left"></div>
+
+
+
+
+<div id="bxdynamic_LkGdQn_end" style="display:none"></div><br>
+
+                </div>
+<div class="send_news">
+   <div class="send-text">
+       <p>Ð¿ÑÐ¸ÑÐ»Ð¸ÑÐµ Ð½Ð¾Ð²Ð¾ÑÑÑ </p>
+   </div>
+<span class="send-img">
+
+         <a href="https://api.whatsapp.com/send?phone=79874800407" target="_blank"><img width="44px" height="44px" src="/images/social/whatsapp.svg" loading="lazy" ></a>
+         <a href="https://t.me/redprufy" target="_blank"><img width="44px" height="44px" src="/images/social/telegram.svg" loading="lazy" ></a>
+   </span>
+
+</div>
+
+                                <div style="margin-bottom: 10px;">
+
+<!--                        <div class="podcast_button"><a href="#adfox_162918969521962546"> Ð¡Ð»ÑÑÐ°ÑÑ </a></div>-->
+<!--                        <div id="video_button" class="video_button"><a href="/video"> ÐÐ¸Ð´ÐµÐ¾ </a></div>-->
+
+                </div>
+                
+                                <div class="top-searche">
+                       <div id="title-search" class="bx_search_container">
+	<form action="/search/index.php">
+		<div class="bx_field">
+			<input id="title-search-input" type="text" name="q" placeholder="Ð¿Ð¾Ð¸ÑÐº" value="" autocomplete="off" class="bx_input_text"/>
+			<input name="s" type="submit" value="" class="bx_input_submit"/>
+		</div>
+	</form>
+</div>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/',
+			'CONTAINER_ID': 'title-search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="menu">
+            <div id="naviga-zoraned">
+    <ul class="gresazopan">
+    <li><a href="/news/" >Ð½Ð¾Ð²Ð¾ÑÑÐ¸</a></li>
+    <li><a href="/podrobno/" >ÑÑÐ°ÑÑÐ¸</a></li>
+    <li><a href="/hapok/" >Ð±Ð¾Ð»ÑÑÐ¾Ð¹ ÑÐ°Ð¿Ð¾Ðº</a></li>
+    <li><a href="https://www.youtube.com/channel/UCKMYumsS_NcEyjVZVt4JbMg" >youtube</a></li>
+    <li><a href="https://spec.prufy.ru/" >ÑÐ¿ÐµÑÐ¿ÑÐ¾ÐµÐºÑÑ</a></li>
+    <li><a href="/pdf/" >Ð³Ð°Ð·ÐµÑÐ°</a></li>
+    <li><a href="/actual/svo/" >Ð´Ð¾Ð½Ð±Ð°ÑÑ</a></li>
+    <li><a href="/kazan/" >ÐºÐ°Ð·Ð°Ð½Ñ</a></li>
+    <li><a href="https://prufy.ru/donate/" >Ð¾ Ð½Ð°Ñ</a></li>
+    </ul>
+</div>
+
+<br>
+        </div>
+
+        <div class="banner">
+            <!--AdFox START-->
+            <!--Free_media-->
+            <!--ÐÐ»Ð¾ÑÐ°Ð´ÐºÐ°: prufy.ru_2021 / Desktop / Billboard_Top-->
+            <!--ÐÐ°ÑÐµÐ³Ð¾ÑÐ¸Ñ: <Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°>-->
+            <!--Ð¢Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑÐ°: Billboard-->
+            <div id="adfox_162463470818949087"></div>
+            <script>
+                window.Ya.adfoxCode.createAdaptive({
+                    ownerId: 280346,
+                    containerId: 'adfox_162463470818949087',
+                    params: {
+                        p1: 'cpqpr',
+                        p2: 'hgeb'
+                    }
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 830,
+                    phoneWidth: 480,
+                    isAutoReloads: false
+                });
+            </script>
+
+            <!--AdFox START-->
+            <!--Free_media-->
+            <!--ÐÐ»Ð¾ÑÐ°Ð´ÐºÐ°: prufy.ru_2021 / Mobile / Mobile_Billboard-->
+            <!--ÐÐ°ÑÐµÐ³Ð¾ÑÐ¸Ñ: <Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°>-->
+            <!--Ð¢Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑÐ°: Mobile-->
+            <div id="adfox_162463473351661054"></div>
+            <script>
+                window.Ya.adfoxCode.createAdaptive({
+                    ownerId: 280346,
+                    containerId: 'adfox_162463473351661054',
+                    params: {
+                        p1: 'cpojk',
+                        p2: 'hgef'
+                    }
+                }, ['phone'], {
+                    tabletWidth: 830,
+                    phoneWidth: 480,
+                    isAutoReloads: false
+                });
+            </script>
+         </div>
+
+<hr>
+<div class="row">
+	<div class="col1">
+		<div class="cdr-main">
+			<p class="cdrn-main">
+				 ÑÐµÐ¼Ð° Ð´Ð½Ñ
+			</p>
+		</div>
+		        <div class="news-favorit">
+        <a href="/news/society/134299-radiy_khabirov_i_turizm_na_tarelochke/">
+        <img class="main-topic-one-img"
+             src="/upload/webp/iblock/289/42s80neeyrm9tnp09w0psg6mfcmqz7sv.webp"
+             height="410"
+             width="728"
+             title="Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?"
+             alt="Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?"
+        />
+        <p class="main-topic-one-name">Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?</p>
+        <p class="main-topic-one-pre">ÐÐ° Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÐµ Ð³Ð»Ð°Ð²Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸, ÐºÐ¾ÑÐ¾ÑÑÑ Ð¾Ð½ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð½Ð»Ð°Ð¹Ð½, Ð³Ð¾Ð²Ð¾ÑÐ¸Ð»Ð¸ Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¼ Ð¾ ÑÐ¾Ð¼, ÐºÐ°ÐºÐ°Ñ Ð±ÑÐ»Ð° Ð°ÐºÑÐ¸Ð²Ð½Ð°Ñ Ð½ÐµÐ´ÐµÐ»Ñ Ñ ÑÐ°Ð¼Ð¾Ð³Ð¾ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð°. Ð­ÑÐ¾ Ð´Ð°Ð¶Ðµ Ð¿Ð¾ÑÐ¾Ð´Ð¸Ð»Ð¾ Ð½Ð° Ð¿Ð¸Ð°Ñ: Ð¸ Ð½Ð° Ð¾Ð±ÑÑÐ¶Ð´ÐµÐ½Ð¸Ð¸ ÐºÐ¾Ð½ÑÐµÐ¿ÑÐ¸Ð¸ ÐÐ²ÑÐ°Ð·Ð¸Ð¹ÑÐºÐ¾Ð³Ð¾ Ð¼ÑÐ·ÐµÑ ÐºÐ¾ÑÐµÐ²ÑÑ ÑÐ¸Ð²Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ð¹ Ð·Ð° 4 Ð¼Ð»ÑÐ´ Ð¾Ð½, Ð²Ð¸Ð´Ð¸ÑÐµ Ð»Ð¸, Ð¿Ð¾Ð±ÑÐ²Ð°Ð». Ð Ñ Ð³Ð»Ð°Ð²Ð°Ð¼Ð¸ ÑÐµÐ»ÑÑÐºÐ¸Ñ Ð¿Ð¾ÑÐµÐ»ÐµÐ½Ð¸Ð¹ Ð² ÐÑÐ³Ð°ÑÑÐ¸Ð½ÑÐºÐ¾Ð¼ ÑÐ°Ð¹Ð¾Ð½Ðµ Ð²ÑÑÑÐµÑÐ¸Ð»ÑÑ. Ð Ð¿Ð¾ÑÐµÑÐ¸Ð» Ð£ÑÐ¸Ð¼ÑÐºÐ¸Ð¹ Ð¼Ð°ÑÐ¸Ð½Ð¾ÑÑÑÐ¾Ð¸ÑÐµÐ»ÑÐ½ÑÐ¹ ÐºÐ¾Ð»Ð»ÐµÐ´Ð¶. Ð ÐµÑÐµ ÑÐ°Ð±Ð¾ÑÑ Ð² Ð¿Ð°ÑÐºÐµ ÐºÑÐ»ÑÑÑÑÑ Ð¸ Ð¾ÑÐ´ÑÑÐ° ÐÐµÑÑÐµÑÐ¸Ð¼Ð¸ÐºÐ¾Ð² Ð¿ÑÐ¾Ð¸Ð½ÑÐ¿ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°Ð».</p>
+        </a>
+    </div>
+	</div>
+	<div class="col2">
+		<div class="cdr-main">
+			<p class="cdrn-main">
+				 Ð²Ð°Ð¶Ð½Ð¾Ðµ
+			</p>
+		</div>
+		 
+<div class="news-list-top">
+                                            <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/society/134297-khabirov_ne_otvetil_otpravil_by_on_svoego_rebenka_uchitsya_v_kinoteatr/">Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð½Ðµ Ð¾ÑÐ²ÐµÑÐ¸Ð», Ð¾ÑÐ¿ÑÐ°Ð²Ð¸Ð» Ð±Ñ Ð¾Ð½ ÑÐ²Ð¾ÐµÐ³Ð¾ ÑÐµÐ±ÐµÐ½ÐºÐ° ÑÑÐ¸ÑÑÑÑ Ð² ÐºÐ¸Ð½Ð¾ÑÐµÐ°ÑÑ</a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">20.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134297-khabirov_ne_otvetil_otpravil_by_on_svoego_rebenka_uchitsya_v_kinoteatr/"></span>
+
+                        </div>
+                    </div>
+                </div>
+              
+
+                                                      <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/society/133875-krasota_vostorg_i_udivlenie_v_ufu_edet_vystavka_interaktivnykh_dinozavrov_i_zhivykh_babochek/">ÐÐµÐ¾Ð±ÑÐºÐ½Ð¾Ð²ÐµÐ½Ð½ÑÐ¹ Ð·Ð¾Ð¾Ð¿Ð°ÑÐº Ð² Ð£ÑÐµ: Ð¶Ð¸Ð²ÑÐµ Ð´ÑÑÐ¶ÐµÐ»ÑÐ±Ð½ÑÐµ Ð±Ð°Ð±Ð¾ÑÐºÐ¸ Ð¸ Ð¸Ð½ÑÐµÑÐ°ÐºÑÐ¸Ð²Ð½ÑÐµ Ð´Ð¸Ð½Ð¾Ð·Ð°Ð²ÑÑ</a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">20.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/133875-krasota_vostorg_i_udivlenie_v_ufu_edet_vystavka_interaktivnykh_dinozavrov_i_zhivykh_babochek/"></span>
+
+                        </div>
+                    </div>
+                </div>
+              
+
+                                                      <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/society/134278-nuzhna_novaya_mobilizatsiya_i_privlechenie_srochnikov_v_svo_voenkor_o_trebovaniyakh_dlya_uspekha_na_/">ÐÐ¾ÐµÐ½ÐºÐ¾Ñ Ð¿ÑÐ¸Ð·Ð²Ð°Ð» Ð¿ÑÐ¸Ð²Ð»ÐµÑÑ Ðº Ð¡ÐÐ ÑÑÐ¾ÑÐ½Ð¸ÐºÐ¾Ð²</a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">19.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134278-nuzhna_novaya_mobilizatsiya_i_privlechenie_srochnikov_v_svo_voenkor_o_trebovaniyakh_dlya_uspekha_na_/"></span>
+
+                        </div>
+                    </div>
+                </div>
+                                        <div class="lenta-item">
+
+            <a class="news-name-a" href="/news/novosti/134227-zhena_uchastnika_gromkogo_dela_bashkirskikh_prokurorov_stsepilas_s_prufami_v_sude/">
+                <div class="news-name">ÐÐµÐ½Ð° ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ° Ð³ÑÐ¾Ð¼ÐºÐ¾Ð³Ð¾ Ð´ÐµÐ»Ð° Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸Ñ Ð¿ÑÐ¾ÐºÑÑÐ¾ÑÐ¾Ð² ÑÑÐµÐ¿Ð¸Ð»Ð°ÑÑ Ñ ÐÑÑÑÐ°Ð¼Ð¸ Ð² ÑÑÐ´Ðµ                                    </div>
+                              <div class="date-count">
+                     <span style="font-size: 10px;">8:51 17 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                     <span style="font-size: 10px;" class="icon-eye">e</span>
+                     <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134227-zhena_uchastnika_gromkogo_dela_bashkirskikh_prokurorov_stsepilas_s_prufami_v_sude/"></span>
+                 </div>
+
+                         </a>
+        </div>
+                                            
+        <div class="lenta-item">
+                                       <a href="https://spec.prufy.ru/ushla_epoha?from=mobile_lenta" target="_blank">
+
+                        <p>Â«Ð£ÑÐ»Ð° ÑÐ¿Ð¾ÑÐ°!Â» â Ð½Ð¾ Â«ÐÐ¸Ð·Ð½Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÐµÑÑÑ!Â»</p>
+                           <div class="date-count">
+                               <span style="font-size: 10px;">Ð¡Ð¿ÐµÑÐ¿ÑÐ¾ÐµÐºÑ</span>
+                           </div>
+                      </a>
+                        </div>
+                              
+
+                                                      <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/novosti/134275-komu_medok_a_komu_kholodok/">ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº. Ð§ÑÐ¾ Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ð² ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸?</a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">19.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134275-komu_medok_a_komu_kholodok/"></span>
+
+                        </div>
+                    </div>
+                </div>
+              
+
+                                                      <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/society/134269-samyy_podlyy_postupok_volodin_vyskazalsya_po_povodu_otmeny_dnya_pobedy_na_ukraine/">Â«Ð¡Ð°Ð¼ÑÐ¹ Ð¿Ð¾Ð´Ð»ÑÐ¹ Ð¿Ð¾ÑÑÑÐ¿Ð¾ÐºÂ». ÐÐ¾Ð»Ð¾Ð´Ð¸Ð½ Ð²ÑÑÐºÐ°Ð·Ð°Ð»ÑÑ Ð¿Ð¾ Ð¿Ð¾Ð²Ð¾Ð´Ñ Ð¾ÑÐ¼ÐµÐ½Ñ ÐÐ½Ñ ÐÐ¾Ð±ÐµÐ´Ñ Ð½Ð° Ð£ÐºÑÐ°Ð¸Ð½Ðµ</a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">19.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134269-samyy_podlyy_postupok_volodin_vyskazalsya_po_povodu_otmeny_dnya_pobedy_na_ukraine/"></span>
+
+                        </div>
+                    </div>
+                </div>
+              
+
+                                                      <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/culture/134237-blogery_politiki_zhurnalisty_bashkirii_kto_uekhal_iz_strany_posle_nachala_svo_/">ÐÐ»Ð¾Ð³ÐµÑÑ, Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ¸, Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸. ÐÑÐ¾ ÑÐµÑÐ°Ð» Ð¸Ð· ÑÑÑÐ°Ð½Ñ Ð¿Ð¾ÑÐ»Ðµ Ð½Ð°ÑÐ°Ð»Ð° Ð¡ÐÐ? </a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">18.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/culture/134237-blogery_politiki_zhurnalisty_bashkirii_kto_uekhal_iz_strany_posle_nachala_svo_/"></span>
+
+                        </div>
+                    </div>
+                </div>
+              
+
+                                                      <div class="news-item-top"?>
+                    <div class="news-top-name">
+                        <a href="/news/novosti/134248-snimaem_shlyapu_pered_sudyami_raufa_rakhimova_vyigrala_sud_u_administratsii_glavy_bashkirii/">Ð¡Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐ»ÑÐ¿Ñ Ð¿ÐµÑÐµÐ´ ÑÑÐ´ÑÑÐ¼Ð¸. Ð Ð°ÑÑÐ° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð²ÑÐ¸Ð³ÑÐ°Ð»Ð° ÑÑÐ´ Ñ ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ ÐÐ»Ð°Ð²Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸</a>
+                                                <div class="date-count">
+                            <span style="font-size: 10px;">17.02.2023 </span>
+                            <span style="font-size: 10px;" class="icon-eye">e</span>
+                            <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134248-snimaem_shlyapu_pered_sudyami_raufa_rakhimova_vyigrala_sud_u_administratsii_glavy_bashkirii/"></span>
+
+                        </div>
+                    </div>
+                </div>
+              
+
+                        </div>
+	</div>
+</div>
+    <!--AdFox START-->
+    <!--Free_media-->
+    <!--ÐÐ»Ð¾ÑÐ°Ð´ÐºÐ°: prufy.ru_2021 / Mobile / Mobile_Inpage-->
+    <!--ÐÐ°ÑÐµÐ³Ð¾ÑÐ¸Ñ: <Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°>-->
+    <!--Ð¢Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑÐ°: Mobile-->
+    <div id="adfox_165942970469033629"></div>
+    <script>
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 280346,
+                containerId: 'adfox_165942970469033629',
+                params: {
+                    p1: 'cpteg',
+                    p2: 'hgef'
+                }
+            }, ['phone'], {
+                phoneWidth: 480,
+                isAutoReloads: false
+            })
+        })
+    </script>
+
+    <hr>
+    <div class="cdr-main">
+        <a href="/all-news.php">
+            <h1 class="cdrn-main">
+                Ð½Ð¾Ð²Ð¾ÑÑÐ¸ ÑÐµÐ³Ð¾Ð´Ð½Ñ </h1>
+        </a>
+    </div>
+    <div class="news-lenta">
+        
+
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                    
+            
+
+                    
+            
+
+                    
+            
+
+          <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134306-v_bashkirii_sud_priznal_eks_deputata_iz_meleuza_vinovnym_v_ubiystve_invalida/">
+            <div class="news-name">Ð ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ ÑÑÐ´ Ð¿ÑÐ¸Ð·Ð½Ð°Ð» ÑÐºÑ-Ð´ÐµÐ¿ÑÑÐ°ÑÐ° Ð¸Ð· ÐÐµÐ»ÐµÑÐ·Ð° Ð²Ð¸Ð½Ð¾Ð²Ð½ÑÐ¼ Ð² ÑÐ±Ð¸Ð¹ÑÑÐ²Ðµ Ð¸Ð½Ð²Ð°Ð»Ð¸Ð´Ð°</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 18:14</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134306"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134306-v_bashkirii_sud_priznal_eks_deputata_iz_meleuza_vinovnym_v_ubiystve_invalida/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134305-vlasti_ufy_zaymutsya_obnovleniem_detskogo_lagerya_chayka/">
+            <div class="news-name">ÐÐ»Ð°ÑÑÐ¸ Ð£ÑÑ Ð·Ð°Ð¹Ð¼ÑÑÑÑ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸ÐµÐ¼ Ð´ÐµÑÑÐºÐ¾Ð³Ð¾ Ð»Ð°Ð³ÐµÑÑ Â«Ð§Ð°Ð¹ÐºÐ°Â»</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 17:07</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134305"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134305-vlasti_ufy_zaymutsya_obnovleniem_detskogo_lagerya_chayka/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134301-stalo_izvestno_skolko_sobirayutsya_potratit_na_podarki_k_23_fevralya_zhiteli_ufy/">
+            <div class="news-name">Ð¡ÑÐ°Ð»Ð¾ Ð¸Ð·Ð²ÐµÑÑÐ½Ð¾, ÑÐºÐ¾Ð»ÑÐºÐ¾ ÑÐ¾Ð±Ð¸ÑÐ°ÑÑÑÑ Ð¿Ð¾ÑÑÐ°ÑÐ¸ÑÑ Ð½Ð° Ð¿Ð¾Ð´Ð°ÑÐºÐ¸ Ðº 23 Ð¤ÐµÐ²ÑÐ°Ð»Ñ Ð¶Ð¸ÑÐµÐ»Ð¸ Ð£ÑÑ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 15:43</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134301"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134301-stalo_izvestno_skolko_sobirayutsya_potratit_na_podarki_k_23_fevralya_zhiteli_ufy/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134304-vlasti_bashkirii_nashli_kto_budet_sledit_chtoby_tsur_ne_spolz_so_sklona/">
+            <div class="news-name">ÐÐ»Ð°ÑÑÐ¸ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð½Ð°ÑÐ»Ð¸, ÐºÑÐ¾ Ð±ÑÐ´ÐµÑ ÑÐ»ÐµÐ´Ð¸ÑÑ, ÑÑÐ¾Ð±Ñ Ð¦Ð£Ð  Ð½Ðµ ÑÐ¿Ð¾Ð»Ð· ÑÐ¾ ÑÐºÐ»Ð¾Ð½Ð°</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 15:28</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134304"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134304-vlasti_bashkirii_nashli_kto_budet_sledit_chtoby_tsur_ne_spolz_so_sklona/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134303-v_bashkirii_v_2022_godu_umerlo_bolee_150_novorozhdennykh_/">
+            <div class="news-name">Ð ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð² 2022 Ð³Ð¾Ð´Ñ ÑÐ¼ÐµÑÐ»Ð¾ Ð±Ð¾Ð»ÐµÐµ 150 Ð½Ð¾Ð²Ð¾ÑÐ¾Ð¶Ð´ÐµÐ½Ð½ÑÑ </div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 15:20</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134303"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134303-v_bashkirii_v_2022_godu_umerlo_bolee_150_novorozhdennykh_/"></span>
+
+            </div>
+        </a>
+    </div>
+               <div class="lenta-item">
+
+            <a class="news-name-a" href="/news/society/134233-idei_podarkov_dlya_nego_i_dlya_neye_k_23_fevralya_i_8_marta/">
+                <div class="news-name">ÐÐ´ÐµÐ¸ Ð¿Ð¾Ð´Ð°ÑÐºÐ¾Ð² Ð´Ð»Ñ Ð½ÐµÐ³Ð¾ Ð¸ Ð´Ð»Ñ Ð½ÐµÑ Ðº 23 Ð¤ÐµÐ²ÑÐ°Ð»Ñ Ð¸ 8 ÐÐ°ÑÑÐ°                                    </div>
+                              <div class="date-count">
+                     <span style="font-size: 10px;">16:00 17 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                     <span style="font-size: 10px;" class="icon-eye">e</span>
+                     <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134233-idei_podarkov_dlya_nego_i_dlya_neye_k_23_fevralya_i_8_marta/"></span>
+                 </div>
+
+                         </a>
+        </div>
+                    
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134302-chego_zhdat_rossiyanam_ot_poslaniya_vladimira_putina_21_fevralya/">
+            <div class="news-name">Ð§ÐµÐ³Ð¾ Ð¶Ð´Ð°ÑÑ ÑÐ¾ÑÑÐ¸ÑÐ½Ð°Ð¼ Ð¾Ñ Ð¿Ð¾ÑÐ»Ð°Ð½Ð¸Ñ ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÐ° ÐÑÑÐ¸Ð½Ð° 21 ÑÐµÐ²ÑÐ°Ð»Ñ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 15:03</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134302"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134302-chego_zhdat_rossiyanam_ot_poslaniya_vladimira_putina_21_fevralya/"></span>
+
+            </div>
+        </a>
+    </div>
+                                 
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134299-radiy_khabirov_i_turizm_na_tarelochke/">
+            <div class="news-name">Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 15:00</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134299"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134299-radiy_khabirov_i_turizm_na_tarelochke/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134300-glava_bashkirii_radiy_khabirov_predlozhil_otdat_svoy_kabinet_pod_tsentr_podderzhki_uchastnikov_svo/">
+            <div class="news-name">ÐÐ»Ð°Ð²Ð° ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¿ÑÐµÐ´Ð»Ð¾Ð¶Ð¸Ð» Ð¾ÑÐ´Ð°ÑÑ ÑÐ²Ð¾Ð¹ ÐºÐ°Ð±Ð¸Ð½ÐµÑ Ð¿Ð¾Ð´ ÑÐµÐ½ÑÑ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ¸ ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ¾Ð² Ð¡ÐÐ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 14:32</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134300"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134300-glava_bashkirii_radiy_khabirov_predlozhil_otdat_svoy_kabinet_pod_tsentr_podderzhki_uchastnikov_svo/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/novosti/134298-dzho_bayden_vstretilsya_s_vladimirom_zelenskim_i_anonsiroval_novyy_paket_voennoy_pomoshchi_ukraine_n/">
+            <div class="news-name">ÐÐ¶Ð¾ ÐÐ°Ð¹Ð´ÐµÐ½ Ð²ÑÑÑÐµÑÐ¸Ð»ÑÑ Ñ ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÐ¾Ð¼ ÐÐµÐ»ÐµÐ½ÑÐºÐ¸Ð¼ Ð¸ Ð°Ð½Ð¾Ð½ÑÐ¸ÑÐ¾Ð²Ð°Ð» Ð½Ð¾Ð²ÑÐ¹ Ð¿Ð°ÐºÐµÑ Ð²Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð£ÐºÑÐ°Ð¸Ð½Ðµ Ð½Ð° 500 Ð¼Ð»Ð½ Ð´Ð¾Ð»Ð»Ð°ÑÐ¾Ð²</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 13:50</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134298"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134298-dzho_bayden_vstretilsya_s_vladimirom_zelenskim_i_anonsiroval_novyy_paket_voennoy_pomoshchi_ukraine_n/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134297-khabirov_ne_otvetil_otpravil_by_on_svoego_rebenka_uchitsya_v_kinoteatr/">
+            <div class="news-name">Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð½Ðµ Ð¾ÑÐ²ÐµÑÐ¸Ð», Ð¾ÑÐ¿ÑÐ°Ð²Ð¸Ð» Ð±Ñ Ð¾Ð½ ÑÐ²Ð¾ÐµÐ³Ð¾ ÑÐµÐ±ÐµÐ½ÐºÐ° ÑÑÐ¸ÑÑÑÑ Ð² ÐºÐ¸Ð½Ð¾ÑÐµÐ°ÑÑ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 13:20</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134297"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134297-khabirov_ne_otvetil_otpravil_by_on_svoego_rebenka_uchitsya_v_kinoteatr/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134296-nazvan_samyy_pyushchiy_rayon_bashkirii_po_itogam_2022_goda/">
+            <div class="news-name">ÐÐ°Ð·Ð²Ð°Ð½ ÑÐ°Ð¼ÑÐ¹ Ð¿ÑÑÑÐ¸Ð¹ ÑÐ°Ð¹Ð¾Ð½ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð¿Ð¾ Ð¸ÑÐ¾Ð³Ð°Ð¼ 2022 Ð³Ð¾Ð´Ð°</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 13:00</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134296"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134296-nazvan_samyy_pyushchiy_rayon_bashkirii_po_itogam_2022_goda/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134295-deputat_gosdumy_prokontroliruet_situatsiyu_s_zakrytiem_srazu_dvukh_shkol_v_sele_bashkirii/">
+            <div class="news-name">ÐÐµÐ¿ÑÑÐ°Ñ ÐÐ¾ÑÐ´ÑÐ¼Ñ Ð¿ÑÐ¾ÐºÐ¾Ð½ÑÑÐ¾Ð»Ð¸ÑÑÐµÑ ÑÐ¸ÑÑÐ°ÑÐ¸Ñ Ñ Ð´ÐµÑÑÐ¼Ð¸-ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ°Ð¼Ð¸ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸, Ñ ÐºÐ¾ÑÐ¾ÑÑÑ Ð¾ÑÐ¾Ð±ÑÐ°Ð»Ð¸ ÑÑÐ°Ð·Ñ Ð´Ð²Ðµ ÑÐºÐ¾Ð»Ñ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 12:36</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134295"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134295-deputat_gosdumy_prokontroliruet_situatsiyu_s_zakrytiem_srazu_dvukh_shkol_v_sele_bashkirii/"></span>
+
+            </div>
+        </a>
+    </div>
+                                 
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134294-khudozhnitsa_narisovala_portret_pervogo_prezidenta_bashkirii_murtazy_rakhimova_na_karte_respubliki/">
+            <div class="news-name">Ð¥ÑÐ´Ð¾Ð¶Ð½Ð¸ÑÐ° Ð½Ð°ÑÐ¸ÑÐ¾Ð²Ð°Ð»Ð° Ð¿Ð¾ÑÑÑÐµÑ Ð¿ÐµÑÐ²Ð¾Ð³Ð¾ ÐÑÐµÐ·Ð¸Ð´ÐµÐ½ÑÐ° ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ ÐÑÑÑÐ°Ð·Ñ Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð½Ð° ÐºÐ°ÑÑÐµ ÑÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ¸</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 12:02</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134294"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134294-khudozhnitsa_narisovala_portret_pervogo_prezidenta_bashkirii_murtazy_rakhimova_na_karte_respubliki/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134293-moskovskiy_papa_karlo_nasazhdaet_predstavlenie_o_detalyakh_derevyannoy_bashkirskoy_kultury_zhiteli_b/">
+            <div class="news-name">Â«ÐÐ°ÐºÐ°Ñ-ÑÐ¾ Ð´ÐµÑÐµÐ²ÑÐ½Ð½Ð°Ñ Ð±Ð¾Ð»ÐµÐ·Ð½ÑÂ». Ð ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ ÑÐ¶Ð°ÑÐ½ÑÐ»Ð¸ÑÑ Ð¿ÑÐ¾ÐµÐºÑÑ ÐÑÑÐµÐ¼Ð¸Ñ ÐÐµÐ±ÐµÐ´ÐµÐ²Ð° Ð¿Ð¾ ÐµÐ´Ð¸Ð½Ð¾Ð¼Ñ ÑÑÐ¸Ð»Ñ Ð£ÑÑ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 11:23</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134293"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134293-moskovskiy_papa_karlo_nasazhdaet_predstavlenie_o_detalyakh_derevyannoy_bashkirskoy_kultury_zhiteli_b/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134292-v_tatarstane_iz_za_nekhvatki_mest_predlozhili_otkryvat_detskie_sady_na_pervykh_etazhakh_zhilykh_domo/">
+            <div class="news-name">Ð Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð¸Ð·-Ð·Ð° Ð½ÐµÑÐ²Ð°ÑÐºÐ¸ Ð¼ÐµÑÑ Ð¿ÑÐµÐ´Ð»Ð¾Ð¶Ð¸Ð»Ð¸ Ð¾ÑÐºÑÑÐ²Ð°ÑÑ Ð´ÐµÑÑÐºÐ¸Ðµ ÑÐ°Ð´Ñ Ð½Ð° Ð¿ÐµÑÐ²ÑÑ ÑÑÐ°Ð¶Ð°Ñ Ð¶Ð¸Ð»ÑÑ Ð´Ð¾Ð¼Ð¾Ð²</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 11:00</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134292"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134292-v_tatarstane_iz_za_nekhvatki_mest_predlozhili_otkryvat_detskie_sady_na_pervykh_etazhakh_zhilykh_domo/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134291-kurultay_bashkirii_predlozhil_gosdume_rf_zashchitit_grazhdan_ot_zavyshennykh_tarifov_zhkkh/">
+            <div class="news-name">ÐÑÑÑÐ»ÑÐ°Ð¹ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð¿ÑÐµÐ´Ð»Ð¾Ð¶Ð¸Ð» ÐÐ¾ÑÐ´ÑÐ¼Ðµ Ð Ð¤ Ð·Ð°ÑÐ¸ÑÐ¸ÑÑ Ð³ÑÐ°Ð¶Ð´Ð°Ð½ Ð¾Ñ Ð·Ð°Ð²ÑÑÐµÐ½Ð½ÑÑ ÑÐ°ÑÐ¸ÑÐ¾Ð² ÐÐÐ¥</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 10:52</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134291"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134291-kurultay_bashkirii_predlozhil_gosdume_rf_zashchitit_grazhdan_ot_zavyshennykh_tarifov_zhkkh/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134290-za_39_neoplachennykh_shtrafov_gibdd_ufimka_lishilas_svoego_leksusa/">
+            <div class="news-name">ÐÐ° 39 Ð½ÐµÐ¾Ð¿Ð»Ð°ÑÐµÐ½Ð½ÑÑ ÑÑÑÐ°ÑÐ¾Ð² ÐÐÐÐÐ ÑÑÐ¸Ð¼ÐºÐ° Ð»Ð¸ÑÐ¸Ð»Ð°ÑÑ ÑÐ²Ð¾ÐµÐ³Ð¾ Â«ÐÐµÐºÑÑÑÐ°Â»</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 10:26</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134290"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134290-za_39_neoplachennykh_shtrafov_gibdd_ufimka_lishilas_svoego_leksusa/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134289-zhitelnitsa_kazani_privyazala_k_kolesam_avtomobilya_dvukh_tibetskikh_mastifov_chtoby_ne_otdavat_ego_/">
+            <div class="news-name">ÐÐ¸ÑÐµÐ»ÑÐ½Ð¸ÑÐ° ÐÐ°Ð·Ð°Ð½Ð¸ Ð¿ÑÐ¸Ð²ÑÐ·Ð°Ð»Ð° Ðº ÐºÐ¾Ð»ÐµÑÐ°Ð¼ Ð°Ð²ÑÐ¾Ð¼Ð¾Ð±Ð¸Ð»Ñ Ð´Ð²ÑÑ ÑÐ¸Ð±ÐµÑÑÐºÐ¸Ñ Ð¼Ð°ÑÑÐ¸ÑÐ¾Ð², ÑÑÐ¾Ð±Ñ Ð½Ðµ Ð¾ÑÐ´Ð°Ð²Ð°ÑÑ ÐµÐ³Ð¾ Ð¿ÑÐ¸ÑÑÐ°Ð²Ð°Ð¼ </div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 10:19</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134289"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134289-zhitelnitsa_kazani_privyazala_k_kolesam_avtomobilya_dvukh_tibetskikh_mastifov_chtoby_ne_otdavat_ego_/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/133875-krasota_vostorg_i_udivlenie_v_ufu_edet_vystavka_interaktivnykh_dinozavrov_i_zhivykh_babochek/">
+            <div class="news-name">ÐÐµÐ¾Ð±ÑÐºÐ½Ð¾Ð²ÐµÐ½Ð½ÑÐ¹ Ð·Ð¾Ð¾Ð¿Ð°ÑÐº Ð² Ð£ÑÐµ: Ð¶Ð¸Ð²ÑÐµ Ð´ÑÑÐ¶ÐµÐ»ÑÐ±Ð½ÑÐµ Ð±Ð°Ð±Ð¾ÑÐºÐ¸ Ð¸ Ð¸Ð½ÑÐµÑÐ°ÐºÑÐ¸Ð²Ð½ÑÐµ Ð´Ð¸Ð½Ð¾Ð·Ð°Ð²ÑÑ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 10:15</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="133875"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/133875-krasota_vostorg_i_udivlenie_v_ufu_edet_vystavka_interaktivnykh_dinozavrov_i_zhivykh_babochek/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134288-podelniki_erika_gafarova_po_delu_finansovoy_piramidy_poluchili_pozhiznennye_sroki_v_turtsii/">
+            <div class="news-name">ÐÐ¾Ð´ÐµÐ»ÑÐ½Ð¸ÐºÐ¸ Ð­ÑÐ¸ÐºÐ° ÐÐ°ÑÐ°ÑÐ¾Ð²Ð° Ð¿Ð¾ Ð´ÐµÐ»Ñ ÑÐ¸Ð½Ð°Ð½ÑÐ¾Ð²Ð¾Ð¹ Ð¿Ð¸ÑÐ°Ð¼Ð¸Ð´Ñ Ð¿Ð¾Ð»ÑÑÐ¸Ð»Ð¸ Ð¿Ð¾Ð¶Ð¸Ð·Ð½ÐµÐ½Ð½ÑÐµ ÑÑÐ¾ÐºÐ¸ Ð² Ð¢ÑÑÑÐ¸Ð¸</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 10:02</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134288"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134288-podelniki_erika_gafarova_po_delu_finansovoy_piramidy_poluchili_pozhiznennye_sroki_v_turtsii/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134287-gosduma_predlozhila_davat_rossiyanam_dopolnitelnyy_vykhodnoy/">
+            <div class="news-name">ÐÐµÐ¿ÑÑÐ°Ñ ÐÐ¾ÑÐ´ÑÐ¼Ñ Ð¿ÑÐµÐ´Ð»Ð¾Ð¶Ð¸Ð» Ð´Ð°Ð²Ð°ÑÑ ÑÐ¾ÑÑÐ¸ÑÐ½Ð°Ð¼ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸ÑÐµÐ»ÑÐ½ÑÐ¹ Ð²ÑÑÐ¾Ð´Ð½Ð¾Ð¹</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 09:00</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134287"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134287-gosduma_predlozhila_davat_rossiyanam_dopolnitelnyy_vykhodnoy/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134286-politsiya_poymala_dvoikh_ufimtsev_kotorye_delali_narkotiki_na_balkone/">
+            <div class="news-name">ÐÐ¾Ð»Ð¸ÑÐ¸Ñ Ð¿Ð¾Ð¹Ð¼Ð°Ð»Ð° Ð´Ð²Ð¾Ð¸Ñ ÑÑÐ¸Ð¼ÑÐµÐ², ÐºÐ¾ÑÐ¾ÑÑÐµ Ð´ÐµÐ»Ð°Ð»Ð¸ Ð½Ð°ÑÐºÐ¾ÑÐ¸ÐºÐ¸ Ð½Ð° Ð±Ð°Ð»ÐºÐ¾Ð½Ðµ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 08:15</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134286"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134286-politsiya_poymala_dvoikh_ufimtsev_kotorye_delali_narkotiki_na_balkone/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134285-glavnyy_gosinspektor_bashkirii_rasskazal_o_redkom_yavlenii_po_statistike_avariy_v_minuvshee_voskrese/">
+            <div class="news-name">ÐÐ»Ð°Ð²Ð½ÑÐ¹ Ð³Ð¾ÑÐ¸Ð½ÑÐ¿ÐµÐºÑÐ¾Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ ÑÐ°ÑÑÐºÐ°Ð·Ð°Ð» Ð¾ ÑÐµÐ´ÐºÐ¾Ð¼ ÑÐ²Ð»ÐµÐ½Ð¸Ð¸ Ð¿Ð¾ ÑÑÐ°ÑÐ¸ÑÑÐ¸ÐºÐµ Ð°Ð²Ð°ÑÐ¸Ð¹ Ð² Ð¼Ð¸Ð½ÑÐ²ÑÐµÐµ Ð²Ð¾ÑÐºÑÐµÑÐµÐ½ÑÐµ </div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 08:06</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134285"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134285-glavnyy_gosinspektor_bashkirii_rasskazal_o_redkom_yavlenii_po_statistike_avariy_v_minuvshee_voskrese/"></span>
+
+            </div>
+        </a>
+    </div>
+                        
+
+        <div class="lenta-item">
+        <a class="news-name-a" href="https://prufy.ru/news/society/134284-v_rossii_planiruyut_vnedrit_edinyy_zakon_o_tishine/">
+            <div class="news-name">Ð Ð Ð¾ÑÑÐ¸Ð¸ Ð¿Ð»Ð°Ð½Ð¸ÑÑÑÑ Ð²Ð½ÐµÐ´ÑÐ¸ÑÑ ÐµÐ´Ð¸Ð½ÑÐ¹ Ð·Ð°ÐºÐ¾Ð½ Ð¾ ÑÐ¸ÑÐ¸Ð½Ðµ</div>
+            <div class="date-count">
+                <span style="font-size: 10px;">20.02.2023 07:47</span>
+                <span style="font-size: 10px;" class="icon-eye">e</span>
+                <span style="font-size: 10px;" class="tolstoycomments-cc" data-identity="134284"></span>
+                <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/134284-v_rossii_planiruyut_vnedrit_edinyy_zakon_o_tishine/"></span>
+
+            </div>
+        </a>
+    </div>
+                            </div>
+    <br>
+    <div class="all-news" style="text-align: center;">
+        <a href="/all-news.php" class="allnewsbutton">Ð²ÑÐµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸</a>
+    </div>
+
+<p class="cdrn-main" id="bd-title" style="display:none;">ÐÐµ Ð·Ð°Ð±ÑÐ´ÑÑÐµ Ð¿Ð¾Ð·Ð´ÑÐ°Ð²Ð¸ÑÑ</p>
+<div class="owl-carousel">
+                                                                                                                                                                                                            </div>
+
+<script>
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        margin: 10,
+        loop: true,
+        autoplay: true,
+        autoplayTimeout: 3500,
+        responsive: {
+            0: {
+                items: 1
+           }
+        }
+    })
+</script>
+
+<div id="videos" class="cdr-main">
+	<p class="cdrn-main">
+		 Ð²Ð¸Ð´ÐµÐ¾
+	</p>
+</div>
+<hr>
+ 
+<div class="owl-carousel owl-theme">
+    <a href="https://www.youtube.com/watch?v=xhJtsVVLMwE" target="_blank">
+        <img
+                src="/upload/webp/iblock/485/4shvpygv5jr8k0iok70fekmpx2upnko3.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº"
+                alt="ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº"
+        >
+
+   </a>
+    <a href="https://youtu.be/WCIs6gWm2fA" target="_blank">
+        <img
+                src="/upload/webp/iblock/0c4/cqptag9qxn4z6ubwqk0rhfa5vsz56x9y.webp"
+                height="1080"
+                width="1920"
+                title="ÐÑÐ¾ Ð¸Ð· ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° Ð¾ÑÐ²ÐµÑÐ¸Ñ Ð·Ð° ÐÐ°ÑÑÐ¿Ð¸ÑÑ? "
+                alt="ÐÑÐ¾ Ð¸Ð· ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° Ð¾ÑÐ²ÐµÑÐ¸Ñ Ð·Ð° ÐÐ°ÑÑÐ¿Ð¸ÑÑ? "
+        >
+
+   </a>
+    <a href="https://youtu.be/WMKuxeFEtoA" target="_blank">
+        <img
+                src="/upload/webp/iblock/637/qqfd6ist115qcuzu0sdcav2igoud05p8.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Â«ÐÐ°Ð´Ð¾ Ð¿Ð¾Ð·Ð²Ð¾Ð»Ð¸ÑÑ Ð»ÑÐ´ÑÐ¼ Ð»ÑÐ±Ð¾Ð²Ð°ÑÑÑÑ ÑÐ¾Ð±Ð¾Ð¹Â»: Ð¸ÑÑÐ¾ÑÐ¸Ñ ÑÐ¾Ð²ÐµÑÑÐºÐ¾Ð¹ Ð¼Ð°Ð½ÐµÐºÐµÐ½ÑÐ¸ÑÑ Ð¸Ð· Ð£ÑÑ"
+                alt="Â«ÐÐ°Ð´Ð¾ Ð¿Ð¾Ð·Ð²Ð¾Ð»Ð¸ÑÑ Ð»ÑÐ´ÑÐ¼ Ð»ÑÐ±Ð¾Ð²Ð°ÑÑÑÑ ÑÐ¾Ð±Ð¾Ð¹Â»: Ð¸ÑÑÐ¾ÑÐ¸Ñ ÑÐ¾Ð²ÐµÑÑÐºÐ¾Ð¹ Ð¼Ð°Ð½ÐµÐºÐµÐ½ÑÐ¸ÑÑ Ð¸Ð· Ð£ÑÑ"
+        >
+
+   </a>
+    <a href="https://www.youtube.com/watch?v=erNd6Daqzo8" target="_blank">
+        <img
+                src="/upload/webp/iblock/f20/o0la5lb611uf4bu0xiivpngblk0oh1dx.webp"
+                height="1080"
+                width="1920"
+                title="Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² ÑÐ»Ð¸Ð» Ð¿Ð¾ÑÑÑÐµÐ½Ð¸Ðµ ÐÑÑÐ¸Ð½Ð°?"
+                alt="Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² ÑÐ»Ð¸Ð» Ð¿Ð¾ÑÑÑÐµÐ½Ð¸Ðµ ÐÑÑÐ¸Ð½Ð°?"
+        >
+
+   </a>
+    <a href="https://youtu.be/sO6dyhE2Zp0" target="_blank">
+        <img
+                src="/upload/webp/iblock/407/ap6qeuhht2s9dkmqhke4f483tvzyfdyc.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Â«Ð¯ Ð½Ðµ Ð·Ð½Ð°Ñ, ÐºÐ°Ðº Ð²Ñ Ð½Ð°Ð¹Ð´ÐµÑÐµ ÑÐµÑÐµÐ½Ð¸ÐµÂ». ÐÐ½ÐµÐ½Ð¸Ðµ"
+                alt="Â«Ð¯ Ð½Ðµ Ð·Ð½Ð°Ñ, ÐºÐ°Ðº Ð²Ñ Ð½Ð°Ð¹Ð´ÐµÑÐµ ÑÐµÑÐµÐ½Ð¸ÐµÂ». ÐÐ½ÐµÐ½Ð¸Ðµ"
+        >
+
+   </a>
+    <a href="https://youtu.be/uIacg6sJkiU" target="_blank">
+        <img
+                src="/upload/webp/iblock/bd2/61lizg791zoy5ulgphwpb351xfjsr451.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ°ÑÐ¿ÑÐ¾ÐµÐºÑÑ ÐÑÑÐ¸Ð½Ð° Ð¿Ð¾-Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸"
+                alt="ÐÐ°ÑÐ¿ÑÐ¾ÐµÐºÑÑ ÐÑÑÐ¸Ð½Ð° Ð¿Ð¾-Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸"
+        >
+
+   </a>
+    <a href="https://youtu.be/gdx7EED_Fl8" target="_blank">
+        <img
+                src="/upload/webp/iblock/250/73dsnzwx6rvf6vgf9ovcuhaggr3n539b.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ½Ð´ÑÐµÐ¹ ÐÐ°Ð·Ð°ÑÐ¾Ð² ÑÐ¾Ð·Ð´Ð°ÐµÑ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸ÑÐµÐ»ÑÐ½ÑÐ¹ ÑÐ¾Ð½. ÐÐ½ÐµÐ½Ð¸Ðµ"
+                alt="ÐÐ½Ð´ÑÐµÐ¹ ÐÐ°Ð·Ð°ÑÐ¾Ð² ÑÐ¾Ð·Ð´Ð°ÐµÑ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸ÑÐµÐ»ÑÐ½ÑÐ¹ ÑÐ¾Ð½. ÐÐ½ÐµÐ½Ð¸Ðµ"
+        >
+
+   </a>
+    <a href="https://youtu.be/aEsX-6CpJ8s" target="_blank">
+        <img
+                src="/upload/webp/iblock/22a/qpdon0ccv8zmppy97gl1z02h0ybj3tk5.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ°Ðº Ð Ð°Ð´Ð¸Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ñ ÑÐ¼ÑÑÑ Ð¿Ð¾Ð·Ð¾Ñ Ñ Ð±Ð»Ð°Ð³Ð¾ÑÐ²Ð¾ÑÐ¸ÑÐµÐ»ÑÐ½ÑÐ¼ Â«ÐºÑÑÐ·Ð°ÐºÐ¾Ð¼Â»"
+                alt="ÐÐ°Ðº Ð Ð°Ð´Ð¸Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ñ ÑÐ¼ÑÑÑ Ð¿Ð¾Ð·Ð¾Ñ Ñ Ð±Ð»Ð°Ð³Ð¾ÑÐ²Ð¾ÑÐ¸ÑÐµÐ»ÑÐ½ÑÐ¼ Â«ÐºÑÑÐ·Ð°ÐºÐ¾Ð¼Â»"
+        >
+
+   </a>
+    <a href="https://youtu.be/XxCy6ExUowE" target="_blank">
+        <img
+                src="/upload/webp/iblock/38b/sxuhvkl7nku7883onv0ha776auk3l9tj.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Â«ÐÐ¾ÑÑÐ´Ð°ÑÑÑÐ²Ð¾ Ð¼Ð½Ð¾Ð³Ð¾Ð´ÐµÑÐ½ÑÑ Ð½Ðµ Ð¾Ð·Ð¾Ð»Ð¾ÑÐ¸Ð»Ð¾Â»: Ð´Ð¸ÑÐµÐºÑÐ¾Ñ ÑÐ¾Ð½Ð´Ð° Â«ÐÐ²Ð° ÐºÑÑÐ»Ð°Â» Ð¾ Ð¿ÑÐ¾Ð±Ð»ÐµÐ¼Ð°Ñ Ð±Ð»Ð°Ð³Ð¾ÑÐ²Ð¾ÑÐ¸ÑÐµÐ»ÑÐ½Ð¾ÑÑÐ¸"
+                alt="Â«ÐÐ¾ÑÑÐ´Ð°ÑÑÑÐ²Ð¾ Ð¼Ð½Ð¾Ð³Ð¾Ð´ÐµÑÐ½ÑÑ Ð½Ðµ Ð¾Ð·Ð¾Ð»Ð¾ÑÐ¸Ð»Ð¾Â»: Ð´Ð¸ÑÐµÐºÑÐ¾Ñ ÑÐ¾Ð½Ð´Ð° Â«ÐÐ²Ð° ÐºÑÑÐ»Ð°Â» Ð¾ Ð¿ÑÐ¾Ð±Ð»ÐµÐ¼Ð°Ñ Ð±Ð»Ð°Ð³Ð¾ÑÐ²Ð¾ÑÐ¸ÑÐµÐ»ÑÐ½Ð¾ÑÑÐ¸"
+        >
+
+   </a>
+    <a href="https://youtu.be/U471ST3KTSU" target="_blank">
+        <img
+                src="/upload/webp/iblock/f40/x8ckhfrj7rj8a2wcycq5plztj5k34ryq.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ°ÑÐºÐ¸ÑÐ¸Ñ Ð² Ð·Ð¾Ð»Ð¾ÑÐ¾Ð¹ ÑÑÐ¸Ð´ÑÐ°ÑÐºÐµ. ÐÐ½ÐµÐ½Ð¸Ðµ"
+                alt="ÐÐ°ÑÐºÐ¸ÑÐ¸Ñ Ð² Ð·Ð¾Ð»Ð¾ÑÐ¾Ð¹ ÑÑÐ¸Ð´ÑÐ°ÑÐºÐµ. ÐÐ½ÐµÐ½Ð¸Ðµ"
+        >
+
+   </a>
+    <a href="https://youtu.be/9BUV9WInis0" target="_blank">
+        <img
+                src="/upload/webp/iblock/99b/s2ba70ztqsvrkxob6tzrfy98o9iuf8nd.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ¾ÑÐµÐ¼Ñ ÐÑÑÐ¸Ð½ Ð¿ÑÐ¸ÐµÑÐ°Ð» Ð¿Ð¾Ð¿ÑÐ¾ÑÐ°ÑÑÑÑ Ñ ÐÐ°Ð±Ð°ÐµÐ¼"
+                alt="ÐÐ¾ÑÐµÐ¼Ñ ÐÑÑÐ¸Ð½ Ð¿ÑÐ¸ÐµÑÐ°Ð» Ð¿Ð¾Ð¿ÑÐ¾ÑÐ°ÑÑÑÑ Ñ ÐÐ°Ð±Ð°ÐµÐ¼"
+        >
+
+   </a>
+    <a href="https://youtu.be/KFwrsZve5DM" target="_blank">
+        <img
+                src="/upload/webp/iblock/07d/4r9dfoybykbwmhlnrahcxamebr8m83b4.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð²ÑÐ¿Ð¾Ð»Ð½ÑÐµÑ Ð´Ð¾Ð»Ð³ Ð¿ÑÐµÐ´ÐºÐ¾Ð². ÐÐ½ÐµÐ½Ð¸Ðµ"
+                alt="Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð²ÑÐ¿Ð¾Ð»Ð½ÑÐµÑ Ð´Ð¾Ð»Ð³ Ð¿ÑÐµÐ´ÐºÐ¾Ð². ÐÐ½ÐµÐ½Ð¸Ðµ"
+        >
+
+   </a>
+    <a href="https://youtu.be/1e_CY_ftZ88" target="_blank">
+        <img
+                src="/upload/webp/iblock/8ae/k7n3f3rpo776luegrcn048i06f2d3w02.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Ð¡ÑÐ´ÑÐ±Ð° Ð±ÑÑÑ Ð¿ÐµÑÐ²ÑÐ¼  ÐÑÑÑÐ°Ð·Ð° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²"
+                alt="Ð¡ÑÐ´ÑÐ±Ð° Ð±ÑÑÑ Ð¿ÐµÑÐ²ÑÐ¼  ÐÑÑÑÐ°Ð·Ð° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²"
+        >
+
+   </a>
+    <a href="https://www.youtube.com/watch?v=AjuWA4KZNe4" target="_blank">
+        <img
+                src="/upload/webp/iblock/ffe/4qb8vvsruo3fvtu3z9kcde76iwwjpq7g.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐµÐ²ÑÑÑ Ð»ÐµÑ Ð½Ð°Ð·Ð°Ð´ Ðº ÑÐ±Ð¸Ð»ÐµÑ ÐÑÑÑÐ°Ð·Ñ Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð±ÑÐ» ÑÐ½ÑÑ ÑÐ¸Ð»ÑÐ¼"
+                alt="ÐÐµÐ²ÑÑÑ Ð»ÐµÑ Ð½Ð°Ð·Ð°Ð´ Ðº ÑÐ±Ð¸Ð»ÐµÑ ÐÑÑÑÐ°Ð·Ñ Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð±ÑÐ» ÑÐ½ÑÑ ÑÐ¸Ð»ÑÐ¼"
+        >
+
+   </a>
+    <a href="https://www.youtube.com/watch?v=MmuXdaJlpNM" target="_blank">
+        <img
+                src="/upload/webp/iblock/1ea/poj900immf0g9xzk0pw725hjo7tmu0df.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="ÐÐ¸Ð¼Ð° Ð¿ÑÐ¸ÑÐ»Ð°. ÐÐ½ÐµÐ½Ð¸Ðµ"
+                alt="ÐÐ¸Ð¼Ð° Ð¿ÑÐ¸ÑÐ»Ð°. ÐÐ½ÐµÐ½Ð¸Ðµ"
+        >
+
+   </a>
+    <a href="https://www.youtube.com/watch?v=hqsTiUFpXGs" target="_blank">
+        <img
+                src="/upload/webp/iblock/7da/zxfb29gzyoymw2cy0e54nkdmbnlbvsuv.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¾ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÑÑÑ Ð¾Ñ Ð¾Ð±ÐµÑÐ°Ð½Ð¸Ð¹"
+                alt="Ð Ð°Ð´Ð¸Ð¹ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¾ÑÐºÐ°Ð·ÑÐ²Ð°ÐµÑÑÑ Ð¾Ñ Ð¾Ð±ÐµÑÐ°Ð½Ð¸Ð¹"
+        >
+
+   </a>
+    <a href="https://www.youtube.com/watch?v=cvxZSOub24E" target="_blank">
+        <img
+                src="/upload/webp/iblock/1bb/u6e794ndjtjthqmbrnz1xd19r637blrb.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Â«Ð¡ÐµÐ¼ÑÐ¸ Ð½Ðµ Ð±ÑÐ»Ð¾. ÐÑÐ»Ð¾ Ð½Ð°ÑÐ¸Ð»Ð¸ÐµÂ»: Ð³Ð¾Ð²Ð¾ÑÐ¸Ð¼ Ð¾ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð¶ÐµÑÑÐ²Ð°Ð¼ Ð´Ð¾Ð¼Ð°ÑÐ½Ð¸Ñ ÑÐ¸ÑÐ°Ð½Ð¾Ð²"
+                alt="Â«Ð¡ÐµÐ¼ÑÐ¸ Ð½Ðµ Ð±ÑÐ»Ð¾. ÐÑÐ»Ð¾ Ð½Ð°ÑÐ¸Ð»Ð¸ÐµÂ»: Ð³Ð¾Ð²Ð¾ÑÐ¸Ð¼ Ð¾ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð¶ÐµÑÑÐ²Ð°Ð¼ Ð´Ð¾Ð¼Ð°ÑÐ½Ð¸Ñ ÑÐ¸ÑÐ°Ð½Ð¾Ð²"
+        >
+
+   </a>
+    <a href="https://www.youtube.com/watch?v=fsxYdruvK7Y" target="_blank">
+        <img
+                src="/upload/webp/iblock/066/orjj3253rcojjf8od21t5uv1fgcdsaqg.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Â«ÐÑÑÑÐ¸ÑÐµ, ÐºÐ°Ðº &quot;ÐÑÑÐµ Ð½Ð°Ñ&quot;Â». Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ° Ð»Ð¾Ð¼Ð°ÐµÑ Ð´Ð²ÐµÑÐ¸. ÐÐ½ÐµÐ½Ð¸Ðµ "
+                alt="Â«ÐÑÑÑÐ¸ÑÐµ, ÐºÐ°Ðº &quot;ÐÑÑÐµ Ð½Ð°Ñ&quot;Â». Ð ÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ° Ð»Ð¾Ð¼Ð°ÐµÑ Ð´Ð²ÐµÑÐ¸. ÐÐ½ÐµÐ½Ð¸Ðµ "
+        >
+
+   </a>
+    <a href="https://youtu.be/00VJKjanu3c" target="_blank">
+        <img
+                src="/upload/webp/iblock/457/em278th8cy71m53ljfffybs4vbb4ama6.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="Ð¤ÐµÐ¹Ð» Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° Ð¸ Ð¾ÑÐµÑÐµÐ´Ð½Ð¾Ðµ ÑÐ²Ð¸Ð½ÑÑÐ²Ð¾ Ð¾Ñ Ð£ÑÑÑÐµÐ²Ð¾Ð¹"
+                alt="Ð¤ÐµÐ¹Ð» Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° Ð¸ Ð¾ÑÐµÑÐµÐ´Ð½Ð¾Ðµ ÑÐ²Ð¸Ð½ÑÑÐ²Ð¾ Ð¾Ñ Ð£ÑÑÑÐµÐ²Ð¾Ð¹"
+        >
+
+   </a>
+    <a href="https://youtu.be/19--2wIh20Q" target="_blank">
+        <img
+                src="/upload/webp/iblock/e57/5vxqw3vph36rgj9016ptoskf8v5d1ofj.webp" loading="lazy" 
+                height="1080"
+                width="1920"
+                title="20 ÑÑÑÑÑ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½ÑÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸"
+                alt="20 ÑÑÑÑÑ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½ÑÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸"
+        >
+
+   </a>
+
+</div>
+<script>
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        margin: 10,
+        dots:true,
+        responsive: {
+            0: {
+                items: 1
+
+            },
+            400: {
+                items: 1
+
+            },
+            1000: {
+                items: 3
+
+            }
+        }
+    })
+</script>
+ <br>
+
+<hr>
+<div class="news-section">
+	<div class="cdr-main">
+ <a href="/politica/">
+		<p class="cdrn-main">
+			 Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ°
+		</p>
+ </a>
+	</div>
+	 	            <div class="col1">
+            <a href="/news/novosti/134298-dzho_bayden_vstretilsya_s_vladimirom_zelenskim_i_anonsiroval_novyy_paket_voennoy_pomoshchi_ukraine_n/">
+            <div class="img-section-top">
+               <img style="width: 100%"
+                    src="/upload/webp/iblock/97d/owlcspb703e5dk1nzlyq2l8exopp5p1g.webp" loading="lazy" 
+                    height="481"
+                    width="728"
+                    title="ÐÐ¶Ð¾ ÐÐ°Ð¹Ð´ÐµÐ½ Ð²ÑÑÑÐµÑÐ¸Ð»ÑÑ Ñ ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÐ¾Ð¼ ÐÐµÐ»ÐµÐ½ÑÐºÐ¸Ð¼ Ð¸ Ð°Ð½Ð¾Ð½ÑÐ¸ÑÐ¾Ð²Ð°Ð» Ð½Ð¾Ð²ÑÐ¹ Ð¿Ð°ÐºÐµÑ Ð²Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð£ÐºÑÐ°Ð¸Ð½Ðµ Ð½Ð° 500 Ð¼Ð»Ð½ Ð´Ð¾Ð»Ð»Ð°ÑÐ¾Ð²"
+                    alt="ÐÐ¶Ð¾ ÐÐ°Ð¹Ð´ÐµÐ½ Ð²ÑÑÑÐµÑÐ¸Ð»ÑÑ Ñ ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÐ¾Ð¼ ÐÐµÐ»ÐµÐ½ÑÐºÐ¸Ð¼ Ð¸ Ð°Ð½Ð¾Ð½ÑÐ¸ÑÐ¾Ð²Ð°Ð» Ð½Ð¾Ð²ÑÐ¹ Ð¿Ð°ÐºÐµÑ Ð²Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð£ÐºÑÐ°Ð¸Ð½Ðµ Ð½Ð° 500 Ð¼Ð»Ð½ Ð´Ð¾Ð»Ð»Ð°ÑÐ¾Ð²"
+                />
+            </div>
+                <p class="main-topic-one-name">ÐÐ¶Ð¾ ÐÐ°Ð¹Ð´ÐµÐ½ Ð²ÑÑÑÐµÑÐ¸Ð»ÑÑ Ñ ÐÐ»Ð°Ð´Ð¸Ð¼Ð¸ÑÐ¾Ð¼ ÐÐµÐ»ÐµÐ½ÑÐºÐ¸Ð¼ Ð¸ Ð°Ð½Ð¾Ð½ÑÐ¸ÑÐ¾Ð²Ð°Ð» Ð½Ð¾Ð²ÑÐ¹ Ð¿Ð°ÐºÐµÑ Ð²Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð£ÐºÑÐ°Ð¸Ð½Ðµ Ð½Ð° 500 Ð¼Ð»Ð½ Ð´Ð¾Ð»Ð»Ð°ÑÐ¾Ð²</p>
+                <p class="main-topic-one-pre">Ð­ÑÐ¾ Ð¿ÐµÑÐ²ÑÐ¹ Ð²Ð¸Ð·Ð¸Ñ ÐÐ°Ð¹Ð´ÐµÐ½Ð° Ð½Ð° Ð£ÐºÑÐ°Ð¸Ð½Ñ Ñ Ð½Ð°ÑÐ°Ð»Ð° ÑÐ¿ÐµÑÐ¸Ð°Ð»ÑÐ½Ð¾Ð¹ Ð²Ð¾ÐµÐ½Ð½Ð¾Ð¹ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¸</p>
+
+            </a>
+        </div>
+
+        <!--      <div class="news-main-cat-two">-->
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/novosti/134275-komu_medok_a_komu_kholodok/">
+                <div class="news-name">ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº. Ð§ÑÐ¾ Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ð² ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸?                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">16:00 19 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134275-komu_medok_a_komu_kholodok/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/novosti/134248-snimaem_shlyapu_pered_sudyami_raufa_rakhimova_vyigrala_sud_u_administratsii_glavy_bashkirii/">
+                <div class="news-name">Ð¡Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐ»ÑÐ¿Ñ Ð¿ÐµÑÐµÐ´ ÑÑÐ´ÑÑÐ¼Ð¸. Ð Ð°ÑÑÐ° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð²ÑÐ¸Ð³ÑÐ°Ð»Ð° ÑÑÐ´ Ñ ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ ÐÐ»Ð°Ð²Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">15:00 17 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134248-snimaem_shlyapu_pered_sudyami_raufa_rakhimova_vyigrala_sud_u_administratsii_glavy_bashkirii/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/novosti/134227-zhena_uchastnika_gromkogo_dela_bashkirskikh_prokurorov_stsepilas_s_prufami_v_sude/">
+                <div class="news-name">ÐÐµÐ½Ð° ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ° Ð³ÑÐ¾Ð¼ÐºÐ¾Ð³Ð¾ Ð´ÐµÐ»Ð° Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸Ñ Ð¿ÑÐ¾ÐºÑÑÐ¾ÑÐ¾Ð² ÑÑÐµÐ¿Ð¸Ð»Ð°ÑÑ Ñ ÐÑÑÑÐ°Ð¼Ð¸ Ð² ÑÑÐ´Ðµ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">8:51 17 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134227-zhena_uchastnika_gromkogo_dela_bashkirskikh_prokurorov_stsepilas_s_prufami_v_sude/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/novosti/134207-lukashenko_obyavil_o_vstreche_s_putinym_/">
+                <div class="news-name">ÐÑÐºÐ°ÑÐµÐ½ÐºÐ¾ Ð¾Ð±ÑÑÐ²Ð¸Ð» Ð¾ Ð²ÑÑÑÐµÑÐµ Ñ ÐÑÑÐ¸Ð½ÑÐ¼                                     </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">12:25 16 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134207-lukashenko_obyavil_o_vstreche_s_putinym_/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/novosti/134175-kto_iz_komandy_khabirova_otvetit_za_bashspirt_/">
+                <div class="news-name"> ÐÑÐ¾ Ð¸Ð· ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° Ð¾ÑÐ²ÐµÑÐ¸Ñ Ð·Ð° ÐÐ°ÑÑÐ¿Ð¸ÑÑ?                                     </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">12:30 15 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/novosti/134175-kto_iz_komandy_khabirova_otvetit_za_bashspirt_/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    </div>
+ <br>
+ <br>
+    <div class="news-section">
+        <div class="cdr-main">
+            <a href="/news/kazan/">
+                <p class="cdrn-main">
+                    ÐºÐ°Ð·Ð°Ð½Ñ
+                </p>
+            </a>
+        </div>
+        	            <div class="col1">
+            <a href="/news/kazan/133997-kazan_ne_budet_provodit_chempionat_mira_2025_goda_po_vodnym_vidam_sporta/">
+            <div class="img-section-top">
+               <img style="width: 100%"
+                    src="/upload/webp/iblock/9d1/lc1185e0zw2lae960svyruvjqgi7c5h8.webp" loading="lazy" 
+                    height="440"
+                    width="728"
+                    title="ÐÐ°Ð·Ð°Ð½Ñ Ð½Ðµ Ð±ÑÐ´ÐµÑ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸ÑÑ ÑÐµÐ¼Ð¿Ð¸Ð¾Ð½Ð°Ñ Ð¼Ð¸ÑÐ° 2025 Ð³Ð¾Ð´Ð° Ð¿Ð¾ Ð²Ð¾Ð´Ð½ÑÐ¼ Ð²Ð¸Ð´Ð°Ð¼ ÑÐ¿Ð¾ÑÑÐ°"
+                    alt="ÐÐ°Ð·Ð°Ð½Ñ Ð½Ðµ Ð±ÑÐ´ÐµÑ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸ÑÑ ÑÐµÐ¼Ð¿Ð¸Ð¾Ð½Ð°Ñ Ð¼Ð¸ÑÐ° 2025 Ð³Ð¾Ð´Ð° Ð¿Ð¾ Ð²Ð¾Ð´Ð½ÑÐ¼ Ð²Ð¸Ð´Ð°Ð¼ ÑÐ¿Ð¾ÑÑÐ°"
+                />
+            </div>
+                <p class="main-topic-one-name">ÐÐ°Ð·Ð°Ð½Ñ Ð½Ðµ Ð±ÑÐ´ÐµÑ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸ÑÑ ÑÐµÐ¼Ð¿Ð¸Ð¾Ð½Ð°Ñ Ð¼Ð¸ÑÐ° 2025 Ð³Ð¾Ð´Ð° Ð¿Ð¾ Ð²Ð¾Ð´Ð½ÑÐ¼ Ð²Ð¸Ð´Ð°Ð¼ ÑÐ¿Ð¾ÑÑÐ°</p>
+                <p class="main-topic-one-pre">Ð Ð°Ð½ÐµÐµ ÐÐ°Ð·Ð°Ð½Ñ Ð»Ð¸ÑÐ¸Ð»Ð¸ Ð¿ÑÐ°Ð²Ð° Ð½Ð° Ð¿ÑÐ¾Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ Ð¡ÑÐ¿ÐµÑÐºÑÐ±ÐºÐ° Ð£ÐÐ¤Ð Ð² 2023 Ð³Ð¾Ð´Ñ</p>
+
+            </a>
+        </div>
+
+        <!--      <div class="news-main-cat-two">-->
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/kazan/133025-v_tatarstane_arestovali_25_letnego_muzhchinu_po_podozreniyu_v_ubiystve_znakomogo_telo_kotorogo_on_sp/">
+                <div class="news-name">Ð Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð°ÑÐµÑÑÐ¾Ð²Ð°Ð»Ð¸ 25-Ð»ÐµÑÐ½ÐµÐ³Ð¾ Ð¼ÑÐ¶ÑÐ¸Ð½Ñ Ð¿Ð¾ Ð¿Ð¾Ð´Ð¾Ð·ÑÐµÐ½Ð¸Ñ Ð² ÑÐ±Ð¸Ð¹ÑÑÐ²Ðµ Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¾Ð³Ð¾, ÑÐµÐ»Ð¾ ÐºÐ¾ÑÐ¾ÑÐ¾Ð³Ð¾ Ð¾Ð½ ÑÐ¿ÑÑÑÐ°Ð» Ð² Ð£Ð´Ð¼ÑÑÑÐ¸Ð¸                                     </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">15:46 09 ÑÐ½Ð²Ð°ÑÑ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/kazan/133025-v_tatarstane_arestovali_25_letnego_muzhchinu_po_podozreniyu_v_ubiystve_znakomogo_telo_kotorogo_on_sp/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/kazan/133017-v_tatarstane_pyanyy_okhotnik_zastrelil_tovarishcha_pytayas_dobit_ranennuyu_kosulyu/">
+                <div class="news-name">Ð Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð¿ÑÑÐ½ÑÐ¹ Ð¾ÑÐ¾ÑÐ½Ð¸Ðº Ð·Ð°ÑÑÑÐµÐ»Ð¸Ð» ÑÐ¾Ð²Ð°ÑÐ¸ÑÐ°, Ð¿ÑÑÐ°ÑÑÑ Ð´Ð¾Ð±Ð¸ÑÑ ÑÐ°Ð½ÐµÐ½ÑÑ ÐºÐ¾ÑÑÐ»Ñ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">11:57 09 ÑÐ½Ð²Ð°ÑÑ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/kazan/133017-v_tatarstane_pyanyy_okhotnik_zastrelil_tovarishcha_pytayas_dobit_ranennuyu_kosulyu/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/kazan/133009-moroz_otmenil_zanyatiya_v_shkolakh_tatarstana/">
+                <div class="news-name">ÐÐ¾ÑÐ¾Ð· Ð¾ÑÐ¼ÐµÐ½Ð¸Ð» Ð·Ð°Ð½ÑÑÐ¸Ñ Ð² ÑÐºÐ¾Ð»Ð°Ñ Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ð°                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">9:12 09 ÑÐ½Ð²Ð°ÑÑ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/kazan/133009-moroz_otmenil_zanyatiya_v_shkolakh_tatarstana/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/kazan/132958-v_tatarstane_muzhchinu_v_vatrushke_otbrosilo_pod_vstrechnyy_avtomobil/">
+                <div class="news-name">Ð Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð¼ÑÐ¶ÑÐ¸Ð½Ñ Ð² Â«Ð²Ð°ÑÑÑÑÐºÐµÂ» Ð¾ÑÐ±ÑÐ¾ÑÐ¸Ð»Ð¾ Ð¿Ð¾Ð´ Ð²ÑÑÑÐµÑÐ½ÑÐ¹ Ð°Ð²ÑÐ¾Ð¼Ð¾Ð±Ð¸Ð»Ñ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">16:02 05 ÑÐ½Ð²Ð°ÑÑ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/kazan/132958-v_tatarstane_muzhchinu_v_vatrushke_otbrosilo_pod_vstrechnyy_avtomobil/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/kazan/132913-v_tatarstane_34_letniy_eks_pozharnyy_otrezal_7_letnemu_synu_golovu_otomstiv_zhene_za_zhelanie_razves/">
+                <div class="news-name">Ð Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ 34-Ð»ÐµÑÐ½Ð¸Ð¹ ÑÐºÑ-Ð¿Ð¾Ð¶Ð°ÑÐ½ÑÐ¹ Ð¾ÑÑÐµÐ·Ð°Ð» 7-Ð»ÐµÑÐ½ÐµÐ¼Ñ ÑÑÐ½Ñ Ð³Ð¾Ð»Ð¾Ð²Ñ, Ð¾ÑÐ¾Ð¼ÑÑÐ¸Ð² Ð¶ÐµÐ½Ðµ Ð·Ð° Ð¶ÐµÐ»Ð°Ð½Ð¸Ðµ ÑÐ°Ð·Ð²ÐµÑÑÐ¸ÑÑ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">15:08 03 ÑÐ½Ð²Ð°ÑÑ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/kazan/132913-v_tatarstane_34_letniy_eks_pozharnyy_otrezal_7_letnemu_synu_golovu_otomstiv_zhene_za_zhelanie_razves/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+        </div>
+    <br>
+    <br>
+<div class="cdr-main">
+ <a href="https://spec.proufu.ru/">
+	<p class="cdrn-main">
+		 ÑÐ¿ÐµÑÐ¿ÑÐ¾ÐµÐºÑÑ
+	</p>
+ </a>
+</div>
+ 
+<div class="owl-carousel owl-theme">
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="https://spec.prufy.ru/ushla_epoha" target="_blank">
+                        <img class="spec"
+                             height="930"
+                             width="1867"
+                             title="Â«Ð£ÑÐ»Ð° ÑÐ¿Ð¾ÑÐ°!Â» â Ð½Ð¾ Â«ÐÐ¸Ð·Ð½Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÐµÑÑÑ!Â»"
+                             alt="Â«Ð£ÑÐ»Ð° ÑÐ¿Ð¾ÑÐ°!Â» â Ð½Ð¾ Â«ÐÐ¸Ð·Ð½Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÐµÑÑÑ!Â»"
+                             src="/upload/webp/iblock/804/4oshwjsfgo7h8m3q2f2ymx2n9smku326.webp" loading="lazy" >
+                        <p class="project-name">Â«Ð£ÑÐ»Ð° ÑÐ¿Ð¾ÑÐ°!Â» â Ð½Ð¾ Â«ÐÐ¸Ð·Ð½Ñ Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð°ÐµÑÑÑ!Â»</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="https://spec.prufy.ru/lichnost_2022" target="_blank">
+                        <img class="spec"
+                             height="700"
+                             width="1352"
+                             title="ÐÑÐ´Ð¸, ÐºÐ¾ÑÐ¾ÑÑÐµ Ð½Ð°Ñ Ð²Ð´Ð¾ÑÐ½Ð¾Ð²Ð¸Ð»Ð¸ Ð² 2022 Ð³Ð¾Ð´Ñ, Ð¿Ð¾ Ð²ÐµÑÑÐ¸Ð¸ ÐÑÑÑÑ.ÑÑ"
+                             alt="ÐÑÐ´Ð¸, ÐºÐ¾ÑÐ¾ÑÑÐµ Ð½Ð°Ñ Ð²Ð´Ð¾ÑÐ½Ð¾Ð²Ð¸Ð»Ð¸ Ð² 2022 Ð³Ð¾Ð´Ñ, Ð¿Ð¾ Ð²ÐµÑÑÐ¸Ð¸ ÐÑÑÑÑ.ÑÑ"
+                             src="/upload/webp/iblock/1c5/z3tuzewclha4hx1s3zla3g1r7btz0w3a.webp" loading="lazy" >
+                        <p class="project-name">ÐÑÐ´Ð¸, ÐºÐ¾ÑÐ¾ÑÑÐµ Ð½Ð°Ñ Ð²Ð´Ð¾ÑÐ½Ð¾Ð²Ð¸Ð»Ð¸ Ð² 2022 Ð³Ð¾Ð´Ñ, Ð¿Ð¾ Ð²ÐµÑÑÐ¸Ð¸ ÐÑÑÑÑ.ÑÑ</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="https://spec.prufy.ru/soc_tragedii2022" target="_blank">
+                        <img class="spec"
+                             height="689"
+                             width="1319"
+                             title="Ð¡Ð¾ÑÐ¸Ð°Ð»ÑÐ½ÑÐµ ÑÑÐ°Ð³ÐµÐ´Ð¸Ð¸ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð¸ Ð¸ÑÑÐ¾ÑÐ¸Ð¸ 2022 Ð³Ð¾Ð´Ð°"
+                             alt="Ð¡Ð¾ÑÐ¸Ð°Ð»ÑÐ½ÑÐµ ÑÑÐ°Ð³ÐµÐ´Ð¸Ð¸ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð¸ Ð¸ÑÑÐ¾ÑÐ¸Ð¸ 2022 Ð³Ð¾Ð´Ð°"
+                             src="/upload/webp/iblock/811/e30v2rdrvaw89fu8f68yibrrxzktiwdh.webp" loading="lazy" >
+                        <p class="project-name">Ð¡Ð¾ÑÐ¸Ð°Ð»ÑÐ½ÑÐµ ÑÑÐ°Ð³ÐµÐ´Ð¸Ð¸ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð¸ Ð¸ÑÑÐ¾ÑÐ¸Ð¸ 2022 Ð³Ð¾Ð´Ð°</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="https://spec.prufy.ru/korrupciya_2022" target="_blank">
+                        <img class="spec"
+                             height="600"
+                             width="1257"
+                             title="ÐÐ¾ÑÑÑÐ¿ÑÐ¸Ñ 2022 Ð³Ð¾Ð´Ð°. ÐÑÑÑÐ¸Ðµ Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑÐºÐ¸Ðµ ÑÐ°ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ ÐÑÑÑÑ.ÑÑ"
+                             alt="ÐÐ¾ÑÑÑÐ¿ÑÐ¸Ñ 2022 Ð³Ð¾Ð´Ð°. ÐÑÑÑÐ¸Ðµ Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑÐºÐ¸Ðµ ÑÐ°ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ ÐÑÑÑÑ.ÑÑ"
+                             src="/upload/webp/iblock/738/gc7g8ltkfu4wk81ujpe11b19elpbfhh1.webp" loading="lazy" >
+                        <p class="project-name">ÐÐ¾ÑÑÑÐ¿ÑÐ¸Ñ 2022 Ð³Ð¾Ð´Ð°. ÐÑÑÑÐ¸Ðµ Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑÐºÐ¸Ðµ ÑÐ°ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ ÐÑÑÑÑ.ÑÑ</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="https://spec.prufy.ru/svo_prufy2022" target="_blank">
+                        <img class="spec"
+                             height="637"
+                             width="1431"
+                             title="ÐÑÑÑÐ¸Ðµ Ð¼Ð°ÑÐµÑÐ¸Ð°Ð»Ñ ÑÐµÐ´Ð°ÐºÑÐ¸Ð¸ Ð¿ÑÐ¾ Ð¡ÐÐ Ð·Ð° 2022 Ð³Ð¾Ð´"
+                             alt="ÐÑÑÑÐ¸Ðµ Ð¼Ð°ÑÐµÑÐ¸Ð°Ð»Ñ ÑÐµÐ´Ð°ÐºÑÐ¸Ð¸ Ð¿ÑÐ¾ Ð¡ÐÐ Ð·Ð° 2022 Ð³Ð¾Ð´"
+                             src="/upload/webp/iblock/a10/aj1q5xdb1csn5krlu3d4jt9xx0fl12i6.webp" loading="lazy" >
+                        <p class="project-name">ÐÑÑÑÐ¸Ðµ Ð¼Ð°ÑÐµÑÐ¸Ð°Ð»Ñ ÑÐµÐ´Ð°ÐºÑÐ¸Ð¸ Ð¿ÑÐ¾ Ð¡ÐÐ Ð·Ð° 2022 Ð³Ð¾Ð´</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="https://spec.prufy.ru/yarkii_dvor" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="Ð Ð£ÑÐµ Ð¿Ð¾ÑÐ²Ð¸Ð»Ð°ÑÑ Ð´ÐµÑÑÐºÐ°Ñ Ð¿Ð»Ð¾ÑÐ°Ð´ÐºÐ°, ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐ°Ð½Ð½Ð°Ñ Ð¿ÑÐ¸ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð½ÐµÐ¹ÑÐ¾ÑÐ¸Ð·Ð¸Ð¾Ð»Ð¾Ð³Ð¾Ð²"
+                             alt="Ð Ð£ÑÐµ Ð¿Ð¾ÑÐ²Ð¸Ð»Ð°ÑÑ Ð´ÐµÑÑÐºÐ°Ñ Ð¿Ð»Ð¾ÑÐ°Ð´ÐºÐ°, ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐ°Ð½Ð½Ð°Ñ Ð¿ÑÐ¸ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð½ÐµÐ¹ÑÐ¾ÑÐ¸Ð·Ð¸Ð¾Ð»Ð¾Ð³Ð¾Ð²"
+                             src="/upload/webp/iblock/ad0/vbifqcq3jdru6rpw1ayef10umuas1a82.webp" loading="lazy" >
+                        <p class="project-name">Ð Ð£ÑÐµ Ð¿Ð¾ÑÐ²Ð¸Ð»Ð°ÑÑ Ð´ÐµÑÑÐºÐ°Ñ Ð¿Ð»Ð¾ÑÐ°Ð´ÐºÐ°, ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐ°Ð½Ð½Ð°Ñ Ð¿ÑÐ¸ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð½ÐµÐ¹ÑÐ¾ÑÐ¸Ð·Ð¸Ð¾Ð»Ð¾Ð³Ð¾Ð²</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="http://spec.prufy.ru/vasha_tihaya_gavan_v_serdce_ufy" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="Ð ÑÐ´Ð¾Ð¼ Ð¿Ð°ÑÐº Ð¸ Ð¼ÐµÑÐµÑÑ, Ð¶Ð¸Ð²Ð¾Ð¿Ð¸ÑÐ½ÑÐ¹ Ð²Ð¸Ð´ Ð½Ð° Ð³Ð¾ÑÐ¾Ð´. Ð ÑÐµÐ½ÑÑÐµ Ð£ÑÑ ÑÑÑÐ¾ÑÑ Ð½Ð¾Ð²ÑÐ¹ Ð¶Ð¸Ð»Ð¾Ð¹ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ"
+                             alt="Ð ÑÐ´Ð¾Ð¼ Ð¿Ð°ÑÐº Ð¸ Ð¼ÐµÑÐµÑÑ, Ð¶Ð¸Ð²Ð¾Ð¿Ð¸ÑÐ½ÑÐ¹ Ð²Ð¸Ð´ Ð½Ð° Ð³Ð¾ÑÐ¾Ð´. Ð ÑÐµÐ½ÑÑÐµ Ð£ÑÑ ÑÑÑÐ¾ÑÑ Ð½Ð¾Ð²ÑÐ¹ Ð¶Ð¸Ð»Ð¾Ð¹ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ"
+                             src="/upload/webp/iblock/38c/gw28szeyrerq08bt3wg3hdejsts1xu75.webp" loading="lazy" >
+                        <p class="project-name">Ð ÑÐ´Ð¾Ð¼ Ð¿Ð°ÑÐº Ð¸ Ð¼ÐµÑÐµÑÑ, Ð¶Ð¸Ð²Ð¾Ð¿Ð¸ÑÐ½ÑÐ¹ Ð²Ð¸Ð´ Ð½Ð° Ð³Ð¾ÑÐ¾Ð´. Ð ÑÐµÐ½ÑÑÐµ Ð£ÑÑ ÑÑÑÐ¾ÑÑ Ð½Ð¾Ð²ÑÐ¹ Ð¶Ð¸Ð»Ð¾Ð¹ ÐºÐ¾Ð¼Ð¿Ð»ÐµÐºÑ</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="http://spec.prufy.ru/gde_seichas_chitat_ufimskih_blogerov" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="ÐÐ´Ðµ ÑÐµÐ¹ÑÐ°Ñ ÑÐ¸ÑÐ°ÑÑ ÑÑÐ¸Ð¼ÑÐºÐ¸Ñ Ð±Ð»Ð¾Ð³ÐµÑÐ¾Ð²?"
+                             alt="ÐÐ´Ðµ ÑÐµÐ¹ÑÐ°Ñ ÑÐ¸ÑÐ°ÑÑ ÑÑÐ¸Ð¼ÑÐºÐ¸Ñ Ð±Ð»Ð¾Ð³ÐµÑÐ¾Ð²?"
+                             src="/upload/webp/iblock/73b/dlt8a5evbih4k2u7933q6i9f7x0f7n5a.webp" loading="lazy" >
+                        <p class="project-name">ÐÐ´Ðµ ÑÐµÐ¹ÑÐ°Ñ ÑÐ¸ÑÐ°ÑÑ ÑÑÐ¸Ð¼ÑÐºÐ¸Ñ Ð±Ð»Ð¾Ð³ÐµÑÐ¾Ð²?</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="http://spec.prufy.ru/covid_bez_posledstvii" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="ÐÐ°Ðº Ð¿ÐµÑÐµÐ½ÐµÑÑÐ¸ ÐºÐ¾Ð²Ð¸Ð´ Ð±ÐµÐ· Ð¿Ð¾ÑÐ»ÐµÐ´ÑÑÐ²Ð¸Ð¹"
+                             alt="ÐÐ°Ðº Ð¿ÐµÑÐµÐ½ÐµÑÑÐ¸ ÐºÐ¾Ð²Ð¸Ð´ Ð±ÐµÐ· Ð¿Ð¾ÑÐ»ÐµÐ´ÑÑÐ²Ð¸Ð¹"
+                             src="/upload/webp/iblock/e04/9j66e7hqh7l24txxckl9yld11rymocyy.webp" loading="lazy" >
+                        <p class="project-name">ÐÐ°Ðº Ð¿ÐµÑÐµÐ½ÐµÑÑÐ¸ ÐºÐ¾Ð²Ð¸Ð´ Ð±ÐµÐ· Ð¿Ð¾ÑÐ»ÐµÐ´ÑÑÐ²Ð¸Ð¹</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="http://spec.prufy.ru/kak_sdelat_gorod_privlekatelnim" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="ÐÐ°Ðº ÑÐ´ÐµÐ»Ð°ÑÑ  Ð³Ð¾ÑÐ¾Ð´ Ð¿ÑÐ¸Ð²Ð»ÐµÐºÐ°ÑÐµÐ»ÑÐ½ÑÐ¼ Ð´Ð»Ñ ÐºÐ°Ð¶Ð´Ð¾Ð³Ð¾"
+                             alt="ÐÐ°Ðº ÑÐ´ÐµÐ»Ð°ÑÑ  Ð³Ð¾ÑÐ¾Ð´ Ð¿ÑÐ¸Ð²Ð»ÐµÐºÐ°ÑÐµÐ»ÑÐ½ÑÐ¼ Ð´Ð»Ñ ÐºÐ°Ð¶Ð´Ð¾Ð³Ð¾"
+                             src="/upload/webp/iblock/f30/w5sur4vqy6p3xw7awix3ww50sucji3vb.webp" loading="lazy" >
+                        <p class="project-name">ÐÐ°Ðº ÑÐ´ÐµÐ»Ð°ÑÑ  Ð³Ð¾ÑÐ¾Ð´ Ð¿ÑÐ¸Ð²Ð»ÐµÐºÐ°ÑÐµÐ»ÑÐ½ÑÐ¼ Ð´Ð»Ñ ÐºÐ°Ð¶Ð´Ð¾Ð³Ð¾</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="http://spec.prufy.ru/gde_treniruutsya_ufimskie_marafonci" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="ÐÐ°ÑÐºÐ¸, ÑÑÐ°Ð´Ð¸Ð¾Ð½Ñ, Ð½Ð°Ð±ÐµÑÐµÐ¶Ð½ÑÐµ. ÐÐ´Ðµ ÑÑÐµÐ½Ð¸ÑÑÑÑÑÑ ÑÑÐ¸Ð¼ÑÐºÐ¸Ðµ Ð¼Ð°ÑÐ°ÑÐ¾Ð½ÑÑ?"
+                             alt="ÐÐ°ÑÐºÐ¸, ÑÑÐ°Ð´Ð¸Ð¾Ð½Ñ, Ð½Ð°Ð±ÐµÑÐµÐ¶Ð½ÑÐµ. ÐÐ´Ðµ ÑÑÐµÐ½Ð¸ÑÑÑÑÑÑ ÑÑÐ¸Ð¼ÑÐºÐ¸Ðµ Ð¼Ð°ÑÐ°ÑÐ¾Ð½ÑÑ?"
+                             src="/upload/webp/iblock/9a2/d7lgeazyfu5dlpigegiwerpsu1l9976o.webp" loading="lazy" >
+                        <p class="project-name">ÐÐ°ÑÐºÐ¸, ÑÑÐ°Ð´Ð¸Ð¾Ð½Ñ, Ð½Ð°Ð±ÐµÑÐµÐ¶Ð½ÑÐµ. ÐÐ´Ðµ ÑÑÐµÐ½Ð¸ÑÑÑÑÑÑ ÑÑÐ¸Ð¼ÑÐºÐ¸Ðµ Ð¼Ð°ÑÐ°ÑÐ¾Ð½ÑÑ?</p>
+                    </a>
+                </div>
+
+    </div>
+                <div class="item">
+                <div class="spec-item">
+                                        <a href="http://spec.prufy.ru/5_voprosov_o_remonte" target="_blank">
+                        <img class="spec"
+                             height="150"
+                             width="215"
+                             title="5 Ð²Ð°Ð¶Ð½ÑÑ Ð²Ð¾Ð¿ÑÐ¾ÑÐ¾Ð² Ð¾ ÑÐµÐ¼Ð¾Ð½ÑÐµ ÐºÐ²Ð°ÑÑÐ¸Ñ Ð² Ð½Ð¾Ð²Ð¾ÑÑÑÐ¾Ð¹ÐºÐ°Ñ. ÐÑÑÑÑ Ð´Ð»Ñ ÑÐµÑ, ÐºÑÐ¾ ÑÐ¾ÑÐµÑ ÑÐ¾Ð·Ð´Ð°ÑÑ Ð´Ð¾Ð¼Ð°ÑÐ½Ð¸Ð¹ ÑÑÑ Ð±ÐµÐ· Ð½ÐµÑÐ²Ð¾Ð² Ð¸ Ð¿ÐµÑÐµÐ¿Ð»Ð°Ñ"
+                             alt="5 Ð²Ð°Ð¶Ð½ÑÑ Ð²Ð¾Ð¿ÑÐ¾ÑÐ¾Ð² Ð¾ ÑÐµÐ¼Ð¾Ð½ÑÐµ ÐºÐ²Ð°ÑÑÐ¸Ñ Ð² Ð½Ð¾Ð²Ð¾ÑÑÑÐ¾Ð¹ÐºÐ°Ñ. ÐÑÑÑÑ Ð´Ð»Ñ ÑÐµÑ, ÐºÑÐ¾ ÑÐ¾ÑÐµÑ ÑÐ¾Ð·Ð´Ð°ÑÑ Ð´Ð¾Ð¼Ð°ÑÐ½Ð¸Ð¹ ÑÑÑ Ð±ÐµÐ· Ð½ÐµÑÐ²Ð¾Ð² Ð¸ Ð¿ÐµÑÐµÐ¿Ð»Ð°Ñ"
+                             src="/upload/webp/iblock/350/u6o1bf051y894mh6co3n3bnp628mgiaf.webp" loading="lazy" >
+                        <p class="project-name">5 Ð²Ð°Ð¶Ð½ÑÑ Ð²Ð¾Ð¿ÑÐ¾ÑÐ¾Ð² Ð¾ ÑÐµÐ¼Ð¾Ð½ÑÐµ ÐºÐ²Ð°ÑÑÐ¸Ñ Ð² Ð½Ð¾Ð²Ð¾ÑÑÑÐ¾Ð¹ÐºÐ°Ñ. ÐÑÑÑÑ Ð´Ð»Ñ ÑÐµÑ, ÐºÑÐ¾ ÑÐ¾ÑÐµÑ ÑÐ¾Ð·Ð´Ð°ÑÑ Ð´Ð¾Ð¼Ð°ÑÐ½Ð¸Ð¹ ÑÑÑ Ð±ÐµÐ· Ð½ÐµÑÐ²Ð¾Ð² Ð¸ Ð¿ÐµÑÐµÐ¿Ð»Ð°Ñ</p>
+                    </a>
+                </div>
+
+    </div>
+
+</div>
+<script>
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        margin: 10,
+        dots:true,
+        responsive: {
+            0: {
+                items: 2
+
+            },
+            400: {
+                items: 3
+
+            },
+            1000: {
+                items: 4
+
+            }
+        }
+    })
+</script>
+ <br>
+ <br>
+ <br>
+ <br>
+
+<div class="list-news">
+ <br>
+	<hr>
+
+	<div class="cdr-main">
+ <a href="/podrobno.php">
+		<p class="cdrn-main">
+			 ÑÑÐ°ÑÑÐ¸
+		</p>
+ </a>
+	</div>
+	 <div id="bxdynamic_UXXHkL_start" style="display:none"></div><div class="bx-newslist">
+<div class="row">
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/134299-radiy_khabirov_i_turizm_na_tarelochke/">
+          <img class="long"
+               src="/upload/webp/iblock/289/42s80neeyrm9tnp09w0psg6mfcmqz7sv.webp"
+               height="410"
+               width="728"
+               title="Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?"
+               alt="Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?"
+
+           />
+         <p class="long-name">Ð¡Ð°Ð´Ð¾Ð²Ð¾Ð´Ð°Ð¼ â Ð¼Ð¸Ð»Ð»Ð¸Ð¾Ð½Ñ, ÐÑÐ·ÐµÐ¹ ÐºÐ¾ÑÐµÐ²Ð½Ð¸ÐºÐ¾Ð² â ÑÑÐ¸Ð¼ÑÐ°Ð¼, Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ñ â Ð¿ÐµÑÐ²Ð¾Ðµ Ð¼ÐµÑÑÐ¾. Ð ÑÐµÐ¼ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð» Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²ÐºÑ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð² Ð¸Ð· ÐÐ¾ÑÐºÐ²Ñ?</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/novosti/134275-komu_medok_a_komu_kholodok/">
+          <img class="long"
+               src="/upload/webp/iblock/93b/cfpfilsh83jaalrutr4omcr3fuck6a6l.webp"
+               height="410"
+               width="728"
+               title="ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº. Ð§ÑÐ¾ Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ð² ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸?"
+               alt="ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº. Ð§ÑÐ¾ Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ð² ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸?"
+
+           />
+         <p class="long-name">ÐÐ¾Ð¼Ñ Ð¼ÐµÐ´Ð¾Ðº, Ð° ÐºÐ¾Ð¼Ñ ÑÐ¾Ð»Ð¾Ð´Ð¾Ðº. Ð§ÑÐ¾ Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ð² ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸?</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/culture/134237-blogery_politiki_zhurnalisty_bashkirii_kto_uekhal_iz_strany_posle_nachala_svo_/">
+          <img class="long"
+               src="/upload/webp/iblock/344/p3avuvi198n3fql7hxw8cpzu6u5hg99r.webp"
+               height="466"
+               width="728"
+               title="ÐÐ»Ð¾Ð³ÐµÑÑ, Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ¸, Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸. ÐÑÐ¾ ÑÐµÑÐ°Ð» Ð¸Ð· ÑÑÑÐ°Ð½Ñ Ð¿Ð¾ÑÐ»Ðµ Ð½Ð°ÑÐ°Ð»Ð° Ð¡ÐÐ? "
+               alt="ÐÐ»Ð¾Ð³ÐµÑÑ, Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ¸, Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸. ÐÑÐ¾ ÑÐµÑÐ°Ð» Ð¸Ð· ÑÑÑÐ°Ð½Ñ Ð¿Ð¾ÑÐ»Ðµ Ð½Ð°ÑÐ°Ð»Ð° Ð¡ÐÐ? "
+
+           />
+         <p class="long-name">ÐÐ»Ð¾Ð³ÐµÑÑ, Ð¿Ð¾Ð»Ð¸ÑÐ¸ÐºÐ¸, Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÑ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸. ÐÑÐ¾ ÑÐµÑÐ°Ð» Ð¸Ð· ÑÑÑÐ°Ð½Ñ Ð¿Ð¾ÑÐ»Ðµ Ð½Ð°ÑÐ°Ð»Ð° Ð¡ÐÐ? </p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/novosti/134248-snimaem_shlyapu_pered_sudyami_raufa_rakhimova_vyigrala_sud_u_administratsii_glavy_bashkirii/">
+          <img class="long"
+               src="/upload/webp/iblock/121/h4d2ucwhkc9mbpewdpr8kbdz9uwnj5pn.webp"
+               height="485"
+               width="728"
+               title="Ð¡Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐ»ÑÐ¿Ñ Ð¿ÐµÑÐµÐ´ ÑÑÐ´ÑÑÐ¼Ð¸. Ð Ð°ÑÑÐ° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð²ÑÐ¸Ð³ÑÐ°Ð»Ð° ÑÑÐ´ Ñ ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ ÐÐ»Ð°Ð²Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸"
+               alt="Ð¡Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐ»ÑÐ¿Ñ Ð¿ÐµÑÐµÐ´ ÑÑÐ´ÑÑÐ¼Ð¸. Ð Ð°ÑÑÐ° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð²ÑÐ¸Ð³ÑÐ°Ð»Ð° ÑÑÐ´ Ñ ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ ÐÐ»Ð°Ð²Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸"
+
+           />
+         <p class="long-name">Ð¡Ð½Ð¸Ð¼Ð°ÐµÐ¼ ÑÐ»ÑÐ¿Ñ Ð¿ÐµÑÐµÐ´ ÑÑÐ´ÑÑÐ¼Ð¸. Ð Ð°ÑÑÐ° Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð° Ð²ÑÐ¸Ð³ÑÐ°Ð»Ð° ÑÑÐ´ Ñ ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑÑÐ°ÑÐ¸Ð¸ ÐÐ»Ð°Ð²Ñ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/134243-v_zhivote_skopilos_okolo_litra_krovi_suprugam_v_tatarstane_za_smert_docheri_v_bolnitse_vyplatili_2_m/">
+          <img class="long"
+               src="/upload/webp/iblock/17d/bvnci5im8dmqcbajx9hn8vtt0t6815ps.webp"
+               height="485"
+               width="728"
+               title="Â«Ð Ð¶Ð¸Ð²Ð¾ÑÐµ ÑÐºÐ¾Ð¿Ð¸Ð»Ð¾ÑÑ Ð¾ÐºÐ¾Ð»Ð¾ Ð»Ð¸ÑÑÐ° ÐºÑÐ¾Ð²Ð¸Â». Ð¡ÑÐ¿ÑÑÐ³Ð°Ð¼ Ð² Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð·Ð° ÑÐ¼ÐµÑÑÑ Ð´Ð¾ÑÐµÑÐ¸ Ð² Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐµ Ð²ÑÐ¿Ð»Ð°ÑÐ¸Ð»Ð¸ 2 Ð¼Ð»Ð½ ÑÑÐ±Ð»ÐµÐ¹ ÐºÐ¾Ð¼Ð¿ÐµÐ½ÑÐ°ÑÐ¸Ð¸ "
+               alt="Â«Ð Ð¶Ð¸Ð²Ð¾ÑÐµ ÑÐºÐ¾Ð¿Ð¸Ð»Ð¾ÑÑ Ð¾ÐºÐ¾Ð»Ð¾ Ð»Ð¸ÑÑÐ° ÐºÑÐ¾Ð²Ð¸Â». Ð¡ÑÐ¿ÑÑÐ³Ð°Ð¼ Ð² Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð·Ð° ÑÐ¼ÐµÑÑÑ Ð´Ð¾ÑÐµÑÐ¸ Ð² Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐµ Ð²ÑÐ¿Ð»Ð°ÑÐ¸Ð»Ð¸ 2 Ð¼Ð»Ð½ ÑÑÐ±Ð»ÐµÐ¹ ÐºÐ¾Ð¼Ð¿ÐµÐ½ÑÐ°ÑÐ¸Ð¸ "
+
+           />
+         <p class="long-name">Â«Ð Ð¶Ð¸Ð²Ð¾ÑÐµ ÑÐºÐ¾Ð¿Ð¸Ð»Ð¾ÑÑ Ð¾ÐºÐ¾Ð»Ð¾ Ð»Ð¸ÑÑÐ° ÐºÑÐ¾Ð²Ð¸Â». Ð¡ÑÐ¿ÑÑÐ³Ð°Ð¼ Ð² Ð¢Ð°ÑÐ°ÑÑÑÐ°Ð½Ðµ Ð·Ð° ÑÐ¼ÐµÑÑÑ Ð´Ð¾ÑÐµÑÐ¸ Ð² Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐµ Ð²ÑÐ¿Ð»Ð°ÑÐ¸Ð»Ð¸ 2 Ð¼Ð»Ð½ ÑÑÐ±Ð»ÐµÐ¹ ÐºÐ¾Ð¼Ð¿ÐµÐ½ÑÐ°ÑÐ¸Ð¸ </p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/novosti/134227-zhena_uchastnika_gromkogo_dela_bashkirskikh_prokurorov_stsepilas_s_prufami_v_sude/">
+          <img class="long"
+               src="/upload/webp/iblock/f05/nw4z36ur3ybg1uvdt3neemp71rm1pt8k.webp"
+               height="476"
+               width="728"
+               title="ÐÐµÐ½Ð° ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ° Ð³ÑÐ¾Ð¼ÐºÐ¾Ð³Ð¾ Ð´ÐµÐ»Ð° Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸Ñ Ð¿ÑÐ¾ÐºÑÑÐ¾ÑÐ¾Ð² ÑÑÐµÐ¿Ð¸Ð»Ð°ÑÑ Ñ ÐÑÑÑÐ°Ð¼Ð¸ Ð² ÑÑÐ´Ðµ"
+               alt="ÐÐµÐ½Ð° ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ° Ð³ÑÐ¾Ð¼ÐºÐ¾Ð³Ð¾ Ð´ÐµÐ»Ð° Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸Ñ Ð¿ÑÐ¾ÐºÑÑÐ¾ÑÐ¾Ð² ÑÑÐµÐ¿Ð¸Ð»Ð°ÑÑ Ñ ÐÑÑÑÐ°Ð¼Ð¸ Ð² ÑÑÐ´Ðµ"
+
+           />
+         <p class="long-name">ÐÐµÐ½Ð° ÑÑÐ°ÑÑÐ½Ð¸ÐºÐ° Ð³ÑÐ¾Ð¼ÐºÐ¾Ð³Ð¾ Ð´ÐµÐ»Ð° Ð±Ð°ÑÐºÐ¸ÑÑÐºÐ¸Ñ Ð¿ÑÐ¾ÐºÑÑÐ¾ÑÐ¾Ð² ÑÑÐµÐ¿Ð¸Ð»Ð°ÑÑ Ñ ÐÑÑÑÐ°Ð¼Ð¸ Ð² ÑÑÐ´Ðµ</p>
+        </a>
+    </div>
+</div>
+
+</div>
+<div id="bxdynamic_UXXHkL_end" style="display:none"></div></div>
+
+<hr>
+<div class="bxslider">
+	<div class="cdr-main">
+ <a href="/interview.php">
+		<p class="cdrn-main">
+			 Ð¸Ð½ÑÐµÑÐ²ÑÑ
+		</p>
+ </a>
+	</div>
+	 <div id="bxdynamic_2gu145_start" style="display:none"></div><div class="owl-carousel owl-theme">
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/129960-trener_po_lyubvi_intervyu_s_fitnes_instruktorom_iz_ufy_kotoryy_sdelal_stroynymi_100_zhenshchin/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/d82/190_190_240cd750bba9870f18aada2478b24840a/677dv7y5jl48xpvug7xda5aoiwbiibqm.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÑÐ»Ð°Ñ ÐÐ°ÑÐ¸Ð¿Ð¾Ð² - Ð¤Ð¸ÑÐ½ÐµÑ-ÑÑÐµÐ½ÐµÑ"
+                     alt="ÐÑÐ»Ð°Ñ ÐÐ°ÑÐ¸Ð¿Ð¾Ð² - Ð¤Ð¸ÑÐ½ÐµÑ-ÑÑÐµÐ½ÐµÑ"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÑÐ»Ð°Ñ ÐÐ°ÑÐ¸Ð¿Ð¾Ð²</p></b></div>
+                <p class="svp-quit">Ð¤Ð¸ÑÐ½ÐµÑ-ÑÑÐµÐ½ÐµÑ</p>
+
+                <p class="svp-whois">Â«ÐÐ¾ÑÑÐ´ÐµÑÑ. Ð Ð´Ð»Ñ ÑÐµÐ³Ð¾? Ð§ÐµÐ»Ð¾Ð²ÐµÐº Ð´Ð¾Ð»Ð¶ÐµÐ½ Ð½Ð°Ð¹ÑÐ¸ Ð¸ÑÑÐ¸Ð½Ð½ÑÑ Ð¿ÑÐ¸ÑÐ¸Ð½ÑÂ»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/culture/129872-vredno_ne_mechtat_kak_ufimtsy_okazalis_odnimi_iz_sozdateley_filma_s_vladimirom_mashkovym_i_sashey_bo/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/121/190_190_240cd750bba9870f18aada2478b24840a/jbm4bxbyupvc52vibl9zmr76o5u5g5z7.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð Ð¾ÐºÑÐ°Ð½Ð° Ð¡Ð°Ð½ÐºÐ¸Ð½Ð° - Ð¿ÑÐ¾Ð´ÑÑÐµÑ ÑÑÐ¸Ð»Ð»ÐµÑÐ° Â«ÐÑÐ¾ ÑÐ°Ð¼Â» "
+                     alt="Ð Ð¾ÐºÑÐ°Ð½Ð° Ð¡Ð°Ð½ÐºÐ¸Ð½Ð° - Ð¿ÑÐ¾Ð´ÑÑÐµÑ ÑÑÐ¸Ð»Ð»ÐµÑÐ° Â«ÐÑÐ¾ ÑÐ°Ð¼Â» "
+                />
+                <div class="svp"><b><p class="svp-name">Ð Ð¾ÐºÑÐ°Ð½Ð° Ð¡Ð°Ð½ÐºÐ¸Ð½Ð°</p></b></div>
+                <p class="svp-quit">Ð¿ÑÐ¾Ð´ÑÑÐµÑ ÑÑÐ¸Ð»Ð»ÐµÑÐ° Â«ÐÑÐ¾ ÑÐ°Ð¼Â» </p>
+
+                <p class="svp-whois">Ð ÐºÐ°ÑÑÐ¸Ð½Ðµ Ð¿ÑÑÑ Ð½Ð¾Ð²ÐµÐ»Ð», Ð¾Ð±ÑÐµÐ´Ð¸Ð½ÐµÐ½Ð½ÑÐµ Ð¾Ð±ÑÐµÐ¹ ÑÐµÐ¼Ð¾Ð¹ Ð½ÐµÐ´Ð¾Ð²ÐµÑÐ¸Ñ Ð¸Ð»Ð¸ ÑÑÑÐ°ÑÐ°. ÐÑÐ¼Ð°Ñ, ÑÑÐ¾ ÑÑÐ¾ÑÑÐµÐµ ÐºÐ¸Ð½Ð¾, Ð¸ ÐºÐ°Ð¶Ð´ÑÐ¹ Ð½Ð°Ð¹Ð´ÑÑ ÑÐ°Ð¼ ÑÑÐ¾-ÑÐ¾ ÑÐ²Ð¾Ðµ. </p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/128644-khantavirus_ospa_obezyan_i_umnyy_immunitet_kak_protivostoyat_infektsiyam_v_usloviyakh_sovremennykh_e/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/f05/190_190_240cd750bba9870f18aada2478b24840a/lsf8q8b9urncaan7ux0wq66fnzs69ce4.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ¹Ð³ÑÐ»Ñ ÐÐ°Ð»Ð¸ÐµÐ²Ð° - Ð²ÑÐ°Ñ-Ð¸Ð½ÑÐµÐºÑÐ¸Ð¾Ð½Ð¸ÑÑ ÐºÐ¾Ð²Ð¸Ð´-Ð³Ð¾ÑÐ¿Ð¸ÑÐ°Ð»Ñ Ð² ÐÑÐ±Ð¾Ð²Ð¾"
+                     alt="ÐÐ¹Ð³ÑÐ»Ñ ÐÐ°Ð»Ð¸ÐµÐ²Ð° - Ð²ÑÐ°Ñ-Ð¸Ð½ÑÐµÐºÑÐ¸Ð¾Ð½Ð¸ÑÑ ÐºÐ¾Ð²Ð¸Ð´-Ð³Ð¾ÑÐ¿Ð¸ÑÐ°Ð»Ñ Ð² ÐÑÐ±Ð¾Ð²Ð¾"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ¹Ð³ÑÐ»Ñ ÐÐ°Ð»Ð¸ÐµÐ²Ð°</p></b></div>
+                <p class="svp-quit">Ð²ÑÐ°Ñ-Ð¸Ð½ÑÐµÐºÑÐ¸Ð¾Ð½Ð¸ÑÑ ÐºÐ¾Ð²Ð¸Ð´-Ð³Ð¾ÑÐ¿Ð¸ÑÐ°Ð»Ñ Ð² ÐÑÐ±Ð¾Ð²Ð¾</p>
+
+                <p class="svp-whois">Â«ÐÐ·-Ð·Ð° Ð¾ÑÐ¿Ñ Ð¾Ð±ÐµÐ·ÑÑÐ½ Ð¼Ð¾Ð¶ÐµÑ Ð½Ð°ÑÐ°ÑÑÑÑ Ð±Ð¾Ð»ÑÑÐ°Ñ Ð¸ ÑÐµÑÑÐµÐ·Ð½Ð°Ñ ÑÐ¿Ð¸Ð´ÐµÐ¼Ð¸ÑÂ»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/128142-nepravilnyy_minimalizm_i_psevdoklassika_arkhitektor_iz_ufy_rasskazala_o_tendentsiyakh_v_sovremennom_/">
+                <img class="interview_img"
+                     src="/upload/iblock/bb2/jq9m6w5r42z8ydsrj4nj16mnq4s4fri1.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð®Ð»Ð¸Ñ ÐÑÑÐ¸Ð½Ð° - ÐÐ¸Ð·Ð°Ð¹Ð½ÐµÑ Ð¸Ð½ÑÐµÑÑÐµÑÐ¾Ð²"
+                     alt="Ð®Ð»Ð¸Ñ ÐÑÑÐ¸Ð½Ð° - ÐÐ¸Ð·Ð°Ð¹Ð½ÐµÑ Ð¸Ð½ÑÐµÑÑÐµÑÐ¾Ð²"
+                />
+                <div class="svp"><b><p class="svp-name">Ð®Ð»Ð¸Ñ ÐÑÑÐ¸Ð½Ð°</p></b></div>
+                <p class="svp-quit">ÐÐ¸Ð·Ð°Ð¹Ð½ÐµÑ Ð¸Ð½ÑÐµÑÑÐµÑÐ¾Ð²</p>
+
+                <p class="svp-whois">Â«ÐÐµÑÐ°Ð»ÑÐ½Ð°Ñ Ð¸ÑÑÐ¾ÑÐ¸Ñ, ÐºÐ¾Ð³Ð´Ð° Ð½Ð° Ð¸Ð¿Ð¾ÑÐµÐºÑ Ð½Ð°ÐºÐ»Ð°Ð´ÑÐ²Ð°ÐµÑÑÑ ÑÐµÐ¼Ð¾Ð½Ñ, Ð»ÑÐ´Ð¸ Ð¶Ð¸Ð²ÑÑ Ð³Ð¾Ð´Ð°Ð¼Ð¸ Ð±ÐµÐ· ÐºÑÑÐ½Ð¸, Ð±ÐµÐ· Ð¼ÐµÐ±ÐµÐ»Ð¸Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/127961-chto_delat_s_dengami_osenyu_2022_goda_sovety_finansovogo_konsultanta_mariny_bisyarinoy/">
+                <img class="interview_img"
+                     src="/upload/iblock/8f8/3wwccfredt93pfa1tju32pesozli8q8d.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ°ÑÐ¸Ð½Ð° ÐÐ¸ÑÑÑÐ¸Ð½Ð°  - Ð¤Ð¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐ¹ ÐºÐ¾Ð½ÑÑÐ»ÑÑÐ°Ð½Ñ "
+                     alt="ÐÐ°ÑÐ¸Ð½Ð° ÐÐ¸ÑÑÑÐ¸Ð½Ð°  - Ð¤Ð¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐ¹ ÐºÐ¾Ð½ÑÑÐ»ÑÑÐ°Ð½Ñ "
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ°ÑÐ¸Ð½Ð° ÐÐ¸ÑÑÑÐ¸Ð½Ð° </p></b></div>
+                <p class="svp-quit">Ð¤Ð¸Ð½Ð°Ð½ÑÐ¾Ð²ÑÐ¹ ÐºÐ¾Ð½ÑÑÐ»ÑÑÐ°Ð½Ñ </p>
+
+                <p class="svp-whois">Â«Ð¡ÑÐ°ÑÑÐ»Ð¸Ð²ÑÐµ Ð»ÑÐ´Ð¸, ÑÐµ, Ñ ÐºÐ¾Ð³Ð¾ ÐµÑÑÑ Ð²Ð°Ð»ÑÑÐ° Ð´Ð¾Ð¼Ð° Ð¿Ð¾Ð´ Ð¿Ð¾Ð´ÑÑÐºÐ¾Ð¹Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/127630-na_litse_vsya_tablitsa_mendeleeva_vodoy_ne_smoesh_ufimskiy_kosmetolog_o_raznitse_mezhdu_vostochnoy_i/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/5a5/190_190_240cd750bba9870f18aada2478b24840a/xmv6hsozkk7zvrqxdlceculpndlnxen7.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð¡Ð²ÐµÑÐ»Ð°Ð½Ð° ÐÐ°Ð±Ð´ÑÐ»Ð¸Ð½Ð° - ÐÐ»Ð°Ð²Ð²ÑÐ°Ñ ÐºÐ»Ð¸Ð½Ð¸ÐºÐ¸ Â«ÐÐ½Ð¾ÑÐ¸Â»"
+                     alt="Ð¡Ð²ÐµÑÐ»Ð°Ð½Ð° ÐÐ°Ð±Ð´ÑÐ»Ð¸Ð½Ð° - ÐÐ»Ð°Ð²Ð²ÑÐ°Ñ ÐºÐ»Ð¸Ð½Ð¸ÐºÐ¸ Â«ÐÐ½Ð¾ÑÐ¸Â»"
+                />
+                <div class="svp"><b><p class="svp-name">Ð¡Ð²ÐµÑÐ»Ð°Ð½Ð° ÐÐ°Ð±Ð´ÑÐ»Ð¸Ð½Ð°</p></b></div>
+                <p class="svp-quit">ÐÐ»Ð°Ð²Ð²ÑÐ°Ñ ÐºÐ»Ð¸Ð½Ð¸ÐºÐ¸ Â«ÐÐ½Ð¾ÑÐ¸Â»</p>
+
+                <p class="svp-whois">Â«ÐÐ° Ð»Ð¸ÑÐµ Ð²ÑÑ ÑÐ°Ð±Ð»Ð¸ÑÐ° ÐÐµÐ½Ð´ÐµÐ»ÐµÐµÐ²Ð° â Ð²Ð¾Ð´Ð¾Ð¹ Ð½Ðµ ÑÐ¼Ð¾ÐµÑÑÂ»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/novosti/127489-shok_u_intelligentsii_v_svyazi_so_spetsoperatsiey_vyzvan_tem_chto_my_vstupili_v_novuyu_epokhu_vozvra/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/197/190_190_240cd750bba9870f18aada2478b24840a/2naf16eivud855l4p2m6020bw6ahy9dl.jpg"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ·Ð°Ñ ÐÐµÑÐ´Ð¸Ð½ - Ð£ÑÐµÐ½ÑÐ¹"
+                     alt="ÐÐ·Ð°Ñ ÐÐµÑÐ´Ð¸Ð½ - Ð£ÑÐµÐ½ÑÐ¹"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ·Ð°Ñ ÐÐµÑÐ´Ð¸Ð½</p></b></div>
+                <p class="svp-quit">Ð£ÑÐµÐ½ÑÐ¹</p>
+
+                <p class="svp-whois">Â«Ð¡Ð°Ð½ÐºÑÐ¸Ð¸ ÑÐ°Ð±Ð¾ÑÐ°ÑÑ Ð¿ÑÐ¾ÑÐ¸Ð² Ð¿ÑÐ¾ÑÑÑÑ Ð»ÑÐ´ÐµÐ¹Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/127150-50_let_eto_novye_30_ginekolog_i_glavvrach_rzhd_kliniki_ufy_raskryla_sekret_molodosti_i_krasoty/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/f46/190_190_240cd750bba9870f18aada2478b24840a/m1bhxrtzddjkejvjalxkx0rev2gp99c6.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ½Ð´Ð¸ÑÐ° Ð¡Ð°ÑÐ°ÑÑÐ´Ð¸Ð½Ð¾Ð²Ð° - ÐÐ»Ð°Ð²Ð²ÑÐ°Ñ ÐºÐ»Ð¸Ð½Ð¸ÐºÐ¸ Ð ÐÐ-ÐÐÐÐÐ¦ÐÐÐ"
+                     alt="ÐÐ½Ð´Ð¸ÑÐ° Ð¡Ð°ÑÐ°ÑÑÐ´Ð¸Ð½Ð¾Ð²Ð° - ÐÐ»Ð°Ð²Ð²ÑÐ°Ñ ÐºÐ»Ð¸Ð½Ð¸ÐºÐ¸ Ð ÐÐ-ÐÐÐÐÐ¦ÐÐÐ"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ½Ð´Ð¸ÑÐ° Ð¡Ð°ÑÐ°ÑÑÐ´Ð¸Ð½Ð¾Ð²Ð°</p></b></div>
+                <p class="svp-quit">ÐÐ»Ð°Ð²Ð²ÑÐ°Ñ ÐºÐ»Ð¸Ð½Ð¸ÐºÐ¸ Ð ÐÐ-ÐÐÐÐÐ¦ÐÐÐ</p>
+
+                <p class="svp-whois">Â«Ð 10-Ð¼ ÐºÐ»Ð°ÑÑÐµ Ð¾ÑÐµÑ Ð¿Ð¾ÑÐ°ÑÐ¸Ð» Ð¼ÐµÐ½Ñ Ð½Ð° Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ñ, Ñ Ð¿Ð¾ÑÐ¾Ð¼ Ð¼ÐµÑÑÑ Ð¼ÑÑÐ¾ ÐµÑÑÑ Ð½Ðµ Ð¼Ð¾Ð³Ð»Ð°Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/126845-salavat_nafikov_s_radiem_khabirovym_rabotat_neprosto_ochen_vysokiy_temp_/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/7bc/190_190_240cd750bba9870f18aada2478b24840a/ibqjvwz78hxgjpu3f1mclmx6mnjyk8mj.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð¡Ð°Ð»Ð°Ð²Ð°Ñ ÐÐ°ÑÐ¸ÐºÐ¾Ð² - Ð ÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»Ñ ÐÐÐÐ¢"
+                     alt="Ð¡Ð°Ð»Ð°Ð²Ð°Ñ ÐÐ°ÑÐ¸ÐºÐ¾Ð² - Ð ÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»Ñ ÐÐÐÐ¢"
+                />
+                <div class="svp"><b><p class="svp-name">Ð¡Ð°Ð»Ð°Ð²Ð°Ñ ÐÐ°ÑÐ¸ÐºÐ¾Ð²</p></b></div>
+                <p class="svp-quit">Ð ÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»Ñ ÐÐÐÐ¢</p>
+
+                <p class="svp-whois">Â«Ð¡ Ð Ð°Ð´Ð¸ÐµÐ¼ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²ÑÐ¼ ÑÐ°Ð±Ð¾ÑÐ°ÑÑ Ð½ÐµÐ¿ÑÐ¾ÑÑÐ¾, Ð¾ÑÐµÐ½Ñ Ð²ÑÑÐ¾ÐºÐ¸Ð¹ ÑÐµÐ¼Ð¿Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/society/125721-esli_u_cheloveka_inaya_pozitsiya_on_ne_plokhoy_psikholog_o_prinyatii_sebya_i_svoikh_tsennostey/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/fbf/190_190_240cd750bba9870f18aada2478b24840a/rtlh24o1z3s2n5l5l63jayofjzz0wydd.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ»ÑÐ¼Ð¸ÑÐ° Ð¨Ð°Ð¹Ð°ÑÐ¼ÐµÑÐ¾Ð²Ð° - Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾Ð³, Ð´Ð¸ÑÐµÐºÑÐ¾Ñ Ð¦ÐµÐ½ÑÑÐ° ÑÐ°Ð·Ð²Ð¸ÑÐ¸Ñ Ð»Ð¸ÑÐ½Ð¾ÑÑÐ¸ Ð¸ ÑÐµÐ¼Ñ..."
+                     alt="ÐÐ»ÑÐ¼Ð¸ÑÐ° Ð¨Ð°Ð¹Ð°ÑÐ¼ÐµÑÐ¾Ð²Ð° - Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾Ð³, Ð´Ð¸ÑÐµÐºÑÐ¾Ñ Ð¦ÐµÐ½ÑÑÐ° ÑÐ°Ð·Ð²Ð¸ÑÐ¸Ñ Ð»Ð¸ÑÐ½Ð¾ÑÑÐ¸ Ð¸ ÑÐµÐ¼Ñ..."
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ»ÑÐ¼Ð¸ÑÐ° Ð¨Ð°Ð¹Ð°ÑÐ¼ÐµÑÐ¾Ð²Ð°</p></b></div>
+                <p class="svp-quit">Ð¿ÑÐ¸ÑÐ¾Ð»Ð¾Ð³, Ð´Ð¸ÑÐµÐºÑÐ¾Ñ Ð¦ÐµÐ½ÑÑÐ° ÑÐ°Ð·Ð²Ð¸ÑÐ¸Ñ Ð»Ð¸ÑÐ½Ð¾ÑÑÐ¸ Ð¸ ÑÐµÐ¼Ñ...</p>
+
+                <p class="svp-whois">Â«ÐÑÐ»Ð¸ Ñ ÑÐµÐ»Ð¾Ð²ÐµÐºÐ° Ð¸Ð½Ð°Ñ Ð¿Ð¾Ð·Ð¸ÑÐ¸Ñ â Ð¾Ð½ Ð½Ðµ Ð¿Ð»Ð¾ÑÐ¾Ð¹Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+</div>
+
+<script>
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        margin: 10,
+        dots:true,
+        responsive: {
+            0: {
+                items: 2
+
+            },
+            400: {
+                items: 3
+
+            },
+            1000: {
+                items: 5
+
+            }
+        }
+    })
+</script>
+
+<div id="bxdynamic_2gu145_end" style="display:none"></div></div>
+    <div class="list-news">
+        <br>
+        <hr>
+        <div class="cdr-main">
+            <a href="/cards.php">
+                <p class="cdrn-main">
+                    ÐºÐ°ÑÑÐ¾ÑÐºÐ¸
+                </p>
+            </a>
+        </div>
+        <div id="bxdynamic_6F0QtJ_start" style="display:none"></div><div class="bx-newslist">
+<div class="row">
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/133923-pravozashchitnik_rasskazal_chem_otlichaetsya_mobilizatsionnoe_predpisanie_ot_povestki/">
+          <img class="long"
+               src="/upload/webp/iblock/042/5a6m4octou3184qgsbqq0dcscabrg6vp.webp"
+               height="400"
+               width="700"
+               title="Ð§ÐµÐ¼ Ð¾ÑÐ»Ð¸ÑÐ°ÐµÑÑÑ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ð¾Ð½Ð½Ð¾Ðµ Ð¿ÑÐµÐ´Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¾Ñ Ð¿Ð¾Ð²ÐµÑÑÐºÐ¸: Ð¿ÑÐ°Ð²Ð¾Ð·Ð°ÑÐ¸ÑÐ½Ð¸Ðº ÑÐ°Ð·ÑÑÑÐ½Ð¸Ð» ÑÐ°Ð·Ð½Ð¸ÑÑ"
+               alt="Ð§ÐµÐ¼ Ð¾ÑÐ»Ð¸ÑÐ°ÐµÑÑÑ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ð¾Ð½Ð½Ð¾Ðµ Ð¿ÑÐµÐ´Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¾Ñ Ð¿Ð¾Ð²ÐµÑÑÐºÐ¸: Ð¿ÑÐ°Ð²Ð¾Ð·Ð°ÑÐ¸ÑÐ½Ð¸Ðº ÑÐ°Ð·ÑÑÑÐ½Ð¸Ð» ÑÐ°Ð·Ð½Ð¸ÑÑ"
+
+           />
+         <p class="long-name">Ð§ÐµÐ¼ Ð¾ÑÐ»Ð¸ÑÐ°ÐµÑÑÑ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ð¾Ð½Ð½Ð¾Ðµ Ð¿ÑÐµÐ´Ð¿Ð¸ÑÐ°Ð½Ð¸Ðµ Ð¾Ñ Ð¿Ð¾Ð²ÐµÑÑÐºÐ¸: Ð¿ÑÐ°Ð²Ð¾Ð·Ð°ÑÐ¸ÑÐ½Ð¸Ðº ÑÐ°Ð·ÑÑÑÐ½Ð¸Ð» ÑÐ°Ð·Ð½Ð¸ÑÑ</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/133571-komu_i_na_skolko_povysyat_detskie_posobiya_s_1_fevralya_2023_goda_polnyy_spisok/">
+          <img class="long"
+               src="/upload/webp/iblock/4bd/56kqrwq587fm4sfr374l7an4o8c0md3r.webp"
+               height="455"
+               width="728"
+               title="ÐÐ¾Ð¼Ñ Ð¸ Ð½Ð° ÑÐºÐ¾Ð»ÑÐºÐ¾ Ð¿Ð¾Ð²ÑÑÑÑ Ð´ÐµÑÑÐºÐ¸Ðµ Ð¿Ð¾ÑÐ¾Ð±Ð¸Ñ Ñ 1 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 Ð³Ð¾Ð´Ð°. ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ¿Ð¸ÑÐ¾Ðº"
+               alt="ÐÐ¾Ð¼Ñ Ð¸ Ð½Ð° ÑÐºÐ¾Ð»ÑÐºÐ¾ Ð¿Ð¾Ð²ÑÑÑÑ Ð´ÐµÑÑÐºÐ¸Ðµ Ð¿Ð¾ÑÐ¾Ð±Ð¸Ñ Ñ 1 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 Ð³Ð¾Ð´Ð°. ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ¿Ð¸ÑÐ¾Ðº"
+
+           />
+         <p class="long-name">ÐÐ¾Ð¼Ñ Ð¸ Ð½Ð° ÑÐºÐ¾Ð»ÑÐºÐ¾ Ð¿Ð¾Ð²ÑÑÑÑ Ð´ÐµÑÑÐºÐ¸Ðµ Ð¿Ð¾ÑÐ¾Ð±Ð¸Ñ Ñ 1 ÑÐµÐ²ÑÐ°Ð»Ñ 2023 Ð³Ð¾Ð´Ð°. ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ¿Ð¸ÑÐ¾Ðº</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/132443-do_kontsa_osennego_prizyva_2_nedeli_kak_dolzhny_vruchat_povestku_i_zakonna_li_ugroza_ugolovnym_delom/">
+          <img class="long"
+               src="/upload/webp/iblock/749/2fpmo9jvxtkeabqvv3kn5iia9ufn18t1.webp"
+               height="468"
+               width="695"
+               title="ÐÐ¾ ÐºÐ¾Ð½ÑÐ° Ð¾ÑÐµÐ½Ð½ÐµÐ³Ð¾ Ð¿ÑÐ¸Ð·ÑÐ²Ð° 2 Ð½ÐµÐ´ÐµÐ»Ð¸. ÐÐ°Ðº Ð´Ð¾Ð»Ð¶Ð½Ñ Ð²ÑÑÑÐ°ÑÑ Ð¿Ð¾Ð²ÐµÑÑÐºÑ Ð¸ Ð·Ð°ÐºÐ¾Ð½Ð½Ð° Ð»Ð¸ ÑÐ³ÑÐ¾Ð·Ð° ÑÐ³Ð¾Ð»Ð¾Ð²Ð½ÑÐ¼ Ð´ÐµÐ»Ð¾Ð¼?"
+               alt="ÐÐ¾ ÐºÐ¾Ð½ÑÐ° Ð¾ÑÐµÐ½Ð½ÐµÐ³Ð¾ Ð¿ÑÐ¸Ð·ÑÐ²Ð° 2 Ð½ÐµÐ´ÐµÐ»Ð¸. ÐÐ°Ðº Ð´Ð¾Ð»Ð¶Ð½Ñ Ð²ÑÑÑÐ°ÑÑ Ð¿Ð¾Ð²ÐµÑÑÐºÑ Ð¸ Ð·Ð°ÐºÐ¾Ð½Ð½Ð° Ð»Ð¸ ÑÐ³ÑÐ¾Ð·Ð° ÑÐ³Ð¾Ð»Ð¾Ð²Ð½ÑÐ¼ Ð´ÐµÐ»Ð¾Ð¼?"
+
+           />
+         <p class="long-name">ÐÐ¾ ÐºÐ¾Ð½ÑÐ° Ð¾ÑÐµÐ½Ð½ÐµÐ³Ð¾ Ð¿ÑÐ¸Ð·ÑÐ²Ð° 2 Ð½ÐµÐ´ÐµÐ»Ð¸. ÐÐ°Ðº Ð´Ð¾Ð»Ð¶Ð½Ñ Ð²ÑÑÑÐ°ÑÑ Ð¿Ð¾Ð²ÐµÑÑÐºÑ Ð¸ Ð·Ð°ÐºÐ¾Ð½Ð½Ð° Ð»Ð¸ ÑÐ³ÑÐ¾Ð·Ð° ÑÐ³Ð¾Ð»Ð¾Ð²Ð½ÑÐ¼ Ð´ÐµÐ»Ð¾Ð¼?</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/131806-v_bashkirii_s_1_dekabrya_v_bolnitsakh_ne_budut_trebovat_polis_oms_ekspert_rasskazala_k_chemu_nuzhno_/">
+          <img class="long"
+               src="/upload/webp/iblock/e7d/nzw7tf60g3bu49i6rpuuueh9uswalyua.webp"
+               height="485"
+               width="728"
+               title="Ð ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ 1 Ð´ÐµÐºÐ°Ð±ÑÑ Ð² Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐ°Ñ Ð½Ðµ Ð±ÑÐ´ÑÑ ÑÑÐµÐ±Ð¾Ð²Ð°ÑÑ Ð¿Ð¾Ð»Ð¸Ñ ÐÐÐ¡. Ð­ÐºÑÐ¿ÐµÑÑ ÑÐ°ÑÑÐºÐ°Ð·Ð°Ð»Ð°, Ðº ÑÐµÐ¼Ñ Ð½ÑÐ¶Ð½Ð¾ Ð±ÑÑÑ Ð³Ð¾ÑÐ¾Ð²ÑÐ¼Ð¸ "
+               alt="Ð ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ 1 Ð´ÐµÐºÐ°Ð±ÑÑ Ð² Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐ°Ñ Ð½Ðµ Ð±ÑÐ´ÑÑ ÑÑÐµÐ±Ð¾Ð²Ð°ÑÑ Ð¿Ð¾Ð»Ð¸Ñ ÐÐÐ¡. Ð­ÐºÑÐ¿ÐµÑÑ ÑÐ°ÑÑÐºÐ°Ð·Ð°Ð»Ð°, Ðº ÑÐµÐ¼Ñ Ð½ÑÐ¶Ð½Ð¾ Ð±ÑÑÑ Ð³Ð¾ÑÐ¾Ð²ÑÐ¼Ð¸ "
+
+           />
+         <p class="long-name">Ð ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ 1 Ð´ÐµÐºÐ°Ð±ÑÑ Ð² Ð±Ð¾Ð»ÑÐ½Ð¸ÑÐ°Ñ Ð½Ðµ Ð±ÑÐ´ÑÑ ÑÑÐµÐ±Ð¾Ð²Ð°ÑÑ Ð¿Ð¾Ð»Ð¸Ñ ÐÐÐ¡. Ð­ÐºÑÐ¿ÐµÑÑ ÑÐ°ÑÑÐºÐ°Ð·Ð°Ð»Ð°, Ðº ÑÐµÐ¼Ñ Ð½ÑÐ¶Ð½Ð¾ Ð±ÑÑÑ Ð³Ð¾ÑÐ¾Ð²ÑÐ¼Ð¸ </p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/society/131278-ee_vozobnovyat_tak_kak_ukaza_ob_okonchanii_net_pavel_chikov_obyasnil_nezhelanie_prezidenta_zakanchiv/">
+          <img class="long"
+               src="/upload/webp/iblock/236/5232axabwbfrikmq1b98qj8xfhou832c.webp"
+               height="484"
+               width="728"
+               title="Â«ÐÐµ Ð²Ð¾Ð·Ð¾Ð±Ð½Ð¾Ð²ÑÑ, ÑÐºÐ°Ð·Ð° Ð½ÐµÑÂ». ÐÑÐ°Ð²Ð¾Ð·Ð°ÑÐ¸ÑÐ½Ð¸Ðº Ð¾Ð±ÑÑÑÐ½Ð¸Ð», Ð¿Ð¾ÑÐµÐ¼Ñ Ð¾Ð½ ÑÑÐ¸ÑÐ°ÐµÑ, ÑÑÐ¾ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ñ ÐµÑÐµ Ð½Ðµ Ð·Ð°ÐºÐ¾Ð½ÑÐ¸Ð»Ð°ÑÑ"
+               alt="Â«ÐÐµ Ð²Ð¾Ð·Ð¾Ð±Ð½Ð¾Ð²ÑÑ, ÑÐºÐ°Ð·Ð° Ð½ÐµÑÂ». ÐÑÐ°Ð²Ð¾Ð·Ð°ÑÐ¸ÑÐ½Ð¸Ðº Ð¾Ð±ÑÑÑÐ½Ð¸Ð», Ð¿Ð¾ÑÐµÐ¼Ñ Ð¾Ð½ ÑÑÐ¸ÑÐ°ÐµÑ, ÑÑÐ¾ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ñ ÐµÑÐµ Ð½Ðµ Ð·Ð°ÐºÐ¾Ð½ÑÐ¸Ð»Ð°ÑÑ"
+
+           />
+         <p class="long-name">Â«ÐÐµ Ð²Ð¾Ð·Ð¾Ð±Ð½Ð¾Ð²ÑÑ, ÑÐºÐ°Ð·Ð° Ð½ÐµÑÂ». ÐÑÐ°Ð²Ð¾Ð·Ð°ÑÐ¸ÑÐ½Ð¸Ðº Ð¾Ð±ÑÑÑÐ½Ð¸Ð», Ð¿Ð¾ÑÐµÐ¼Ñ Ð¾Ð½ ÑÑÐ¸ÑÐ°ÐµÑ, ÑÑÐ¾ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð°ÑÐ¸Ñ ÐµÑÐµ Ð½Ðµ Ð·Ð°ÐºÐ¾Ð½ÑÐ¸Ð»Ð°ÑÑ</p>
+        </a>
+    </div>
+
+   
+    <div class="col-6 col-sm-3">
+        <a href="/news/spec/vopros_otvet/130968-chto_polozheno_semyam_mobilizovannykh_iz_bashkirii_polnyy_spisok_mer_podderzhki/">
+          <img class="long"
+               src="/upload/webp/iblock/0c5/31opw7nmv9yzqpyovr2xl2a9nbjgw97h.webp"
+               height="485"
+               width="728"
+               title="Ð§ÑÐ¾ Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¾ ÑÐµÐ¼ÑÑÐ¼ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½ÑÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸? ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¼ÐµÑ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ¸"
+               alt="Ð§ÑÐ¾ Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¾ ÑÐµÐ¼ÑÑÐ¼ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½ÑÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸? ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¼ÐµÑ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ¸"
+
+           />
+         <p class="long-name">Ð§ÑÐ¾ Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¾ ÑÐµÐ¼ÑÑÐ¼ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½ÑÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸? ÐÐ¾Ð»Ð½ÑÐ¹ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¼ÐµÑ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÐ¸</p>
+        </a>
+    </div>
+</div>
+
+</div>
+<div id="bxdynamic_6F0QtJ_end" style="display:none"></div>    </div>
+<hr>
+<div class="news-section">
+	<div class="cdr-main">
+ <a href="/photohistory.php">
+		<p class="cdrn-main">
+			 ÑÐ¾ÑÐ¾Ð¸ÑÑÐ¾ÑÐ¸Ð¸
+		</p>
+ </a>
+	</div>
+	 	            <div class="col1">
+            <a href="/news/society/133183-den_kogda_rydala_bashkiriya_istoricheskiy_reportazh_s_pokhoron_murtazy_rakhimova/">
+            <div class="img-section-top">
+               <img style="width: 100%"
+                    src="/upload/webp/iblock/282/6e9ml23gzl1yg8ciweqvjmx1uteo0g9x.webp" loading="lazy" 
+                    height="548"
+                    width="728"
+                    title="ÐÐµÐ½Ñ, ÐºÐ¾Ð³Ð´Ð° ÑÑÐ´Ð°Ð»Ð° ÐÐ°ÑÐºÐ¸ÑÐ¸Ñ. Ð ÐµÐ¿Ð¾ÑÑÐ°Ð¶ Ñ Ð¿Ð¾ÑÐ¾ÑÐ¾Ð½ ÐÑÑÑÐ°Ð·Ñ Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð°"
+                    alt="ÐÐµÐ½Ñ, ÐºÐ¾Ð³Ð´Ð° ÑÑÐ´Ð°Ð»Ð° ÐÐ°ÑÐºÐ¸ÑÐ¸Ñ. Ð ÐµÐ¿Ð¾ÑÑÐ°Ð¶ Ñ Ð¿Ð¾ÑÐ¾ÑÐ¾Ð½ ÐÑÑÑÐ°Ð·Ñ Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð°"
+                />
+            </div>
+                <p class="main-topic-one-name">ÐÐµÐ½Ñ, ÐºÐ¾Ð³Ð´Ð° ÑÑÐ´Ð°Ð»Ð° ÐÐ°ÑÐºÐ¸ÑÐ¸Ñ. Ð ÐµÐ¿Ð¾ÑÑÐ°Ð¶ Ñ Ð¿Ð¾ÑÐ¾ÑÐ¾Ð½ ÐÑÑÑÐ°Ð·Ñ Ð Ð°ÑÐ¸Ð¼Ð¾Ð²Ð°</p>
+                <p class="main-topic-one-pre">ÐÐ°Ðº Ð¿ÑÐ¾ÑÑÐ¸Ð»Ð¸ÑÑ ÑÑÐ¸Ð¼ÑÑ Ð¸ Ð¶Ð¸ÑÐµÐ»Ð¸ ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ ÐÐ°Ð±Ð°ÐµÐ¼ â Ð³Ð»Ð°Ð·Ð°Ð¼Ð¸ Ð½Ð°ÑÐ¸Ñ Ð¶ÑÑÐ½Ð°Ð»Ð¸ÑÑÐ¾Ð²</p>
+
+            </a>
+        </div>
+
+        <!--      <div class="news-main-cat-two">-->
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/fotoreportazhi/132553-ottepel_sredi_zimy_kak_proshel_ledyanoy_dozhd_v_ufe/">
+                <div class="news-name">ÐÑÑÐµÐ¿ÐµÐ»Ñ ÑÑÐµÐ´Ð¸ Ð·Ð¸Ð¼Ñ. ÐÐ¾ÑÐ»ÐµÐ´ÑÑÐ²Ð¸Ñ Ð»ÐµÐ´ÑÐ½Ð¾Ð³Ð¾ Ð´Ð¾Ð¶Ð´Ñ Ð² Ð£ÑÐµ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">21:51 19 Ð´ÐµÐºÐ°Ð±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/fotoreportazhi/132553-ottepel_sredi_zimy_kak_proshel_ledyanoy_dozhd_v_ufe/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/fotoreportazhi/131920-krasota_ufimskikh_panelek_kakie_uzory_ukrashayut_doma_nashego_goroda/">
+                <div class="news-name">ÐÑÐ°ÑÐ¾ÑÐ° ÑÑÐ¸Ð¼ÑÐºÐ¸Ñ Ð¿Ð°Ð½ÐµÐ»ÐµÐº. ÐÐ°ÐºÐ¸Ðµ ÑÐ·Ð¾ÑÑ ÑÐºÑÐ°ÑÐ°ÑÑ Ð´Ð¾Ð¼Ð° Ð½Ð°ÑÐµÐ³Ð¾ Ð³Ð¾ÑÐ¾Ð´Ð° - ÑÐ¾ÑÐ¾ÑÐµÐ¿Ð¾ÑÑÐ°Ð¶                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">11:46 26 Ð½Ð¾ÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/fotoreportazhi/131920-krasota_ufimskikh_panelek_kakie_uzory_ukrashayut_doma_nashego_goroda/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/fotoreportazhi/131620-zhizha_pod_kolesami_i_dtp_na_parkovke_kak_ufa_otrepetirovala_budushchie_snegopady_foto/">
+                <div class="news-name">ÐÐ¸Ð¶Ð° Ð¿Ð¾Ð´ ÐºÐ¾Ð»ÐµÑÐ°Ð¼Ð¸ Ð¸ ÐÐ¢Ð Ð½Ð° Ð¿Ð°ÑÐºÐ¾Ð²ÐºÐµ: ÐºÐ°Ðº Ð£ÑÐ° Ð¾ÑÑÐµÐ¿ÐµÑÐ¸ÑÐ¾Ð²Ð°Ð»Ð° Ð±ÑÐ´ÑÑÐ¸Ðµ ÑÐ½ÐµÐ³Ð¾Ð¿Ð°Ð´Ñ (Ð¤ÐÐ¢Ð)                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">15:28 15 Ð½Ð¾ÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/fotoreportazhi/131620-zhizha_pod_kolesami_i_dtp_na_parkovke_kak_ufa_otrepetirovala_budushchie_snegopady_foto/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/society/131050-kak_umiraet_iyun_v_ufe_chto_proiskhodit_s_torgovym_tsentrom/">
+                <div class="news-name">ÐÐ°Ðº ÑÐ¼Ð¸ÑÐ°ÐµÑ ÐÑÐ½Ñ Ð² Ð£ÑÐµ. Ð§ÑÐ¾ Ð¿ÑÐ¾Ð¸ÑÑÐ¾Ð´Ð¸Ñ Ñ ÑÐ¾ÑÐ³Ð¾Ð²ÑÐ¼ ÑÐµÐ½ÑÑÐ¾Ð¼?                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">9:00 29 Ð¾ÐºÑÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/society/131050-kak_umiraet_iyun_v_ufe_chto_proiskhodit_s_torgovym_tsentrom/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    </div>
+
+ <br>
+ <br>
+<div class="bxslider">
+	<div class="cdr-main">
+ <a href="/news/spec/svobodnaya_ploshchadka/">
+		<p class="cdrn-main">
+			 ÑÐ²Ð¾Ð±Ð¾Ð´Ð½Ð°Ñ Ð¿Ð»Ð¾ÑÐ°Ð´ÐºÐ°
+		</p>
+ </a>
+	</div>
+	 <div id="bxdynamic_e5C6FS_start" style="display:none"></div><div class="owl-carousel owl-theme">
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/132949-rustem_shayakhmetov_v_meditsinskoy_pomoshchi_upavshey_s_gorki_devushke_v_iglino_ne_otkazali_eye_pros/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/5f2/190_190_240cd750bba9870f18aada2478b24840a/ya6wxpyue0frjcw8zunjln4xr53hfwk8.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð ÑÑÑÐµÐ¼ Ð¨Ð°Ð¹Ð°ÑÐ¼ÐµÑÐ¾Ð² - Ð­ÐºÐ¾Ð½Ð¾Ð¼Ð¸ÑÑ"
+                     alt="Ð ÑÑÑÐµÐ¼ Ð¨Ð°Ð¹Ð°ÑÐ¼ÐµÑÐ¾Ð² - Ð­ÐºÐ¾Ð½Ð¾Ð¼Ð¸ÑÑ"
+                />
+                <div class="svp"><b><p class="svp-name">Ð ÑÑÑÐµÐ¼ Ð¨Ð°Ð¹Ð°ÑÐ¼ÐµÑÐ¾Ð²</p></b></div>
+                <p class="svp-quit">Ð­ÐºÐ¾Ð½Ð¾Ð¼Ð¸ÑÑ</p>
+
+                <p class="svp-whois">Â«Ð Ð¼ÐµÐ´Ð¸ÑÐ¸Ð½ÑÐºÐ¾Ð¹ Ð¿Ð¾Ð¼Ð¾ÑÐ¸ ÑÐ¿Ð°Ð²ÑÐµÐ¹ Ñ Ð³Ð¾ÑÐºÐ¸ Ð´ÐµÐ²ÑÑÐºÐµ Ð² ÐÐ³Ð»Ð¸Ð½Ð¾ Ð½Ðµ Ð¾ÑÐºÐ°Ð·Ð°Ð»Ð¸, ÐµÑ Ð¿ÑÐ¾ÑÑÐ¾ Ð½Ðµ Ð¾ÐºÐ°Ð·Ð°Ð»Ð¸Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/131250-vybory_dlya_khabirova_tsirk_v_otstavku_bashkirskiy_aktivist_garifulla_yaparov/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/bcd/190_190_240cd750bba9870f18aada2478b24840a/ymev7tlox92mdlqlg1mio9bw2dryw9p1.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ°ÑÐ¸ÑÑÐ»Ð»Ð° Ð¯Ð¿Ð°ÑÐ¾Ð² - ÐÐ°ÑÐºÐ¸ÑÑÐºÐ¸Ð¹ Ð°ÐºÑÐ¸Ð²Ð¸ÑÑ"
+                     alt="ÐÐ°ÑÐ¸ÑÑÐ»Ð»Ð° Ð¯Ð¿Ð°ÑÐ¾Ð² - ÐÐ°ÑÐºÐ¸ÑÑÐºÐ¸Ð¹ Ð°ÐºÑÐ¸Ð²Ð¸ÑÑ"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ°ÑÐ¸ÑÑÐ»Ð»Ð° Ð¯Ð¿Ð°ÑÐ¾Ð²</p></b></div>
+                <p class="svp-quit">ÐÐ°ÑÐºÐ¸ÑÑÐºÐ¸Ð¹ Ð°ÐºÑÐ¸Ð²Ð¸ÑÑ</p>
+
+                <p class="svp-whois">Â«ÐÑÐ±Ð¾ÑÑ Ð´Ð»Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° â ÑÐ¸ÑÐº! Ð Ð¾ÑÑÑÐ°Ð²ÐºÑ!Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/131095-v_21_veke_lyudi_prosyat_samogo_elementarnogo_na_pryamoy_linii_khabirova_zametili_shkval_voprosov_o_zh/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/ff2/190_190_240cd750bba9870f18aada2478b24840a/8tmtc5fsm1p6fu7zxlumbxrllyw1sc40.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ»ÑÐ±ÐµÑÑ Ð Ð°ÑÐ¼Ð°ÑÑÐ»Ð»Ð¸Ð½ - ÐÐ¸Ð´ÐµÑ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Â«Ð¡ÑÐ¾Ð¿ÐÐ°ÑÐ Ð¢Ð¡Â»"
+                     alt="ÐÐ»ÑÐ±ÐµÑÑ Ð Ð°ÑÐ¼Ð°ÑÑÐ»Ð»Ð¸Ð½ - ÐÐ¸Ð´ÐµÑ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Â«Ð¡ÑÐ¾Ð¿ÐÐ°ÑÐ Ð¢Ð¡Â»"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ»ÑÐ±ÐµÑÑ Ð Ð°ÑÐ¼Ð°ÑÑÐ»Ð»Ð¸Ð½</p></b></div>
+                <p class="svp-quit">ÐÐ¸Ð´ÐµÑ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Â«Ð¡ÑÐ¾Ð¿ÐÐ°ÑÐ Ð¢Ð¡Â»</p>
+
+                <p class="svp-whois">Â«ÐÑÐµ 100 Ð»ÐµÑ Ð½Ð°Ð·Ð°Ð´ Â«Ð»Ð°Ð¼Ð¿Ð¾ÑÐºÐ° ÐÐ»ÑÐ¸ÑÐ°Â» Ð¿ÑÐ¸ÑÐ»Ð° Ð² ÐºÐ°Ð¶Ð´ÑÐ¹ Ð´Ð¾Ð¼!Â». ÐÐ¸Ð²Ñ Ð² ÑÐ°ÐºÐ¾Ð¼ Ð½Ð°ÑÑÐ¾ÑÑÐµÐ¼, Ð³Ð´Ðµ Ð´Ð¾ ÑÐ¸Ñ Ð¿Ð¾Ñ Ð½ÐµÑ Ð¾ÑÐ²ÐµÑÐµÐ½Ð¸Ñ Ð½Ð° ÑÐ»Ð¸ÑÐ°Ñ Ð¸ Ð´Ð²Ð¾ÑÐ°ÑÂ»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/130209-sagit_ismagilov_o_zakrytii_dela_nigamatyanova_vsedozvolennost_yavlyaetsya_prichinoy_naglosti_cherstv/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/88c/190_190_240cd750bba9870f18aada2478b24840a/18xdq8cpgvfo7mn7380y056qi43bpqny.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð¡Ð°Ð³Ð¸Ñ ÐÑÐ¼Ð°Ð³Ð¸Ð»Ð¾Ð² - ÐÐ±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¸Ðº"
+                     alt="Ð¡Ð°Ð³Ð¸Ñ ÐÑÐ¼Ð°Ð³Ð¸Ð»Ð¾Ð² - ÐÐ±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¸Ðº"
+                />
+                <div class="svp"><b><p class="svp-name">Ð¡Ð°Ð³Ð¸Ñ ÐÑÐ¼Ð°Ð³Ð¸Ð»Ð¾Ð²</p></b></div>
+                <p class="svp-quit">ÐÐ±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¸Ðº</p>
+
+                <p class="svp-whois">Â«ÐÑÐµÐ´Ð¾Ð·Ð²Ð¾Ð»ÐµÐ½Ð½Ð¾ÑÑÑ ÑÐ²Ð»ÑÐµÑÑÑ Ð¿ÑÐ¸ÑÐ¸Ð½Ð¾Ð¹ Ð½Ð°Ð³Ð»Ð¾ÑÑÐ¸, ÑÐµÑÑÑÐ²Ð¾ÑÑÐ¸ Ð¸ Ð¶ÐµÑÑÐ¾ÐºÐ¾ÑÑÐ¸Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/127502-elza_maulimshina_o_sgorevshem_ot_udara_molnii_kresto_vozdvizhenskem_khrame_v_bashkirii/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/baf/190_190_240cd750bba9870f18aada2478b24840a/oewzokp31h0k3r80l86gxkvq6bdv83dh.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð­Ð»ÑÐ·Ð° ÐÐ°ÑÐ»Ð¸Ð¼ÑÐ¸Ð½Ð°  - ÐÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ»Ñ ÐÐÐÐÐ¸Ð Ð Ð"
+                     alt="Ð­Ð»ÑÐ·Ð° ÐÐ°ÑÐ»Ð¸Ð¼ÑÐ¸Ð½Ð°  - ÐÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ»Ñ ÐÐÐÐÐ¸Ð Ð Ð"
+                />
+                <div class="svp"><b><p class="svp-name">Ð­Ð»ÑÐ·Ð° ÐÐ°ÑÐ»Ð¸Ð¼ÑÐ¸Ð½Ð° </p></b></div>
+                <p class="svp-quit">ÐÑÐµÐ´ÑÐµÐ´Ð°ÑÐµÐ»Ñ ÐÐÐÐÐ¸Ð Ð Ð</p>
+
+                <p class="svp-whois">Â«Ð¡Ð³Ð¾ÑÐµÐ²ÑÐ¸Ð¹ Ð² ÑÐµÐ·ÑÐ»ÑÑÐ°ÑÐµ ÑÐ´Ð°ÑÐ° Ð¼Ð¾Ð»Ð½Ð¸Ð¸ ÑÑÐ°Ð¼ - Ð±Ð¾Ð»ÑÑÐ°Ñ Ð¿Ð¾ÑÐµÑÑ Ð´Ð»Ñ Ð²ÑÐµÐ¹ ÑÐµÑÐ¿ÑÐ±Ð»Ð¸ÐºÐ¸Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/126745-ya_ne_doch_chinovnika_v_skazki_ne_veryu_ufimka_ob_otsutstvii_usloviy_dlya_malogo_biznesa_v_selskom_kh/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/773/190_190_240cd750bba9870f18aada2478b24840a/0tzvwrnl8c4x12fi2szfw26fiwnzv3tl.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ¸Ð°Ð½Ð° ÐÐµÐ¼Ð¸Ð´Ð¾Ð²Ð° - ÐÐ±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¸ÑÐ°"
+                     alt="ÐÐ¸Ð°Ð½Ð° ÐÐµÐ¼Ð¸Ð´Ð¾Ð²Ð° - ÐÐ±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¸ÑÐ°"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ¸Ð°Ð½Ð° ÐÐµÐ¼Ð¸Ð´Ð¾Ð²Ð°</p></b></div>
+                <p class="svp-quit">ÐÐ±ÑÐµÑÑÐ²ÐµÐ½Ð½Ð¸ÑÐ°</p>
+
+                <p class="svp-whois">Â«Ð ÐÐ¸ÑÐ°Ðµ Ð½Ð° Ð¼Ð°Ð»ÑÐ¹ Ð±Ð¸Ð·Ð½ÐµÑ Ð½ÐµÑ Ð½Ð°Ð»Ð¾Ð³Ð¾Ð¾Ð±Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ, ÐºÐ°Ðº Ñ Ð½Ð°Ñ. ÐÐ¾ÑÐ¼Ð¸ÑÑ ÑÐµÐ±Ñ Ð¸ ÑÐµÐ¼ÑÑ, Ð²Ð¾Ñ Ð¸ ÐºÐ¾ÑÐ¼Ð¸Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/126232-istoriya_o_tom_kak_vladelets_valyutnykh_vkladov_spasal_dollary/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/b0f/190_190_240cd750bba9870f18aada2478b24840a/y0kiznp2b88hg0le6wun0nhrt31zvt2s.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ»ÐµÐ³ ÐÑÐµÑÑÐµÐ² - ÐÐ»Ð¾Ð³ÐµÑ"
+                     alt="ÐÐ»ÐµÐ³ ÐÑÐµÑÑÐµÐ² - ÐÐ»Ð¾Ð³ÐµÑ"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ»ÐµÐ³ ÐÑÐµÑÑÐµÐ²</p></b></div>
+                <p class="svp-quit">ÐÐ»Ð¾Ð³ÐµÑ</p>
+
+                <p class="svp-whois">Â«Ð¡ÐºÐ¾Ð¿Ð¸Ð» Ð¾Ð¿ÑÐµÐ´ÐµÐ»ÐµÐ½Ð½ÑÑ ÑÑÐ¼Ð¼Ñ Ð¸ Ð¿Ð°ÑÑ Ð»ÐµÑ Ð½Ð°Ð·Ð°Ð´ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ð» Ð² Ð±Ð°Ð½Ðº Ð² Ð²Ð°Ð»ÑÑÐµ Ð½Ð° ÑÑÐ¾ÑÐ½ÑÐ¹ Ð´ÐµÐ¿Ð¾Ð·Ð¸Ñ, ÑÐ°ÑÑÑÐ¸ÑÑÐ²Ð°Ñ Ð² ÑÑÐ¾Ð¼ Ð³Ð¾Ð´Ñ Ð¸Ñ ÑÐ½ÑÑÑÂ»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/125108-otkroveniya_cheloveka_iz_okruzheniya_glavy_bashkirii_khabirov_polittekhnolog_i_nichego_bolee/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/eca/190_190_240cd750bba9870f18aada2478b24840a/jek71dqc978dqs0utzloutleir1d85yj.png"
+                     width="190px"
+                     height="190px"
+                     title="Ð§ÐµÐ»Ð¾Ð²ÐµÐº Ð¸Ð· Ð¾ÐºÑÑÐ¶ÐµÐ½Ð¸Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° - Ð§Ð¸Ð½Ð¾Ð²Ð½Ð¸Ðº"
+                     alt="Ð§ÐµÐ»Ð¾Ð²ÐµÐº Ð¸Ð· Ð¾ÐºÑÑÐ¶ÐµÐ½Ð¸Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° - Ð§Ð¸Ð½Ð¾Ð²Ð½Ð¸Ðº"
+                />
+                <div class="svp"><b><p class="svp-name">Ð§ÐµÐ»Ð¾Ð²ÐµÐº Ð¸Ð· Ð¾ÐºÑÑÐ¶ÐµÐ½Ð¸Ñ Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð°</p></b></div>
+                <p class="svp-quit">Ð§Ð¸Ð½Ð¾Ð²Ð½Ð¸Ðº</p>
+
+                <p class="svp-whois">Â«ÐÐ¾Ð¼Ð°Ð½Ð´Ð° Ð¥Ð°Ð±Ð¸ÑÐ¾Ð²Ð° â ÑÑÐ¾, Ð½Ð° Ð¼Ð¾Ð¹ Ð²Ð·Ð³Ð»ÑÐ´, Ð¼Ð¸Ñ. Ð Ð¾Ð´Ð½Ñ, Ð´ÑÑÐ·ÑÑ Ð´ÐµÑÑÑÐ²Ð° Ð´Ð° ÑÐ¾Ð±ÑÑÑÐ»ÑÐ½Ð¸ÐºÐ¸ â ÑÑÐ¾ Ð½Ðµ ÐºÐ¾Ð¼Ð°Ð½Ð´Ð°Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/125095-v_rossii_net_politicheskogo_protesta_no_est_grazhdanskiy_aktivizm_politolog_o_shevchuke_i_skandalnom/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/570/190_190_240cd750bba9870f18aada2478b24840a/1ur7jf1rz5ki9uxb7wcwnvv18wpe9nvv.jpg"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ¼Ð¸ÑÑÐ¸Ð¹ ÐÐ¸ÑÐ°Ð¹Ð»Ð¸ÑÐµÐ½ÐºÐ¾ - ÐÐ¾Ð»Ð¸ÑÐ¾Ð»Ð¾Ð³"
+                     alt="ÐÐ¼Ð¸ÑÑÐ¸Ð¹ ÐÐ¸ÑÐ°Ð¹Ð»Ð¸ÑÐµÐ½ÐºÐ¾ - ÐÐ¾Ð»Ð¸ÑÐ¾Ð»Ð¾Ð³"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ¼Ð¸ÑÑÐ¸Ð¹ ÐÐ¸ÑÐ°Ð¹Ð»Ð¸ÑÐµÐ½ÐºÐ¾</p></b></div>
+                <p class="svp-quit">ÐÐ¾Ð»Ð¸ÑÐ¾Ð»Ð¾Ð³</p>
+
+                <p class="svp-whois">Â«Ð Ð Ð¾ÑÑÐ¸Ð¸ Ð½ÐµÑ Ð¿Ð¾Ð»Ð¸ÑÐ¸ÑÐµÑÐºÐ¾Ð³Ð¾ Ð¿ÑÐ¾ÑÐµÑÑÐ°, Ð½Ð¾ ÐµÑÑÑ Ð³ÑÐ°Ð¶Ð´Ð°Ð½ÑÐºÐ¸Ð¹ Ð°ÐºÑÐ¸Ð²Ð¸Ð·Ð¼Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+                    <div class="item">
+
+
+
+                                 <div>
+            <a href="/news/spec/svobodnaya_ploshchadka/125091-oni_vas_ne_prosili_rozhat_ikh_dlya_sebya_pavel_nesterov_obratilsya_k_roditelyam_v_den_propavshikh_de/">
+                <img class="interview_img"
+                     src="/upload/resize_cache/iblock/522/190_190_240cd750bba9870f18aada2478b24840a/jwpdqz7aovlprria0znc9a3xgdn2bnf3.png"
+                     width="190px"
+                     height="190px"
+                     title="ÐÐ°Ð²ÐµÐ» ÐÐµÑÑÐµÑÐ¾Ð² - ÑÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»Ñ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð ÐÐ Â«ÐÐ¾Ð¸ÑÐº Ð´ÐµÑÐµÐ¹-Ð£ÑÐ°Â»"
+                     alt="ÐÐ°Ð²ÐµÐ» ÐÐµÑÑÐµÑÐ¾Ð² - ÑÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»Ñ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð ÐÐ Â«ÐÐ¾Ð¸ÑÐº Ð´ÐµÑÐµÐ¹-Ð£ÑÐ°Â»"
+                />
+                <div class="svp"><b><p class="svp-name">ÐÐ°Ð²ÐµÐ» ÐÐµÑÑÐµÑÐ¾Ð²</p></b></div>
+                <p class="svp-quit">ÑÑÐºÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»Ñ Ð´Ð²Ð¸Ð¶ÐµÐ½Ð¸Ñ Ð ÐÐ Â«ÐÐ¾Ð¸ÑÐº Ð´ÐµÑÐµÐ¹-Ð£ÑÐ°Â»</p>
+
+                <p class="svp-whois">Â«ÐÐ°Ðº Ð¾Ð±ÑÑÑÐ½Ð¸ÑÑ, ÑÑÐ¾ ÑÐ¾Ð´Ð¸ÑÐµÐ»Ñ â ÑÑÐ¾ ÑÐµÐ¿ÐµÑÑ Ð¾ÑÐ½Ð¾Ð²Ð½Ð°Ñ ÑÐ°Ð±Ð¾ÑÐ°, Ð»ÑÐ±Ð¸ÑÑ â Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ ÑÐ¾Ð´ Ð´ÐµÑÑÐµÐ»ÑÐ½Ð¾ÑÑÐ¸, Ð¸ Ð¶ÐµÑÑÐ²Ð¾Ð²Ð°ÑÑ ÑÐ¾Ð±Ð¾Ð¹ â ÐµÐ´Ð¸Ð½ÑÑÐ²ÐµÐ½Ð½Ð¾Ðµ Ð¿ÑÐµÐ´Ð½Ð°Ð·Ð½Ð°ÑÐµÐ½Ð¸Ðµ Ð¿Ð¾ÑÐ»Ðµ Ð¿Ð¾ÑÐ²Ð»ÐµÐ½Ð¸Ñ Ð´ÐµÑÐµÐ¹Â»</p>
+            </a>
+        </div>
+
+        </div>
+
+</div>
+
+<script>
+    var owl = $('.owl-carousel');
+    owl.owlCarousel({
+        margin: 10,
+        dots:true,
+        responsive: {
+            0: {
+                items: 2
+
+            },
+            400: {
+                items: 3
+
+            },
+            1000: {
+                items: 5
+
+            }
+        }
+    })
+</script>
+
+<div id="bxdynamic_e5C6FS_end" style="display:none"></div></div>
+<div class="news-section">
+	<div class="cdr-main">
+ <a href="/news/spec/dobro/">
+		<p class="cdrn-main">
+			 Ð´Ð¾Ð±ÑÐ¾
+		</p>
+ </a>
+	</div>
+	 	            <div class="col1">
+            <a href="/news/spec/dobro/134120-verim_tolko_v_luchshee_malchiku_iz_bashkirii_s_rakom_glaza_nuzhno_srochnoe_lechenie_v_shveytsarii/">
+            <div class="img-section-top">
+               <img style="width: 100%"
+                    src="/upload/webp/iblock/4b8/yb5qk8omqce325sms6tdhd3bnorflvv2.webp" loading="lazy" 
+                    height="591"
+                    width="728"
+                    title="Â«ÐÐµÑÐ¸Ð¼ ÑÐ¾Ð»ÑÐºÐ¾ Ð² Ð»ÑÑÑÐµÐµÂ»: Ð¼Ð°Ð»ÑÑÐ¸ÐºÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ ÑÐ°ÐºÐ¾Ð¼ Ð³Ð»Ð°Ð·Ð° Ð½ÑÐ¶Ð½Ð¾ ÑÑÐ¾ÑÐ½Ð¾Ðµ Ð»ÐµÑÐµÐ½Ð¸Ðµ Ð² Ð¨Ð²ÐµÐ¹ÑÐ°ÑÐ¸Ð¸"
+                    alt="Â«ÐÐµÑÐ¸Ð¼ ÑÐ¾Ð»ÑÐºÐ¾ Ð² Ð»ÑÑÑÐµÐµÂ»: Ð¼Ð°Ð»ÑÑÐ¸ÐºÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ ÑÐ°ÐºÐ¾Ð¼ Ð³Ð»Ð°Ð·Ð° Ð½ÑÐ¶Ð½Ð¾ ÑÑÐ¾ÑÐ½Ð¾Ðµ Ð»ÐµÑÐµÐ½Ð¸Ðµ Ð² Ð¨Ð²ÐµÐ¹ÑÐ°ÑÐ¸Ð¸"
+                />
+            </div>
+                <p class="main-topic-one-name">Â«ÐÐµÑÐ¸Ð¼ ÑÐ¾Ð»ÑÐºÐ¾ Ð² Ð»ÑÑÑÐµÐµÂ»: Ð¼Ð°Ð»ÑÑÐ¸ÐºÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ñ ÑÐ°ÐºÐ¾Ð¼ Ð³Ð»Ð°Ð·Ð° Ð½ÑÐ¶Ð½Ð¾ ÑÑÐ¾ÑÐ½Ð¾Ðµ Ð»ÐµÑÐµÐ½Ð¸Ðµ Ð² Ð¨Ð²ÐµÐ¹ÑÐ°ÑÐ¸Ð¸</p>
+                <p class="main-topic-one-pre">Ð ÐµÐ±ÐµÐ½Ð¾Ðº Ð¼Ð¾Ð¶ÐµÑ Ð¿Ð¾ÑÐµÑÑÑÑ Ð³Ð»Ð°Ð·</p>
+
+            </a>
+        </div>
+
+        <!--      <div class="news-main-cat-two">-->
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/dobro/133701-more_nauchilo_ee_govorit_yunaya_ufimka_poteryala_slukh_v_detstve_a_teper_mozhet_snova_ego_vernut_/">
+                <div class="news-name">Â«ÐÐ¾ÑÐµ Ð½Ð°ÑÑÐ¸Ð»Ð¾ ÐµÐµ Ð³Ð¾Ð²Ð¾ÑÐ¸ÑÑÂ»: ÑÐ½Ð°Ñ ÑÑÐ¸Ð¼ÐºÐ° Ð¿Ð¾ÑÐµÑÑÐ»Ð° ÑÐ»ÑÑ Ð² Ð´ÐµÑÑÑÐ²Ðµ, Ð° ÑÐµÐ¿ÐµÑÑ Ð¼Ð¾Ð¶ÐµÑ ÑÐ½Ð¾Ð²Ð° ÐµÐ³Ð¾ Ð²ÐµÑÐ½ÑÑÑ                                     </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">9:34 31 ÑÐ½Ð²Ð°ÑÑ 2023 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/dobro/133701-more_nauchilo_ee_govorit_yunaya_ufimka_poteryala_slukh_v_detstve_a_teper_mozhet_snova_ego_vernut_/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/dobro/131824-zuby_stochilis_do_samykh_desen_6_letnemu_kirillu_s_rakom_golovnogo_mozga_nuzhna_srochnaya_pomoshch/">
+                <div class="news-name">Â«ÐÑÐ±Ñ ÑÑÐ¾ÑÐ¸Ð»Ð¸ÑÑ Ð´Ð¾ ÑÐ°Ð¼ÑÑ Ð´ÐµÑÐµÐ½Â»: 6-Ð»ÐµÑÐ½ÐµÐ¼Ñ ÐÐ¸ÑÐ¸Ð»Ð»Ñ Ñ ÑÐ°ÐºÐ¾Ð¼ Ð³Ð¾Ð»Ð¾Ð²Ð½Ð¾Ð³Ð¾ Ð¼Ð¾Ð·Ð³Ð° Ð½ÑÐ¶Ð½Ð° ÑÑÐ¾ÑÐ½Ð°Ñ Ð¿Ð¾Ð¼Ð¾ÑÑ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">8:16 23 Ð½Ð¾ÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/dobro/131824-zuby_stochilis_do_samykh_desen_6_letnemu_kirillu_s_rakom_golovnogo_mozga_nuzhna_srochnaya_pomoshch/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/dobro/130761-dobrofond_izgelek_otpravil_partiyu_neboevoy_pomoshchi_v_alkino_2_i_batalon_im_dostovalova/">
+                <div class="news-name">ÐÐ¾Ð±ÑÐ¾ÑÐ¾Ð½Ð´ Â«ÐÐ·Ð³ÐµÐ»ÐµÐºÂ» Ð¾ÑÐ¿ÑÐ°Ð²Ð¸Ð» Ð¿Ð°ÑÑÐ¸Ñ Â«Ð½ÐµÐ±Ð¾ÐµÐ²Ð¾Ð¹Â» Ð¿Ð¾Ð¼Ð¾ÑÐ¸ Ð² ÐÐ»ÐºÐ¸Ð½Ð¾-2 Ð¸ Ð±Ð°ÑÐ°Ð»ÑÐ¾Ð½ Ð¸Ð¼. ÐÐ¾ÑÑÐ°Ð²Ð°Ð»Ð¾Ð²Ð°                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">10:57 19 Ð¾ÐºÑÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/dobro/130761-dobrofond_izgelek_otpravil_partiyu_neboevoy_pomoshchi_v_alkino_2_i_batalon_im_dostovalova/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/dobro/130294-rebyatam_s_nashego_dvora_dobrofond_izgelek_zapuskaet_sbor_sredstv_dlya_mobilizovannykh_iz_bashkirii/">
+                <div class="news-name">Â«Ð ÐµÐ±ÑÑÐ°Ð¼ Ñ Ð½Ð°ÑÐµÐ³Ð¾ Ð´Ð²Ð¾ÑÐ°Â»: ÐÐ¾Ð±ÑÐ¾ÑÐ¾Ð½Ð´ Â«ÐÐ·Ð³ÐµÐ»ÐµÐºÂ» Ð·Ð°Ð¿ÑÑÐºÐ°ÐµÑ ÑÐ±Ð¾Ñ ÑÑÐµÐ´ÑÑÐ² Ð´Ð»Ñ Ð¼Ð¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð½Ð½ÑÑ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">18:48 03 Ð¾ÐºÑÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/dobro/130294-rebyatam_s_nashego_dvora_dobrofond_izgelek_zapuskaet_sbor_sredstv_dlya_mobilizovannykh_iz_bashkirii/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    	            <div class="col2">
+            <div class="lenta-item">
+            <a class="news-name-a" href="/news/spec/dobro/129920-strashno_otpuskat_v_temnotu_mama_5_letney_emilii_iz_bashkirii_prosit_ne_dat_docheri_oslepnut/">
+                <div class="news-name">Â«Ð¡ÑÑÐ°ÑÐ½Ð¾ Ð¾ÑÐ¿ÑÑÐºÐ°ÑÑ Ð² ÑÐµÐ¼Ð½Ð¾ÑÑÂ»: Ð¼Ð°Ð¼Ð° 5-Ð»ÐµÑÐ½ÐµÐ¹ Ð­Ð¼Ð¸Ð»Ð¸Ð¸ Ð¸Ð· ÐÐ°ÑÐºÐ¸ÑÐ¸Ð¸ Ð¿ÑÐ¾ÑÐ¸Ñ Ð½Ðµ Ð´Ð°ÑÑ Ð´Ð¾ÑÐµÑÐ¸ Ð¾ÑÐ»ÐµÐ¿Ð½ÑÑÑ                                    </div>
+                <div class="date-count">
+                    <span style="font-size: 10px;">9:26 23 ÑÐµÐ½ÑÑÐ±ÑÑ 2022 </span>
+                    <span style="font-size: 10px;" class="icon-eye">e</span>
+                    <span style="font-size: 14px;" class="tolstoycomments-cc" data-url="https://prufy.ru/news/spec/dobro/129920-strashno_otpuskat_v_temnotu_mama_5_letney_emilii_iz_bashkirii_prosit_ne_dat_docheri_oslepnut/"></span>
+
+                </div>
+            </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="all-news" style="text-align: center;">
+        <a href="/all-news.php" class="allnewsbutton" >Ð²ÑÐµ Ð½Ð¾Ð²Ð¾ÑÑÐ¸</a>
+    </div>
+
+<br><footer class="footer">
+<div class="statics none">
+</div>
+<div class="soc-w">
+    <div class="social-wrapper">
+    <div class="social-footer">
+<!--        <a href="http://www.facebook.com/pages/ProUfuru- - -Bonus/300674223305065" target="_blank"><img style="width:40px;" height="40px" src="/images/facebook.svg" loading="lazy" ></a>-->
+        <a href="http://vk.com/public25561502" target="_blank"><img style="width:40px;"  height="40px" src="/images/vkontakte.svg" loading="lazy" >
+<!--        <a href="https://twitter.com/proufuru"  target="_blank"><img style="width:40px;" height="40px"  src="/images/twitter.svg" loading="lazy" ></a>-->
+        <a href="http://ok.ru/group/57382912655415" target="_blank"><img style="width:40px;"  height="40px" src="/images/ok.svg" loading="lazy" ></a>
+        <a href="https://www.youtube.com/c/%D0%9F%D0%A0%D0%A3%D0%A4%D0%AB%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0" target="_blank"><img style="width:40px;" height="40px"  src="/images/youtube.svg" loading="lazy" ></a>
+<!--        <a href="https://instagram.com/prufy.ru" target="_blank"><img style="width:40px;"  height="40px" src="/images/instagram.svg" loading="lazy" ></a>-->
+        <a href="https://t.me/NewsProUfu" target="_blank"><img style="width:40px;"  height="40px" src="/images/telegram.svg" loading="lazy" ></a>
+    </div>
+</div>
+
+
+
+
+
+</div>
+<p class="info-footer">
+    ÐÐ½ÑÐµÑÐ½ÐµÑ-Ð¸Ð·Ð´Ð°Ð½Ð¸Ðµ ÐÑÑÑÑ.ÑÑ. Ð¡ÐÐ Ð·Ð°ÑÐµÐ³Ð¸ÑÑÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¾ Ð² Ð¤ÐµÐ´ÐµÑÐ°Ð»ÑÐ½Ð¾Ð¹ ÑÐ»ÑÐ¶Ð±Ðµ Ð¿Ð¾ Ð½Ð°Ð´Ð·Ð¾ÑÑ Ð² ÑÑÐµÑÐµ ÑÐ²ÑÐ·Ð¸, Ð¸Ð½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ð¾Ð½Ð½ÑÑ ÑÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¸Ð¹ Ð¸ Ð¼Ð°ÑÑÐ¾Ð²ÑÑ ÐºÐ¾Ð¼Ð¼ÑÐ½Ð¸ÐºÐ°ÑÐ¸Ð¹. Ð ÐµÐ³Ð¸ÑÑÑÐ°ÑÐ¸Ð¾Ð½Ð½ÑÐ¹ Ð½Ð¾Ð¼ÐµÑ: Ð­Ð â Ð¤Ð¡ 77 - 80615 Ð¾Ñ 15.03.2021 Ð³. 18+, Ð·Ð°Ð¿ÑÐµÑÐµÐ½Ð¾ Ð´Ð»Ñ Ð´ÐµÑÐµÐ¹<br>
+	 Ð£ÑÑÐµÐ´Ð¸ÑÐµÐ»Ñ: ÐÐÐ Â«Ð¡Ð²Ð¾Ð±Ð¾Ð´Ð½ÑÐµ Ð¼ÐµÐ´Ð¸Ð°Â», Ð³Ð»Ð°Ð²Ð½ÑÐ¹ ÑÐµÐ´Ð°ÐºÑÐ¾Ñ ÐÐ°ÑÐ¸Ð¼Ð¾Ð²Ð° ÐÐ°ÑÐ¸Ð½Ð° Ð Ð¸Ð½Ð°ÑÐ¾Ð²Ð½Ð° Ð¢ÐµÐ». +7(347)292-78-25. ÐÐ´ÑÐµÑ ÑÐµÐ´Ð°ÐºÑÐ¸Ð¸: Ð³. Ð£ÑÐ°, ÑÐ». ÐÑÐ°ÑÐ¸Ð½Ð°, Ð´. 21, Ð¾Ñ. 508. <br>
+	 E-mail:<a href="mailto:red@prufy.ru">red@prufy.ru</a><br>
+     E-mail Ð¿Ð¾ Ð²Ð¾Ð¿ÑÐ¾ÑÐ°Ð¼ ÑÐµÐºÐ»Ð°Ð¼Ñ: <a href="mailto:reklama@prufy.ru">reklama@prufy.ru</a><br>
+     Ð¢ÐµÐ»ÐµÑÐ¾Ð½ Ð¿Ð¾ Ð²Ð¾Ð¿ÑÐ¾ÑÐ°Ð¼ ÑÐµÐºÐ»Ð°Ð¼Ñ: +7 917 793 3707 <br>
+     Ð¡Ð¾Ð¾Ð±ÑÐ¸ÑÑ Ð½Ð¾Ð²Ð¾ÑÑÑ: +7 987 480 0407 <br>
+ <a style="color:black;" href="/agreement/" target="_blank">ÐÑÐ°Ð²Ð¸Ð»Ð° ÑÐ¸ÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ</a>
+</p>
+<p style="text-align:center; font-size: 12px; margin-block-start: -1em;">
+
+	 Â© ÐÑÐ°Ð²Ð° Ð·Ð°ÑÐ¸ÑÐµÐ½Ñ. 2021
+</p>
+
+    <div class="count">
+        <div class="counters">
+            <div id="li" class="liveinternet">
+                <!--LiveInternet logo--><a href="https://www.liveinternet.ru/click;Prufy"
+                                           target="_blank"><img src="https://counter.yadro.ru/logo;Prufy?24.6"
+                                                                title="LiveInternet: Ð¿Ð¾ÐºÐ°Ð·Ð°Ð½Ð¾ ÑÐ¸ÑÐ»Ð¾ Ð¿Ð¾ÑÐµÑÐ¸ÑÐµÐ»ÐµÐ¹ Ð·Ð° ÑÐµÐ³Ð¾Ð´Ð½Ñ"
+                                                                alt="" style="border:0" width="88" height="15"/></a><!--/LiveInternet-->
+            </div>
+             <div class="yandex">
+                                  <a href="https://metrika.yandex.ru/stat/?id=16232839&from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/16232839/1_0_6DCC47FF_4DAC27FF_1_uniques" loading="lazy"  style="width:80px; height:15px; border:0;" alt="Ð¯Ð½Ð´ÐµÐºÑ.ÐÐµÑÑÐ¸ÐºÐ°" title="Ð¯Ð½Ð´ÐµÐºÑ.ÐÐµÑÑÐ¸ÐºÐ°: Ð´Ð°Ð½Ð½ÑÐµ Ð·Ð° ÑÐµÐ³Ð¾Ð´Ð½Ñ (ÑÐ½Ð¸ÐºÐ°Ð»ÑÐ½ÑÐµ Ð¿Ð¾ÑÐµÑÐ¸ÑÐµÐ»Ð¸)" onclick="try{Ya.Metrika.informer({i:this,id:16232839,lang:'ru'});return false}catch(e){}"></a>
+
+             </div>
+        </div>
+    </div>
+</footer>
+<!--AdFox START-->
+<!--Free_media-->
+<!--ÐÐ»Ð¾ÑÐ°Ð´ÐºÐ°: prufy.ru_2021 / Mobile / Mobile FS / Catfish-->
+<!--ÐÐ°ÑÐµÐ³Ð¾ÑÐ¸Ñ: <Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°>-->
+<!--Ð¢Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑÐ°: Fullscreen / Catfish-->
+<div id="adfox_162463536680885851"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 280346,
+            type: 'floorAd',
+            containerId: 'adfox_162463536680885851',
+            params: {
+                p1: 'cptei',
+                p2: 'hgeg'
+            }
+        }, ['phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+<!--AdFox START-->
+<!--Free_media-->
+<!--ÐÐ»Ð¾ÑÐ°Ð´ÐºÐ°: prufy.ru_2021 / Desktop / Fullscreen_Desktop-->
+<!--ÐÐ°ÑÐµÐ³Ð¾ÑÐ¸Ñ: <Ð½Ðµ Ð·Ð°Ð´Ð°Ð½Ð°>-->
+<!--Ð¢Ð¸Ð¿ Ð±Ð°Ð½Ð½ÐµÑÐ°: Fullscreen / Catfish-->
+<div id="adfox_165397851760923824"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 280346,
+            containerId: 'adfox_165397851760923824',
+            params: {
+                p1: 'cqlnp',
+                p2: 'hgeg'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: false
+        })
+    })
+</script>
+
+</body>
+</html>
+<!--3cab9960bb6a0a9591a6ebaec9b83205-->

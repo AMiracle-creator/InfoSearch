@@ -1,0 +1,2170 @@
+<!DOCTYPE html>
+<html lang="ru" xml:lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Я Покупаю - для тех, кто любит шопинг - Казань</title>
+<meta content="Портал «Я Покупаю» - это свежие тренды и горячие новости, авторские блоги и мнения экспертов, актуальные коллекции магазинов Казани, услуги салонов красоты и клиник, спецпредложения и конкурсы." name="description">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="8fcbb4092d849d709aa1a07147fb5056" name="p:domain_verify">
+<meta content="always" name="referrer">
+<meta content="25kNp67L38At49PRchGyLOPTrcQ" name="alexaVerifyID">
+<meta content="4c274c74b541b828" name="yandex-verification">
+
+
+
+<link href="https://www.yapokupayu.ru/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<script>
+  window.addEventListener('load', function() {
+    (function(w,d,s,l,i) {
+      w[l]=w[l]||[];
+      w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+
+      var
+        f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+
+      j.async=true;
+      j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+      f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MWBC32G');
+  });
+</script>
+
+<script>
+  var
+    app = app || {
+      utils: {},
+      config: {
+        shortHost: "www.yapokupayu.ru",
+        mainHost: "www.yapokupayu.ru",
+        rootHost: '.' + "www.yapokupayu.ru".replace('www.', ''),
+        assetHost: "https://www.yapokupayu.ru/assets/",
+        defaultProtocol: "https",
+        isUserSigned: false,
+        shopcart: {
+          workspace: false ? 'server' : 'local',
+          routes: {
+            cart: "https://kazan.yapokupayu.ru/cart",
+            addToCart: "https://kazan.yapokupayu.ru/cart/add",
+            mergeCart: "https://kazan.yapokupayu.ru/cart/merge_with_storage",
+            authorizeCart: "https://kazan.yapokupayu.ru/cart/authorize"
+          }
+        },
+        voteApp: {
+          vk: 5637606,
+          fb: 1778534049066994
+        },
+        userRegion: "kazan",
+        analyticsCollectURL: "https://kazan.yapokupayu.ru/api/v1/analytics/collect",
+        user_analytics_rubrics_data: null || '',
+        usersSessionURL: "https://kazan.yapokupayu.ru/users/session",
+        usersRegistrationURL: "https://kazan.yapokupayu.ru/users",
+        ssoUsersSessionRequestURL: "https://kazan.yapokupayu.ru/users/session/request",
+        ssoUsersSessionHandleSigninURL: "https://kazan.yapokupayu.ru/users/session/handle_signin",
+        currentUser: {
+          id: null,
+          primaryProvider: null,
+          withName: false
+        },
+        api: {
+          usersURL: "https://kazan.yapokupayu.ru/api/v1/users",
+          updateUserURL: "https://kazan.yapokupayu.ru/api/v1/users/_id_",
+          validationURL: "https://kazan.yapokupayu.ru/api/v1/validation",
+          passwordURL: "https://kazan.yapokupayu.ru/api/v1/users/password",
+          authCodeURL: "https://kazan.yapokupayu.ru/api/v1/users/auth_code",
+          mergesURL: "https://kazan.yapokupayu.ru/api/v1/users/merges",
+          errorMessages: {
+            401: "\u041d\u0435\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0435 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435",
+            403: "\u041d\u0435\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0435 \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435",
+            default: "\u041f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c \u043f\u043e\u043f\u044b\u0442\u043a\u0443."
+          }
+        },
+        crossDomainIframe: "https://www.yapokupayu.ru/crossdomain_authentication",
+        crossDomainAuth: false
+      },
+      modules: {
+        initial: {},
+        vk: {},
+        coreApplicationBase: {},
+        applicationExt: {},
+        application: {},
+        main: {}
+      }
+    };
+</script>
+<script src="https://www.yapokupayu.ru/assets/standalone/application/app_extender-bffe4396efe64033fd8e1558a91d5f9f.js" type="text/javascript"></script>
+<script>
+  app.utils.extendApp({
+    'app.config': {
+      jobStatusURL: "https://kazan.yapokupayu.ru/_job_",
+      usersSessionURL: "https://kazan.yapokupayu.ru/users/session",
+      usersRegistrationURL: "https://kazan.yapokupayu.ru/users",
+      crossDomainIframe: "https://www.yapokupayu.ru/crossdomain_authentication",
+      ssoUsersSessionRequestURL: "https://kazan.yapokupayu.ru/users/session/request",
+      ssoUsersSessionHandleSigninURL: "https://kazan.yapokupayu.ru/users/session/handle_signin"
+    },
+    'app.config.api': {
+      validationURL: "https://kazan.yapokupayu.ru/api/v1/validation"
+    },
+  });
+</script>
+
+<script>
+  app.utils.extendApp({
+    'app.config': {
+      crossDomainAuth: false,
+      isUserSigned: false
+    },
+    'app.config.currentUser': {
+      id: null,
+      primaryProvider: null,
+      withName: false
+    },
+    'app.config.api': {
+      passwordURL: "https://kazan.yapokupayu.ru/api/v1/users/password",
+      usersURL: "https://kazan.yapokupayu.ru/api/v1/users",
+      updateUserURL: "https://kazan.yapokupayu.ru/api/v1/users/_id_",
+      authCodeURL: "https://kazan.yapokupayu.ru/api/v1/users/auth_code",
+      mergesURL: "https://kazan.yapokupayu.ru/api/v1/users/merges",
+    },
+    'app.config.api.errorMessages': {
+      401: "\u041d\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u043b\u0438 \u043f\u0430\u0440\u043e\u043b\u044c",
+      403: "\u041d\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u043b\u043e\u0433\u0438\u043d \u0438\u043b\u0438 \u043f\u0430\u0440\u043e\u043b\u044c"
+    },
+    'app.config.validation.user': {
+      nameRegExp: "^[A-ZА-ЯЁ\\s\\.\\-]*[A-ZА-ЯЁ]+[A-ZА-ЯЁ\\s\\.\\-]*$",
+      nameWithAllowedSymbolsRegExp: "^[A-ZА-ЯЁ\\s\\.-]+$",
+      nameWithDisallowedSymbolsRegExp: "^[-\\.\\s]+$",
+      emailRegExp: "^[a-z0-9\\-_]+(?:\\.[a-z0-9\\-\\._]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$",
+      minPasswordLength: 4,
+    },
+  });
+</script>
+
+<script>
+  app.utils.extendApp({
+    'app.config.authComponent': {
+      data: {
+        messages: {
+          invalidPasswordErrorMessage: "\u041f\u0430\u0440\u043e\u043b\u044c \u0434\u043e\u043b\u0436\u0435\u043d \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 4 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432"
+        }
+      },
+      content: {
+        signIn: {
+          title: "\u0412\u0445\u043e\u0434",
+          buttonText: "\u0412\u043e\u0439\u0442\u0438"
+        },
+        signUp: {
+          title: "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f",
+          tip: "\u041d\u0430\u0436\u0438\u043c\u0430\u044f \"%buttonText%\", \u0432\u044b \u0434\u0430\u0435\u0442\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432\n\u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 <a href=\"https://kazan.yapokupayu.ru/about/privacy\" target=\"_blank\">\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u043e\u0439 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a> \u0438\n\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f <a href=\"https://kazan.yapokupayu.ru/about/terms\" target=\"_blank\">\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f<a>.\n",
+          buttonText: "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f"
+        },
+        common: {
+          title: "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435",
+          tip: "\u041d\u0430\u0436\u0438\u043c\u0430\u044f \"%buttonText%\", \u0432\u044b \u0434\u0430\u0435\u0442\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432\n\u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 <a href=\"https://kazan.yapokupayu.ru/about/privacy\" target=\"_blank\">\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u043e\u0439 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438</a> \u0438\n\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f <a href=\"https://kazan.yapokupayu.ru/about/terms\" target=\"_blank\">\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f<a>.\n",
+          buttonText: "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c"
+        }
+      }
+    }
+  });
+</script>
+
+
+
+
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/google_analytics-abb19d211c8488f52687.js" type="text/javascript"></script>
+<script>
+  var userId = null;
+  
+  window.addEventListener('load', function() {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-23865166-1', 'auto', {'name': 'lookmart'});
+  
+    if (userId) {
+      ga('lookmart.set', 'userId', userId);
+    }
+  
+    ga('lookmart.set', {
+      'dimension1': app.config.user_analytics_rubrics_data.rubric_level_1 || '',
+      'dimension2': app.config.user_analytics_rubrics_data.rubric_level_2 || '',
+      'dimension3': app.config.userRegion,
+      'dimension4': false ? 'mobile' : 'desktop',
+      'dimension5': userId ? userId : '',
+      'dimension7': app.config.postRegions || '',
+      'dimension8': app.config.user_analytics_rubrics_data.blog_rubric_l1 || '',
+      'dimension9': app.config.user_analytics_rubrics_data.blog_rubric_l2 || ''
+    });
+  
+    ga('lookmart.send', 'pageview');
+  });
+</script>
+
+
+
+
+
+<script>
+  window.addEventListener('load', function() {
+    (window.Image ? (new Image()) : document.createElement('img'))
+      .src = "https://www.facebook.com/tr?id=1960199264196894&ev=PageView&noscript=1";
+  });
+</script>
+<script>
+  window.addEventListener('load', function() {
+    var t = document.createElement('script');
+    t.type = 'text/javascript';
+    t.async = !0;
+    t.src = 'https://vk.com/js/api/openapi.js?169';
+    t.onload = function() {
+      VK.Retargeting.Init("https://vk.com/rtrg?p=VK-RTRG-457064-eBSWT");
+      VK.Retargeting.Hit();
+      }
+    document.head.appendChild(t);
+  
+    var n = document.createElement('noscript');
+    var img = document.createElement('img');
+    img.alt = '';
+    img.setAttribute('style', 'position:fixed; left:-999px;');
+    img.src = "https://vk.com/rtrg?p=VK-RTRG-457064-eBSWT";
+    n.appendChild(img);
+    document.head.appendChild(n);
+  });
+</script>
+
+
+<link href="https://www.yapokupayu.ru/assets/yapokupayu_one_logo-cffeee1fac05f76916a49284a7dc36dc.png" rel="image_src">
+<meta content="https://www.yapokupayu.ru/assets/yapokupayu_one_logo-cffeee1fac05f76916a49284a7dc36dc.png" property="og:image">
+<link href="https://www.yapokupayu.ru/assets/packs/lookmart/assets/section/portal_base-b4e728a266b34e62b7f7319e721b1c8a.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://www.yapokupayu.ru/assets/package/section/portal_base-7b63ac8f4a832577797dbbdaafa8845d.css" media="all" rel="stylesheet" type="text/css" />
+
+<link href="https://www.yapokupayu.ru/assets/packs/lookmart/blocks/button-back-to-top-9233ca5b6f22f612a79f8fc7aad519b2.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://www.yapokupayu.ru/assets/packs/lookmart/assets/desktop/base-d03a397af929ff7d8510e36454032f21.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://www.yapokupayu.ru/assets/packs/lookmart/assets/page/root-7a3f08ee80cbef335f1902ca060dfa13.css" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+
+
+<script>
+  var
+    isIE8 = false,
+    isIE9 = false;
+</script>
+<!--[if IE 8]>
+<script>
+  isIE8 = true;
+</script>
+<![endif]-->
+<!--[if IE 9]>
+<script>
+  isIE9 = true;
+</script>
+<![endif]-->
+<script type="text/javascript" src="/aes-min.js" ></script><script>function toNumbers(d){var e=[];d.replace(/(..)/g,function(d){e.push(parseInt(d,16))});return e}function toHex(){for(var d=[],d=1==arguments.length&&arguments[0].constructor==Array?arguments[0]:arguments,e="",f=0;f<d.length;f++)e+=(16>d[f]?"0":"")+d[f].toString(16);return e.toLowerCase()}var a=toNumbers("d240d74dbe911bba6eaccbb337f50293"),b=toNumbers("a43c8c335465aa0f8a6474bf2f67dcf9"),c=toNumbers("89e28806e0f21a1b9f90525e810e4cef");document.cookie="RBLM="+toHex(slowAES.decrypt(c,2,a,b))+";path=/;domain=.yapokupayu.ru;SameSite=None;Secure";</script></head>
+<body class="main-page portal slim-">
+<noscript>
+  <iframe
+    src='https://www.googletagmanager.com/ns.html?id=GTM-MWBC32G'
+    height='0'
+    width='0'
+    style='display:none; visibility:hidden'
+  ></iframe>
+</noscript>
+
+<div class="js-adfox-container" id="adfox_151142379350481073"></div>
+<script>
+  window.yaContextCb = window.yaContextCb || [];
+  
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 170866,
+      containerId: "adfox_151142379350481073",
+      params: {
+        pp: 'g',
+        ps: 'uwd',
+        p2: "fkqt",
+        puid1: "kazan",
+        puid2: "default"
+      }
+    })
+  })
+</script>
+
+
+<div class="js-adfox-container" id="adfox_15114237582121133"></div>
+<script>
+  window.yaContextCb = window.yaContextCb || [];
+  
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 170866,
+      containerId: "adfox_15114237582121133",
+      params: {
+        pp: 'g',
+        ps: 'uwd',
+        p2: "ftet",
+        puid1: "kazan",
+        puid2: "default"
+      }
+    })
+  })
+</script>
+
+
+<div id="wrap">
+<div class="js-middle" id="middle">
+
+<div class="base-width">
+<header class="clearfix">
+<div class="fixed-toolbar js-fixed-toolbar">
+<div class="confirm-popup-wrapper js-confirm-popup dn js-modal-popup js-ga-visible-block" data-ga-show-action="Показ попапа" data-ga-show-category="Тулбар" data-ga-show-label="Подтверждение региона" data-ga-show-type="single" data-id="157">
+<div class="guess-city">Мы угадали ваш город?</div>
+<div class="choice-region"><span class="js-agree-choice js-ga-link" data-ga-action="Подтверждение" data-ga-category="Тулбар" data-ga-label="Подтверждение региона">Да, Казань!</span><a class="js-ga-link" data-ga-action="Другой регион" data-ga-category="Тулбар" data-ga-label="Подтверждение региона" href="https://kazan.yapokupayu.ru/city?return_to=%2F"><span>Нет, выбрать другой</span></a></div>
+</div>
+
+<div class="wrapp-toolbar clearfix">
+<div class='region-select-fixed'>
+  <span>
+    Ваш город
+  </span>
+  <a
+    class='rs-city js-ga-link'
+    href="https://kazan.yapokupayu.ru/city?return_to=%2F"
+    data-ga-category="Тулбар"
+    data-ga-action="Показ попапа"
+    data-ga-label="Смена региона"
+  >
+    <span>
+      Казань
+    </span>
+  </a>
+</div>
+
+
+<div id="toolbar"></div>
+
+</div>
+<div class="ub-in-cart js-product-in-cart"></div>
+</div>
+<div class="wrapp-other-head">
+<div class="js-adfox-container" id="adfox_151142371163835148"></div>
+<script>
+  window.yaContextCb = window.yaContextCb || [];
+  
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 170866,
+      containerId: "adfox_151142371163835148",
+      params: {
+        pp: 'g',
+        ps: 'uwd',
+        p2: "fteo",
+        puid1: "kazan",
+        puid2: "default"
+      }
+    })
+  })
+</script>
+
+
+
+<div class="base-width p0">
+<div class="flash">
+</div>
+
+</div>
+<div class="wrapper-menu"><div class="dib vat logo-head"><a href="https://kazan.yapokupayu.ru" class="logo-fixed"><img alt="Портал «Я Покупаю». Смотри и покупай" class="logo-img-fixed" src="https://www.yapokupayu.ru/assets/data_uri/yapokupayu_logos-6587b4c1e54cb1c55206a791cb742f64.svg" /></a></div><div class="dib vat searching-line"><script defer="defer" src="https://www.yapokupayu.ru/assets/package/mark-facb228ccccce169437acb824cbe6f79.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/mark-d7da7d2d64d54de714af.js" type="text/javascript"></script>
+<link href="https://www.yapokupayu.ru/assets/packs/lookmart/blocks/search-desktop-7a91d398941903d07db517394ee7369a.css" media="screen" rel="stylesheet" type="text/css" />
+<div class="choose_region" id="choose-region1"></div>
+<div class="wrap-portal-search">
+<form action="https://www.yapokupayu.ru/search?region=kazan" class="js-portal-search-form js-ga-portal-search" id="simplesearch" method="get">
+<div class="psf-search-string-cover psf-input-block js-ga-search-hint">
+<input class="psf-submit js-psf-submit js-search" title="Найти" type="submit" value="">
+<div class="psf-search-string js-psf-search-string">
+<input class="psf-input psfss-input js-psfss-input" id="search-str" maxlength="150" name="q" placeholder="Найти, например, туфли" type="text">
+</div>
+</div>
+</form>
+</div>
+<script>
+  app.config.portalSearch = {
+    locales: {
+      dataContentRubric: "\u0420\u0443\u0431\u0440\u0438\u043a\u0438",
+      dataContentAdditionally: "\u0422\u0430\u043a\u0436\u0435 \u0438\u0441\u043a\u0430\u043b\u0438"
+    }
+  };
+</script>
+
+<div class="choose_region choose-region-popup" id="choose-region"></div></div><div class="dib vat open-online-shop"><p>
+	<a class="new-company" href="https://www.yapokupayu.ru/firms/new">Открыть интернет магазин</a></p></div><div class="fr">
+<div class="js-ga-social-network-links" data-ga-category="Хедер" data-ga-label="Соцсети">
+<div class="social-networks_old">
+<div class="social-networks">
+<span class="social-networks__item social-networks__item_mail" data-ga-action="subscription" data-to="https://www.yapokupayu.ru/subscribe" target="_blank"></span>
+<span class="social-networks__item social-networks__item_vk" data-ga-action="VK" data-to="https://vk.com/yapokru"
+target="_blank"></span>
+<span class="social-networks__item social-networks__item_telegram" data-ga-action="TG"
+data-to="https://t.me/yapokshopping" target="_blank"></span>
+<span class="social-networks__item social-networks__item_yandex-zen" data-ga-action="yandex-zen"
+data-to="https://zen.yandex.ru/yapokupayu.ru" target="_blank"></span>
+<span class="social-networks__item social-networks__item_odnoklassniki" data-ga-action="OK"
+data-to="http://www.odnoklassniki.ru/yapokru" target="_blank"></span>
+<span class="social-networks__item social-networks__item_pinterest" data-ga-action="PT"
+data-to="https://www.pinterest.ru/YaPokupayu/" target="_blank"></span>
+</div>
+</div>
+</div>
+
+</div>
+<div class="clearfix"></div>
+<div class="menu-cover js-menu-cover"></div>
+<div class="wrap-menu-fixed js-wrap-menu-fixed">
+<ul class="header-quick-links js-header-quick-links"><li class="hql-item js-includes-submenu"><a class="hqli-link js-load-product-rubrics js-ga-link" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Магазин" data-url="https://kazan.yapokupayu.ru/predl_rubrics_ajax/0" href="https://kazan.yapokupayu.ru/predl">
+Магазин</a></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Мода"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Мода" href="https://kazan.yapokupayu.ru/predl/promgood">
+Мода</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Тренды" href="https://www.yapokupayu.ru/blogs/rubric/moda/trendy">Тренды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Звезды" href="https://www.yapokupayu.ru/blogs/rubric/moda/zvezdy">Звезды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Стиль" href="https://www.yapokupayu.ru/blogs/rubric/moda/stil">Стиль</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Шопинг" href="https://www.yapokupayu.ru/blogs/rubric/moda/shopping">Шопинг</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="40+" href="https://www.yapokupayu.ru/blogs/rubric/moda/40+">40+</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Тесты" href="https://www.yapokupayu.ru/blogs/rubric/moda/testy">Тесты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Ошибки" href="https://www.yapokupayu.ru/blogs/rubric/moda/oshibki">Ошибки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Энциклопедия моды" href="https://www.yapokupayu.ru/blogs/rubric/moda/ehnciklopediya-mody">Энциклопедия моды</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Мода" href="https://www.yapokupayu.ru/blogs/rubric/moda">Читать все блоги на тему «Мода»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Блузки, рубашки" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/bluzy_i_rubashki">Блузки, рубашки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Футболки, топы" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/futbolki_topy">Футболки, топы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Толстовки, свитшоты" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/tolstovki_svitshoty">Толстовки, свитшоты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Водолазки, лонгсливы" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/vodolazki_longslivy">Водолазки, лонгсливы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Джемперы, кардиганы" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/dzhempery_kardigany">Джемперы, кардиганы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Пиджаки, жилеты" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/pidzhaki_zhilety">Пиджаки, жилеты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Брюки" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/bryuki">Брюки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Джинсы" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/dzhinsy">Джинсы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Шорты и бриджи" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/shorty_bridzhi">Шорты и бриджи</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Юбки" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/yubki">Юбки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Платья, сарафаны" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/platya_sarafany">Платья, сарафаны</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Костюмы и комплекты" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/kostyumy_i_komplekty">Костюмы и комплекты</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Нижнее белье" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/nizhnee_belie">Нижнее белье</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Носки, чулки, колготки" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/noski_chulki_kolgotki">Носки, чулки, колготки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Термобелье" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/termobelie">Термобелье</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Купальники, пляжная одежда" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/kupalniki_plyazhnaya_odezhda">Купальники, пляжная одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Домашняя одежда" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/domashnyaya_odezhda">Домашняя одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Одежда для беременных" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/odezhda_dlya_beremennyh">Одежда для беременных</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Верхняя одежда" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda_zhenskaya/verhnyaya_odezhda">Верхняя одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Босоножки, сандалии" href="https://kazan.yapokupayu.ru/predl/promgood/obuv/bosonozhki">Босоножки, сандалии</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мокасины, топсайдеры" href="https://kazan.yapokupayu.ru/predl/promgood/obuv/mokasiny_topsaydery">Мокасины, топсайдеры</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Сапоги, ботинки" href="https://kazan.yapokupayu.ru/predl/promgood/obuv/sapogi_polusapogi">Сапоги, ботинки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Туфли" href="https://kazan.yapokupayu.ru/predl/promgood/obuv/tufli">Туфли</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Ортопедическая обувь" href="https://kazan.yapokupayu.ru/predl/promgood/obuv/ortopedicheskaya_obuv">Ортопедическая обувь</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Красота"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Красота" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie">
+Красота</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Звезды" href="https://www.yapokupayu.ru/blogs/rubric/krasota/zvezdy">Звезды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="40+" href="https://www.yapokupayu.ru/blogs/rubric/krasota/40+">40+</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Маникюр" href="https://www.yapokupayu.ru/blogs/rubric/krasota/manikyur">Маникюр</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход" href="https://www.yapokupayu.ru/blogs/rubric/krasota/uhod">Уход</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Макияж" href="https://www.yapokupayu.ru/blogs/rubric/krasota/makiyazh">Макияж</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Волосы" href="https://www.yapokupayu.ru/blogs/rubric/krasota/volosy">Волосы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Здоровье" href="https://www.yapokupayu.ru/blogs/rubric/krasota/zdorove">Здоровье</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Похудение" href="https://www.yapokupayu.ru/blogs/rubric/krasota/pohudenie">Похудение</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Тесты" href="https://www.yapokupayu.ru/blogs/rubric/krasota/testy">Тесты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Бьюти-словарь" href="https://www.yapokupayu.ru/blogs/rubric/krasota/byuti-slovar">Бьюти-словарь</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Красота" href="https://www.yapokupayu.ru/blogs/rubric/krasota">Читать все блоги на тему «Красота»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Макияж" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/makiyazh">Макияж</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход за лицом" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/uhod_za_litsom">Уход за лицом</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход за телом" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/uhod_za_telom">Уход за телом</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход за руками" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/uhod_za_rukami">Уход за руками</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход за ногами" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/uhod_za_nogami">Уход за ногами</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход за волосами" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/uhod_za_volosami">Уход за волосами</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Средства для ванны и душа" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/sredstva_dlya_vanny_i_dusha">Средства для ванны и душа</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Личная гигиена" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/lichnaya_gigiena">Личная гигиена</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Солнцезащитные средства" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/solntsezaschitnye_sredstva">Солнцезащитные средства</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Окрашивание волос" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/okrashivanie_volos">Окрашивание волос</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Маникюр и педикюр" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/manikyur_i_pedikyur">Маникюр и педикюр</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужская косметика" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/muzhskaya_kosmetika">Мужская косметика</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Инструменты для бритья" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/instrumenty_dlya_britya">Инструменты для бритья</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Парфюмерия" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/cosmetology">Парфюмерия</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Услуги красоты" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/uslugi_krasoty">Услуги красоты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Парикмахерские услуги" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/parikmaherskie_uslugi">Парикмахерские услуги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Косметология" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/krasota_uhod_za_telom/kosmetologiya">Косметология</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Оптика" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/medicina/optika">Оптика</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Ортопедические товары" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/medicina/ortopedicheskietovary">Ортопедические товары</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Массажеры и аппликаторы" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/medicina/massazhery_i_applikatory">Массажеры и аппликаторы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Медицинские товары" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/medicina/meditsinskie_pribory">Медицинские товары</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Медицинские услуги" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/medicina/medical">Медицинские услуги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Интимные товары" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie/medicina/intimnyetovary">Интимные товары</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Дом"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Дом" href="https://kazan.yapokupayu.ru/predl/home">
+Дом</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Интерьер" href="https://www.yapokupayu.ru/blogs/rubric/dom/interer">Интерьер</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Звезды" href="https://www.yapokupayu.ru/blogs/rubric/dom/zvezdy">Звезды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Советы" href="https://www.yapokupayu.ru/blogs/rubric/dom/sovety">Советы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Дача" href="https://www.yapokupayu.ru/blogs/rubric/dom/dacha">Дача</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Тесты" href="https://www.yapokupayu.ru/blogs/rubric/dom/testy">Тесты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Интерьерный словарь" href="https://www.yapokupayu.ru/blogs/rubric/dom/interernyj-slovar">Интерьерный словарь</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Дизайн-проекты" href="https://www.yapokupayu.ru/blogs/rubric/dom/dizajn-proekty">Дизайн-проекты</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Дом" href="https://www.yapokupayu.ru/blogs/rubric/dom">Читать все блоги на тему «Дом»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Водонагреватели" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/vodonagrevatel">Водонагреватели</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Воздушное отопление" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/vozdushnoe">Воздушное отопление</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Кондиционеры" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/condicioner">Кондиционеры</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мелкая бытовая техника" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/irons">Мелкая бытовая техника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Обогреватели для дома" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/air">Обогреватели для дома</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Очистители и увлажнители воздуха" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/osushiteli">Очистители и увлажнители воздуха</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Спутниковое и цифровое телевидение" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/sputnikovoe_i_tsifrovoe_televidenie">Спутниковое и цифровое телевидение</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Телевизоры" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/televizory">Телевизоры</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Техника для дома" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/tehnikadljadoma">Техника для дома</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Техника для кухни" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/dlya_kuhni">Техника для кухни</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Фото и видеотехника" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/foto_i_videotehnika">Фото и видеотехника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Швейные и вязальные машины" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/sewings">Швейные и вязальные машины</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Крупная бытовая техника" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/krupnaya_bytovaya_tehnika">Крупная бытовая техника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Техника для красоты" href="https://kazan.yapokupayu.ru/predl/home/bytovaya_tehnika/tehnika_dlya_krasoty">Техника для красоты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Смартфоны и гаджеты" href="https://kazan.yapokupayu.ru/predl/home/elektronika/smartfony_i_gadzhety">Смартфоны и гаджеты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Аудиотехника" href="https://kazan.yapokupayu.ru/predl/home/elektronika/audiotehnika">Аудиотехника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Фото и видеотехника" href="https://kazan.yapokupayu.ru/predl/home/elektronika/foto_i_videotehnika">Фото и видеотехника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Домашний текстиль" href="https://kazan.yapokupayu.ru/predl/home/household/textiles">Домашний текстиль</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Декор и предметы интерьера" href="https://kazan.yapokupayu.ru/predl/home/household/dekor_i_predmety_interiera">Декор и предметы интерьера</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Посуда" href="https://kazan.yapokupayu.ru/predl/home/household/crockery">Посуда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для ванной" href="https://kazan.yapokupayu.ru/predl/home/household/aksessuary_dlja_vannoj_">Товары для ванной</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для животных" href="https://kazan.yapokupayu.ru/predl/home/household/goods">Товары для животных</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для кухни" href="https://kazan.yapokupayu.ru/predl/home/household/aksessuary_dlja_kuhni">Товары для кухни</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для ухода за одеждой" href="https://kazan.yapokupayu.ru/predl/home/household/tovary_dlya_uhoda_za_odezhdoy">Товары для ухода за одеждой</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Еда"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Еда" href="https://kazan.yapokupayu.ru/predl/provisions">
+Еда</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Рецепты" href="https://www.yapokupayu.ru/blogs/rubric/eda/retsepty">Рецепты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Напитки" href="https://www.yapokupayu.ru/blogs/rubric/eda/napitki">Напитки</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Кафе и рестораны" href="https://www.yapokupayu.ru/blogs/rubric/eda/kafe-i-restorany">Кафе и рестораны</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Еда" href="https://www.yapokupayu.ru/blogs/rubric/eda">Читать все блоги на тему «Еда»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Гастрономы" href="https://kazan.yapokupayu.ru/predl/provisions/dostavka_edy/gastronomy">Гастрономы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Спортивное питание" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/sportivnoepitanie">Спортивное питание</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Диетическое питание" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/dieticheskoepitanie">Диетическое питание</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Безалкогольные напитки" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/drinks">Безалкогольные напитки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Кофе" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/coffee">Кофе</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Кондитерские изделия" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/confectionery">Кондитерские изделия</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Чай" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/chaj">Чай</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Снеки" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/nuts">Снеки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Масла и соусы" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/masla_i_sousy">Масла и соусы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Еда быстрого приготовления" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/bystrogo_prigotovleniya">Еда быстрого приготовления</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Крупы, макаронные изделия" href="https://kazan.yapokupayu.ru/predl/provisions/produkty_pitaniya/krupy">Крупы, макаронные изделия</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Дети"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Дети" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej">
+Дети</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Звезды" href="https://www.yapokupayu.ru/blogs/rubric/deti/zvezdy">Звезды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Тесты" href="https://www.yapokupayu.ru/blogs/rubric/deti/testy">Тесты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Здоровье" href="https://www.yapokupayu.ru/blogs/rubric/deti/zdorove">Здоровье</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Воспитание и обучение" href="https://www.yapokupayu.ru/blogs/rubric/deti/vospitanie-i-obuchenie">Воспитание и обучение</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="О маме" href="https://www.yapokupayu.ru/blogs/rubric/deti/o-mame">О маме</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Игрушки" href="https://www.yapokupayu.ru/blogs/rubric/deti/igrushki">Игрушки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Детский стиль" href="https://www.yapokupayu.ru/blogs/rubric/deti/detskij-stil">Детский стиль</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Дети" href="https://www.yapokupayu.ru/blogs/rubric/deti">Читать все блоги на тему «Дети»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Для девочек" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_odezhda/dlya_devochek">Для девочек</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Для мальчиков" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_odezhda/dlya_malchmkov">Для мальчиков</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Для новорожденных" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_odezhda/dlya_novorozhdennyh">Для новорожденных</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Нижнее белье" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_odezhda/nizhnee_belie">Нижнее белье</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Верхняя одежда" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_odezhda/verhnyaya_odezhda">Верхняя одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Туфли" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_obuv/tufli">Туфли</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Кеды и кроссовки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_obuv/kedy_i_krossovki">Кеды и кроссовки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Ботинки и сапоги" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_obuv/botinki_i_sapogi">Ботинки и сапоги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Пляжная обувь" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_obuv/plyazhnaya_obuv">Пляжная обувь</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Домашняя обувь" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_obuv/domashnyaya_obuv">Домашняя обувь</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Босоножки и сандалии" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/detskaya_obuv/bosonozhki_i_sandalii">Босоножки и сандалии</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Для волос" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/dlya_volos">Для волос</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Шарфы и манишки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/sharfy_i_manishki">Шарфы и манишки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Перчатки и варежки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/erchatki_i_varezhki">Перчатки и варежки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Головные уборы" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/golovnye_ubory">Головные уборы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Ремни и подтяжки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/remni_i_podtyazhki">Ремни и подтяжки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Галстуки и бабочки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/galstuki_i_babochki">Галстуки и бабочки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Сумки и рюкзаки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/sumki_i_ryukzaki">Сумки и рюкзаки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Очки" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/ochki">Очки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Зонты" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/zonty">Зонты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Часы и украшения" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/aksessuary_dlya_detey/chasy_i_ukrasheniya">Часы и украшения</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Косметика и парфюмерия" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/kosmetika_i_gigiena/kosmetika">Косметика и парфюмерия</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Купание и гигиена" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/kosmetika_i_gigiena/kupanie_i_gigiena">Купание и гигиена</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Все для кормления" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/tovary_dlya_novorozhdennyh/vse_dlya_kormleniya">Все для кормления</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Жизнь"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Жизнь" href="https://kazan.yapokupayu.ru/predl/zhizn">
+Жизнь</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Звезды" href="https://www.yapokupayu.ru/blogs/rubric/life/zvezdy">Звезды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Тесты" href="https://www.yapokupayu.ru/blogs/rubric/life/testy">Тесты</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Астрология" href="https://www.yapokupayu.ru/blogs/rubric/life/astrologiya">Астрология</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Отношения" href="https://www.yapokupayu.ru/blogs/rubric/life/otnosheniya">Отношения</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Психология" href="https://www.yapokupayu.ru/blogs/rubric/life/psihologiya">Психология</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Отдых и путешествия" href="https://www.yapokupayu.ru/blogs/rubric/life/otdyh-i-puteshestviya">Отдых и путешествия</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Жизнь" href="https://www.yapokupayu.ru/blogs/rubric/life">Читать все блоги на тему «Жизнь»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Книги" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/books">Книги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Подарки" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/gifts">Подарки</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Ткани, фурнитура" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/tissues">Ткани, фурнитура</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для творчества" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/tovarydljatvorchestva">Товары для творчества</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для праздника" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/tovarydljaprazdnika">Товары для праздника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Товары для бани и сауны" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/tovary_dlja_bani_i_saun">Товары для бани и сауны</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Организация мероприятий" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/organizacijameroprijatij">Организация мероприятий</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Развлечения" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/razvlechenija">Развлечения</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Свадьба" href="https://kazan.yapokupayu.ru/predl/zhizn/otdyhirazvlechenija/svadba">Свадьба</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Спортивная одежда" href="https://kazan.yapokupayu.ru/predl/zhizn/sport/sport">Спортивная одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Спортивная обувь" href="https://kazan.yapokupayu.ru/predl/zhizn/sport/sportivnajaobuv">Спортивная обувь</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Спортивные товары" href="https://kazan.yapokupayu.ru/predl/zhizn/sport/sportivnyetovary">Спортивные товары</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Фитнес-клубы" href="https://kazan.yapokupayu.ru/predl/zhizn/sport/fitneskluby">Фитнес-клубы</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Аренда недвижимости" href="https://kazan.yapokupayu.ru/predl/zhizn/service/arenda_nedvizhimosti">Аренда недвижимости</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Охранные услуги" href="https://kazan.yapokupayu.ru/predl/zhizn/service/security">Охранные услуги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Клининговые услуги" href="https://kazan.yapokupayu.ru/predl/zhizn/service/klining">Клининговые услуги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Бытовые услуги" href="https://kazan.yapokupayu.ru/predl/zhizn/service/personalservices">Бытовые услуги</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Услуги для животных" href="https://kazan.yapokupayu.ru/predl/zhizn/service/uslugidljazhivotnyh">Услуги для животных</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Автоаксессуары" href="https://kazan.yapokupayu.ru/predl/zhizn/avtomobili1/tools_auto">Автоаксессуары</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Автохимия, автокосметика" href="https://kazan.yapokupayu.ru/predl/zhizn/avtomobili1/carchemistry">Автохимия, автокосметика</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Автоэлектроника" href="https://kazan.yapokupayu.ru/predl/zhizn/avtomobili1/carelectro">Автоэлектроника</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Противоугонные системы" href="https://kazan.yapokupayu.ru/predl/zhizn/avtomobili1/antiugon">Противоугонные системы</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Мужской клуб"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Мужской клуб" href="https://kazan.yapokupayu.ru/predl/men">
+Мужской клуб</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужской стиль" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub/muzhskoy-stil">Мужской стиль</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужское мнение" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub/muzhskoye-mneniye">Мужское мнение</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Уход" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub/ukhod">Уход</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Мужской клуб" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub">Читать все блоги на тему «Мужской клуб»</a></div>
+<div class="portal-rubrics-list">
+<div class="tbp-head">Покупки по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужская одежда" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary/male">Мужская одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужская обувь" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary/muzh">Мужская обувь</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужское нижнее белье" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary/muzhs">Мужское нижнее белье</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужская верхняя одежда" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary/verhnjaja_muzhskaja_odezh">Мужская верхняя одежда</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужские аксессуары" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary/muzhskie_aksessuary">Мужские аксессуары</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мужские головные уборы" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary/muzhskie_golovnye_ubory">Мужские головные уборы</a></li>
+</ul>
+</div>
+
+</div></li><li class="hql-item js-mn-el"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Конкурсы" href="https://www.yapokupayu.ru/blogs/rubric/konkursy">
+Конкурсы</a></li><li class="hql-item js-includes-submenu js-mn-el" data-rubric="Новости"><a class="hqli-link js-ga-link false" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Новости" href="https://www.yapokupayu.ru/blogs/rubric/novosti">
+Новости</a>
+<div class="mne-block js-submenu">
+<div class="top-blog-post">
+<div class="tbp-head">Статьи по категориям</div>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Звезды" href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Мода" href="https://www.yapokupayu.ru/blogs/rubric/novosti/moda">Мода</a></li>
+</ul>
+<ul>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="Красота и Здоровье" href="https://www.yapokupayu.ru/blogs/rubric/novosti/krasota-i-zdorove">Красота и Здоровье</a></li>
+<li class="prl-item"><a class="prli-link js-ga-link" data-ga-action="Переход в рубрику" data-ga-category="Главное меню" data-ga-label="События" href="https://www.yapokupayu.ru/blogs/rubric/novosti/kultura">События</a></li>
+</ul><a class="tbp-listing js-ga-link" data-ga-action="Читать все блоги" data-ga-category="Главное меню" data-ga-label="Новости" href="https://www.yapokupayu.ru/blogs/rubric/novosti">Читать все Новости</a></div>
+<div class="about-project">
+<div class="news-magazine js-ga-link" data-ga-action="Клик по левой ТЗ" data-ga-category="Главное меню" data-ga-label="Город">
+<div class="tbp-head">Новости журнала</div>
+<div class="new-number-image">
+	</div>
+<div class="new-number-content">
+	<ul class="nnc-list">
+		<li class="nnc-item">
+			<a href="https://www.yapokupayu.ru/users/104166/posts">Новости Казани</a></li>
+		<li class="nnc-item">
+			<a href="https://kazan.yapokupayu.ru/vote/">Голосования и конкурсы</a></li>
+		<li class="nnc-item">
+			<a href="https://www.yapokupayu.ru/blogs/region/kazan/">Блоги Казани</a></li>
+		<li class="nnc-item">
+			<a href="https://www.yapokupayu.ru/users/227377/posts">Колумнисты Казани</a></li>
+	</ul>
+</div>
+<p>
+	</p>
+
+</div>
+</div>
+
+</div></li><li class="hql-item js-mn-el" data-rubric="Город"><a href="https://www.yapokupayu.ru/blogs/region/kazan" class="hqli-link js-ga-link" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Город">Город</a></li><li class="hql-item mn-offers-active js-mn-el" data-rubric="Акции">
+<p>
+	<a class="hqli-link js-ga-link" data-ga-action="Клик по пункту меню" data-ga-category="Главное меню" data-ga-label="Гид подарков" href="https://www.yapokupayu.ru/blogs/tags/temy/podarki">Гид подарков</a></p>
+
+</li>
+</ul>
+<div class="submenu-rubrics js-first-rubric js-child-rubrics js-submenu-cover"></div>
+
+</div>
+</div>
+</div>
+</header>
+
+<link href="https://www.yapokupayu.ru/assets/packs/lookmart/blocks/slider-desktop-aa45bda338a1421096bee53ca21a8c95.css" media="screen" rel="stylesheet" type="text/css" />
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/blocks/slider-desktop-469de599abaf1229b26e.js" type="text/javascript"></script>
+<div class="swiper slider js-ga-main-page-carousel js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Блоговая карусель" data-ga-show-type="single">
+<div class="slider__wrapper js-swiper-slider">
+<div class="swiper-container">
+<div class="swiper-wrapper slider__list">
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/esli-zima-uzhe-dostala-n-modnyh-layfhakov-kotorye-pomogut-spravitsya" target="_blank">
+<span class="slider__content-img">
+<img alt="Когда зима уже достала: 6 модных лайфхаков, поднимающих настроение " class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/313/118_large.jpg"></img>
+</span>
+<span class="slider__heading">Когда зима уже достала: 6 модных лайфхаков, поднимающих настроение </span>
+</a>
+</div>
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/top-luchshih-brendov-i-marok-gipoallergennoy-kosmetiki-dlya-litsa" target="_blank">
+<span class="slider__content-img">
+<img alt="10 брендов гипоаллергенной косметики, которая эффективна и безопасна на все сто" class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/313/119_large.jpg"></img>
+</span>
+<span class="slider__heading">10 брендов гипоаллергенной косметики, которая эффективна и безопасна на все сто</span>
+</a>
+</div>
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/vesch-vne-vremeni-predmety-v-dom-kotorye-nikogda-ne-vyydut-iz-mody" target="_blank">
+<span class="slider__content-img">
+<img alt="6 уютных находок в дом, которые никогда не выйдут из моды" class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/312/758_large.jpg"></img>
+</span>
+<span class="slider__heading">6 уютных находок в дом, которые никогда не выйдут из моды</span>
+</a>
+</div>
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/n-tsvetov-v-odezhde-kotorye-uluchshat-tsvet-litsa" target="_blank">
+<span class="slider__content-img">
+<img alt="6 оттенков в одежде, которые улучшают цвет лица и молодят" class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/313/121_large.jpg"></img>
+</span>
+<span class="slider__heading">6 оттенков в одежде, которые улучшают цвет лица и молодят</span>
+</a>
+</div>
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/yapokupayu-vypuskaet-super-gid-po-samym-interesnym-mestam-i-zavedeniyam-v-rossii" target="_blank">
+<span class="slider__content-img">
+<img alt="ЯПокупаю выпускает Супер-гид по самым интересным местам и заведениям в России" class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/312/497_large.jpg"></img>
+</span>
+<span class="slider__heading">ЯПокупаю выпускает Супер-гид по самым интересным местам и заведениям в России</span>
+</a>
+</div>
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/chto-pokupayut-lyubyaschie-roditeli-5-kachestvennyh-veschey-kotorye-deti-budut-obozhat" target="_blank">
+<span class="slider__content-img">
+<img alt="Что покупают любящие родители: 5 качественных вещей, которые дети будут обожать" class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/312/759_large.jpg"></img>
+</span>
+<span class="slider__heading">Что покупают любящие родители: 5 качественных вещей, которые дети будут обожать</span>
+</a>
+</div>
+<div class="swiper-slide slider__item">
+<a class="slider__link" href="https://www.yapokupayu.ru/blogs/post/n-strizhek-kotorye-molodyat-zhenschinu-posle-50-let" target="_blank">
+<span class="slider__content-img">
+<img alt="3 стрижки, которые после 50 лет чудесно омолаживают" class="slider__picture" loading="lazy" src="https://st27.styapokupayu.ru/images/blog_slider_post_images/000/312/757_large.jpg"></img>
+</span>
+<span class="slider__heading">3 стрижки, которые после 50 лет чудесно омолаживают</span>
+</a>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<a class="swiper-button-prev slider__button slider__button_forward" href="#">&lsaquo;</a>
+<a class="swiper-button-next slider__button slider__button_back" href="#">&rsaquo;</a>
+</div>
+</div>
+<div class="link-jcarousel-blog">
+<span class="carousel-sticker">Читайте сегодня, 20 февраля</span>
+</div>
+</div>
+
+<div class="goods-menu__wrapper-content js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Товарная карусель" data-ga-show-type="single"><ul class="goods-menu__list"><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-women-goods js-ga-link" data-ga-action="Клик - Женская одежда" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/promgood/odezhda">
+<span>Женская одежда</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-men-goods js-ga-link" data-ga-action="Клик - Мужская одежда" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/men/muzhskie_tovary">
+<span>Мужская одежда</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-shoes-goods js-ga-link" data-ga-action="Клик - Обувь" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/promgood/obuv">
+<span>Обувь</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-watches-goods js-ga-link" data-ga-action="Клик - Украшения и часы" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/promgood/ukrasheniya_i_chasy">
+<span>Украшения и часы</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-children-goods js-ga-link" data-ga-action="Клик - Детские товары" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/tovary_dlja_detej/deti">
+<span>Детские товары</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-home-goods js-ga-link" data-ga-action="Клик - Товары для дома" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/home">
+<span>Товары для дома</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-beauty-goods js-ga-link" data-ga-action="Клик - Красота и здоровье" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/predl/krasota_i_zdorovie">
+<span>Красота и здоровье</span>
+</a></li><li class="goods-menu__item"><a class="goods-menu__link goods-menu__link_icon-deals-goods js-ga-link" data-ga-action="Клик - Акции" data-ga-category="Главная" data-ga-label="Товарная карусель" href="https://kazan.yapokupayu.ru/deals">
+<span>Акции</span>
+</a></li></ul></div>
+<section class="clearfix">
+<div class="pad-">
+<div class="wrap-head-new-posts">
+<div class="head-new-posts">
+<span class="title">Новое</span>
+</div>
+</div>
+<ul class="blog-posts-list">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/britanskaya-premiya-bafta-glavnoe-pobediteli-obrazy-s-krasnoy-dorozhki">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/313/130_medium.jpg?1676888180" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/britanskaya-premiya-bafta-glavnoe-pobediteli-obrazy-s-krasnoy-dorozhki">
+<span class="published-at">20 февраля 17:29</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87288" href="https://www.yapokupayu.ru/blogs/post/britanskaya-premiya-bafta-glavnoe-pobediteli-obrazy-s-krasnoy-dorozhki">Главное о премии BAFTA-2023: победители церемонии и самые интересные образы с красной дорожки</a>
+<div class="mpli-announce bw">Рассказываем, как прошло одно из главных событий года.</div>
+</div>
+</li>
+
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/tresh-a-ne-platie-samye-neudachnye-naryady-nevest-s-shou-chetyre-svadby">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/313/134_medium.jpg?1676894201" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/tresh-a-ne-platie-samye-neudachnye-naryady-nevest-s-shou-chetyre-svadby">
+<span class="published-at">20 февраля 17:01</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87290" href="https://www.yapokupayu.ru/blogs/post/tresh-a-ne-platie-samye-neudachnye-naryady-nevest-s-shou-chetyre-svadby">Треш, а не платье: самые неудачные наряды невест с шоу Четыре свадьбы</a>
+<div class="mpli-announce bw">Стилисты «Четырех свадеб» явно промахнулись, когда нарядили участниц в эти платья. </div>
+</div>
+</li><li class="main-post-list-banner"><div class="adfox-top adfox-main-page">
+<div class="js-adfox-container" id="adfox_151142372706169242"></div>
+<script>
+  window.yaContextCb = window.yaContextCb || [];
+  
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 170866,
+      containerId: "adfox_151142372706169242",
+      params: {
+        pp: 'g',
+        ps: 'uwd',
+        p2: "fter",
+        puid1: "kazan",
+        puid2: "default"
+      }
+    })
+  })
+</script></div>
+<div class="dummy-banner">
+</div></li><li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/chto-nadet-na-korporativ-idei-naryadov-kotorye-sdelayut-tebya-samoy-stilnoy">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/280_medium.jpg?1676636788" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/chto-nadet-na-korporativ-idei-naryadov-kotorye-sdelayut-tebya-samoy-stilnoy">
+<span class="published-at">20 февраля 17:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/moda/stil">Стиль</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87028" href="https://www.yapokupayu.ru/blogs/post/chto-nadet-na-korporativ-idei-naryadov-kotorye-sdelayut-tebya-samoy-stilnoy">Что надеть на корпоратив, чтобы карьера пошла в гору</a>
+<div class="mpli-announce bw">6 идей от фэшн-эксперта Елены Мясниковой. Спойлер: без маленького черного платья и леопардового мини.</div>
+</div>
+</li>
+
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-s-nedeli-mody-v-londone-2023-osen-zima-luchshie-obrazy-i-foto">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/313/144_medium.jpg?1676897418" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-s-nedeli-mody-v-londone-2023-osen-zima-luchshie-obrazy-i-foto">
+<span class="published-at">20 февраля 16:28</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/novosti/moda">Мода</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87293" href="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-s-nedeli-mody-v-londone-2023-osen-zima-luchshie-obrazy-i-foto">Главные тренды с недели моды в Лондоне 2023 осень-зима: лучшие образы и фото</a>
+<div class="mpli-announce bw">Будем честными, Лондонская неделя — не самая сильная. Но и тут есть свои жемчужины. </div>
+</div>
+</li>
+
+<li class="main-post-discussed-widget js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Обсуждаемое" data-ga-show-type="single">
+<div class="dw-head">Обсуждаемое</div>
+<ul class="mt20">
+<li class="dw-item">
+<a class="js-ga-link" data-ga-action="клик по посту" data-ga-category="Главная" data-ga-label="Обсуждаемое" href="https://www.yapokupayu.ru/blogs/post/krasivye-platki-kak-nosit-v-vide-sharfa-ili-golovnogo-ubora">
+Красивые платки: как и с чем носить, чтобы выглядеть роскошно
+</a>
+<div class="comments-count">
+<span data-to="https://www.yapokupayu.ru/blogs/post/krasivye-platki-kak-nosit-v-vide-sharfa-ili-golovnogo-ubora#comment" title="комментировать">
+8
+</span>
+</div>
+</li>
+<li class="dw-item">
+<a class="js-ga-link" data-ga-action="клик по посту" data-ga-category="Главная" data-ga-label="Обсуждаемое" href="https://www.yapokupayu.ru/blogs/post/ekoshuby">
+Экошубы: восемь преимуществ и два недостатка
+</a>
+<div class="comments-count">
+<span data-to="https://www.yapokupayu.ru/blogs/post/ekoshuby#comment" title="комментировать">
+5
+</span>
+</div>
+</li>
+<li class="dw-item">
+<a class="js-ga-link" data-ga-action="клик по посту" data-ga-category="Главная" data-ga-label="Обсуждаемое" href="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-s-nedeli-mody-v-londone-2023-osen-zima-luchshie-obrazy-i-foto">
+Главные тренды с недели моды в Лондоне 2023 осень-зима: лучшие образы и фото
+</a>
+<div class="comments-count">
+</div>
+</li>
+<li class="dw-item">
+<a class="js-ga-link" data-ga-action="клик по посту" data-ga-category="Главная" data-ga-label="Обсуждаемое" href="https://www.yapokupayu.ru/blogs/post/tresh-a-ne-platie-samye-neudachnye-naryady-nevest-s-shou-chetyre-svadby">
+Треш, а не платье: самые неудачные наряды невест с шоу Четыре свадьбы
+</a>
+<div class="comments-count">
+</div>
+</li>
+</ul>
+</li>
+
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/trendy-s-nedeli-mody-v-nyu-yorke-osen-zima-2023-2024">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/313/033_medium.jpg?1676886591" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/trendy-s-nedeli-mody-v-nyu-yorke-osen-zima-2023-2024">
+<span class="published-at">20 февраля 16:06</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/novosti/moda">Мода</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87268" href="https://www.yapokupayu.ru/blogs/post/trendy-s-nedeli-mody-v-nyu-yorke-osen-zima-2023-2024">Главные тренды с Нью-Йоркской недели моды: собрали самые носибельные образы, в которых скоро будут ходить</a>
+<div class="mpli-announce bw">Что дизайнеры предлагают носить предстоящей осенью?</div>
+</div>
+</li>
+
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/biozavivka-dlya-volos-bezopasnyy-sposob-sozdat-shikarnye-kudri-nadolgo">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/046_medium.jpg?1676598963" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/biozavivka-dlya-volos-bezopasnyy-sposob-sozdat-shikarnye-kudri-nadolgo">
+<span class="published-at">20 февраля 15:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/krasota/volosy">Волосы</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="86577" href="https://www.yapokupayu.ru/blogs/post/biozavivka-dlya-volos-bezopasnyy-sposob-sozdat-shikarnye-kudri-nadolgo">Биозавивка волос: безопасный способ создать шикарные кудри надолго</a>
+<div class="mpli-announce bw">Полгода с крутыми завитками — очень даже реально!</div>
+</div>
+</li><li class="main-post-list-banner"><div class="adfox-top adfox-main-page">
+<div class="js-adfox-container" id="adfox_151142374166267286"></div>
+<script>
+  window.yaContextCb = window.yaContextCb || [];
+  
+  window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 170866,
+      containerId: "adfox_151142374166267286",
+      params: {
+        pp: 'g',
+        ps: 'uwd',
+        p2: "ftes",
+        puid1: "kazan",
+        puid2: "default"
+      }
+    })
+  })
+</script></div>
+<div class="dummy-banner">
+</div></li></ul>
+</div>
+<div class="more-posts"><a class="more-posts-button" href="#all-posts">Загрузить еще</a></div>
+<div class="pad-">
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/moda">Мода</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Мода - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/ekoshuby">
+<img alt="" class="lazypic " data-original="https://st4.styapokupayu.ru/images/blog_posts/covers/000/183/073_medium.jpg?1580719362" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное" data-to="https://www.yapokupayu.ru/blogs/post/ekoshuby">
+<span class="published-at">16 февраля 17:05</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/ekoshuby#comment" title="комментировать">
+5
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/moda/stil">Стиль</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное" data-id="53101" href="https://www.yapokupayu.ru/blogs/post/ekoshuby">
+Экошубы: восемь преимуществ и два недостатка
+</a>
+</div>
+<div class="mpli-announce bw">Не все об этом знают...</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/trendy-yuvelirnyh-ukrasheniy-2023-100-foto">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/306/813_medium.jpg?1669059143" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное" data-to="https://www.yapokupayu.ru/blogs/post/trendy-yuvelirnyh-ukrasheniy-2023-100-foto">
+<span class="published-at">31 января 17:05</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/moda/trendy">Тренды</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное" data-id="85430" href="https://www.yapokupayu.ru/blogs/post/trendy-yuvelirnyh-ukrasheniy-2023-100-foto">
+Модные ювелирные украшения 2023: собрали 30 трендов, которые выглядят утонченно и шикарно
+</a>
+</div>
+<div class="mpli-announce bw">Они добавят изюминку даже базовому образу!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-sezona-vesna-leto-2023-200-foto">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/462_medium.jpg?1675247480" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное" data-to="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-sezona-vesna-leto-2023-200-foto">
+<span class="published-at">02 февраля 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/moda/trendy">Тренды</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мода - популярное" data-id="86732" href="https://www.yapokupayu.ru/blogs/post/glavnye-trendy-sezona-vesna-leto-2023-200-foto">
+Главные тренды весны-лета 2023: полный гид по стильным образам (200 фото)
+</a>
+</div>
+<div class="mpli-announce bw">Самый полный гид по моде наступающего сезона.</div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/krasota">Красота</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Красота - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/vrag-molodosti-pochemu-sestry-olsen-v-30-vyglyadyat-na-40">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/155_medium.jpg?1674085582" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное" data-to="https://www.yapokupayu.ru/blogs/post/vrag-molodosti-pochemu-sestry-olsen-v-30-vyglyadyat-na-40">
+<span class="published-at">25 января 14:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/krasota/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное" data-id="86614" href="https://www.yapokupayu.ru/blogs/post/vrag-molodosti-pochemu-sestry-olsen-v-30-vyglyadyat-na-40">
+Девушки-старушки: почему сестры Олсен в 36 лет выглядят на 45 
+</a>
+</div>
+<div class="mpli-announce bw">Пособие по тому, как делать не надо. </div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/koreyskaya-kosmetika-n-samyh-dostoynyh-novinok-dlya-porazitelnogo-rezultata">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/310/020_medium.jpg?1673999980" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное" data-to="https://www.yapokupayu.ru/blogs/post/koreyskaya-kosmetika-n-samyh-dostoynyh-novinok-dlya-porazitelnogo-rezultata">
+<span class="published-at">23 января 12:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/krasota/uhod">Уход</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное" data-id="86290" href="https://www.yapokupayu.ru/blogs/post/koreyskaya-kosmetika-n-samyh-dostoynyh-novinok-dlya-porazitelnogo-rezultata">
+Корейские бестселлеры: 5 самых достойных средств для вау-результата
+</a>
+</div>
+<div class="mpli-announce bw">Выдающиеся представители азиатского ухода.</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/zolotye-pravila-uhoda-posle-40-chto-delat-chtoby-ne-staret">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/310/610_medium.jpg?1673967441" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное" data-to="https://www.yapokupayu.ru/blogs/post/zolotye-pravila-uhoda-posle-40-chto-delat-chtoby-ne-staret">
+<span class="published-at">24 января 14:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/krasota/40+">40+</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Красота - популярное" data-id="86468" href="https://www.yapokupayu.ru/blogs/post/zolotye-pravila-uhoda-posle-40-chto-delat-chtoby-ne-staret">
+Золотые правила ухода за кожей после 40: что делать, чтобы выглядеть моложе
+</a>
+</div>
+<div class="mpli-announce bw">Удивительно, но многие об этом не знают. </div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/dom">Дом</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Дом - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/veschi-dlya-doma-v-kotorye-deystvitelno-stoit-investirovat">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/598_medium.jpg?1674638470" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное" data-to="https://www.yapokupayu.ru/blogs/post/veschi-dlya-doma-v-kotorye-deystvitelno-stoit-investirovat">
+<span class="published-at">01 февраля 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/dom/sovety">Советы</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное" data-id="86785" href="https://www.yapokupayu.ru/blogs/post/veschi-dlya-doma-v-kotorye-deystvitelno-stoit-investirovat">
+6 вещей в дом, на которых не стоит экономить (проверено на себе)
+</a>
+</div>
+<div class="mpli-announce bw">Они прослужат до-о-олго!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/kak-uznat-chto-v-dome-gryaznulya-ili-n-priznakov-neopryatnoy-zhenschiny">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/443_medium.jpg?1674630686" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное" data-to="https://www.yapokupayu.ru/blogs/post/kak-uznat-chto-v-dome-gryaznulya-ili-n-priznakov-neopryatnoy-zhenschiny">
+<span class="published-at">31 января 10:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/dom/sovety">Советы</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное" data-id="86720" href="https://www.yapokupayu.ru/blogs/post/kak-uznat-chto-v-dome-gryaznulya-ili-n-priznakov-neopryatnoy-zhenschiny">
+Поставят пятно на репутации хозяйки: 5 признаков неопрятной женщины
+</a>
+</div>
+<div class="mpli-announce bw">В эту ловушку может попасть каждая.</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/kak-vybrat-shkaf-kupe-v-kvartiru-n-pravil-i-sovetov">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/468_medium.jpg?1674628010" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное" data-to="https://www.yapokupayu.ru/blogs/post/kak-vybrat-shkaf-kupe-v-kvartiru-n-pravil-i-sovetov">
+<span class="published-at">31 января 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/dom/sovety">Советы</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дом - популярное" data-id="86736" href="https://www.yapokupayu.ru/blogs/post/kak-vybrat-shkaf-kupe-v-kvartiru-n-pravil-i-sovetov">
+Как выбрать шкаф-купе в квартиру: 9 правил и советов
+</a>
+</div>
+<div class="mpli-announce bw">Подбираем шкаф под любой интерьер и пространство.</div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/eda">Еда</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Еда - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/kak-v-parizhe-3-izyskannyh-retsepta-frantsuzskogo-zavtraka-s-kofe">
+<img alt="" class="lazypic " data-original="https://st25.styapokupayu.ru/images/blog_posts/covers/000/304/838_medium.jpg?1664873937" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное" data-to="https://www.yapokupayu.ru/blogs/post/kak-v-parizhe-3-izyskannyh-retsepta-frantsuzskogo-zavtraka-s-kofe">
+<span class="published-at">12 февраля 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/eda/retsepty">Рецепты</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное" data-id="84932" href="https://www.yapokupayu.ru/blogs/post/kak-v-parizhe-3-izyskannyh-retsepta-frantsuzskogo-zavtraka-s-kofe">
+Готовим дома настоящий французский завтрак с кофе: 3 простых рецепта
+</a>
+</div>
+<div class="mpli-announce bw">Именно такие блюда подают в кондитерских возле Эйфелевой башни.</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/5-luchshih-retseptov-moti">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/306/042_medium.png?1675944592" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное" data-to="https://www.yapokupayu.ru/blogs/post/5-luchshih-retseptov-moti">
+<span class="published-at">11 февраля 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/eda/retsepty">Рецепты</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное" data-id="85267" href="https://www.yapokupayu.ru/blogs/post/5-luchshih-retseptov-moti">
+5 лучших рецептов японского десерта моти, которые полюбят даже прихотливые сладкоежки
+</a>
+</div>
+<div class="mpli-announce bw">Попробуйте сами приготовить оригинальный десерт, чтобы понять, почему он так всех заинтересовал!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/n-samyh-vkusnyh-retseptov-tonkih-blinov">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/392_medium.png?1676387669" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное" data-to="https://www.yapokupayu.ru/blogs/post/n-samyh-vkusnyh-retseptov-tonkih-blinov">
+<span class="published-at">15 февраля 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/eda/retsepty">Рецепты</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Еда - популярное" data-id="87062" href="https://www.yapokupayu.ru/blogs/post/n-samyh-vkusnyh-retseptov-tonkih-blinov">
+20 лучших рецептов тонких блинов, которые понравятся всем домашним
+</a>
+</div>
+<div class="mpli-announce bw">Чайные, рисовые, овсяные, кукурузные и любимая классика!</div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/deti">Дети</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Дети - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/podarki-na-lyuboy-prazdnik-v-detskom-sadu-na-pyatsot-rubley">
+<img alt="" class="lazypic " data-original="https://st22.styapokupayu.ru/images/blog_posts/covers/000/272/106_medium.jpg?1613641745" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное" data-to="https://www.yapokupayu.ru/blogs/post/podarki-na-lyuboy-prazdnik-v-detskom-sadu-na-pyatsot-rubley">
+<span class="published-at">19 февраля 17:05</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/deti/igrushki">Игрушки</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное" data-id="73736" href="https://www.yapokupayu.ru/blogs/post/podarki-na-lyuboy-prazdnik-v-detskom-sadu-na-pyatsot-rubley">
+Подарки в детском саду: классные идеи с бюджетом до 500 рублей
+</a>
+</div>
+<div class="mpli-announce bw">Эти идеи подойдут детям 4-7 лет на любой праздник! И особенно — на выпускной из детского сада. </div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/kakaya-detskaya-odezhda-smozhet-perezhit-konets-sveta-i-neskolko-let-s-toddlerom-samye-nadezhnye-materialy-modeli-i-t-d-nado-so-stilistom-sdelat">
+<img alt="" class="lazypic " data-original="https://st18.styapokupayu.ru/images/blog_posts/covers/000/238/449_medium.png?1674062320" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное" data-to="https://www.yapokupayu.ru/blogs/post/kakaya-detskaya-odezhda-smozhet-perezhit-konets-sveta-i-neskolko-let-s-toddlerom-samye-nadezhnye-materialy-modeli-i-t-d-nado-so-stilistom-sdelat">
+<span class="published-at">29 января 08:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/deti/detskij-stil">Детский стиль</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное" data-id="63021" href="https://www.yapokupayu.ru/blogs/post/kakaya-detskaya-odezhda-smozhet-perezhit-konets-sveta-i-neskolko-let-s-toddlerom-samye-nadezhnye-materialy-modeli-i-t-d-nado-so-stilistom-sdelat">
+Cносу нет: 5 суперстойких детских вещей, по версии многодетных мам и эксперта по качеству
+</a>
+</div>
+<div class="mpli-announce bw">Эти вещицы, вероятно, переживут и апокалипсис!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/kakuyu-odezhdu-kupit-novorozhdennomu-chek-list-dlya-novoispechennyh-mam">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/232_medium.png?1673858822" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное" data-to="https://www.yapokupayu.ru/blogs/post/kakuyu-odezhdu-kupit-novorozhdennomu-chek-list-dlya-novoispechennyh-mam">
+<span class="published-at">22 января 08:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/deti/detskij-stil">Детский стиль</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Дети - популярное" data-id="86636" href="https://www.yapokupayu.ru/blogs/post/kakuyu-odezhdu-kupit-novorozhdennomu-chek-list-dlya-novoispechennyh-mam">
+Какую одежду купить новорожденному: топ-5 базовых вещей вместо тысячи распашонок
+</a>
+</div>
+<div class="mpli-announce bw">Не нужно забивать шкаф разномастной детской одеждой. Этих милых вещичек вполне достаточно! </div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/life">Жизнь</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Жизнь - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/10-luchshih-podarkov-dlya-vashego-muzhchiny-esli-on">
+<img alt="" class="lazypic " data-original="https://st4.styapokupayu.ru/images/blog_posts/covers/000/153/544_medium.jpg?1581548431" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное" data-to="https://www.yapokupayu.ru/blogs/post/10-luchshih-podarkov-dlya-vashego-muzhchiny-esli-on">
+<span class="published-at">18 февраля 17:05</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/life/otdyh-i-puteshestviya">Отдых и путешествия</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное" data-id="48999" href="https://www.yapokupayu.ru/blogs/post/10-luchshih-podarkov-dlya-vashego-muzhchiny-esli-on">
+10 лучших подарков для геймера, гика и нерда
+</a>
+</div>
+<div class="mpli-announce bw">Он будет не просто удивлен, а шокирован!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/hobbi-ot-redaktora-kak-ya-sobirayu-rumboksy-i-skolko-trachu-na-svoe-uvlechenie">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/308/866_medium.png?1673438254" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное" data-to="https://www.yapokupayu.ru/blogs/post/hobbi-ot-redaktora-kak-ya-sobirayu-rumboksy-i-skolko-trachu-na-svoe-uvlechenie">
+<span class="published-at">21 января 11:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/life/otdyh-i-puteshestviya">Отдых и путешествия</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное" data-id="85909" href="https://www.yapokupayu.ru/blogs/post/hobbi-ot-redaktora-kak-ya-sobirayu-rumboksy-i-skolko-trachu-na-svoe-uvlechenie">
+Как я собираю румбоксы и сколько трачу на свое увлечение: личный опыт
+</a>
+</div>
+<div class="mpli-announce bw">Добро пожаловать в мир миниатюр!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/chto-podarit-na-23-fevralya-pape-20-luchshih-idey-podarkov">
+<img alt="" class="lazypic " data-original="https://st26.styapokupayu.ru/images/blog_posts/covers/000/311/634_medium.png?1675252668" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное" data-to="https://www.yapokupayu.ru/blogs/post/chto-podarit-na-23-fevralya-pape-20-luchshih-idey-podarkov">
+<span class="published-at">05 февраля 11:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/life/otnosheniya">Отношения</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Жизнь - популярное" data-id="86804" href="https://www.yapokupayu.ru/blogs/post/chto-podarit-na-23-fevralya-pape-20-luchshih-idey-podarkov">
+Что подарить на 23 Февраля папе: 20 лучших подарков для главного мужчины нашей жизни
+</a>
+</div>
+<div class="mpli-announce bw">Они порадуют больше, чем носки и пена для бритья. </div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub">Мужской клуб</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Мужской клуб - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/ty-naydesh-svoyu-lyubimuyu-20-vidov-borody-dlya-brutalnogo-muzhchiny">
+<img alt="" class="lazypic " data-original="https://st4.styapokupayu.ru/images/blog_posts/covers/000/152/539_medium.jpg?1511340271" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное" data-to="https://www.yapokupayu.ru/blogs/post/ty-naydesh-svoyu-lyubimuyu-20-vidov-borody-dlya-brutalnogo-muzhchiny">
+<span class="published-at">23 апреля 17:30</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/ty-naydesh-svoyu-lyubimuyu-20-vidov-borody-dlya-brutalnogo-muzhchiny#comment" title="комментировать">
+8
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub/ukhod">Уход</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное" data-id="48808" href="https://www.yapokupayu.ru/blogs/post/ty-naydesh-svoyu-lyubimuyu-20-vidov-borody-dlya-brutalnogo-muzhchiny">
+Ты найдешь свою любимую: 20 видов бороды для брутального мужчины
+</a>
+</div>
+<div class="mpli-announce bw">Наглядные картинки, которые помогут определиться!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/top-veschey-kotorye-ni-v-koem-sluchae-nelzya-nadevat-muzhchinam-posle-40">
+<img alt="" class="lazypic " data-original="https://st22.styapokupayu.ru/images/blog_posts/covers/000/258/262_medium.png?1588589210" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное" data-to="https://www.yapokupayu.ru/blogs/post/top-veschey-kotorye-ni-v-koem-sluchae-nelzya-nadevat-muzhchinam-posle-40">
+<span class="published-at">28 мая 17:05</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/top-veschey-kotorye-ni-v-koem-sluchae-nelzya-nadevat-muzhchinam-posle-40#comment" title="комментировать">
+56
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub/muzhskoy-stil">Мужской стиль</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное" data-id="69368" href="https://www.yapokupayu.ru/blogs/post/top-veschey-kotorye-ni-v-koem-sluchae-nelzya-nadevat-muzhchinam-posle-40">
+6 стильных табу: вещи, которые не стоит надевать мужчинам после 40
+</a>
+</div>
+<div class="mpli-announce bw">Пора подобрать стильную и современную альтернативу.
+</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/podborka-k-23-fevralya">
+<img alt="" class="lazypic " data-original="https://st22.styapokupayu.ru/images/blog_posts/covers/000/271/699_medium.jpg?1644758245" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное" data-to="https://www.yapokupayu.ru/blogs/post/podborka-k-23-fevralya">
+<span class="published-at">15 февраля 17:05</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/muzhskoy-klub/muzhskoy-stil">Мужской стиль</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Мужской клуб - популярное" data-id="73583" href="https://www.yapokupayu.ru/blogs/post/podborka-k-23-fevralya">
+Что подарить мужчине на 23 Февраля: подборка классных идей
+</a>
+</div>
+<div class="mpli-announce bw">Никаких носков и пены для бритья!</div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/konkursy">Конкурсы</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Конкурсы - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/shapka-nosit-ili-ne-nosit-konkurs-hochushapku-s-prizami-ot-lamoda">
+<img alt="" class="lazypic " data-original="https://st4.styapokupayu.ru/images/blog_posts/covers/000/176/450_medium.jpg?1474529790" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное" data-to="https://www.yapokupayu.ru/blogs/post/shapka-nosit-ili-ne-nosit-konkurs-hochushapku-s-prizami-ot-lamoda">
+<span class="published-at">22 сентября 08:33</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/shapka-nosit-ili-ne-nosit-konkurs-hochushapku-s-prizami-ot-lamoda#comment" title="комментировать">
+2
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/konkursy">Конкурсы</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное" data-id="52042" href="https://www.yapokupayu.ru/blogs/post/shapka-nosit-ili-ne-nosit-konkurs-hochushapku-s-prizami-ot-lamoda">
+Шапка: носить или не носить? Конкурс «Хочу шапку» с призами от Lamoda.ru 
+</a>
+</div>
+<div class="mpli-announce bw">Портал япокупаю.ру и интернет-магазин Lamoda.ru проводят конкурс для тех, кто носит и кто не носит головные уборы! Участвуйте и выигрывайте модные шапки!</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/detskiy-konkurs-moy-yunyy-puteshestvennik-golosovanie-nachalos">
+<img alt="" class="lazypic " data-original="https://st21.styapokupayu.ru/images/blog_posts/covers/000/246/370_medium.jpg?1565940890" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное" data-to="https://www.yapokupayu.ru/blogs/post/detskiy-konkurs-moy-yunyy-puteshestvennik-golosovanie-nachalos">
+<span class="published-at">16 августа 13:15</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/detskiy-konkurs-moy-yunyy-puteshestvennik-golosovanie-nachalos#comment" title="комментировать">
+2
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/konkursy">Конкурсы</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное" data-id="65513" href="https://www.yapokupayu.ru/blogs/post/detskiy-konkurs-moy-yunyy-puteshestvennik-golosovanie-nachalos">
+Детский конкурс «Мой юный путешественник»: голосование началось
+</a>
+</div>
+<div class="mpli-announce bw">Кому же достанется INOI kPhone — смартфон с развивающими приложениями и функциями родительского контроля?</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/konkurs-ot-yapokupayu-golosuem-za-samye-krasivye-kuhni-nashih-chitateley">
+<img alt="" class="lazypic " data-original="https://st25.styapokupayu.ru/images/blog_posts/covers/000/301/031_medium.jpg?1659095571" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное" data-to="https://www.yapokupayu.ru/blogs/post/konkurs-ot-yapokupayu-golosuem-za-samye-krasivye-kuhni-nashih-chitateley">
+<span class="published-at">29 июля 16:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/konkursy">Конкурсы</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Конкурсы - популярное" data-id="83860" href="https://www.yapokupayu.ru/blogs/post/konkurs-ot-yapokupayu-golosuem-za-samye-krasivye-kuhni-nashih-chitateley">
+Самые красивые кухни наших читателей: выбираем победителей из 22 фото
+</a>
+</div>
+<div class="mpli-announce bw">Розыгрыш призов стартовал, поддержим участников!</div>
+</li>
+
+</ul>
+<div class="wrap-head-new-posts">
+<div class="head-new-posts"><span class="hnp-title-link" data-to="https://www.yapokupayu.ru/blogs/rubric/novosti">Новости</span><span class="popular">Популярное</span></div>
+</div>
+<ul class="blog-posts-list js-ga-visible-block" data-ga-show-action="Показ блока" data-ga-show-category="Главная" data-ga-show-label="Новости - популярное" data-ga-show-type="single">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/iz-russkoy-krasavitsy-v-gollivudskuyu-divu-evolyutsiya-stilya-svetlany-hodchenkovoy">
+<img alt="" class="lazypic " data-original="https://st21.styapokupayu.ru/images/blog_posts/covers/000/253/488_medium.jpg?1579609345" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное" data-to="https://www.yapokupayu.ru/blogs/post/iz-russkoy-krasavitsy-v-gollivudskuyu-divu-evolyutsiya-stilya-svetlany-hodchenkovoy">
+<span class="published-at">21 января 17:05</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/iz-russkoy-krasavitsy-v-gollivudskuyu-divu-evolyutsiya-stilya-svetlany-hodchenkovoy#comment" title="комментировать">
+9
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное" data-id="67887" href="https://www.yapokupayu.ru/blogs/post/iz-russkoy-krasavitsy-v-gollivudskuyu-divu-evolyutsiya-stilya-svetlany-hodchenkovoy">
+Из русской красавицы — в голливудскую диву: эволюция стиля Светланы Ходченковой
+</a>
+</div>
+<div class="mpli-announce bw">21 января российской актрисе исполняется 40 лет.</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/dzhinsy-na-zvezde-kotorye-budut-v-trende-vesnoy-2023-srochno-kupit">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/291_medium.jpg?1675936511" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное" data-to="https://www.yapokupayu.ru/blogs/post/dzhinsy-na-zvezde-kotorye-budut-v-trende-vesnoy-2023-srochno-kupit">
+<span class="published-at">09 февраля 14:30</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное" data-id="87032" href="https://www.yapokupayu.ru/blogs/post/dzhinsy-na-zvezde-kotorye-budut-v-trende-vesnoy-2023-srochno-kupit">
+Теперь все хотят такие: трендовые джинсы 2023 как у Насти Ивлеевой
+</a>
+</div>
+<div class="mpli-announce bw">Мы знаем, где есть похожие, но значительно дешевле.</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное">
+<span data-to="https://www.yapokupayu.ru/blogs/post/20-samyh-ozhidaemyh-filmov-2023-polnyy-spisok-k-prosmotru">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/469_medium.jpg?1675922357" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное" data-to="https://www.yapokupayu.ru/blogs/post/20-samyh-ozhidaemyh-filmov-2023-polnyy-spisok-k-prosmotru">
+<span class="published-at">09 февраля 12:14</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a class="mpli-rubric-link" href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title mt10 js-stat-show">
+<a class="js-ga-link" data-ga-action="Клик по посту" data-ga-category="Главная" data-ga-label="Новости - популярное" data-id="87092" href="https://www.yapokupayu.ru/blogs/post/20-samyh-ozhidaemyh-filmov-2023-polnyy-spisok-k-prosmotru">
+20 самых ожидаемых фильмов 2023: полный список к просмотру
+</a>
+</div>
+<div class="mpli-announce bw">Грядущий киносезон обещает порадовать новинками. </div>
+</li>
+
+</ul>
+</div>
+<div class="all-posts-container" id="all-posts">
+<div class="wrap-head-new-posts">
+<div class="head-new-posts">
+<span class="title">Все статьи</span>
+</div>
+</div>
+<ul class="blog-posts-list js-blog-posts-list">
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/eti-8-pomad-stali-nashimi-favoritami-byuti-reyd-redaktsii-yapokupayu">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/313/026_medium.png?1676639426" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/eti-8-pomad-stali-nashimi-favoritami-byuti-reyd-redaktsii-yapokupayu">
+<span class="published-at">20 февраля 13:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/krasota/makiyazh">Макияж</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87265" href="https://www.yapokupayu.ru/blogs/post/eti-8-pomad-stali-nashimi-favoritami-byuti-reyd-redaktsii-yapokupayu">Эти 8 помад стали нашими фаворитами: большой тестинг редакции ЯПокупаю</a>
+<div class="mpli-announce bw">И теперь они у всех на устах!</div>
+</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/krasivye-platki-kak-nosit-v-vide-sharfa-ili-golovnogo-ubora">
+<img alt="" class="lazypic " data-original="https://st14.styapokupayu.ru/images/blog_posts/covers/000/211/780_medium.jpg?1582691004" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/krasivye-platki-kak-nosit-v-vide-sharfa-ili-golovnogo-ubora">
+<span class="published-at">20 февраля 12:00</span>
+</span>
+<span class="comments-count dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/krasivye-platki-kak-nosit-v-vide-sharfa-ili-golovnogo-ubora#comment" title="комментировать">
+8
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/moda/stil">Стиль</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="57771" href="https://www.yapokupayu.ru/blogs/post/krasivye-platki-kak-nosit-v-vide-sharfa-ili-golovnogo-ubora">Красивые платки: как и с чем носить, чтобы выглядеть роскошно</a>
+<div class="mpli-announce bw">Всего несколько способов, как носить платок – и наш образ будет изысканным каждый день!</div>
+</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/radi-prostolyudinki-izmenil-zakony-istoriya-lyubvi-korolevy-shvetsii-silvii-i-karla-gustava">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/313/045_medium.png?1676640719" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/radi-prostolyudinki-izmenil-zakony-istoriya-lyubvi-korolevy-shvetsii-silvii-i-karla-gustava">
+<span class="published-at">20 февраля 11:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/novosti/zvezdy">Звезды</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87271" href="https://www.yapokupayu.ru/blogs/post/radi-prostolyudinki-izmenil-zakony-istoriya-lyubvi-korolevy-shvetsii-silvii-i-karla-gustava">Ради простолюдинки изменил законы: история любви королевы Швеции Сильвии и Карла Густава</a>
+<div class="mpli-announce bw">Она оказалось достойной правительницей.</div>
+</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/askeza-na-ispolnenie-zhelaniya-kak-rabotaet-i-kak-pravilno-brat">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/663_medium.png?1676623862" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/askeza-na-ispolnenie-zhelaniya-kak-rabotaet-i-kak-pravilno-brat">
+<span class="published-at">20 февраля 11:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/life/psihologiya">Психология</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87153" href="https://www.yapokupayu.ru/blogs/post/askeza-na-ispolnenie-zhelaniya-kak-rabotaet-i-kak-pravilno-brat">Аскеза на исполнение желания: тренируем силу воли за 30 дней, чтобы мечта осуществилась</a>
+<div class="mpli-announce bw">Если у вас есть характер, то и желание обязательно сбудется!</div>
+</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/5-krutyh-idey-dlya-malenkih-kvartir-kotorye-perevernut-vashe-predstavlenie-ob-uyute-s-nog-na-golovu">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/428_medium.jpg?1676294091" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/5-krutyh-idey-dlya-malenkih-kvartir-kotorye-perevernut-vashe-predstavlenie-ob-uyute-s-nog-na-golovu">
+<span class="published-at">20 февраля 10:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/dom/sovety">Советы</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87076" href="https://www.yapokupayu.ru/blogs/post/5-krutyh-idey-dlya-malenkih-kvartir-kotorye-perevernut-vashe-predstavlenie-ob-uyute-s-nog-na-golovu">Перевернули представление об уюте с ног на голову: 5 крутых идей для маленьких квартир</a>
+<div class="mpli-announce bw">Компактно жить не запретишь!</div>
+</div>
+</li>
+<li class="main-post-list-item js-main-post-item">
+<div class="mpli-cover-statistic js-stat-show">
+<div class="mpli-cover">
+<span data-to="https://www.yapokupayu.ru/blogs/post/zrya-potratilis-n-bespoleznyh-veschey-kotorye-lish-zahlamlyayut-dom">
+<img alt="" class="lazypic " data-original="https://st27.styapokupayu.ru/images/blog_posts/covers/000/312/269_medium.jpg?1676375446" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+</span>
+</div>
+<span class="mpli-statistic dn js-stat" data-to="https://www.yapokupayu.ru/blogs/post/zrya-potratilis-n-bespoleznyh-veschey-kotorye-lish-zahlamlyayut-dom">
+<span class="published-at">20 февраля 09:00</span>
+</span>
+</div>
+<div class="mpli-rubric">
+<a href="https://www.yapokupayu.ru/blogs/rubric/dom/sovety">Советы</a>
+</div>
+<div class="mpli-title js-stat-show">
+<a data-id="87023" href="https://www.yapokupayu.ru/blogs/post/zrya-potratilis-n-bespoleznyh-veschey-kotorye-lish-zahlamlyayut-dom">Зря потратились: 5 вещей в доме, от которых никакой пользы </a>
+<div class="mpli-announce bw">Проверено горьким опытом!</div>
+</div>
+</li>
+
+</ul>
+</div>
+<div class="more-posts"><a class="more-posts-button js-more-posts-button js-ga-visible-block js-ga-link js-ga-load-more" data-ga-action="Клик по кнопке" data-ga-category="Главная" data-ga-label="Загрузить еще" data-ga-show-action="Показ кнопки" data-ga-show-type="single" data-page="2">Загрузить еще</a></div>
+</section>
+<script>
+  app.config.mainPage = {
+    url: "https://kazan.yapokupayu.ru/posts_ajax",
+    showNoticePopup: false
+  };
+</script>
+
+
+</div>
+</div>
+<footer id="no-addfox-clickable">
+<div class="about-portal-main">
+	<p class="apb-head">
+		О портале &laquo;Я Покупаю&raquo;</p>
+	<p class="apb-text">
+		Я Покупаю — модный женский журнал, единственный в России шопинг-гид по товарам и услугам, где гармонично объединяются экспертные статьи и платформа для умного шопинга.</p>
+</div>
+<div class="base-width clearfix">
+<div class="f-logo">
+<noindex>
+<div class="footer-logo-wrapper">
+<span class="fl-logo logo-head" data-to="https://kazan.yapokupayu.ru" rel="nofollow"><img alt="Портал «Я Покупаю». Смотри и покупай" src="https://www.yapokupayu.ru/assets/data_uri/yapokupayu_logos-6587b4c1e54cb1c55206a791cb742f64.svg"></img>
+</span></div>
+</noindex>
+<div class="f-phone">
+Техподдержка
+<strong class="fp-phone">8-800-700-01-66</strong>
+<div class="fp-info">с 7.00 до 16.00<br>(время московское)</div>
+<span>
+<a href="mailto:support@yapokupayu.ru">support@yapokupayu.ru</a>
+</span>
+<br>
+По вопросам сотрудничества
+<br>
+<span>
+<a href="mailto:ads@yapokupayu.ru">ads@yapokupayu.ru</a>
+</span>
+<br>
+<p class="mt5">
+	Email: <span>kazan.yapokupayu@outlook.com</span><br />
+	Администрация: <a class="footer-info__telephone" href="tel:+78432150032">+7 843 215-00-32</a></p>
+
+</div>
+<div class="f-social-links">
+<span class="fsl-text">Присоединяйтесь к нашим группам!</span>
+<div class="js-ga-social-network-links" data-ga-category="Футер" data-ga-label="Соцсети">
+<div class="social-networks_old">
+<div class="social-networks">
+<span class="social-networks__item social-networks__item_mail" data-ga-action="subscription" data-to="https://www.yapokupayu.ru/subscribe" target="_blank"></span>
+<span class="social-networks__item social-networks__item_vk" data-ga-action="VK" data-to="https://vk.com/yapokru"
+target="_blank"></span>
+<span class="social-networks__item social-networks__item_telegram" data-ga-action="TG"
+data-to="https://t.me/yapokshopping" target="_blank"></span>
+<span class="social-networks__item social-networks__item_yandex-zen" data-ga-action="yandex-zen"
+data-to="https://zen.yandex.ru/yapokupayu.ru" target="_blank"></span>
+<span class="social-networks__item social-networks__item_odnoklassniki" data-ga-action="OK"
+data-to="http://www.odnoklassniki.ru/yapokru" target="_blank"></span>
+<span class="social-networks__item social-networks__item_pinterest" data-ga-action="PT"
+data-to="https://www.pinterest.ru/YaPokupayu/" target="_blank"></span>
+</div>
+</div>
+</div>
+
+</div>
+<div class="mt10 ml10">
+<a class="fas-link js-change-site-version" data-mobile-version="1" href="#">Мобильная версия сайта</a>
+</div>
+</div><div class="f-column f-column-1"><div class="fl-head">О нас</div>
+<div class="f-links js-f-portal-links">
+<div class="fl-item">
+<span class="fli-link" data-to="https://www.yapokupayu.ru/about">О проекте «Я Покупаю»</span></div>
+<div class="fl-item">
+<span class="fli-link" data-to="https://www.yapokupayu.ru/about/franchise">Франшиза</span></div>
+<div class="fl-item">
+<span class="fli-link" data-to="https://www.yapokupayu.ru/about/contact">Контакты</span></div>
+<div class="fl-item">
+<span class="fli-link" data-target="_blank" data-to="https://kazan.yapokupayu.ru/opinion?from_url=https%3A%2F%2Fkazan.yapokupayu.ru%2Fproducts%2Fgrafin_black_blum_eau_good_800_ml_24257232">Сообщить об ошибке</span></div>
+<div class="fl-item">
+<span class="fli-link" data-target="_blank" data-to="https://www.yapokupayu.ru/go?to=https%3A%2F%2Fwww.yapokupayu.ru%2Fterms">Пользовательское соглашение</span></div>
+<div class="fl-item">
+<span class="fli-link" data-target="_blank" data-to="https://www.yapokupayu.ru/about/conf">Политика конфиденциальности</span></div>
+<div class="fl-item dn">
+<span class="fli-link" data-target="_blank" data-to="https://www.yapokupayu.ru/yapokupayu.rss"><span class="translation_missing" title="translation missing: ru.footer.rss">Rss</span></span></div>
+<div class="fl-item dn">
+<span class="fli-link" data-target="_blank" data-to="https://www.yapokupayu.ru/yapokupayu-yandex-zen-rss.xml"><span class="translation_missing" title="translation missing: ru.footer.yandex-zen">Yandex Zen</span></span></div>
+</div></div><div class="f-column f-column-2"><p class="fl-head">Продавцам</p>
+<div class="f-links">
+<div class="fl-item">
+<span class="bright-link-" data-to="https://www.yapokupayu.ru/firms/new">+ Открыть онлайн-бутик (бесплатно)</span></div>
+<div class="fl-item">
+<span class="bright-link-" data-to="https://www.yapokupayu.ru/firms/new?type=product">+ Добавить свои товары/услуги (бесплатно)</span></div>
+<div class="fl-item">
+<span class="bright-link- " data-to="https://www.yapokupayu.ru/firms/new" data-url="false">+ Добавить акцию или распродажу (бесплатно)</span></div>
+<div class="fl-item">
+<span class="fli-link" data-to="https://www.yapokupayu.ru/about/SG_oferta">Договор-оферта</span></div>
+</div></div><div class="f-column f-column-3"><div class="fl-head">Покупателям</div>
+<div class="f-links">
+<div class="fl-item">
+<span class="fli-link" data-to="https://www.yapokupayu.ru/about/how-order">Как заказывать на портале</span></div>
+<div class="fl-item">
+<span class="fli-link" data-to="https://www.yapokupayu.ru/about/shipping-payment">Доставка и оплата</span></div>
+</div></div><div class="footer-last-row">
+<noindex>
+<div class="fl">
+<div class="f-counters">
+<div class="js-liveinternet">
+<script>
+  timerCounter = setTimeout(function() {
+    var counter = document.getElementById('li-counter');
+    if (!counter.complete) {
+      counter.src = '';
+    }
+  }, 1000);
+  document.querySelector('.js-liveinternet').insertAdjacentHTML('beforeend',
+    "<a href='//www.liveinternet.ru/click;lookmart' "+
+    "target=_blank><img id=\"li-counter\" onload=\"clearTimeout(timerCounter)\" src='//counter.yadro.ru/hit;lookmart?t44.2;r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";"+Math.random()+
+    "' alt='' title='LiveInternet' "+
+    "border='0' width='31' height='31'><\/a>"
+  );
+</script>
+
+</div>
+<div class="dn">
+<!-- /Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/visits?id=2440122" target="_blank">
+<img alt="Рейтинг@Mail.ru" border="0" class="js-external-image" data-src="//top-fwz1.mail.ru/counter?id=2440122;t=280;l=1" height="31" width="38"></img>
+</a>
+<!-- /Rating@Mail.ru counter -->
+<script>
+  var _tmr = _tmr || [];
+  _tmr.push({id: "2440122", type: "pageView", start: (new Date()).getTime()});
+  (function (d, w) {
+     var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+     ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+     var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+     if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+  })(document, window);
+</script>
+<noscript>
+<!-- /Rating@Mail.ru counter -->
+<div style="position: absolute; left: -10000px;">
+<img alt="Рейтинг@Mail.ru" border="0" class="js-external-image" data-src="//top-fwz1.mail.ru/counter?id=2440122;js=na" height="1" width="1"></img>
+</div>
+</noscript>
+
+</div>
+<script>
+  window.addEventListener('load', function() {
+    (function(m,e,t,r,i,k,a){
+      m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();k=e.createElement(t),
+      a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}
+    )(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(7983607, "init", {
+      id:7983607,
+      clickmap:true,
+      trackLinks:true,
+      accurateTrackBounce:true,
+      webvisor:true
+    });
+  });
+</script>
+<noscript>
+  <div>
+    <img src="https://mc.yandex.ru/watch/7983607" style="position:absolute; left:-9999px;" alt="" />
+  </div>
+</noscript>
+
+</div>
+
+</div>
+</noindex><div class="fcw-age">16+</div><br>
+<div class="f-rights">
+Любое использование материалов портала без согласования с редакцией запрещено
+</div><p class="f-text apress-projects-links">©
+&nbsp;ООО «ИнтерСервис Медиа». Адрес: 620014, г. Екатеринбург, улица Радищева, стр. 23, пом. 123</p></div>
+</div>
+</footer>
+<script>
+  app.config.footer = {
+    url: "https://www.yapokupayu.ru/blog_signup"
+  };
+</script>
+
+</div>
+<div class="popup" id="password-reset">
+<table>
+<tr>
+<td class="p-body">
+<div class="p-pad">
+<form accept-charset="UTF-8" accept-encoding="UTF-8" action="https://kazan.yapokupayu.ru/users/password" method="post" onsubmit="formSubmitter.disableButtons(this, null, null);"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sANckeNWF+P/ruffNfbpqRptYkEkhz0aS/8gIjhxwto=" /></div><fieldset class="str uf-large" id="cpform_email_field">
+<input class="uf-t" id="password_email" name="password[email]" size="30" type="text" />
+</fieldset>
+<fieldset class="subm">
+<span class="uf-submit"><input class="ufs-but" name="commit" type="submit" value="Отправить" /></span>
+</fieldset>
+<div class="p-links">
+<span id="or_word_in_newpasswform"></span>
+<span id="enter_in_newpasswform"></span>
+</div>
+</form>
+
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+<div class="popup unsub" id="popup-container">
+<div class="p-body">
+<div class="p-pad" id="popup-content"></div>
+</div>
+</div>
+
+<div class="js-dialog-popup-box"></div>
+
+<script>
+  
+</script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/package/base-bd0cfcca37fae0b1809db712c34d554a.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/desktop/base-798093885bdc12cae2d4.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/package/section/portal_base-39eb9632c65bafcbccdc8c27dc8977c4.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/section/portal_base-2c66ef1435ff717119cc.js" type="text/javascript"></script>
+
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/blocks/button-back-to-top-ce5ab27291234f2fe292.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/desktop/data-tables-be16ff7ea25051289c5c.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/package/page/root_page-b5ce79c942d52eeda63a5bed7b1b6a6c.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/page/root_page-f7b80d55598dd2d88976.js" type="text/javascript"></script>
+
+
+
+
+
+  <script>
+    app.config.confirmationRegionPopup = {
+      url: "https://kazan.yapokupayu.ru/ajax/region_selector?save_path=false&save_path_with_region=false"
+    };
+  </script>
+<script>
+  app.modules.toolbar = app.modules.toolbar || {};
+  app.modules.toolbar.load = function() {
+    function add_toolbar_return_path(element, path) {
+      if (element && element.length) element.attr('href', path);
+    }
+  
+    function add_toolbar_return_paths() {
+      add_toolbar_return_path($('.js-toolbar-sign-in-link'), 'https://www.yapokupayu.ru/users/session/request?return_to=return_to_url'.replace(/return_to_url/, window.location.href));
+      add_toolbar_return_path($('.js-toolbar-sign-up-link'), 'https://www.yapokupayu.ru/users/new?return_to=return_to_url'.replace(/return_to_url/, window.location.href));
+  
+      add_toolbar_return_path($('.js-ssodomain-signin-link'), "https://www.yapokupayu.ru/login?return_to=https%3A%2F%2Fkazan.yapokupayu.ru%2F");
+      add_toolbar_return_path($('.js-ssodomain-signup-link'), "https://www.yapokupayu.ru/signup");
+    }
+  
+    $.ajax({
+      url: "https://kazan.yapokupayu.ru/ajax/toolbar?is_portal_page=true&return_to=https%3A%2F%2Fkazan.yapokupayu.ru%2F",
+      success: function(response) { $('#toolbar').html(response) },
+      complete: function() {
+        add_toolbar_return_paths();
+      }
+    });
+  };
+</script>
+<script>
+  app.config.blogMenuWithRubric = {
+    url: "https://kazan.yapokupayu.ru/ajax/navigation_bar?blog_rubric_id=&region_id=157&type="
+  };
+</script>
+<script>
+  window.app.i18n = window.app.i18n || {};
+  window.app.i18n['user_cart.in_cart']= "\u0412\u044b \u0434\u043e\u0431\u0430\u0432\u0438\u043b\u0438 \u0432 \u043a\u043e\u0440\u0437\u0438\u043d\u0443:";
+  window.app.i18n['user_cart.goto']= "\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 \u043a\u043e\u0440\u0437\u0438\u043d\u0443";
+  window.app.i18n['views.apress.visited_products.title']= "\u0412\u044b \u0441\u043c\u043e\u0442\u0440\u0435\u043b\u0438";
+</script>
+<script>
+  window.app.i18n = window.app.i18n || {};
+  window.app.i18n['controllers.company_settings.template.attention_head']= "\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435!";
+  window.app.i18n['controllers.company_settings.template.confirmed_for_editing']= "\u0412\u044b \u0432\u044b\u0434\u0435\u043b\u0438\u043b\u0438 \u0434\u043b\u044f \u0440\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f";
+  window.app.i18n['controllers.company_settings.template.number_of_goods']= "N \u0442\u043e\u0432\u0430\u0440\u0430(\u043e\u0432).";
+  window.app.i18n['controllers.company_settings.template.data_loss']= "\u041f\u0440\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0435 \u043d\u0430 \u0434\u0440\u0443\u0433\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0432\u0441\u0435 \u0432\u044b\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0431\u0443\u0434\u0443\u0442 \u043f\u043e\u0442\u0435\u0440\u044f\u043d\u044b.";
+  window.app.i18n['controllers.company_settings.template.move_another_page']= "\u0412\u044b \u0442\u043e\u0447\u043d\u043e \u0445\u043e\u0442\u0438\u0442\u0435 \u0443\u0439\u0442\u0438 \u0441\u043e \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u044b?";
+  window.app.i18n['controllers.company_settings.template.back_to_editing']= "\u2190 \u0412\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043a \u0440\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e";
+  window.app.i18n['controllers.company_settings.template.proceed']= "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c \u2192";
+</script>
+
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/blocks/user-registration-741fcb654f5d1047bc51.js" type="text/javascript"></script>
+<script defer="defer" src="https://www.yapokupayu.ru/assets/packs/lookmart/assets/desktop/base-798093885bdc12cae2d4.js" type="text/javascript"></script>
+<script>
+  app.modules.main = app.modules.main || {};
+  app.modules.main.load = function() {
+    autocompleteSearch('/search_hints/suggestions');
+  popupsActivity({
+    closeWord: "\u0417\u0430\u043a\u0440\u044b\u0442\u044c",
+    changePasswordHead: "\u0421\u043c\u0435\u043d\u0430 \u043f\u0430\u0440\u043e\u043b\u044f",
+    registerWord: "\u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f",
+    enterWord: "\u0432\u043e\u0439\u0442\u0438",
+    enterUrl: "https://www.yapokupayu.ru/login?return_to=https%3A%2F%2Fkazan.yapokupayu.ru%2F",
+    orWord: "\u0438\u043b\u0438"
+  });
+  
+  
+    
+  
+    
+  };
+</script>
+
+<script type='text/javascript'>
+  app.config.backToTop = {
+    disabled: "false",
+    buttonText: "Наверх"
+  }
+</script>
+
+<script>
+  app.config.lookmartRecaptcha = {
+    siteKey: "6Ld_hNUZAAAAALZ4Nb7_o0NZaUeQVtMU4kCw10zX",
+  }
+  
+  window.app.i18n = window.app.i18n || {};
+  window.app.i18n['errors.common_error']= "\u0427\u0442\u043e-\u0442\u043e \u043f\u043e\u0448\u043b\u043e \u043d\u0435 \u0442\u0430\u043a. \u041e\u0431\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0438 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0435\u0449\u0435 \u0440\u0430\u0437";
+</script>
+</body>
+</html>

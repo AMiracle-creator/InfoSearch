@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=100%, maximum-scale=1.0, user-scalable=yes"><link rel="shortcut icon" type="image/x-icon" href="//bloknot-volgodonsk.ru/bitrix/templates/bloknot/favicon.ico"><link rel="preload" href="//bloknot.ru/static/new20160310/fonts/PFDinTextCondPro-Regular.ttf" as="font" type="font/woff2" crossorigin><link rel="preload" href="//bloknot.ru/static/new20160310/fonts/glyphicons-halflings-regular.ttf" as="font" type="font/woff2" crossorigin><link rel="preload" href="//bloknot.ru/static/new20160310/fonts/PFDinTextCondPro-Medium.ttf" as="font" type="font/woff2" crossorigin><link rel="preload" href="//bloknot.ru/static/new20160310/fonts/AdonisC-Bold_gdi.ttf" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="//bloknot.ru/static/new20160310/stylesheets/main.css?ver=20211118_11" media="screen" rel="preload" as="style"><meta name="robots" content="index, follow"><title>Блокнот Главная</title> <meta name="keywords" content="Новости бизнеса, политики, культуры и спорта России и Мира. " />
+<meta property="og:image" content="" /><link rel="image_src" href="" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Блокнот Главная Новости России и Мира"/>
+<link rel="canonical" href="https://bloknot.ru/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Блокнот Главная" />
+<meta property="og:description" content="Блокнот Главная Новости России и Мира" />
+<meta property="og:url" content="https://bloknot.ru/" />
+<meta property="og:site_name" content="Блокнот Россия" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:domain" content="Блокнот Россия"/>
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "https://bloknot.ru/", "potentialAction": { "@type": "SearchAction", "target": "https://bloknot.ru/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bloknot.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://bloknot.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://bloknot.ru/wp-content/plugins/wp-quiz/assets/frontend/css/animate.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-quiz-css'  href='https://bloknot.ru/wp-content/plugins/wp-quiz/assets/frontend/css/wp-quiz.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://bloknot.ru/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://bloknot.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbloknot.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bloknot.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbloknot.ru%2F&#038;format=xml" />
+<meta name='yandex-verification' content='5d3cabc532ca4657' /><meta name="google-site-verification" content="nBxvRmGrDblGYtHaMcbhLKHKT_M-pyXd3Gv3Se8b0a0" /><meta name="google-site-verification" content="3--fH_brsQBmHbiqsuyzNZH5FutWBvSb7oAlPFZDZ0M" /><meta name="yandex-verification" content="f3f8a25ea2cb7b4b" /><meta name="yandex-verification" content="15b6d1e5470687b0" /><meta name="yandex-verification" content="eb2b4a71ebf1bb33" /><meta name="yandex-verification" content="5d3cabc532ca4657" />
+
+<meta name="twitter:site" content="@bloknotnews">
+<meta name="twitter:creator" content="@bloknotnews">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Главная">
+
+<meta name="twitter:description" content="Блокнот Главная Новости России и Мира">
+
+<meta name="twitter:image:src" content="//bloknot.ru/static/images/logo_color3.png">
+<meta name="twitter:image:width" content="435">
+<meta name="twitter:image:height" content="375">
+<meta name="yandex-verification" content="ef31ec3c219a89f5" />
+<meta name="verify-admitad" content="5c268f121f" />
+<script data-ad-client="ca-pub-7997254372407610" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!--LiveInternet counter--><script>
+new Image().src = "https://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+<body>
+<div class="bodys">
+<script src="//bloknot.ru/static/new20160310/js/jquery.min.js" rel="preload" as="script"></script>
+
+    <div class="banner banner_horizontal banner_horizontal--full" onclick="yaCounter24396565.reachGoal('recl_p_1'); return true;" style="background:#000!important;"  >
+<div style="min-width: 1147px;  max-width: 1380px;  margin: 0 auto;">
+</div>
+</div>
+
+<div class="header-wrapper"><div class="header"><div class="header__logo"><a href="/" class="link header__logo-link"><img class="image_logo-header" src="//bloknot.ru/static/images/logo_color3.png" alt="Блокнот"></a></div><div class="header__choose-city"><div style='display:none'><div id='chosecity' class="citychoose">
+<div class="inner">
+<noindex>
+					<style>
+						.citychoose {
+							height: 444px;
+							width: auto;
+						}
+						.citychoose .realcitychoose {
+							position: static;
+							width: 785px;
+						}
+						.citychoose .realcitychoose a {
+							font: bold 19px/17px Arial, Helvetica;
+							margin: 4px 0 0 2px;
+							padding: 17px 13px;
+							width: 164px;
+						}
+						.realcitychoose__cities {
+							align-content:space-between;
+							display:flex;
+							flex-direction:column;
+							flex-wrap: wrap;
+							height: 405px;
+						}
+						@media (max-width: 1190px) {
+							.citychoose {
+								height: 1335px;
+								padding: 0;
+								width:100%;
+								max-width: 1000px;
+							}
+							.citychoose .realcitychoose a {
+								font: bold 34px/31px Arial, Helvetica;
+								margin: 10px 0 0 10px;
+								padding: 30px 23px;
+								width: 480px;
+							}
+							.citychoose .realcitychoose {
+								position: static;
+								width: 100%;
+							}
+							.realcitychoose__cities {
+								align-content:space-between;
+								display:flex;
+								flex-direction:column;
+								flex-wrap: wrap;
+								height: 1250px;
+							}
+							.citychoose .realcitychoose h3 {
+								background: url('//bloknot-volgodonsk.ru/bitrix/templates/bloknot/styles/images/design_atlas.png') 0px -132px repeat;
+								font: bold 34px/34px 'DINPro';
+								height: 70px;
+								padding: 24px 0 0 30px;
+								margin-left:12px;
+								/*width: 100%;*/
+								width:1038px;
+							}
+						}
+					</style>
+<div class="realcitychoose"><h3>Выбрать другой город:</h3><div class="realcitychoose__cities"><a href="//bloknot.ru" rel="nofollow" target="_blank">Россия</a><a href="//bloknot-moldova.ru/" rel="nofollow" target="_blank">Молдова</a><a href="//bloknotanapa.ru/" rel="nofollow" target="_blank">Анапа</a><a href="//bloknot-astrakhan.ru/" rel="nofollow" target="_blank">Астрахань</a><a href="http://borisoglebsk.bloknot-voronezh.ru/" rel="nofollow" target="_blank">Борисоглебск</a><a href="//bloknot-volgograd.ru" rel="nofollow" target="_blank">Волгоград</a><a href="//bloknot-volgodonsk.ru" rel="nofollow" target="_blank">Волгодонск</a><a href="//bloknot-volzhsky.ru" rel="nofollow" target="_blank">Волжский</a><a href="//bloknot-voronezh.ru" rel="nofollow" target="_blank">Воронеж</a><a href="http://bloknot-gelendzhik.ru/" rel="nofollow" target="_blank">Геленджик</a><a href="//bloknot-donetsk.ru/" rel="nofollow" target="_blank">Донецк</a><a href="http://bloknot-kamyshin.ru" rel="nofollow" target="_blank">Камышин</a><a href="//bloknot-krasnodar.ru" rel="nofollow" target="_blank">Краснодар</a><a href="//bloknot-krymska.ru/" rel="nofollow" target="_blank">Крымск</a><a href="//bloknotlipetsk.ru/" rel="nofollow" target="_blank">Липецк</a><a href="//bloknot-lugansk.ru/" rel="nofollow" target="_blank">Луганск</a><a href="http://bloknot-morozovsk.ru/" rel="nofollow" target="_blank">Морозовск</a><a href="//bloknot-novorossiysk.ru/" rel="nofollow" target="_blank">Новороссийск</a><a href="//bloknot-rostov.ru" rel="nofollow" target="_blank">Ростов-на-Дону</a><!--<a href="http://rossosh.bloknot-voronezh.ru/" rel="nofollow" target="_blank">Россошь</a>--><!--<a href="https://bloknot-rossosh.ru/" rel="nofollow" target="_blank">Россошь</a>--><a href="//bloknot-taganrog.ru" rel="nofollow" target="_blank">Таганрог</a><a href="//bloknottambov.ru/" rel="nofollow" target="_blank">Тамбов</a><a href="//bloknot-samara.ru/" rel="nofollow" target="_blank">Самара</a><a href="//bloknotsaratov.ru/" rel="nofollow" target="_blank">Саратов</a><a href="//bloknot-stavropol.ru" rel="nofollow" target="_blank">Ставрополь</a><a href="//bloknotsochi.ru/" rel="nofollow" target="_blank">Сочи</a><a href="//bloknot-shakhty.ru/" rel="nofollow" target="_blank">Шахты</a></div></div></noindex></div></div></div>	
+<div class="ourcity" ><a href="#chosecity" class="link chosecity cityicon"><span class="icon icon_share g-left"></span><span class="icon icon_share_after g-left"></span><span class="header__choose-city--name chosecity cityicon">Россия</span></a></div>
+<span class="header__choose-city--now-time">18:49,  20 февраля</span></div>
+<div class="search-wrapper"><form class="search__form g-right" role="search" method="get" action="https://bloknot.ru/"><span class="icon search--triangle"></span><div class="header__search"><div class="header__search--wrapper"><div class="header__search--head text_small font_darken-gray">Поиск новостей:</div><input type="text" value="" name="s" id="s" class="search__input"></div>
+<div class="search__button"><button type="submit" id="topsubmit" class="search--icon"><span class="icon glyphicon glyphicon-search icon_xlarge"></span></button></div></div></form></div></div></div>
+
+<div class="nav-wrapper"><nav class="nav row"><ul class="nav__list"><li class="nav__item nav__item--first"><a href="/" class="link link_nav link_nav_icon"><span class="glyphicon glyphicon-home text_xsmall-icon"></span></a></li><li class="nav__item"><a href="#" id="dropdownParent" class="link link_nav">Меню</a><ul class="nav__list nav__list--second nav-first__dropdown"><li class="nav__item nav__item--first"><a href="/category/bloknot-puteshestvennika" class="link link_nav link_nav_second">Блокнот Путешественника</a></li><li class="nav__item nav__item--first"><a href="/tag/viktorina" class="link link_nav link_nav_second">Викторины</a></li><li class="nav__item nav__item--first"><a href="/category/politika" class="link link_nav link_nav_second">Политика</a></li><li class="nav__item nav__item--first"><a href="/category/e-konomika" class="link link_nav link_nav_second">Экономика</a></li><li class="nav__item nav__item--first"><a href="/category/chp" class="link link_nav link_nav_second">ЧП</a></li><li class="nav__item nav__item--first"><a href="/category/v-mire" class="link link_nav link_nav_second">В мире</a></li><li class="nav__item nav__item--first"><a href="/category/obshhestvo" class="link link_nav link_nav_second">Общество</a></li><li class="nav__item nav__item--first"><a href="/category/kul-tura" class="link link_nav link_nav_second">Культура</a></li><li class="nav__item nav__item--first"><a href="/category/nauka" class="link link_nav link_nav_second">Наука</a></li><li class="nav__item nav__item--first"><a href="/tag/kalendar" class="link link_nav link_nav_second">Календарь</a></li><li class="nav__item nav__item--first"><a href="/category/regiony" class="link link_nav link_nav_second">Регионы</a></li><li class="nav__item nav__item--first"><a href="/category/sport" class="link link_nav link_nav_second">Спорт</a></li><li class="nav__item nav__item--first"><a href="/category/avtomobili-2" class="link link_nav link_nav_second">Авто</a></li><li class="nav__item nav__item--first"><a href="/category/interv-yu" class="link link_nav link_nav_second">Интервью</a></li></ul></li><li class="nav__item"><a href="/category/kul-tura/shou-biz" class="link link_nav" ><img src="/wp-content/themes/srg/img/zvezda_2_50.png" height="27px" style="float:left; margin-right:10px; margin-top:-6px;">ШОУБИЗ</a></li><li class="nav__item"><a href="/category/sdelano-v-rossii" class="link link_nav" ><img src="/wp-content/themes/srg/img/flag.png" height="27px" style="float:left; margin-right:10px; margin-top:-6px;">СДЕЛАНО В РОССИИ</a></li></ul></nav><nav class="nav row nav-second"><ul id="secondNavigationBar" class="nav__list nav__list--second"><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/ukraina" class="link link_nav link_nav_second">Спецоперация на Украине</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/mobilizatsiya" class="link link_nav link_nav_second">мобилизация</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/zakony-2" class="link link_nav link_nav_second">новые законы</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/category/obrashhenie-v-redaktsiyu" class="link link_nav link_nav_second">Обращение в редакцию</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/kalendar" class="link link_nav link_nav_second">Календарь</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/korruptsiya" class="link link_nav link_nav_second">БОРЬБА С КОРРУПЦИЕЙ</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/py-tki" class="link link_nav link_nav_second">пытки</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/sanktsii-protiv-rossii" class="link link_nav link_nav_second">Санкции против России</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/kur-ezy" class="link link_nav link_nav_second">Курьезы</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/kurs-rublya" class="link link_nav link_nav_second">РУБЛЕВЫЕ СКАЧКИ</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/migranty-atakuyut-evropu" class="link link_nav link_nav_second">мигранты атакуют Европу</a></li><li class="nav__item nav__item--second"><a href="https://bloknot.ru/tag/konflikt-rossii-i-ssha" class="link link_nav link_nav_second">Конфликт России и США</a></li></ul><span id="navigationDropdown" class="nav__item nav__item--second nav__item--still" style="display:none"><a href="#" class="link link_nav link_nav_second">Еще</a><ul class="nav-second__dropdown"></ul></span></nav></div><style>.nav-first__dropdown{left:0;}</style>
+<div class="main"><div class="row"><div class="main-wrapper">
+
+    <div class="news-feed_wrapper">
+
+<div class="banner banner_vertical banner--transparent" id="banner-v3">
+<div onclick="yaCounter24396565.reachGoal('recl_p_3'); return true;">
+
+
+
+<div id="adfox_151852900215518817"></div>
+
+</div>
+</div> 	
+	
+      <div class="news-feed__head">
+  Лента новостей
+</div>
+<div class="news-feed">
+   <div class="news-feed__gradient"></div>
+  <div class="news-feed__items"><div class="news-feed__item"><div class="label_time text_middle">18:39<!--1676907551--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obshhestvo/glava-leningradskoj-oblasti-predlozhil-chinovnikam-hodit-na-oznakomitel-ny-e-e-kskursii-v-tyur-mu-1064271.html" class="link link_feed">Глава Ленинградской области предложил чиновникам ходить на «ознакомительные экскурсии» в тюрьму</a></div></div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/v-mire/e-to-vsyo-inoplanetyane-v-ssha-zreet-teoriya-zagovora-iz-za-mnogochislenny-h-himicheskih-avarij-1064272.html" class="link link_feed"target="_top"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/a-man-in-a-chemical-suit-and-a-gas-mask-on-the-background-of-a-burning-train-its-all-aliens-a-con--300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/a-man-in-a-chemical-suit-and-a-gas-mask-on-the-background-of-a-burning-train-its-all-aliens-a-con--300x180.jpg" alt="Это всё инопланетяне: в США зреет теория заговора из-за многочисленных химических аварий" class="image_feature"></div><div class="label_time text_middle">18:36</div><div class="feed__text">Это всё инопланетяне: в США зреет теория заговора из-за многочисленных химических аварий</div></a></div><div class="news-feed__item"><div class="label_time text_middle">18:23<!--1676906627--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/sport/plyushhenko-podderzhal-vy-stuplenie-rossijskih-sportsmenov-na-olimpiade-v-unizitel-nom-statuse-1064264.html" class="link link_feed">Плющенко поддержал выступление российских спортсменов на Олимпиаде в унизительном статусе</a></div></div><div class="news-feed__item"><div class="label_time text_middle">18:00<!--1676905202--></div><div class="label_photo text_small">шоубиз</div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/pevitsa-hanna-rasskazala-vo-skol-ko-ej-oboshlis-vtory-e-rody-v-dubae-1064083.html" class="link link_feed">Певица Ханна рассказала, во сколько ей обошлись вторые роды в Дубае</a></div></div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/v-mire/deputat-svetlana-zhurova-davajte-chestno-rossiyu-pol-sha-vsegda-lyubila-men-she-1064245.html" class="link link_feed"target="_top"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/b18-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/b18-300x180.jpg" alt="Депутат Светлана Журова: «Давайте честно — Россию Польша всегда любила меньше»" class="image_feature"></div><div class="label_time text_middle">17:24</div><div class="feed__text">Депутат Светлана Журова: «Давайте честно — Россию Польша всегда любила меньше»</div></a></div><div class="news-feed__item"><div class="label_time text_middle">17:20<!--1676902825--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/v-mire/taliban-planiruet-prevratit-by-vshie-voenny-e-bazy-v-osoby-e-e-konomicheskie-zony-1064223.html" class="link link_feed">Талибан* планирует превратить бывшие военные базы в особые экономические зоны</a></div></div><div class="news-feed__item"><div class="label_time text_middle">16:57<!--1676901425--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/v-mire/poka-vse-smotryat-na-ukrainu-pol-sha-podtachivaet-evrosoyuz-1064232.html" class="link link_feed">Пока все смотрят на Украину, Польша подтачивает Евросоюз</a></div></div><div class="news-feed__item"><div class="label_time text_middle">16:46<!--1676900816--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obshhestvo/iudushka-yura-rok-muzy-kant-shevchuk-napisal-novuyu-pesnyu-oskorblyayushhuyu-rossiyu-1064168.html" class="link link_feed">«Иудушка Юра»: рок-музыкант Шевчук написал новую песню, оскорбляющую Россию</a></div></div><div class="news-feed__item"><div class="label_time text_middle">16:30<!--1676899837--></div><div class="label_photo text_small">шоубиз</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/petlichka-na-sy-ne-dzhigan-i-samojlova-razy-gry-vayut-semejnuyu-dramu-radi-novogo-realiti-shou-1064181.html" class="link link_feed">Петличка на сыне: Джиган и Самойлова разыгрывают семейную драму ради нового реалити-шоу</a></div></div><div class="news-feed__item"><div class="label_time text_middle">16:04<!--1676898282--></div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obshhestvo/kak-vernut-pol-shu-v-kamenny-j-vek-bez-poter-politolog-dal-prostoj-retsept-1064081.html" class="link link_feed">Как вернуть Польшу в каменный век без потерь: политолог дал простой рецепт</a></div></div><div class="news-feed__item"><div class="label_time text_middle">15:28<!--1676896125--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/nauka/magnituda-8-5-ucheny-e-nazvali-stranu-gde-proizojdet-razrushitel-noe-zemletryasenie-1064147.html" class="link link_feed">Магнитуда 8,5: ученые назвали страну, где произойдет разрушительное землетрясение</a></div></div><div class="news-feed__item"><div class="label_time text_middle">15:26<!--1676895974--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/regiony/v-bol-nitsah-zhdut-defitsita-regiony-podhvatili-trend-na-lekarstvennuyu-monopoliyu-1064130.html" class="link link_feed">В больницах ждут дефицита: регионы подхватили тренд на лекарственную монополию</a></div></div><div class="news-feed__item"><div class="label_time text_middle">15:24<!--1676895853--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obrashhenie-v-redaktsiyu/v-volgogradskoj-oblasti-zhiteli-prosyat-bastry-kina-privlech-k-ugolovnoj-otvetstvennosti-glavu-poseleniya-za-otkaz-v-stroitel-stve-vodovoda-1064152.html" class="link link_feed">В Волгоградской области жители просят Бастрыкина привлечь к уголовной ответственности главу поселения за отказ в строительстве водовода</a></div></div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/nauka/lunny-j-2023-god-skoro-polnost-yu-vstupit-v-svoi-prava-gryadet-pobedonosny-j-god-marsa-1064137.html" class="link link_feed"target="_top"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/IvamInam_The_astrologer_made_a_prediction._Next_year_will_be_th_8974dfd9-6b63-41d2-aed4-eb6b73f570df-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/IvamInam_The_astrologer_made_a_prediction._Next_year_will_be_th_8974dfd9-6b63-41d2-aed4-eb6b73f570df-300x180.jpg" alt="Лунный 2023 год скоро полностью вступит в свои права. Грядет победоносный год Марса" class="image_feature"></div><div class="label_time text_middle">15:22</div><div class="feed__text">Лунный 2023 год скоро полностью вступит в свои права. Грядет победоносный год Марса</div></a></div><div class="news-feed__item"><div class="label_time text_middle">15:07<!--1676894836--></div><div class="label_photo text_small">шоубиз</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/legkie-bol-she-ne-glavnaya-problema-u-kostomarova-obnaruzhili-porazhenie-golovnogo-mozga-1064115.html" class="link link_feed">«Легкие — больше не главная проблема»: у Костомарова обнаружили поражение головного мозга</a></div></div><div class="news-feed__item"><div class="label_time text_middle">14:51<!--1676893905--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/regiony/zastavlyal-delat-massazh-yagodits-za-chto-u-svyashhennika-otobrali-priemny-h-detej-v-voronezhskoj-oblasti-1064121.html" class="link link_feed">«Заставлял делать массаж ягодиц»: за что у священника отобрали приемных детей в Воронежской области</a></div></div><div class="news-feed__item"><div class="label_time text_middle">14:37<!--1676893022--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/v-mire/bajden-vy-bral-vojnu-zachem-amerikanskij-lider-priby-l-v-kiev-1064082.html" class="link link_feed">«Байден выбрал войну»: зачем американский лидер прибыл в Киев</a></div></div><div class="news-feed__item"><div class="label_time text_middle">14:00<!--1676890818--></div><div class="label_photo text_small">шоубиз</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/martirosyan-o-pavle-vole-ya-ne-hochu-ego-obidet-no-e-to-samy-j-oby-chny-j-chelovek-srednestatisticheskij-1064069.html" class="link link_feed">Мартиросян о Павле Воле: «Я не хочу его обидеть, но это самый обычный человек. Среднестатистический»</a></div></div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/obshhestvo/papa-goda-obmateril-i-shvy-rnul-trehletnego-sy-na-v-zabor-za-to-chto-tot-ispachkalsya-na-progulke-1064006.html" class="link link_feed"target="_top"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/na-gl-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/na-gl-300x180.jpg" alt="Папа года:  обматерил и швырнул трехлетнего сына в забор за то, что тот испачкался на прогулке" class="image_feature"></div><div class="label_time text_middle">13:40</div><div class="label_video text_small">видео</div><div class="feed__text">Папа года:  обматерил и швырнул трехлетнего сына в забор за то, что тот испачкался на прогулке</div></a></div><div class="news-feed__item"><div class="label_time text_middle">13:18<!--1676888302--></div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/v-mire/smi-v-kieve-vstrechayut-dzho-bajdena-1064020.html" class="link link_feed">СМИ: в Киеве встречают Джо Байдена</a></div></div><div class="news-feed__item"><div class="label_time text_middle">13:02<!--1676887379--></div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/v-mire/hotim-chtoby-rossiya-prishla-narod-v-moldavii-protestuet-protiv-vlasti-i-bednosti-1063907.html" class="link link_feed">«Хотим, чтобы Россия пришла»: народ в Молдавии протестует против власти и бедности</a></div></div><div class="news-feed__item"><div class="label_time text_middle">13:00<!--1676887211--></div><div class="label_photo text_small">шоубиз</div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/todorenko-primerila-kul-tovy-j-obraz-odri-hepbern-poklonniki-raskritikovali-televedushhuyu-1063998.html" class="link link_feed">Тодоренко примерила культовый образ Одри Хепберн: поклонники раскритиковали телеведущую</a></div></div><div class="news-feed__item"><div class="label_time text_middle">11:52<!--1676883172--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/politika/chto-to-gryadet-v-moldavii-zayavili-o-demilitarizatsii-pridnestrov-ya-a-na-granitse-uzhe-zhdut-vojska-vsu-1063942.html" class="link link_feed">Что-то грядет: в Молдавии заявили о демилитаризации Приднестровья, а на границе уже ждут войска ВСУ</a></div></div><div class="news-feed__item"><div class="label_time text_middle">11:50<!--1676883050--></div><div class="label_photo text_small">шоубиз</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/kak-dzhigan-i-samojlova-pogrebnyak-i-bonya-vy-smeyali-priznanie-nyushi-ob-izmene-1063922.html" class="link link_feed">«Как Джиган и Самойлова»: Погребняк и Боня высмеяли признание Нюши об измене</a></div></div><div class="news-feed__item"><div class="label_time text_middle">11:12<!--1676880738--></div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obshhestvo/vy-zhivshie-v-makeevke-izvinilis-pered-prezidentom-i-komandirami-za-svoi-zhaloby-1063906.html" class="link link_feed">Выжившие в Макеевке извинились перед президентом и командирами за свои жалобы</a></div></div><div class="news-feed__item"><div class="label_time text_middle">10:06<!--1676876818--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/glavnaya/zato-svoya-v-moskve-v-prodazhe-poyavilis-kvartiry-ploshhad-yu-8-8-kvadratov-za-4-4-mln-rublej-1063879.html" class="link link_feed">Зато своя: в Москве в продаже появились квартиры площадью 8,8 «квадратов» за 4,4 млн рублей</a></div></div><div class="news-feed__item"><div class="label_time text_middle">09:54<!--1676876046--></div><div class="label_photo text_small">шоубиз</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/kul-tura/smenil-imya-poluchil-grin-kartu-sbezhavshij-iz-rossii-ot-mobilizatsii-vnuk-pugachevoj-ostanetsya-v-ssha-1063892.html" class="link link_feed">Сменил имя, получил грин-карту: сбежавший из России от мобилизации внук Пугачевой останется в США</a></div></div><div class="news-feed__item"><div class="label_time text_middle">09:05<!--1676873101--></div><div class="label_video text_small">видео</div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obshhestvo/mobilizovanny-h-iz-omska-ugrozhayut-otpravit-na-peredovuyu-bez-podgotovki-za-otkaz-sdavat-den-gi-na-benzin-1063848.html" class="link link_feed">Мобилизованных из Омска угрожают отправить на передовую без подготовки за отказ сдавать деньги на бензин</a></div></div><div class="news-feed__item"><div class="label_time text_middle">08:57<!--1676872663--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/obshhestvo/moya-babushka-kurit-trubku-20-fevralya-mezhdunarodny-j-den-kuril-shhikov-trubok-1063744.html" class="link link_feed">«Моя бабушка курит трубку». 20 февраля -  Международный день курильщиков трубок</a></div></div><div class="news-feed__item"><div class="label_time text_middle">08:26<!--1676870796--></div><div class="feed__text" style="text-align:left;"><a href="https://bloknot.ru/nauka/potentsial-no-moshennikam-konechno-budet-legche-e-kspert-bloknota-o-riskah-svyazanny-h-s-e-lektronny-mi-pasportami-1063854.html" class="link link_feed">«Потенциально, мошенникам, конечно, будет легче» – эксперт «Блокнота» о рисках, связанных с электронными паспортами</a></div></div>
+<div class="news-feed__item"><div class="label_time text_middle">23:07</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/otkuda-vsu-udarili-po-donetsku-rasskazal-bloknotu-rossijskij-voenny-j-1063808.html" class="link link_feed">Откуда ВСУ ударили по Донецку рассказал «Блокноту» российский военный</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">22:43</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/chp/v-seti-poyavilos-novoe-video-gigantskogo-tektonicheskogo-razloma-v-turtsii-1063821.html" class="link link_feed">В Сети появилось новое видео гигантского тектонического разлома в Турции</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">22:12</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/est-takoe-oruzhie-by-vshij-izrail-skij-razvedchik-postavil-tochku-v-spore-o-tom-chto-vy-zvalo-zemletryasenie-v-turtsii-1063773.html" class="link link_feed">Есть такое оружие: бывший израильский разведчик поставил точку в споре о том, что вызвало землетрясение в Турции</a></div> </div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/obshhestvo/nazvany-pyat-izobretenij-kotory-e-mogut-izmenit-zhizn-lyudej-k-luchshemu-no-est-nyuans-1063691.html" class="link link_feed"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/pair-596090_960_720-300x180.jpeg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/pair-596090_960_720-300x180.jpeg" alt="Названы пять изобретений, которые могут изменить жизнь людей к лучшему, но есть нюанс" class="image_feature"></div><div class="label_time text_middle">20:45</div><div class="feed__text">Названы пять изобретений, которые могут изменить жизнь людей к лучшему, но есть нюанс</div></a></div><div class="news-feed__item"><div class="label_time text_middle">20:27</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/ukrainskaya-pogranichnitsa-hvastaetsya-bmw-i-otdy-haet-u-bassejna-poka-drugie-gibnut-na-peredovoj-1063740.html" class="link link_feed">Украинская пограничница хвастается BMW и отдыхает у бассейна, пока другие гибнут на передовой</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">20:21</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/starikam-tut-ne-mesto-e-konomist-iz-yaponii-predlozhil-pensioneram-s-pomoshh-yu-harakiri-1063723.html" class="link link_feed">Старикам тут не место: экономист из Японии предложил пенсионерам совершить харакири</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">19:35</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/dzho-bajden-otdal-srochny-j-prikaz-zelenskomu-1063700.html" class="link link_feed">Джо Байден отдал срочный приказ Зеленскому</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">19:22</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/zhena-brosila-zvezdu-kur-era-fedora-dunaevskogo-radi-molodogo-lyubovnika-massazhista-1063694.html" class="link link_feed">Жена бросила звезду «Курьера» Федора Дунаевского ради молодого любовника-массажиста</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">19:04</div><div class="feed__text"><a href="https://bloknot.ru/chp/v-novosibirske-ashanovskaya-banda-podrostkov-derzhit-v-strahe-shkol-nikov-i-vzrosly-h-1063682.html" class="link link_feed">В Новосибирске «Ашановская» банда подростков держит в страхе школьников и взрослых</a></div> </div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/v-mire/zhutkij-mrak-i-sekretny-e-paroli-britanskogo-reportera-uzhasnul-tajny-j-bunker-zelenskogo-1063656.html" class="link link_feed"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/photo_2023-02-19_13-53-10-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/photo_2023-02-19_13-53-10-300x180.jpg" alt="Жуткий мрак и секретные пароли: британского репортера ужаснул тайный бункер Зеленского" class="image_feature"></div><div class="label_time text_middle">17:10</div><div class="feed__text">Жуткий мрак и секретные пароли: британского репортера ужаснул тайный бункер Зеленского</div></a></div><div class="news-feed__item"><div class="label_time text_middle">17:06</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/borrel-prizval-otdat-ukraine-vsyo-evropejskoe-oruzhie-i-boepripasy-1063670.html" class="link link_feed">Боррель призвал отдать Украине всё европейское оружие и боеприпасы</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">16:58</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/papina-kopiya-vlad-sokolovskij-vpervy-e-pokazal-litso-godovalogo-sy-na-1063662.html" class="link link_feed">Папина копия: Влад Соколовский впервые показал лицо годовалого сына</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">16:18</div><div class="feed__text"><a href="https://bloknot.ru/politika/peskov-raskry-l-temy-predstoyashhego-poslaniya-vladimira-putina-1063650.html" class="link link_feed">Песков раскрыл темы предстоящего послания Владимира Путина</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">16:14</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/zepyur-brutyan-pohvastalas-podarkom-na-27-letie-pavel-priluchny-j-raskoshelilsya-radi-beremennoj-zheny-1063646.html" class="link link_feed">Зепюр Брутян похвасталась подарком на 27-летие: Павел Прилучный раскошелился ради беременной жены</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">15:31</div><div class="feed__text"><a href="https://bloknot.ru/e-konomika/v-rossii-indeks-blinov-vy-ros-za-god-na-7-1063640.html" class="link link_feed">В России «индекс блинов» вырос за год на 7%</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">15:05</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/samodurstvo-komandirov-privedet-k-tragedii-prigozhin-i-basurin-obsudili-uvol-nenie-ofitserov-donbassa-1063633.html" class="link link_feed">Самодурство командиров приведет к трагедии: Пригожин и Басурин обсудили увольнение офицеров Донбасса</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">14:15</div><div class="label_photo text_small">шоубиз</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/bez-dzhigana-oksana-samojlova-ustroila-vecherinku-v-afrikanskom-stile-v-chest-3-letiya-sy-na-1063627.html" class="link link_feed">Без Джигана: Оксана Самойлова устроила вечеринку в африканском стиле в честь 3-летия сына</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">13:41</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/chp/passazhir-ustroil-striptiz-na-vzletno-posadochnoj-polose-v-domodedovo-1063622.html" class="link link_feed">Пассажир устроил «стриптиз» на взлетно-посадочной полосе в Домодедово</a></div> </div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/v-mire/odni-groby-i-mogily-strany-uzhe-net-ukrainskij-bloger-prizval-zhenshhin-vy-jti-na-ulitsy-protiv-rezhima-zelenskogo-1063615.html" class="link link_feed"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/1902-001-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/1902-001-300x180.jpg" alt="«Одни гробы и могилы, страны уже нет»: украинский блогер призвал женщин выйти на улицы против режима Зеленского" class="image_feature"></div><div class="label_time text_middle">12:47</div><div class="feed__text">«Одни гробы и могилы, страны уже нет»: украинский блогер призвал женщин выйти на улицы против режима Зеленского</div></a></div><div class="news-feed__item"><div class="label_time text_middle">12:06</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/pyat-chelovek-pogibli-vo-vremya-raketnogo-udara-izrailya-po-damasku-1063608.html" class="link link_feed">Пять человек погибли во время ракетного удара Израиля по Дамаску</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">11:17</div><div class="feed__text"><a href="https://bloknot.ru/politika/ssha-zapodozrili-kitaj-v-namereniyah-postavit-rossii-letal-noe-oruzhie-1063602.html" class="link link_feed">США заподозрили Китай в намерениях поставить России летальное оружие</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">10:51</div><div class="label_photo text_small">шоубиз</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/za-chto-bedny-e-lyudi-ida-galich-prishla-v-uzhas-ot-razvratnogo-vy-stupleniya-kalashnikovoj-v-voennom-gospitale-1063598.html" class="link link_feed">«За что?! Бедные люди!»: Ида Галич пришла в ужас от развратного выступления Калашниковой в военном госпитале</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">10:12</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/volodin-nazval-podly-m-postupkom-otmenu-dnya-pobedy-na-ukraine-1063594.html" class="link link_feed">Володин назвал подлым поступком отмену Дня Победы на Украине</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">09:28</div><div class="feed__text"><a href="https://bloknot.ru/politika/makron-zayavil-chto-frantsiya-protiv-idei-razgroma-rossii-1063590.html" class="link link_feed">Макрон заявил, что Франция против идеи «разгрома» России</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">09:00</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/kogda-ya-umer-ne-by-lo-nikogo-kto-by-e-to-oproverg-19-fevralya-ne-stalo-egora-letova-1063537.html" class="link link_feed">«Когда я умер, не было никого, кто бы это опроверг». 19 февраля не стало Егора Летова.</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">21:44</div><div class="feed__text"><a href="https://bloknot.ru/politika/politologi-rasskazali-zhdat-li-ot-putina-21-fevralya-neozhidanny-h-i-sud-bonosny-h-zayavlenij-1063557.html" class="link link_feed">Политологи рассказали, ждать ли от Путина 21 февраля неожиданных  и судьбоносных заявлений</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">21:28</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/9-let-v-boyah-komandir-minometnoj-batarei-batal-ona-vostok-dal-interv-yu-bloknotu-1063564.html" class="link link_feed">9 лет в боях. Командир минометной батареи батальона «Восток» дал интервью «Блокноту»</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">20:38</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/vsu-podvozyat-rezervy-k-bahmutu-v-popy-tke-sderzhat-ispy-ty-vayushhih-snyaryadny-j-golod-shturmovikov-chvk-vagner-1063551.html" class="link link_feed">ВСУ подвозят резервы к Бахмуту в попытке сдержать испытывающих снарядный голод штурмовиков ЧВК «Вагнер»</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">20:00</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/irina-bezrukova-vossoedinilas-s-by-vshim-muzhem-vpervy-e-v-tandeme-rezhisser-aktrisa-1063444.html" class="link link_feed">Ирина Безрукова воссоединилась с бывшим мужем: «Впервые в тандеме «режиссер – актриса»»</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">19:45</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/vsu-vnov-ispol-zovali-koptery-s-himoruzhiem-v-dnr-1063533.html" class="link link_feed">ВСУ вновь использовали коптеры с химоружием в ДНР</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">19:19</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/pol-skogo-posla-v-permi-prizvali-k-otvetu-za-sovetskie-pamyatniki-1063513.html" class="link link_feed">Польского посла в Перми призвали к ответу за советские памятники</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">18:59</div><div class="feed__text"><a href="https://bloknot.ru/politika/gensek-nato-luchshe-tret-ya-mirovaya-vojna-chem-pobeda-rossii-na-ukraine-1063514.html" class="link link_feed">Генсек НАТО: лучше Третья Мировая война, чем победа России на Украине</a></div> </div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/politika/do-drozhi-v-kolenkah-e-kstrasens-rasskazala-pochemu-bajden-boitsya-putina-1063508.html" class="link link_feed"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/MyCollages-1-1005x605-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/MyCollages-1-1005x605-300x180.jpg" alt="«До дрожи в коленках»: экстрасенс рассказала, почему Байден боится Путина" class="image_feature"></div><div class="label_time text_middle">18:49</div><div class="feed__text">«До дрожи в коленках»: экстрасенс рассказала, почему Байден боится Путина</div></a></div><div class="news-feed__item"><div class="label_time text_middle">18:14</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/sledovatel-lopatin-iz-dela-golunova-okazalsya-v-milliardnom-skandale-s-nedvizhimost-yu-1063464.html" class="link link_feed">Следователь Лопатин из дела Голунова оказался в миллиардном скандале с недвижимостью</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">18:00</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/ne-spilas-no-blizka-k-e-tomu-dar-ya-mel-nikova-o-rannej-populyarnosti-1063394.html" class="link link_feed">«Не спилась, но близка к этому»: Дарья Мельникова о ранней популярности</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">17:35</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/razobrali-ego-po-kostochkam-prigozhin-vy-skazalsya-o-video-rasstrela-portretov-gerasimova-i-lapina-bojtsami-chvk-vagner-1063439.html" class="link link_feed">«Разобрали его по косточкам»: Пригожин высказался о видео «расстрела» портретов Герасимова и Лапина бойцами ЧВК «Вагнер»</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">17:25</div><div class="feed__text"><a href="https://bloknot.ru/chp/nachal-nik-mur-poluchil-ranenie-pri-osvobozhdenii-zalozhnitsy-v-moskve-1063465.html" class="link link_feed">Начальник МУР получил ранение при освобождении заложницы в Москве</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">17:00</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/stali-izvestny-imena-pervy-h-uchastnikov-shou-novy-e-zvezdy-v-afrike-1063398.html" class="link link_feed">Стали известны имена первых участников шоу «Новые звезды в Африке»</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">16:56</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/vodka-pivo-amfetaminy-plenny-j-rasskazal-kak-mobilizovanny-h-na-ukraine-snabzhayut-volontyory-1063446.html" class="link link_feed">Водка, пиво, амфетамины: пленный рассказал, как мобилизованных на Украине снабжают волонтёры</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">16:49</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/my-voyuem-s-zapadnoj-tehnikoj-i-nayomnikami-rossijskij-voenny-j-rasskazal-o-situatsii-v-zone-svo-1063433.html" class="link link_feed">Мы воюем с западной техникой и наёмниками: российский военный рассказал о ситуации в зоне СВО</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">16:23</div><div class="feed__text"><a href="https://bloknot.ru/politika/evgenij-prigozhin-oproverg-svyaz-chvk-vagner-s-rossijskoj-armiej-1063418.html" class="link link_feed">Евгений Пригожин опроверг связь ЧВК «Вагнер» с российской армией</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">15:51</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/oni-srazhalis-za-rodinu-pamyat-pogibshih-v-svo-bojtsov-pochtili-v-volgograde-1062896.html" class="link link_feed">«Они сражались за Родину»: память погибших в СВО бойцов почтили в Волгограде</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">15:29</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/ya-rodilas-bez-ruki-kakie-mogut-by-t-den-gi-avtor-hitov-igorya-nikolaeva-prozyabaet-v-nishhete-zhivya-v-obshhezhitii-1063336.html" class="link link_feed">«Я родилась без руки, какие могут быть деньги?»: автор хитов Игоря Николаева прозябает в нищете, живя в общежитии</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">14:35</div><div class="feed__text"><a href="https://bloknot.ru/chp/v-turtsii-na-12-den-posle-zemletryaseniya-chudom-spasli-treh-chelovek-1063373.html" class="link link_feed">В Турции на 12 день после землетрясения чудом спасли трех человек</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">14:33</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/shot-akter-moej-prekrasnoj-nyani-mahach-muhajdinov-priznalsya-v-domogatel-stvah-k-9-letnej-devochke-1063372.html" class="link link_feed">SHOT: актер «Моей прекрасной няни» Махач Мухайдинов признался в домогательствах к 9-летней девочке</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">14:10</div><div class="feed__text"><a href="https://bloknot.ru/yanovost-chasa/serediny-ne-by-vaet-kakie-e-lektrokary-vy-birayut-rossiyane-1063351.html" class="link link_feed">«Середины не бывает»: какие электрокары выбирают россияне</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">13:08</div><div class="feed__text"><a href="https://bloknot.ru/chp/zhitel-ekaterinburga-ukral-u-studentki-polmilliona-rublej-chtoby-darit-ej-podarki-1063325.html" class="link link_feed">Житель Екатеринбурга украл у студентки полмиллиона рублей, чтобы дарить ей подарки</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">12:51</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/poglumivshijsya-na-russkimi-gudkov-izbezhal-ugolovnogo-dela-i-prodolzhaet-zhit-i-zarabaty-vat-v-rossii-1063310.html" class="link link_feed">Поглумившийся на русскими Гудков избежал уголовного дела и продолжает жить и зарабатывать в России</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">12:30</div><div class="label_photo text_small">шоубиз</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/u-sashi-cherno-deformirovalos-litso-posle-plastiki-nos-v-odnu-storonu-guby-v-druguyu-1063305.html" class="link link_feed">У Саши Черно деформировалось лицо после пластики: «Нос в одну сторону, губы – в другую»</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">11:28</div><div class="feed__text"><a href="https://bloknot.ru/v-mire/vsu-v-zhitomirskoj-oblasti-vruchili-povestku-nezryachemu-invalidu-1063281.html" class="link link_feed">ВСУ в Житомирской области вручили повестку незрячему инвалиду</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">11:15</div><div class="feed__text"><a href="https://bloknot.ru/politika/reshenie-putina-o-nachale-spetsoperatsii-narushilo-plany-ssha-po-razvalu-rossii-smi-1063298.html" class="link link_feed">Решение Путина о начале спецоперации нарушило планы США по развалу России — СМИ</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">11:03</div><div class="label_photo text_small">шоубиз</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/zhena-pavla-priluchnogo-ofitsial-no-podtverdila-beremennost-1063283.html" class="link link_feed">Жена Павла Прилучного официально подтвердила беременность</a></div> </div><div class="news-feed__item news-feed__item--image"><a href="https://bloknot.ru/chp/sohranivshijsya-so-vremen-rimskoj-imperii-most-ne-postradal-vo-vremya-zemletryaseniya-v-turtsii-1063272.html" class="link link_feed"><div class="image__feed"><img src="https://bloknot.ru/wp-content/uploads/2023/02/Severan_Bridge_Turkey_02-300x180.jpg" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Severan_Bridge_Turkey_02-300x180.jpg" alt="Сохранившийся со времен Римской Империи мост не пострадал во время землетрясения в Турции" class="image_feature"></div><div class="label_time text_middle">10:15</div><div class="feed__text">Сохранившийся со времен Римской Империи мост не пострадал во время землетрясения в Турции</div></a></div><div class="news-feed__item"><div class="label_time text_middle">09:57</div><div class="label_photo text_small">шоубиз</div><div class="label_video text_small">видео</div><div class="feed__text"><a href="https://bloknot.ru/kul-tura/pridet-vremya-i-my-nagradim-luchshih-dmitrij-nagiev-otkazalsya-vesti-premiyu-muz-tv-vy-smeyav-artistov-1063264.html" class="link link_feed">«Придет время, и мы наградим лучших»: Дмитрий Нагиев отказался вести премию МУЗ-ТВ, высмеяв артистов</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">09:48</div><div class="feed__text"><a href="https://bloknot.ru/obrashhenie-v-redaktsiyu/gaza-net-dorog-net-deti-uchatsya-na-strojke-v-dagestane-zhiteli-poselka-prigrozili-protestami-1063231.html" class="link link_feed">«Газа нет, дорог нет, дети учатся на стройке»: в Дагестане жители поселка пригрозили протестами</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">09:00</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/18-fevralya-1563-goda-vojska-ivana-groznogo-zavoevali-polotsk-litva-by-la-opustoshena-do-samoj-vil-ny-1063241.html" class="link link_feed">18 февраля 1563 года войска Ивана Грозного завоевали Полоцк. Литва была опустошена до самой Вильны.</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">00:38</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/ob-osobennostyah-i-primenenii-polie-tilenovoj-armirovannoj-setki-1063843.html" class="link link_feed">Об особенностях и применении полиэтиленовой армированной сетки</a></div> </div><div class="news-feed__item"><div class="label_time text_middle">00:34</div><div class="feed__text"><a href="https://bloknot.ru/obshhestvo/chem-udobna-pokupka-avtomobilej-s-probegom-v-avtostoke-1063839.html" class="link link_feed">Чем удобна покупка автомобилей с пробегом в автостоке</a></div> </div></div></div>
+
+<script>
+$(document).on("scroll", window, function () {
+    if ($(window).scrollTop()>1350) 
+    {
+        $(".scroll").show();
+    }
+    else
+    {
+        $(".scroll").hide();
+    }
+    });
+</script>
+<style>
+.scroll{position: fixed; bottom:0px; /*z-index:99;*/ min-height:100px; width:300px; background:#fff;}
+</style>
+<div class="scroll">
+<div class="js-relap-adhoc-anchor" data-relap-id="eA0NIhjZ4hjiOzs7"></div>
+<script>
+(function() {
+  var widgetId = 'eA0NIhjZ4hjiOzs7';
+  var token = 'WSFZePx4JHKPd46L';
+  var w = window;
+  var d = w.document;
+  w.relapTasks = w.relapTasks || [];
+  w.relapTasks.push(function(api) {
+    function addWidget() {
+      var anchorEl = d.querySelector('.js-relap-adhoc-anchor[data-relap-id="' + widgetId + '"]');
+      if (!anchorEl) {
+        console.log('no anchor el found, exit');
+        return;
+      }
+      anchorEl.className = '';
+      api.addWidget({
+        cfgId: widgetId,
+        anchorEl: anchorEl,
+        events: {
+          onNoContent: function(obj) {
+            anchorEl.remove();
+          },
+        },
+      });
+    }
+    if (api.isReady) return addWidget();
+    api.init({
+        token: token,
+        url: window.top ? window.top.location.href : 'https://bloknot.ru',
+      })
+      .then(addWidget);
+  });
+  if (!d.querySelector('.relap-runtime-iframe')) {
+    var s = d.createElement('script');
+    s.src = 'https://relap.io/v7/relap.js';
+    d.body.appendChild(s);
+  }
+})();
+</script>
+</div>
+ <div >
+</div>
+
+</div><!-- конец правой колонки -->
+
+
+
+
+  <div class="features-news_wrapper"><div class="features-news"><div class="features-news__item"><a href="https://bloknot.ru/sport/plyushhenko-podderzhal-vy-stuplenie-rossijskih-sportsmenov-na-olimpiade-v-unizitel-nom-statuse-1064264.html" class="link link_feature"><div class="image_feature-wrapper"><img src="https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-20-v-18.16.09-300x180.jpg" alt="Плющенко поддержал выступление российских спортсменов на Олимпиаде в унизительном статусе" class="image_feature"><span class="label-wrapper"></span></div><span class="features-news__description">Плющенко поддержал выступление российских спортсменов на Олимпиаде в унизительном статусе</span></a></div><div class="features-news__item"><a href="https://bloknot.ru/v-mire/deputat-svetlana-zhurova-davajte-chestno-rossiyu-pol-sha-vsegda-lyubila-men-she-1064245.html" class="link link_feature"><div class="image_feature-wrapper"><img src="https://bloknot.ru/wp-content/uploads/2023/02/b18-300x180.jpg" alt="Депутат Светлана Журова: "Давайте честно — Россию Польша всегда любила меньше"" class="image_feature"><span class="label-wrapper"><span class="label_exclusive">эксклюзив</span>	</span></div><span class="features-news__description">Депутат Светлана Журова: «Давайте честно — Россию Польша всегда любила меньше»</span></a></div><div class="features-news__item"><a href="https://bloknot.ru/kul-tura/pevitsa-hanna-rasskazala-vo-skol-ko-ej-oboshlis-vtory-e-rody-v-dubae-1064083.html" class="link link_feature"><div class="image_feature-wrapper"><img src="https://bloknot.ru/wp-content/uploads/2023/02/imgonline-com-ua-Resize-K1urwH3S9YIK-1-300x180.jpg" alt="Певица Ханна рассказала, во сколько ей обошлись вторые роды в Дубае" class="image_feature"><span class="label-wrapper"><span class="label_photo">шоубиз</span><span class="label_video">видео</span></span></div><span class="features-news__description">Певица Ханна рассказала, во сколько ей обошлись вторые роды в Дубае</span></a></div></div></div>
+<!-- топ 4_3 правой колонки -->
+
+<div class="main-content">
+<!-- MAIN CONTENT -->
+
+<div class="news-block">
+
+<link rel="stylesheet" href="//bloknot.ru/wp-content/themes/srg/style_new.css?ver=190927_3" media="screen">
+<!--
+-->
+     <div class="news-block">
+
+ 
+
+<div class="top-news">
+  <div class="top-news__description">
+    <a href="https://bloknot.ru/obshhestvo/glava-leningradskoj-oblasti-predlozhil-chinovnikam-hodit-na-oznakomitel-ny-e-e-kskursii-v-tyur-mu-1064271.html" class="link link_feed link_feed_top-news">
+      <h2 class="top-news__head">
+        Глава Ленинградской области предложил чиновникам ходить на «ознакомительные экскурсии» в тюрьму      </h2>
+    </a>
+	    <a href="https://bloknot.ru/category/obshhestvo" class="link link_tag">ОБЩЕСТВО</a>
+    <p class="top-news__text font_darken-gray">
+      Идея появилась после ряда коррупционных скандалов, связанных с сотрудниками администрации.      </p>
+  </div>
+  <div class="top-news__image">
+          <a href="https://bloknot.ru/obshhestvo/glava-leningradskoj-oblasti-predlozhil-chinovnikam-hodit-na-oznakomitel-ny-e-e-kskursii-v-tyur-mu-1064271.html" class="image_top-image" style="background: url(' https://bloknot.ru/wp-content/uploads/2023/02/chinovnik-500x341.jpeg') no-repeat center / cover;">
+    </a>
+
+		
+
+	
+        <span class="label-wrapper">  
+	                		  	  
+    </span>
+  </div>
+</div>
+
+
+
+<div class="top-news">
+  <div class="top-news__description">
+    <a href="https://bloknot.ru/sport/plyushhenko-podderzhal-vy-stuplenie-rossijskih-sportsmenov-na-olimpiade-v-unizitel-nom-statuse-1064264.html" class="link link_feed link_feed_top-news">
+      <h2 class="top-news__head">
+        Плющенко поддержал выступление российских спортсменов на Олимпиаде в унизительном статусе      </h2>
+    </a>
+	    <a href="https://bloknot.ru/category/sport/ves-sport" class="link link_tag">Весь спорт</a>
+    <p class="top-news__text font_darken-gray">
+      Олимпийский чемпион назвал выступления под нейтральным флагом хорошим шансом для россиян.
+    </p>
+  </div>
+  <div class="top-news__image">
+          <a href="https://bloknot.ru/sport/plyushhenko-podderzhal-vy-stuplenie-rossijskih-sportsmenov-na-olimpiade-v-unizitel-nom-statuse-1064264.html" class="image_top-image" style="background: url(' https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-20-v-18.16.09-500x312.jpg') no-repeat center / cover;">
+    </a>
+
+		
+
+	
+        <span class="label-wrapper">  
+	                		  	  
+    </span>
+  </div>
+</div>
+
+
+
+<div class="top-news">
+  <div class="top-news__description">
+    <a href="https://bloknot.ru/v-mire/taliban-planiruet-prevratit-by-vshie-voenny-e-bazy-v-osoby-e-e-konomicheskie-zony-1064223.html" class="link link_feed link_feed_top-news">
+      <h2 class="top-news__head">
+        Талибан* планирует превратить бывшие военные базы в особые экономические зоны      </h2>
+    </a>
+	    <a href="https://bloknot.ru/category/v-mire/aziya" class="link link_tag">Азия</a>
+    <p class="top-news__text font_darken-gray">
+      Работа по преобразованию военных баз начнется со столицы - .Кабула    </p>
+  </div>
+  <div class="top-news__image">
+          <a href="https://bloknot.ru/v-mire/taliban-planiruet-prevratit-by-vshie-voenny-e-bazy-v-osoby-e-e-konomicheskie-zony-1064223.html" class="image_top-image" style="background: url(' https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-20-v-16.52.01-500x333.jpg') no-repeat center / cover;">
+    </a>
+
+		
+
+	
+        <span class="label-wrapper">  
+	                		  	  
+    </span>
+  </div>
+</div>
+
+
+
+<div class="top-news">
+  <div class="top-news__description">
+    <a href="https://bloknot.ru/obshhestvo/iudushka-yura-rok-muzy-kant-shevchuk-napisal-novuyu-pesnyu-oskorblyayushhuyu-rossiyu-1064168.html" class="link link_feed link_feed_top-news">
+      <h2 class="top-news__head">
+        "Иудушка Юра": рок-музыкант Шевчук написал новую песню, оскорбляющую Россию      </h2>
+    </a>
+	    <a href="https://bloknot.ru/category/obshhestvo" class="link link_tag">ОБЩЕСТВО</a>
+    <p class="top-news__text font_darken-gray">
+      Группа ДДТ в новой композиции сравнивает Родину с наркоманкой, участвующей в "не своей войне" и двигающейся к гибели, но есть и выход - "вернуться домой".     </p>
+  </div>
+  <div class="top-news__image">
+          <a href="https://bloknot.ru/obshhestvo/iudushka-yura-rok-muzy-kant-shevchuk-napisal-novuyu-pesnyu-oskorblyayushhuyu-rossiyu-1064168.html" class="image_top-image" style="background: url(' https://bloknot.ru/wp-content/uploads/2023/02/YUrii-SHevchuk-500x251.jpg') no-repeat center / cover;">
+    </a>
+
+		
+
+	
+        <span class="label-wrapper">  
+	                		  	  
+    </span>
+  </div>
+</div>
+
+
+
+<div class="top-news">
+  <div class="top-news__description">
+    <a href="https://bloknot.ru/obshhestvo/kak-vernut-pol-shu-v-kamenny-j-vek-bez-poter-politolog-dal-prostoj-retsept-1064081.html" class="link link_feed link_feed_top-news">
+      <h2 class="top-news__head">
+        Как вернуть Польшу в каменный век без потерь: политолог дал простой рецепт      </h2>
+    </a>
+	    <a href="https://bloknot.ru/category/obshhestvo/vooruzhenny-e-sily" class="link link_tag">Вооруженные силы</a>
+    <p class="top-news__text font_darken-gray">
+      При этом нашим войскам даже не понадобится использование ядерного оружия.    </p>
+  </div>
+  <div class="top-news__image">
+          <a href="https://bloknot.ru/obshhestvo/kak-vernut-pol-shu-v-kamenny-j-vek-bez-poter-politolog-dal-prostoj-retsept-1064081.html" class="image_top-image" style="background: url(' https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-20-v-14.52.00-500x327.jpg') no-repeat center / cover;">
+    </a>
+
+		
+
+	
+        <span class="label-wrapper">  
+	                		  	  
+    </span>
+  </div>
+</div>
+
+
+
+<div class="top-news">
+  <div class="top-news__description">
+    <a href="https://bloknot.ru/nauka/magnituda-8-5-ucheny-e-nazvali-stranu-gde-proizojdet-razrushitel-noe-zemletryasenie-1064147.html" class="link link_feed link_feed_top-news">
+      <h2 class="top-news__head">
+        Магнитуда 8,5: ученые назвали страну, где произойдет разрушительное землетрясение      </h2>
+    </a>
+	    <a href="https://bloknot.ru/category/nauka/zemlya" class="link link_tag">Земля</a>
+    <p class="top-news__text font_darken-gray">
+      А предсказавший толчки в Турции  Фрэнк Хугербитс заявил о повышенной сейсмической активности 20-22 февраля.    </p>
+  </div>
+  <div class="top-news__image">
+          <a href="https://bloknot.ru/nauka/magnituda-8-5-ucheny-e-nazvali-stranu-gde-proizojdet-razrushitel-noe-zemletryasenie-1064147.html" class="image_top-image" style="background: url(' https://bloknot.ru/wp-content/uploads/2023/02/gl0-500x333.jpg') no-repeat center / cover;">
+    </a>
+
+		
+
+	
+        <span class="label-wrapper">  
+	                		  	  
+    </span>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="banner banner_horizontal" id="banner-h1" style="margin-top:25px;">
+<div onclick="yaCounter24396565.reachGoal('recl_p_2'); return true;"> 
+
+
+<!--AdFox START-->
+<!--maxrostov61-->
+<!--Площадка: bloknot.ru / * / *-->
+<!--Тип баннера: Новая позиция №3 над Нар Реп 100%*120-->
+<!--Расположение: Новая позиция №3 над Нар Реп 100%*120 РАСПОЛОЖЕНИЕ-->
+<div id="adfox_156443101634646537" style="margin-top:25px;"></div>
+
+
+</div></div>
+
+</div>
+
+<div class="inner-buttons"><a href="#" data-tab="popular-news" class="inner-buttons__item inner-buttons__item--active">Популярное</a></div><div class="last-news"><div id="popular-news" class="active"><h2 class="inner-buttons__item" style="margin:0; padding:0; height:0;visibility:hidden; float:right;">Популярные</h2><div class="popular-news"><div class="popular-news__header"><a href="#" class="link link_feed">В России</a></div><div class="popular-news__item"><a href="https://bloknot.ru/v-mire/troe-detej-vladimira-solov-eva-okazalis-v-spiskah-mirotvortsa-1063155.html" class="link link_feed popular-news__item--no-border"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-17-v-19.44.50-172x115.jpg" alt="Трое детей Владимира Соловьева оказались в списках "Миротворца"" class="people-news__image">Трое детей Владимира Соловьева оказались в списках "Миротворца"<span class="link link_top-news link_top-news_left link_top-news-first">1.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/v-mire" class="link link_tag">В МИРЕ</a><time class="people-news__timestamp">17.02.2023 20:09</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/kul-tura/s-takim-ne-vy-zhivayut-on-zanovo-rodilsya-zhena-kostomarova-vpervy-e-o-ego-sostoyanii-i-lechenii-1063024.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-17-at-12.57.44-2-2-172x115.jpeg" alt="«С таким не выживают, он заново родился»: жена Костомарова впервые о его состоянии и лечении" class="people-news__image">«С таким не выживают, он заново родился»: жена Костомарова впервые о его состоянии и лечении<span class="link link_top-news link_top-news_left">2.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/kul-tura" class="link link_tag">КУЛЬТУРА</a><time class="people-news__timestamp">17.02.2023 18:00</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/v-mire/odni-groby-i-mogily-strany-uzhe-net-ukrainskij-bloger-prizval-zhenshhin-vy-jti-na-ulitsy-protiv-rezhima-zelenskogo-1063615.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/1902-001-172x115.jpg" alt="«Одни гробы и могилы, страны уже нет»: украинский блогер призвал женщин выйти на улицы против режима Зеленского" class="people-news__image">«Одни гробы и могилы, страны уже нет»: украинский блогер призвал женщин выйти на улицы против режима Зеленского<span class="link link_top-news link_top-news_left">3.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/v-mire" class="link link_tag">В МИРЕ</a><time class="people-news__timestamp">вчера в 12:47</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/chp/prostite-chto-ya-russkij-v-ekaterinburge-podrostki-sozhgli-rossijskij-pasport-i-zapalili-golubya-1063011.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-17-v-13.19.52-172x115.jpg" alt="“Простите, что я русский”: в Екатеринбурге подростки сожгли российский паспорт и запалили голубя" class="people-news__image">“Простите, что я русский”: в Екатеринбурге подростки сожгли российский паспорт и запалили голубя<span class="link link_top-news link_top-news_left">4.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/chp/proisshestviya-chp" class="link link_tag">Происшествия</a><time class="people-news__timestamp">17.02.2023 17:18</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/politika/politologi-rasskazali-zhdat-li-ot-putina-21-fevralya-neozhidanny-h-i-sud-bonosny-h-zayavlenij-1063557.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Putin18-172x115.jpg" alt="Политологи рассказали, ждать ли от Путина 21 февраля неожиданных  и судьбоносных заявлений" class="people-news__image">Политологи рассказали, ждать ли от Путина 21 февраля неожиданных  и судьбоносных заявлений<span class="link link_top-news link_top-news_left">5.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/politika" class="link link_tag">ПОЛИТИКА</a><time class="people-news__timestamp">18.02.2023 21:44</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/obshhestvo/mobilizovanny-h-iz-omska-ugrozhayut-otpravit-na-peredovuyu-bez-podgotovki-za-otkaz-sdavat-den-gi-na-benzin-1063848.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-20-v-08.15.41-172x115.jpg" alt="Мобилизованных из Омска угрожают отправить на передовую без подготовки за отказ сдавать деньги на бензин" class="people-news__image">Мобилизованных из Омска угрожают отправить на передовую без подготовки за отказ сдавать деньги на бензин<span class="link link_top-news link_top-news_left">6.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/obshhestvo/vooruzhenny-e-sily" class="link link_tag">Вооруженные силы</a><time class="people-news__timestamp">9 часов назад</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/glavnaya/rossijskij-pensioner-prevratil-svoyu-kvartiru-v-ogromny-j-kuryatnik-1062816.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-17-v-15.38.07-172x115.jpg" alt="Российский пенсионер превратил свою квартиру в огромный курятник" class="people-news__image">Российский пенсионер превратил свою квартиру в огромный курятник<span class="link link_top-news link_top-news_left">7.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/video_bk" class="link link_tag">Видео</a><time class="people-news__timestamp">17.02.2023 15:55</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/chp/v-seti-poyavilos-novoe-video-gigantskogo-tektonicheskogo-razloma-v-turtsii-1063821.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/35343535-172x115.jpg" alt="В Сети появилось новое видео гигантского тектонического разлома в Турции" class="people-news__image">В Сети появилось новое видео гигантского тектонического разлома в Турции<span class="link link_top-news link_top-news_left">8.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/chp/proisshestviya-chp" class="link link_tag">Происшествия</a><time class="people-news__timestamp">вчера в 22:43</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/obshhestvo/stali-izvestny-podrobnosti-zagadochnoj-smerti-glavnogo-finansista-zapadnogo-voennogo-okruga-minoborony-1063001.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Kopiya-gov.spb_.ru_-172x115.jpg" alt="Стали известны подробности загадочной смерти главного финансиста Западного военного округа Минобороны" class="people-news__image">Стали известны подробности загадочной смерти главного финансиста Западного военного округа Минобороны<span class="link link_top-news link_top-news_left">9.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/obshhestvo" class="link link_tag">ОБЩЕСТВО</a><time class="people-news__timestamp">17.02.2023 17:20</time></div></div><div class="popular-news__item"><a href="https://bloknot.ru/obshhestvo/vy-zhivshie-v-makeevke-izvinilis-pered-prezidentom-i-komandirami-za-svoi-zhaloby-1063906.html" class="link link_feed"><img src="/static/images/blank.png" data-src="https://bloknot.ru/wp-content/uploads/2023/02/Izobrazhenie-WhatsApp-2023-02-20-v-10.55.59-172x115.jpg" alt="Выжившие в Макеевке извинились перед президентом и командирами за свои жалобы" class="people-news__image">Выжившие в Макеевке извинились перед президентом и командирами за свои жалобы<span class="link link_top-news link_top-news_left link_top-news-last">10.</span></a><div class="popular-news__meta"><a href="https://bloknot.ru/category/obshhestvo/vooruzhenny-e-sily" class="link link_tag">Вооруженные силы</a><time class="people-news__timestamp">7 часов назад</time></div></div></div><div class="popular-news"><div class="popular-news__header"><a href="" class="link link_feed">В регионах</a></div><div class="popular-news__item"><a href="https://bloknot-voronezh.ru/news/petitsiyu-s-trebovaniem-zakryt-kvadru-sozdali-zhit-1573630" class="link link_feed popular-news__item--no-border" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-voronezh.ru/thumb/172x115xcut/upload/iblock/a12/752piw6yw9omk9a3g5zwv5dyexy2gbhf/petitsiya.png" alt="Петицию с требованием закрыть «Квадру» создали жители Воронежа " class="people-news__image">Петицию с требованием закрыть «Квадру» создали жители Воронежа <span class="link link_top-news link_top-news_left link_top-news-first">1.</span></a><div class="popular-news__meta"><a href="https://bloknot-voronezh.ru/" class="link link_tag" target="_blank">Воронеж</a><time class="people-news__timestamp">сегодня в 12:46</time></div></div><div class="popular-news__item"><a href="https://bloknot-rostov.ru/news/v-tts-orbita-v-rostove-neizvestnyy-otkryl-strelbu-" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-rostov.ru/thumb/172x115xcut/upload/iblock/53c/oz2hrv0q2vyxxln2wx1jdgji2c81qcxa/photo_2023_02_19_21_23_31.jpg" alt="В ТЦ «Орбита» в Ростове неизвестный открыл стрельбу по посетителям" class="people-news__image">В ТЦ «Орбита» в Ростове неизвестный открыл стрельбу по посетителям<span class="link link_top-news link_top-news_left">2.</span></a><div class="popular-news__meta"><a href="https://bloknot-rostov.ru/" class="link link_tag" target="_blank">Ростов-на-Дону</a><time class="people-news__timestamp">вчера в 21:27</time></div></div><div class="popular-news__item"><a href="https://bloknot-voronezh.ru/news/za-polmilliarda-rubley-prodayut-imushchestvo-zavod-1573488" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-voronezh.ru/thumb/172x115xcut/upload/iblock/901/ww5khwrkqolu5zcshv0tj6s9yrrlgcox/clipboard01_1_.jpg" alt="За полмиллиарда рублей продают имущество завода, который хотел спасти воронежский губернатор" class="people-news__image">За полмиллиарда рублей продают имущество завода, который хотел спасти воронежский губернатор<span class="link link_top-news link_top-news_left">3.</span></a><div class="popular-news__meta"><a href="https://bloknot-voronezh.ru/" class="link link_tag" target="_blank">Воронеж</a><time class="people-news__timestamp">сегодня в 09:22</time></div></div><div class="popular-news__item"><a href="https://bloknot-volgograd.ru/news/volgogradskiy-spasatel-gennadiy-kozhanov-pogib-pri-1573628" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-volgograd.ru/thumb/172x115xcut/upload/iblock/063/5595e25zji38yfo0tjygbo0s1xc58ec5/rekonstruktsiya_stalingradskaya_bitva_volgograd41.jpg" alt="Волгоградский спасатель Геннадий Кожанов погиб при штурме на СВО" class="people-news__image">Волгоградский спасатель Геннадий Кожанов погиб при штурме на СВО<span class="link link_top-news link_top-news_left">4.</span></a><div class="popular-news__meta"><a href="https://bloknot-volgograd.ru/" class="link link_tag" target="_blank">Волгоград</a><time class="people-news__timestamp">сегодня в 12:45</time></div></div><div class="popular-news__item"><a href="https://bloknot-volgograd.ru/news/byvshaya-lyubov-prokhora-shalyapina-podnyala-boevo" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-volgograd.ru/thumb/172x115xcut/upload/iblock/d17/r7yau8355rs7com99w3bru4t3rxnmvy0/Skrinshot-19_02_2023-170928.jpg" alt="Бывшая любовь Прохора Шаляпина подняла боевой дух раненых в госпитале откровенным нарядом и эротичным танцем" class="people-news__image">Бывшая любовь Прохора Шаляпина подняла боевой дух раненых в госпитале откровенным нарядом и эротичным танцем<span class="link link_top-news link_top-news_left">5.</span></a><div class="popular-news__meta"><a href="https://bloknot-volgograd.ru/" class="link link_tag" target="_blank">Волгоград</a><time class="people-news__timestamp">вчера в 17:21</time></div></div><div class="popular-news__item"><a href="https://bloknot-rostov.ru/news/rostovskie-spasateli-evakuirovali-bolee-40-chelove" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-rostov.ru/thumb/172x115xcut/upload/iblock/7f7/pi2korseg2ekdkdpz4vsfp088ttfg4hm/bonfire_flame_fire.jpeg" alt="Ростовские спасатели эвакуировали более 40 человек из горящей многоэтажки" class="people-news__image">Ростовские спасатели эвакуировали более 40 человек из горящей многоэтажки<span class="link link_top-news link_top-news_left">6.</span></a><div class="popular-news__meta"><a href="https://bloknot-rostov.ru/" class="link link_tag" target="_blank">Ростов-на-Дону</a><time class="people-news__timestamp">вчера в 17:58</time></div></div><div class="popular-news__item"><a href="https://bloknot-volgograd.ru/news/volgogradskiy-biznesmen-obshchestvennoe-mnenie-got-1573447" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-volgograd.ru/thumb/172x115xcut/upload/iblock/cfe/xg6gtmnewacdamizdtuefyo0k81gn8kq/image-_24_.png" alt="Волгоградский бизнесмен: "Общественное мнение готовят к жестким мерам"" class="people-news__image">Волгоградский бизнесмен: "Общественное мнение готовят к жестким мерам"<span class="link link_top-news link_top-news_left">7.</span></a><div class="popular-news__meta"><a href="https://bloknot-volgograd.ru/" class="link link_tag" target="_blank">Волгоград</a><time class="people-news__timestamp">вчера в 19:52</time></div></div><div class="popular-news__item"><a href="https://bloknot-voronezh.ru/news/unizhayushchiy-peshekhodov-perekhod-zametili-v-vor-1573405" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-voronezh.ru/thumb/172x115xcut/upload/iblock/2f9/e0l498xkhl1mr7h32rqb4yq643zxksjl/H9oSr57OyuJvinoZllhVevXBpdCmz7f_kPT73yQf_qJMnDJiNeU7Ejt1ILlubrQb_Cxok6eeYvbLQHB_MK5AEpfR.jpg" alt="Унижающий пешеходов переход заметили в Воронеже " class="people-news__image">Унижающий пешеходов переход заметили в Воронеже <span class="link link_top-news link_top-news_left">8.</span></a><div class="popular-news__meta"><a href="https://bloknot-voronezh.ru/" class="link link_tag" target="_blank">Воронеж</a><time class="people-news__timestamp">вчера в 17:02</time></div></div><div class="popular-news__item"><a href="https://bloknot-volgodonsk.ru/news/zhitelyam-volgodonska-predlozhili-privatizirovat-z-1573417" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-volgodonsk.ru/thumb/172x115xcut/upload/iblock/f8a/cl7qp7ubn59hr942u9vb3308fkbtd8bt/IMG_20230120_101152.jpg" alt="Жителям Волгодонска предложили приватизировать земельный участок за 4,2 миллионов рублей" class="people-news__image">Жителям Волгодонска предложили приватизировать земельный участок за 4,2 миллионов рублей<span class="link link_top-news link_top-news_left">9.</span></a><div class="popular-news__meta"><a href="https://bloknot-volgodonsk.ru/" class="link link_tag" target="_blank">Волгодонск</a><time class="people-news__timestamp">вчера в 17:05</time></div></div><div class="popular-news__item"><a href="https://bloknot-rostov.ru/news/v-rostove-prazdnichnaya-rabochaya-nedelya-nachnets" class="link link_feed" target="_blank"><img src="/static/images/blank.png" data-src="https://bloknot-rostov.ru/thumb/172x115xcut/upload/iblock/833/00fbzl79cleeurn3e5ni1jau8l60zui4/IMG_3828.jpg" alt="В Ростове праздничная рабочая неделя начнется со снегопада" class="people-news__image">В Ростове праздничная рабочая неделя начнется со снегопада<span class="link link_top-news link_top-news_left link_top-news-last">10.</span></a><div class="popular-news__meta"><a href="https://bloknot-rostov.ru/" class="link link_tag" target="_blank">Ростов-на-Дону</a><time class="people-news__timestamp">сегодня в 06:46</time></div></div></div></div><div id="discussed" class="inactive"><div class="popular-news"><div class="popular-news__header"><a href="#" class="link link_feed">В России</a></div></div><div class="popular-news"><div class="popular-news__header"><a href="" class="link link_feed">В регионах</a></div></div></div></div><!--время footer_top: 0.00011301040649414--> 
+</div>
+</div>
+  </div>
+</div>
+</div>
+
+   
+<nav class="nav nav__bottom row">
+    <ul class="nav__list">
+        <li class="nav__item nav__item--first"><a href="#" class="link link_nav link_nav_icon"><span class="glyphicon glyphicon-home text_xsmall-icon"></span></a></li>
+			<li class="nav__item"><a href="/" class="link link_nav">Новости</a></li>
+            <li class="nav__item"><a href="/category/interv-yu" class="link link_nav">Интервью</a></li>
+            <li class="nav__item"><a href="/category/nedvizhimost" class="link link_nav">Недвижимость</a></li>
+            <li class="nav__item"><a href="/category/avtomobili-2" class="link link_nav">Авто</a></li>
+            <li class="nav__item"><a href="/tag/opros" class="link link_nav">Опросы</a></li>
+            <li class="nav__item"><a href="/vse-konkursy" class="link link_nav">Конкурсы</a></li>
+            <li class="nav__item"><a href="/category/internet-hity" class="link link_nav">Видеохиты</a></li>
+            <li class="nav__item"><a href="/tag/kalendar" class="link link_nav">Календарь</a></li>
+            <li class="nav__item"><a href="/narod" class="link link_nav">Народный репортер</a></li>	
+    </ul>
+</nav>
+    <div class="footer-wrapper">
+   <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-content__line">
+        <div class="footer__social">
+          <p class="social__text">Подпишитесь на наши новости в социальных сетях:</p>
+          <div class="social__icons">
+			<a class="social__icon bloknot_social_tg" href="https://t.me/bloknot_rossii" target="_blank"></a>
+            <a class="social__icon icon_vk" href="//vk.com/bloknot_news" target="_blank"></a>
+            <a class="social__icon icon_ok" href="//www.odnoklassniki.ru/bloknot.ru" target="_blank"></a>
+            			<a class="social__icon dzen" href="//zen.yandex.ru/bloknot.ru" target="_blank"></a>			
+
+			<!--<a class="social__icon icon_youtube" href="https://www.youtube.com/channel/UCfwy6sMnKMMPVyjTl3XNv3w" target="_blank"></a>-->
+          </div>
+		  <!--LiveInternet logo--><div style="float:left;margin-top:25px;"><a href="https://www.liveinternet.ru/click"
+target="_blank"><img src="https://counter.yadro.ru/logo?28.1"
+title="LiveInternet: показано количество просмотров и посетителей"
+alt="" style="border:0" width="88" height="120"/></a></div><!--/LiveInternet-->
+        </div>
+        <div class="footer-nav">
+          <ul class="footer-nav__item">
+            <li><a class="link link_nav_footer" href="/reklama" target="_blank">Реклама</a></li>
+			<li><a class="link link_nav_footer" href="/kontakty" target="_blank">Контакты</a></li>
+			<li><a class="link link_nav_footer" href="/o-kompanii" target="_blank">О компании</a></li>
+			<li><a class="link link_nav_footer" href="/avtory" target="_blank">Авторы</a></li>	
+			<li><a class="link link_nav_footer" href="/politika-ob-obrabotke-personal-ny-h-danny-h" target="_blank">Информация</a></li>			
+          </ul>
+          <ul class="footer-nav__item">
+            <li><a class="link link_nav_footer" href="/people/" target="_blank">Список пользователей</a></li>
+            <li><a class="link link_nav_footer" href="/auth/" target="_blank">Войти на сайт</a></li>
+            <li><a class="link link_nav_footer" href="/auth/?register=yes" target="_blank">Зарегистрироваться</a></li>
+			<li><a class="link link_nav_footer" href="/rss.xml" target="_blank">RSS</a></li>
+          </ul>		  
+		   <ul class="footer-nav__item">
+
+			<li><a href="//bloknot.ru/date/2022" class="link link_nav_footer">Все новости 2022</a></li>
+			<li><a href="//bloknot.ru/date/2021" class="link link_nav_footer">Все новости 2021</a></li>
+			<li><a href="//bloknot.ru/date/2020" class="link link_nav_footer">Все новости 2020</a></li>
+			<li><a href="//bloknot.ru/date/2019" class="link link_nav_footer">Все новости 2019</a></li>
+		   
+		   <li><a href="//bloknot.ru/date/2018" class="link link_nav_footer">Все новости 2018</a></li>
+			<li><a href="//bloknot.ru/date/2017" class="link link_nav_footer">Все новости 2017</a></li>
+			<li><a href="//bloknot.ru/date/2016" class="link link_nav_footer">Все новости 2016</a></li>
+			<li><a href="//bloknot.ru/date/2015" class="link link_nav_footer">Все новости 2015</a></li>
+			<li><a href="//bloknot.ru/date/2014" class="link link_nav_footer">Все новости 2014</a></li>
+			<li><a href="//bloknot.ru/date/2013" class="link link_nav_footer">Все новости 2013</a></li>
+			
+          </ul>
+		  
+        </div>
+      </div>
+      <div class="footer-infoline">
+        <div class="footer-infoblock--small">
+          <div class="social__icons">
+            <a href="#" class="icon_bloknot"></a>
+          </div>
+          <div class="social__text">
+            <p>© 2013 - 2023 "Bloknot" </br>Все права защищены</p>
+			</br>
+			
+          </div>
+        </div>
+		<div class="footer-infoblock--medium p-25-top">
+          <div class="social__text">
+            <p>Перепечатка и любое иное использование материалов сайта «Bloknot» возможны только при указании гиперссылки на наш портал.</p></br>
+			<p>Свидетельство о регистрации СМИ: Эл № ФС77-61964, выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 05 июня 2015 г.</p>
+          </div>
+        </div>
+        <div class="footer-nav footer-nav--second" style="height:0px;">
+          <ul class="footer-nav__item"></ul>
+          <ul class="footer-nav__item"></ul>
+          <table class="footer-counters g-right" height="120" cellspacing="4" cellpadding="4" style="vertical-align: middle; visibility:hidden; ">
+            <tbody>
+              <tr>
+                <th height="35" style="vertical-align: top; padding: 2px;">
+				<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(24396565, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/24396565" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+                </th>
+                <th rowspan="3" height="120" style="vertical-align: middle; padding-left: 5px;">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JN2XHLQK6K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JN2XHLQK6K');
+</script>
+
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 2px; height: 35px;">
+                                 </td>
+              </tr>
+              <tr>
+                <td style="vertical-align: top; padding: 2px; height: 40px;">
+                  <div class="adult"></div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="footer-down">
+      <div class="wrapper">
+        <div class="footer-down__item">
+          <p class="social__text social__text--down">Настоящий ресурс может содержать материалы 16+</p>
+
+        </div>
+        <div class="footer-down__item footer-down__item--right">
+          <a class="link link_nav_footer link_nav_footer--down" href="//bloknot.ru/franshiza" rel="nofollow" target="_blank">"Блокнот" ищет партнеров</a>
+          <a class="link link_nav_footer link_nav_footer--down" href="//bloknot.ru/" rel="nofollow">Информационное агентство "Блокнот.RU"</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+<script src="//bloknot.ru/static/js/jquery.sticky.min.js"></script>
+<script src="//bloknot.ru/wp-content/themes/srg/usk/jquery.lazy.min.js"></script>
+<script src="//bloknot.ru/wp-content/themes/srg/fancybox/1/jquery.fancybox.min.js?1"></script>
+<link rel="stylesheet" type="text/css" href="//bloknot.ru/wp-content/themes/srg/fancybox/1/jquery.fancybox.min.css?asdas=150224_1" media="screen" />
+<script type="text/javascript">
+jQuery(".wp-block-gallery .blocks-gallery-item a").fancybox().attr("data-fancybox","gallery"),$(function(){$("a[rel=lightbox]").fancybox({transitionIn:"elastic",transitionOut:"elastic",overlayShow:!1,cyclic:!0,titlePosition:"over",buttons:["zoom","download","close","fullScreen","showNavArrows"],onComplete:function(){$("#fancybox-title").css({top:"100%",bottom:"auto"})}})});
+</script>
+   
+<script>$("a.chosecity").fancybox();</script>
+<script src="//bloknot.ru/static/new20160310/js/main_comp.min.js?ver=20200729_1" type="text/javascript"></script>	
+<link rel="stylesheet" href="//bloknot.ru/wp-content/themes/srg/style_new_dop_20160328.css?20220321_1" media="screen"> 
+
+<script src="//bloknot.ru/wp-content/themes/srg/usk/loader.js" crossorigin="anonymous" async></script>
+
+<script>
+(function(w, n) {
+    w[n] = w[n] || [];
+    w[n].push({
+        ownerId: 238422,
+        containerId: 'adfox_151852900215518817',
+        params:  {
+            pp: 'ghx',
+            ps: 'casa',
+            p2: 'fdxh'
+        }
+    });
+})(window, 'adfoxAsyncParams');
+</script>
+
+<script>
+(function(w, n) {
+    w[n] = w[n] || [];
+    w[n].push({
+        ownerId: 238422,
+        containerId: 'adfox_156443101634646537',
+        params:  {
+            pp: 'iof',
+            ps: 'casa',
+            p2: 'fljz'
+        }
+    });
+})(window, 'adfoxAsyncParams');
+</script>
+</div>
+<div class="js-relap-adhoc-anchor" data-relap-id="DvEO6SjoTwP5xW9v"></div>
+<script>
+(function() {
+  var widgetId = 'DvEO6SjoTwP5xW9v';
+  var token = 'WSFZePx4JHKPd46L';
+  var w = window;
+  var d = w.document;
+  w.relapTasks = w.relapTasks || [];
+  w.relapTasks.push(function(api) {
+    function addWidget() {
+      var anchorEl = d.querySelector('.js-relap-adhoc-anchor[data-relap-id="' + widgetId + '"]');
+      if (!anchorEl) {
+        console.log('no anchor el found, exit');
+        return;
+      }
+      anchorEl.className = '';
+      api.addWidget({
+        cfgId: widgetId,
+        anchorEl: anchorEl,
+        events: {
+          onNoContent: function(obj) {
+            anchorEl.remove();
+          },
+        },
+      });
+    }
+    if (api.isReady) return addWidget();
+    api.init({
+        token: token,
+        url: window.top ? window.top.location.href : 'https://bloknot.ru',
+      })
+      .then(addWidget);
+  });
+  if (!d.querySelector('.relap-runtime-iframe')) {
+    var s = d.createElement('script');
+    s.src = 'https://relap.io/v7/relap.js';
+    d.body.appendChild(s);
+  }
+})();
+</script>
+
+
+<!--AdFox START-->
+<!--maxrostov61-->
+<!--Площадка: регионы / все_регионы / регионы доп место РАСП Федералка ПБ-->
+<!--Категория: <не задана>-->
+<!--Баннер: <не задана>-->
+<!--Тип баннера: регионы_доп место-->
+
+<script src="https://moevideo.biz/embed/js/mvpt.min.js"></script>
+<div id="adfox_164327849707566691"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 238422,
+            containerId: 'adfox_164327849707566691',
+            params: {
+                p1: 'cshrd',
+                p2: 'fgjd',
+                pfc: 'barku',
+                pfb: 'kxeee'
+            }
+        })
+    })
+</script>
+
+
+
+
+
+<script type="text/javascript">
+cackle_widget = window.cackle_widget || [];
+cackle_widget.push({widget: 'CommentCount', id: 78905, no: '0', one: '1', mult: '{num}'});
+(function() {
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cackle.me/widget.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,2624 @@
+<!doctype html>
+<html lang="ru">
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WW2962J');</script>
+
+<!-- End Google Tag Manager -->
+
+        <link rel="canonical" href="https://postila.ru" />
+        
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="language" content="ru_ru">
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <!--script async="async" type="text/javascript" src="https://rum.okmeter.ru/static/js/rum_inline.js?okmRUMkey=da9f48f0-2c39-4d12-9c1d-60d5ef0947bf"></script-->
+    <link rel="dns-prefetch" href="https://postila.ru" />
+    <link rel="dns-prefetch" href="https://postila.ru" />
+    <link rel="dns-prefetch" href="https://postila.ru" />
+    <link rel="dns-prefetch" href="https://postila.ru" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://yastatic.net/" />
+    <link rel="preconnect" href="https://static.criteo.net" />
+    <link rel="preconnect" href="https://ads.adfox.ru" />
+    <link rel="preconnect" href="https://yandex.ru/ads/system/context.js" />
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/dpjkpdelbaahkeeoeppmgkbliipjcnpm" />
+    <!-- blueprint CSS framework -->
+    <style>
+        .classic-theme .base_button{font-family:Inter!important;font-style:normal!important;font-weight:500!important;font-size:16px!important;line-height:36px!important;background:0 0!important;border:none!important;background-color:#f1f1f1!important;color:#dc423d!important;height:38px!important;min-width:56px;border-radius:24px!important;box-shadow:none!important;padding:5px 15px!important;text-shadow:none!important;text-decoration:none;cursor:pointer!important;display:inline-block}.classic-theme .base_button.disabled{color:silver!important}.classic-theme .base_button_small{padding:5px 15px!important;font-size:14px!important;line-height:28px!important;height:30px!important;min-width:30px}.classic-theme input.base_button_small{height:40px!important}.classic-theme .base_button_round{border-radius:30px!important;padding:5px!important}.classic-theme .base_button:hover{background-color:#e4e4e4!important;border:none!important}.classic-theme .base_button:active{background-color:#f1f1f1!important;border:none!important}.classic-theme .base_button_red{color:#fff!important;background-color:#dc423d!important;border:none!important}.classic-theme .base_button_red:hover{background-color:#cb3b37!important;border:none!important}.classic-theme .base_button_red:active{background-color:#fa534e!important;border:none!important}.classic-theme .base_button_white{color:#101010!important;background-color:#fff!important;border:none!important}.classic-theme .base_button_border{background-color:#fff!important;border-radius:6px!important;border:1px solid #e4e4e4!important;color:#101010!important}.classic-theme .base_button_border:hover{border:1px solid #e4e4e4!important}.classic-theme .base_button_border:active{border:1px solid #e4e4e4!important}.classic-theme .base_textarea{font-family:Inter!important;font-style:normal!important;font-weight:500!important;font-size:14px!important;line-height:21px!important;color:#818181!important;background:#f1f1f1!important;border-radius:4px!important;padding:10px!important;outline:0!important;border:none!important}.classic-theme .base_textarea:hover{background:#e4e4e4!important;outline:0!important;border:none!important}.classic-theme .base_textarea:active,.classic-theme .base_textarea:focus{background:#e4e4e4!important;outline:0!important;border:none!important}.classic-theme .base_link_black{color:#101010!important;text-decoration:none!important;letter-spacing:0}.classic-theme .base_link_black:hover{color:#101010!important;text-decoration:underline!important;letter-spacing:0}.classic-theme .base_link_black:active{color:#818181!important;text-decoration:underline!important;letter-spacing:0}.classic-theme .base_link_gray{color:#818181!important;text-decoration:none!important;letter-spacing:0}.classic-theme .base_link_gray:hover{color:#818181!important;text-decoration:underline!important;letter-spacing:0}.classic-theme .base_link_gray:active{color:#c4c4c4!important;text-decoration:underline!important;letter-spacing:0}.classic-theme .base_link_red{color:#dc423d!important;text-decoration:none!important;letter-spacing:0}.classic-theme .base_link_red:hover{color:#cb3b37!important;text-decoration:underline!important;letter-spacing:0}.classic-theme .base_link_red:active{color:#fa534e!important;text-decoration:underline!important;letter-spacing:0}.classic-theme .base_tag{background:#fff;font-size:14px!important;line-height:21px!important}.classic-theme .base_tag:hover{background:#e4e4e4;border:1px solid #e4e4e4!important}.classic-theme .base_tag:active{background:#f1f1f1;border:1px solid #f1f1f1!important}.classic-theme .base_input{background-color:#f1f1f1;color:#101010;font-family:Inter!important;font-style:normal!important;font-weight:500!important;font-size:14px!important;line-height:21px!important;padding:7px;padding-left:10px;padding-right:10px;border:none!important;box-shadow:none!important;outline:0!important;margin-bottom:5px}.classic-theme .base_input:hover{border:0 #e4e4e4 solid!important;background-color:#e4e4e4;box-shadow:none!important;outline:0!important}.classic-theme .base_input:active,.classic-theme .base_input:focus{border:0 #e4e4e4 solid!important;background-color:#e4e4e4;box-shadow:none!important;outline:0!important}.classic-theme .base_select{background-color:#f1f1f1;color:#101010;font-family:Inter!important;font-style:normal!important;font-weight:500!important;font-size:14px!important;line-height:21px!important;padding:7px;padding-left:10px;padding-right:10px;border:none!important;box-shadow:none!important;outline:0!important;margin-bottom:10px;min-height:20px}.classic-theme .base_select:hover{border:0 #e4e4e4 solid!important;background-color:#e4e4e4;box-shadow:none!important;outline:0!important}.classic-theme .base_select:active,.classic-theme .base_select:focus{border:0 #e4e4e4 solid!important;background-color:#e4e4e4;box-shadow:none!important;outline:0!important}.classic-theme .base_radiobox{margin-bottom:5px;margin-left:0}.base_radiobox input[type=radio]{display:none}.classic-theme .base_radiobox label{display:inline-block;cursor:pointer;position:relative;padding-left:35px;margin-right:0;line-height:18px;user-select:none;margin-left:0;font-family:Inter!important;font-style:normal!important;font-weight:500!important}.classic-theme .base_radiobox label:before{content:"";display:inline-block;width:35px;height:24px;position:absolute;left:0;bottom:1px;background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMC41IiB5PSIwLjUiIHdpZHRoPSIyMyIgaGVpZ2h0PSIyMyIgcng9IjExLjUiIGZpbGw9IiNGMUYxRjEiLz4KPHJlY3QgeD0iMC41IiB5PSIwLjUiIHdpZHRoPSIyMyIgaGVpZ2h0PSIyMyIgcng9IjExLjUiIHN0cm9rZT0iI0U0RTRFNCIvPgo8L3N2Zz4K) no-repeat 0 0}.classic-theme .base_radiobox label:hover:before{background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMTIiIGZpbGw9IiNFNEU0RTQiLz4KPC9zdmc+Cg==) no-repeat 0 0}.classic-theme .base_radiobox input[type=radio]:checked+label:before{background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMTIiIGZpbGw9IiNGN0UyRTEiLz4KPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iOCIgZmlsbD0iI0RDNDIzRCIvPgo8L3N2Zz4K) no-repeat 0 0}.classic-theme .base_radiobox input[type=radio]:checked+label:hover:before{background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMTIiIGZpbGw9IiNGN0UyRTEiLz4KPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iOCIgZmlsbD0iI0NCM0IzNyIvPgo8L3N2Zz4K) no-repeat 0 0}.classic-theme .base_radiobox input[type=radio]:disabled+label:before{filter:grayscale(100%)}.classic-theme .base_checkbox{position:absolute;opacity:0}.classic-theme .base_checkbox+label{display:inline-flex;align-items:center;user-select:none;width:auto!important;text-align:left;margin-bottom:5px;margin-left:0;font-family:Inter!important;font-style:normal!important;font-weight:500!important;font-size:14px!important;line-height:21px!important;color:#101010!important}.classic-theme .base_checkbox+label::before{content:'';display:inline-block;width:30px;height:24px;flex-shrink:0;flex-grow:0;margin-right:.5em;background-repeat:no-repeat;background-position:left center;background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMC41IiB5PSIwLjUiIHdpZHRoPSIyMyIgaGVpZ2h0PSIyMyIgcng9IjMuNSIgZmlsbD0iI0YxRjFGMSIvPgo8cmVjdCB4PSIwLjUiIHk9IjAuNSIgd2lkdGg9IjIzIiBoZWlnaHQ9IjIzIiByeD0iMy41IiBzdHJva2U9IiNFNEU0RTQiLz4KPC9zdmc+Cg==) no-repeat 0 0}.classic-theme .base_checkbox:checked+label::before{background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0RDNDIzRCIvPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjREM0MjNEIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTcuMTMyOSA5LjAyODA4TDEwLjE2MSAxNkw2IDExLjgzOUw3LjAyODA4IDEwLjgxMDlMMTAuMTYxIDEzLjk0MzhMMTYuMTA0OCA4TDE3LjEzMjkgOS4wMjgwOFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=) no-repeat 0 0}.classic-theme .base_checkbox+label:hover:before{content:'';display:inline-block;width:30px;height:24px;flex-shrink:0;flex-grow:0;margin-right:.5em;background-repeat:no-repeat;background-position:left center;background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0RDNDIzRCIvPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjRTRFNEU0Ii8+Cjwvc3ZnPgo=) no-repeat 0 0}.classic-theme .base_checkbox:checked+label:hover:before{background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI0RDNDIzRCIvPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjQ0IzQjM3Ii8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTcuMTMyOSA5LjAyODA4TDEwLjE2MSAxNkw2IDExLjgzOUw3LjAyODA4IDEwLjgxMDlMMTAuMTYxIDEzLjk0MzhMMTYuMTA0OCA4TDE3LjEzMjkgOS4wMjgwOFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=) no-repeat 0 0}.base_checkbox_prefix{width:20%;display:inline-block;height:10px;float:left;margin-right:7px}.phone .base_checkbox_prefix{width:0%;display:inline-block;height:10px;float:left;margin-right:0}
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preload" as="style" type="text/css" href="/css/blueprint/screen.css?0ab31e05e8bb" media="screen, projection" />
+    <link rel="stylesheet" type="text/css" href="/css/blueprint/screen.css?0ab31e05e8bb" media="screen, projection" />
+        <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="/blueprint/css/ie.css" media="screen, projection">
+    <![endif]-->
+                <!--link rel="stylesheet" type="text/css" href="/css/blueprint/plugins/fancy-type/screen.css?0ab31e05e8bb" media="screen, projection">
+    <link rel="stylesheet" type="text/css" href="/css/main.css?0ab31e05e8bb">
+    <link rel="stylesheet" type="text/css" href="/css/lightbox.css?0ab31e05e8bb"-->
+        <link rel="preload" as="style" href="/themes/classic/css/main.css?0ab31e05e8bb" />
+    <link rel="stylesheet" href="/themes/classic/css/main.css?0ab31e05e8bb" />
+
+    <link rel="preload" as="style" href="/themes/classic/css/base.css?0ab31e05e8bb" />
+    <link rel="stylesheet" href="/themes/classic/css/base.css?0ab31e05e8bb" />
+    <link rel="SHORTCUT ICON" href="https://postila.ru/favicon.ico" />
+    <!--[if IE]><link rel="shortcut icon" href="https://postila.ru/favicon.ico" /><![endif]-->
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Postila" />
+    <link rel="publisher" href="https://plus.google.com/+PostilaRu" />
+
+    <meta name="application-name" content="Postila">
+    <meta property="fb:app_id" content="344224125709546">
+    <meta property="og:site_name" content="Postila.ru">
+    <meta property="twitter:card" name="twitter:card" content="summary" data-app>
+    <meta property="twitter:site" name="twitter:site" content="@postilaru" data-app>
+    <meta property="twitter:app:android" name="twitter:app:android" content="io.postila" data-app>
+    <meta property="twitter:app:id:iphone" name="twitter:app:id:iphone" content="1121343965" data-app>
+<link rel="preload" as="style" href="/assets/style-xQauCbpdgEwP8smsEvKKOg.css?1642660353?0ab31e05e8bb"><link rel="preload" as="script" href="/assets/script--2-xVupQFswvlLcXtbFEExInQ.js?1642660352?0ab31e05e8bb">
+<link rel="stylesheet" type="text/css" href="/assets/style-xQauCbpdgEwP8smsEvKKOg.css?1642660353?0ab31e05e8bb" />
+<style type="text/css">
+/*<![CDATA[*/
+#main{margin-left:0;margin-top:15px !important}#wlt-PictureList .items{margin:0 auto}
+/*]]>*/
+</style>
+<script type="text/javascript" src="/assets/script--2-xVupQFswvlLcXtbFEExInQ.js?1642660352?0ab31e05e8bb"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+require.config({"waitSeconds":15,"shim":{"underscore":{"exports":"_"},"backbone":{"deps":["underscore"],"exports":"Backbone"},"backbone.forms":{"deps":["backbone"]},"jquery.masonry":{"exports":"jQuery.fn.masonry"},"jquery.infinitescroll":{"exports":"jQuery.fn.infinitescroll"},"jquery.autoresize":{"exports":"jQuery.fn.autoResize"},"jquery.imageload":{"exports":"jQuery.fn.bindImageLoad"},"bootstrap":{"exports":"jQuery.fn.bootstrap"},"bootstrap.switch":{"deps":["bootstrap"],"exports":"jQuery.fn.bootstrapSwitch"}},"paths":{"jquery.fixto":"\/assets\/43bb5b49\/fixto.min","hammer":"\/assets\/43bb5b49\/hammer.min","underscore":"\/assets\/43bb5b49\/underscore.min","backbone":"\/assets\/43bb5b49\/backbone.min","domReady":"\/assets\/43bb5b49\/domReady","jquery.masonry":"\/assets\/8503551\/jquery.masonry","jquery.infinitescroll":"\/assets\/bd60e9b2\/jquery.infinitescroll.min","jquery.imageload":"\/assets\/93a897c3\/jquery.imageloadevent","jquery.autoresize":"\/assets\/bd07083a\/autoresize.jquery.min","bootstrap":"\/assets\/c0a3e76c\/bootstrap.min","bootstrap.switch":"\/assets\/ab81c4d6\/bootstrap-switch.min","bbq":"\/assets\/11f5bb\/jquery.ba-bbq.min.js?0ab31e05e8bb","dust":"\/assets\/43bb5b49\/dust.all","backbone.forms":"\/assets\/43bb5b49\/backbone-forms.min"}});
+(function(w){w.p = w.p || {}; w.p.scripts = {'scriptFiles':{'0':{'/assets/a4ea0d91/all.js':'/assets/a4ea0d91/all.js'},'2':{'/assets/11f5bb/jui/js/jquery-ui.min.js':'/assets/11f5bb/jui/js/jquery-ui.min.js','/assets/98f75d9f/listview/jquery.yiilistview.js':'/assets/98f75d9f/listview/jquery.yiilistview.js'}},'scripts':{'4':{'app.translate.pluraleData':'\t;(function(){p.i18n.addPlural([\"fmod(n,10)==1&&fmod(n,100)!=11\",\"(fmod(n,10)>=2&&fmod(n,10)<=4&&fmod(fmod(n,10),1)==0)&&(fmod(n,100)<12||fmod(n,100)>14)\",\"fmod(n,10)==0||(fmod(n,10)>=5&&fmod(n,10)<=9&&fmod(fmod(n,10),1)==0)||(fmod(n,100)>=11&&fmod(n,100)<=14&&fmod(fmod(n,100),1)==0)\",\"true\"], \"ru_ru\");})();','CSRF_YII':'\tp.csrf.init(\"YII_CSRF_TOKEN\", \"bc978b8bd083bb350fe0334ff55701fb4bdbd8c1\");','i18n':'\trequire([\'backbone\', \'jquery\', \'underscore\', \'domReady\'], function (Backbone, jq, _) {p.i18n.add({\"Error! Report it.\":\"\\u041e\\u0448\\u0438\\u0431\\u043a\\u0430. <a href=\\\"https:\\/\\/pishite.postila.ru\\\" target=\\\"_blank\\\">\\u0421\\u043e\\u043e\\u0431\\u0449\\u0438\\u0442\\u044c \\u043e \\u043f\\u0440\\u043e\\u0431\\u043b\\u0435\\u043c\\u0435<\\/a>\",\"Report\":\"\\u041f\\u043e\\u0436\\u0430\\u043b\\u043e\\u0432\\u0430\\u0442\\u044c\\u0441\\u044f\",\"Delete\":\"\\u0423\\u0434\\u0430\\u043b\\u0438\\u0442\\u044c\",\"See details\":\"\\u041f\\u043e\\u0434\\u0440\\u043e\\u0431\\u043d\\u0435\\u0435\",\"See details at\":\"\\u041f\\u043e\\u0434\\u0440\\u043e\\u0431\\u043d\\u0435\\u0435 \\u043d\\u0430\",\"{n} more repost|{n} more reposts\":\"\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a|\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a\\u0430|\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a|\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a\",\"{n} more like|{n} more likes\":\"\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a|\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a\\u0430|\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a|\\u0438 \\u0435\\u0449\\u0451 {n} \\u0447\\u0435\\u043b\\u043e\\u0432\\u0435\\u043a\",\"{who} onto {board}\":\"{who}<br\\/> \\u0432 {board}\",\"Close\":\"\\u0417\\u0430\\u043a\\u0440\\u044b\\u0442\\u044c\",\"Close this post (ESC button)\":\"\\u0417\\u0430\\u043a\\u0440\\u044b\\u0442\\u044c \\u043f\\u043e\\u0441\\u0442 (\\u043a\\u043b\\u0430\\u0432\\u0438\\u0448\\u0430 ESC)\",\"Previous post (&#8592; button)\":\"\\u041f\\u0440\\u0435\\u0434\\u044b\\u0434\\u0443\\u0449\\u0438\\u0439 \\u043f\\u043e\\u0441\\u0442 (\\u043a\\u043b\\u0430\\u0432\\u0438\\u0448\\u0430 &#8592;)\",\"Next post (&#8594; button)\":\"\\u0421\\u043b\\u0435\\u0434\\u0443\\u044e\\u0449\\u0438\\u0439 \\u043f\\u043e\\u0441\\u0442 (\\u043a\\u043b\\u0430\\u0432\\u0438\\u0448\\u0430 &#8594;)\",\"Share this post in Facebook\":\"\\u041f\\u043e\\u0434\\u0435\\u043b\\u0438\\u0442\\u044c\\u0441\\u044f \\u043f\\u043e\\u0441\\u0442\\u043e\\u043c \\u0432 Facebook\",\"Share in Facebook\":\"\\u041f\\u043e\\u0434\\u0435\\u043b\\u0438\\u0442\\u044c\\u0441\\u044f \\u0432 Facebook\",\"Share this post in Odnoklassniki\":\"\\u041f\\u043e\\u0434\\u0435\\u043b\\u0438\\u0442\\u044c\\u0441\\u044f \\u043f\\u043e\\u0441\\u0442\\u043e\\u043c \\u0432 \\u041e\\u0434\\u043d\\u043e\\u043a\\u043b\\u0430\\u0441\\u0441\\u043d\\u0438\\u043a\\u0430\\u0445\",\"Share in Odnoklassniki\":\"\\u041f\\u043e\\u0434\\u0435\\u043b\\u0438\\u0442\\u044c\\u0441\\u044f \\u0432 OK\",\"Share in Pinterest\":\"\\u041f\\u043e\\u0434\\u0435\\u043b\\u0438\\u0442\\u044c\\u0441\\u044f \\u0432 Pinterest\",\"Buy\":\"\\u041a\\u0443\\u043f\\u0438\\u0442\\u044c\",\"Select Image to Upload\":\"\\u041d\\u0430\\u0436\\u043c\\u0438\\u0442\\u0435, \\u0447\\u0442\\u043e\\u0431\\u044b \\u0432\\u044b\\u0431\\u0440\\u0430\\u0442\\u044c \\u043a\\u0430\\u0440\\u0442\\u0438\\u043d\\u043a\\u0443 \\u0434\\u043b\\u044f \\u043f\\u043e\\u0434\\u0433\\u0440\\u0443\\u0437\\u043a\\u0438\",\"Please, wait a moment\":\"\\u041f\\u043e\\u0436\\u0430\\u043b\\u0443\\u0439\\u0441\\u0442\\u0430, \\u043f\\u043e\\u0434\\u043e\\u0436\\u0434\\u0438\\u0442\\u0435...\",\"Comments\":\"\\u041a\\u043e\\u043c\\u043c\\u0435\\u043d\\u0442\\u0430\\u0440\\u0438\\u0438\",\"Loading\":\"\\u0417\\u0430\\u0433\\u0440\\u0443\\u0437\\u043a\\u0430\",\"Signature\":\"\\u041f\\u043e\\u0434\\u043f\\u0438\\u0441\\u044c\",\"Download problem. Please check your connection and refresh page.\":\"\\u0421\\u0442\\u0440\\u0430\\u043d\\u0438\\u0446\\u0430 \\u0437\\u0430\\u0433\\u0440\\u0443\\u0436\\u0430\\u0435\\u0442\\u0441\\u044f \\u0441\\u043b\\u0438\\u0448\\u043a\\u043e\\u043c \\u0434\\u043e\\u043b\\u0433\\u043e. \\u041f\\u0440\\u043e\\u0432\\u0435\\u0440\\u044c\\u0442\\u0435 \\u0438\\u043d\\u0442\\u0435\\u0440\\u043d\\u0435\\u0442-\\u0441\\u043e\\u0435\\u0434\\u0438\\u043d\\u0435\\u043d\\u0438\\u0435 \\u0438 \\u043f\\u043e\\u043f\\u0440\\u043e\\u0431\\u0443\\u0439\\u0442\\u0435 <a href=\\\"javascript:window.location.reload(true)\\\">\\u043f\\u0435\\u0440\\u0435\\u0437\\u0430\\u0433\\u0440\\u0443\\u0437\\u0438\\u0442\\u044c \\u0441\\u0442\\u0440\\u0430\\u043d\\u0438\\u0446\\u0443<\\/a>\",\"Do you like Postila.ru? Please join us on Facebook\":\"\\u0412\\u0430\\u043c \\u043d\\u0440\\u0430\\u0432\\u0438\\u0442\\u0441\\u044f \\u041f\\u043e\\u0441\\u0442\\u0438\\u043b\\u0430?<br>\\u0415\\u0441\\u043b\\u0438 \\u0434\\u0430, \\u043f\\u043e\\u0436\\u0430\\u043b\\u0443\\u0439\\u0441\\u0442\\u0430, \\u043d\\u0430\\u0436\\u043c\\u0438\\u0442\\u0435 \\u00ab\\u041d\\u0440\\u0430\\u0432\\u0438\\u0442\\u0441\\u044f\\u00bb\",\"Done\":\"\\u0413\\u043e\\u0442\\u043e\\u0432\\u043e\",\"Thank you, I am already with you!\":\"\\u0421\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e, \\u044f \\u0443\\u0436\\u0435 \\u0441 \\u0432\\u0430\\u043c\\u0438, \\u0432\\u0441\\u0451 \\u043a\\u043b\\u0430\\u0441\\u0441\\u043d\\u043e!\",\"Do you like Postila.ru? Please join us on Odnoklassniki\":\"\\u0412\\u0430\\u043c \\u043d\\u0440\\u0430\\u0432\\u0438\\u0442\\u0441\\u044f \\u041f\\u043e\\u0441\\u0442\\u0438\\u043b\\u0430?<br>\\u0415\\u0441\\u043b\\u0438 \\u0434\\u0430, \\u043f\\u0440\\u0438\\u0441\\u043e\\u0435\\u0434\\u0438\\u043d\\u044f\\u0439\\u0442\\u0435\\u0441\\u044c \\u043a \\u043d\\u0430\\u043c \\u0432 \\u041e\\u0434\\u043d\\u043e\\u043a\\u043b\\u0430\\u0441\\u0441\\u043d\\u0438\\u043a\\u0430\\u0445\",\"Post added\":\"\\u0414\\u043e\\u0431\\u0430\\u0432\\u043b\\u0435\\u043d\\u043e\",\"Post saved\":\"\\u0421\\u043e\\u0445\\u0440\\u0430\\u043d\\u0435\\u043d\\u043e\",\"Added to\":\"\\u0432\",\"Added from\":\"\\u0438\\u0437\",\"An error occurred while processing your request.\":\"\\u041e\\u0448\\u0438\\u0431\\u043a\\u0430 \\u043f\\u0440\\u0438 \\u043e\\u0431\\u0440\\u0430\\u0431\\u043e\\u0442\\u043a\\u0435 \\u0437\\u0430\\u043f\\u0440\\u043e\\u0441\\u0430.\",\"Post!\":\"\\u041f\\u043e\\u0441\\u0442!\",\"Like\":\"\\u0421\\u043f\\u0430\\u0441\\u0438\\u0431\\u043e\",\"More\":\"\\u0415\\u0449\\u0435\",\"Edit\":\"\\u0420\\u0435\\u0434\\u0430\\u043a\\u0442\\u0438\\u0440\\u043e\\u0432\\u0430\\u0442\\u044c\",\"Unsubcribe\":\"\\u041e\\u0442\\u043f\\u0438\\u0441\\u0430\\u0442\\u044c\\u0441\\u044f\",\"Unfollow\":\"\\u041e\\u0442\\u043f\\u0438\\u0441\\u0430\\u0442\\u044c\\u0441\\u044f\",\"Follow\":\"\\u041f\\u043e\\u0434\\u043f\\u0438\\u0441\\u0430\\u0442\\u044c\\u0441\\u044f\",\"Subcribe\":\"Subcribe\",\"Embed\":\"\\u0412\\u0441\\u0442\\u0440\\u043e\\u0438\\u0442\\u044c\",\"Postila\":\"\\u041f\\u043e\\u0441\\u0442\\u0438\\u043b\\u0430\",\"Post a the secret board. Only you can see this post.\":\"\\u041f\\u043e\\u0441\\u0442 \\u0438\\u0437 \\u0441\\u0435\\u043a\\u0440\\u0435\\u0442\\u043d\\u043e\\u0439 \\u0434\\u043e\\u0441\\u043a\\u0438. \\u042d\\u0442\\u043e\\u0442 \\u043f\\u043e\\u0441\\u0442 \\u043d\\u0435 \\u0432\\u0438\\u0434\\u044f\\u0442 \\u0434\\u0440\\u0443\\u0433\\u0438\\u0435 \\u043f\\u043e\\u043b\\u044c\\u0437\\u043e\\u0432\\u0430\\u0442\\u0435\\u043b\\u0438.\",\"Secret board. Only you can see this board.\":\"\\u042d\\u0442\\u043e \\u0412\\u0430\\u0448\\u0430 \\u0441\\u0435\\u043a\\u0440\\u0435\\u0442\\u043d\\u0430\\u044f \\u0434\\u043e\\u0441\\u043a\\u0430. \\u0414\\u0440\\u0443\\u0433\\u0438\\u0435 \\u043d\\u0435 \\u043c\\u043e\\u0433\\u0443\\u0442 \\u0435\\u0451 \\u043f\\u0440\\u043e\\u0441\\u043c\\u0430\\u0442\\u0440\\u0438\\u0432\\u0430\\u0442\\u044c.\",\"Subtitles\":\"\\u0422\\u0435\\u043a\\u0441\\u0442 \\u0438\\u0437 \\u0432\\u0438\\u0434\\u0435\\u043e\"});});','BPictureInit':'\t$.uniprogy && $.uniprogy.picture && $.uniprogy.picture.init({\'baseUrl\':\'https://postila.ru\',\'isGuest\':true,\'commentLength\':\'500\'});','WUserReactivateform':'\t\r\n\t            ;\r\n\t            require([\"bootstrap\", \"domReady\"], function(){\r\n\t                var reactivate = function(){\r\n\t                    var $this = $(this);\r\n\t                    var nextModal = $(\"#modal-on-reactivate-ok\");\r\n\t                    var curModal = $(\"#modal-on-reactivate-acc\");\r\n\t                    curModal.off(\"click\", reactivate);\r\n\t                    $.get(window.reactivateUrl, function(res){\r\n\t                        curModal.modal(\"hide\");\r\n\t                        nextModal.modal();\r\n\t                        curModal.on(\"click\", reactivate);\r\n\t                    });\r\n\t                };\r\n\t                window.reactivateModal = function(url){\r\n\t                    window.reactivateUrl = url;\r\n\t                    $(\"#modal-on-reactivate-acc\").modal();\r\n\t                };\r\n\t                \r\n\t                var form = $(\"#uForm_UserLogin\");\r\n\t                if (form.length > 0) {\r\n\t                    var plugin = $(\"#uForm_UserLogin\").uForm();\r\n\t                    plugin.deattach();\r\n\t                    plugin.beforeSuccess = function(data){\r\n\t                        if (data.reactivateModal) {\r\n\t                            window.reactivateModal(data.reactivateModal);\r\n\t                        }\r\n\t                        return true;\r\n\t                    }\r\n\t                    plugin.attach();\r\n\t                }\r\n\t                \r\n\t                $(\"#modal-on-reactivate-acc .reactivate\").on(\"click\", reactivate);\r\n\t                \r\n\t                $(\"#modal-on-reactivate-ok .goodbye\").on(\"click\", function(){\r\n\t                    window.location.href = \"https://postila.ru\";\r\n\t                });\r\n\t            });\r\n\t        ','WPictureScroll':'\t$(\"#scrollToTop\").on(\"click\", function(){\n\t            $.scrollTo(\"body\", 500, {easing:\"easeOutQuad\"});\n\t        });','CJuiDialog#wlt-BaseDialog':'\tjQuery(\'#wlt-BaseDialog\').dialog({\'autoOpen\':false,\'maxHeight\':\'100%\',\'minWidth\':600,\'maxWidth\':600,\'width\':600,\'resizable\':false,\'modal\':true,\'zIndex\':999999,\'open\':function(){\n\t    var fix = function(){\n\t        var bd = $(\'#wlt-BaseDialog\');\n\t        if (bd.is(\':visible\')) {\n\t            var paddings = (bd.innerHeight() - bd.height()),\n\t                hd = $(\'.ui-dialog-titlebar\').outerHeight();\n\t            if (bd.height() > bd.parent().height()) {\n\t                bd.height( bd.parent().innerHeight() - hd - paddings);\n\t                return true;\n\t            }\n\t            //console.log(bd.parent().innerHeight(), hd, paddings, bd.height(), bd.innerHeight());\n\t        }\n\t        return false;\n\t    }\n\t    $(window).off(\'resize\', fix);\n\t    $(window).on(\'resize\', fix);\n\t    var i = function(){\n\t        if (!fix())\n\t            setTimeout(i,40);\n\t    };\n\t    i();\n\t}});','CListView#wlt-PictureLp-list':'\tjQuery(\'#wlt-PictureLp-list\').yiiListView({\'ajaxUpdate\':[\'wlt-PictureLp-list\'],\'ajaxVar\':\'ajax\',\'pagerClass\':\'pager\',\'loadingClass\':\'list-view-loading\',\'sorterClass\':\'sorter\',\'enableHistory\':false});','CLinkPageronclick':'\t\n\t            $(\'.pager a\').off(\'click\');\n\t            $(\'.pager a\').click(function() {\n\t                window.location.href=$(this).data(\'link\');\n\t            });\n\t            ','WPictureLp':'\t\n\t            require([\"backbone\", \"jquery\", \"underscore\",  \"jquery.masonry\", \"jquery.infinitescroll\", \"jquery.autoresize\", \"jquery.imageload\", \"domReady\"], function(Backbone, jq, _){\n\t                /*$(\"body\").css({\"overflow\":\"hidden\"});*/\n\t                $(\".header-menu\").hide();\n\t                    var $container = $(\"#wlt-PictureLp-list > .items\"),\n\t                        isPhone = false;\n\t\n\t                if (!isPhone)\n\t                    $container.masonry({\n\t                        itemSelector: \".pictureItem, .hybridauthWidget\",\n\t                            columnWidth: 336,\n\t                            gutterWidth: 15,\n\t                            isFitWidth: true\n\t    });\n\t    var processPicture = function(index, element) {\n\t        if (isPhone) {\n\t            var pi = $(element).closest(\".pictureImage\"), h = parseInt(pi.data(\"height\"));\n\t            if (!isNaN(h)) pi.height(Math.round(h*$(window).width()/230));\n\t        }\n\t        $(element).bindImageLoad(function () {\n\t            var p = $(element).closest(\".pictureImage\");\n\t            p.find(\".placeholder\").remove();\n\t            p.find(\".indicator\").fadeIn();\n\t            $(element).fadeIn(\"normal\");\n\t            /*p.height(\"auto\");*/\n\t        });\n\t    };\n\t    $(\".pictureCard img:hidden\").each(processPicture);\n\t    var popup_window;\n\t    $(\".hybridauthWidget-button .haButton, .js_auth\").live(\"click\", function() {\n\t        var ti = setInterval(function(){\n\t            if (popup_window.closed) {\n\t                window.onHybridauthPopupIsClose === undefined || window.onHybridauthPopupIsClose();\n\t                clearInterval(ti);\n\t    }\n\t    }, 200);\n\t    popup_window !== undefined && popup_window.close() && (window.onHybridauthPopupIsClose === undefined || window.onHybridauthPopupIsClose());\n\t    var url = $(this).attr(\"href\");\n\t    popup_window = window.open(url, \"hybridauth\", \"location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,titlebar=yes,toolbar=no,channelmode=yes,fullscreen=yes,width=800,height=500\");\n\t    popup_window.focus();\n\t    return false;\n\t    });\n\t    });','require_templates':'\t(function(){p.templates = {\"picture.view:post\":\"{?post.socialPostingMd}\\n  {post.socialPostingMd|s}\\n{\\/post.socialPostingMd}\\n\\n{@widget name=\\\"worklet\\\" id=worklet.id title=worklet.title}\\n<a class=\\\"lightbox-close base_button base_button_white base_button_small base_button_round\\\" href=\\\"#\\\" title=\\\"{@t}Close this post (ESC button){\\/t}\\\"><\\/a>\\n\\n{?post.prevId}\\n<a href=\\\"\\/post\\/{post.prevId}\\\" title=\\\"{@t}Previous post (&#8592; button){\\/t}\\\" class=\\\"lightbox__nav lightbox__nav-prev base_button base_button_white base_button_small base_button_round\\\" data-action=\\\"prev\\\">&#8592;<\\/a>\\n{\\/post.prevId}\\n\\n{?post.nextId}\\n<a href=\\\"\\/post\\/{post.nextId}\\\" title=\\\"{@t}Next post (&#8594; button){\\/t}\\\" class=\\\"lightbox__nav lightbox__nav-next base_button base_button_white base_button_small base_button_round\\\" data-action=\\\"next\\\">&#8594;<\\/a>\\n{\\/post.nextId}\\n\\n{?showPrevNext}\\n<div class=\\\"prev-next-container\\\">\\n  {?prevPostId}\\n  <a href=\\\"\\/post\\/{prevPostId}\\\" title=\\\"{@t}Previous post{\\/t}\\\" class=\\\"nav-prev-post\\\" data-action=\\\"prev\\\">&#8592; {@t}Previous post{\\/t}<\\/a>\\n  {\\/prevPostId}\\n\\n  {?nextPostId}\\n  <a href=\\\"\\/post\\/{nextPostId}\\\" title=\\\"{@t}Next post{\\/t}\\\" class=\\\"nav-next-post\\\" data-action=\\\"next\\\">{@t}Next post{\\/t} &#8594;<\\/a>\\n  {\\/nextPostId}\\n{\\/showPrevNext}\\n<\\/div>\\n\\n<div id=\\\"post_{post.id}\\\" class=\'postPicture post {@eq key=post.is_private value=1}privatePicture{\\/eq} {@eq key=post.disable_ads value=1}disable_ads{\\/eq}\' data-trust-level=\\\"{post.user.censor_trust_level}\\\" data-media-type=\\\"{?post.video}video{:else}image{\\/post.video}\\\">\\n    {?post.buttons}\\n    <div class=\'pictureButtons post-actions\' data-post_id=\\\"{post.id}\\\">\\n        {post.buttons|s}\\n    <\\/div>\\n    {\\/post.buttons}\\n    <div class=\\\"post-content\\\">\\n    {?post.video}\\n        {post.video.source|s}\\n    {:else}{?post.alt_body}\\n        <link rel=\\\"stylesheet\\\" href=\\\"\\/\\/cdnjs.cloudflare.com\\/ajax\\/libs\\/highlight.js\\/8.9.1\\/styles\\/default.min.css\\\">\\n        <script src=\\\"\\/\\/cdnjs.cloudflare.com\\/ajax\\/libs\\/highlight.js\\/8.9.1\\/highlight.min.js\\\"><\\/script>\\n        <script>hljs.initHighlightingOnLoad();<\\/script>\\n        <div class=\\\"post__picture post__picture-type_code\\\" style=\\\"width:660px; text-align: left; background-color: #fff !important\\\">\\n            <pre><code style=\\\"background-color: #fff !important; font-size: 14px; line-height: 1.2\\\">{post.alt_body|s}<\\/code><\\/pre>\\n        <\\/div>\\n    {:else}{?post.iframelyHTML}\\n        <div class=\\\"post__picture post__picture-type_iframely\\\" style=\\\"width:660px\\\"><center>{post.iframelyHTML|s}<\\/center><\\/div>\\n    {:else}{?post.img}\\n        {?post.outLink}<a class=\\\"view\\\" {?post.outLink}target=\\\"_blank\\\"{\\/post.outLink} data-post_id=\\\"{post.id}\\\" rel=\\\"nofollow\\\" {?post.outLink}href=\\\"{post.outLink}\\\"{\\/post.outLink} {?post.outLinkClick}onclick=\\\"{post.outLinkClick}\\\"{\\/post.outLinkClick}>{\\/post.outLink}\\n        <div class=\\\"pictureContainer\\\">\\n            <div class=\\\"post__picture post__picture-type_iframely\\\" style=\\\"width:660px\\\">{post.iframelyHTML|s}<\\/div>\\n            <img src=\\\"{post.img.src|s}\\\"\\n                alt=\\\"{post.message|s}\\\"\\n                {@gt key=post.img.width value=\\\"0\\\"}width=\\\"{post.img.width}\\\"{\\/gt}\\n                {@gt key=post.img.height value=\\\"0\\\"}height=\\\"{post.img.height}\\\"{\\/gt}\\n                class=\\\"loading-post-img\\\"\\n                style=\\\"{post.img_style|s}\\\"\\n            \\/>\\n            {@eq key=post.is_phone value=\\\"4\\\"}\\n            {?post.outLink}{?post.sourceDomain}<div class=\\\"post__picture_source\\\"><span>{post.sourceDomain|s}<\\/span><\\/div>{\\/post.sourceDomain}{\\/post.outLink}\\n            {\\/eq}\\n            {?post.image_original}\\n                {@gt key=post.img.width value=\\\"600\\\"}\\n                    <div class=\\\"post__picture_toolbar\\\">\\n                        <a href=\\\"{post.image_original}\\\" target=\\\"_blank\\\" class=\\\"view post__picture_toolbar_item mi\\\">zoom_in<\\/a>\\n                    <\\/div>\\n                {\\/gt}\\n            {\\/post.image_original}\\n            {#post.picture.fragments}\\n                {?caption}\\n                    <div id=\\\"fragmentCaption{index}\\\" class=\\\"fragmentCaption\\\" style=\\\"bottom:{bottom}\\\">{caption|s}<\\/div>\\n                {\\/caption}\\n            {\\/post.picture.fragments}\\n        <\\/div>\\n        {?post.outLink}<\\/a>{\\/post.outLink}\\n    {\\/post.img}{\\/post.iframelyHTML}{\\/post.alt_body}{\\/post.video}\\n    <\\/div>\\n<\\/div>\\n\\n<div class=\\\"post-source-info\\\">\\n    {?post.outLink}\\n    <div class=\\\"post-source\\\">\\n        <a href=\\\"{post.outLink|s}\\\" class=\\\"base_link_gray\\\" target=\\\"_blank\\\">\\n          {post.sourceDomain|s}\\n        <\\/a>\\n    <\\/div>\\n    {\\/post.outLink}\\n    {?post.postInfo}\\n    <div class=\\\"post-info\\\">\\n        {post.postInfo|s}\\n    <\\/div>\\n    {\\/post.postInfo}\\n<\\/div>\\n\\n<h1 class=\'pictureMessage post-message\'>\\n    <span>{post.message|s}<\\/span>\\n    {?post.microdata}\\n      <a class=\\\"post-detail-link base_link_red\\\" href=\\\"#pmd\\\">{@t}See details{\\/t}<\\/a>\\n    {\\/post.microdata}\\n<\\/h1>\\n\\n{?post.text}\\n<div class=\\\"post-text\\\">\\n  {post.text|s}\\n<\\/div>\\n{\\/post.text}\\n\\n<div class=\\\"post-board-category\\\">\\n    {?post.channel}\\n    <span class=\\\"post-board\\\">\\n      <span class=\\\"post-channel\\\">{post.channel|s}<\\/span>\\n    <\\/span>\\n    {\\/post.channel}\\n    {?post.categoryUrl}\\n      <a class=\\\"post-category base_link_black\\\" href=\\\"{post.categoryUrl|s}\\\">{post.categoryName}<\\/a>\\n    {\\/post.categoryUrl}\\n<\\/div>\\n\\n{?post.specified_tags}\\n<div class=\\\"post-specified-tags\\\">\\n  {post.specified_tags|s}\\n<\\/div>\\n{\\/post.specified_tags}\\n\\n<div class=\\\"post-author clearfix\\\">\\n\\t<div class=\'column post__avatar\'>\\n        {>avatar model=post.user \\/}\\n    <\\/div>\\n\\t<div class=\\\"post-author-name\\\">\\n\\t\\t<div class=\\\"author-name\\\">\\n      {@if cond=\\\"\'{app.user.id}\' == \'0\'\\\"}\\n        <span href=\\\"\\/{post.user.url|s}\\\">{post.authorName}<\\/span>\\n      {:else}\\n        <a href=\\\"\\/{post.user.url|s}\\\" class=\\\"base_link_black\\\">{post.authorName}<\\/a>\\n      {\\/if}\\n    <\\/div>\\n    <div class=\\\"post-author-info\\\">\\n    {post.authorFollowers|s}<br\\/>\\n    <\\/div>\\n\\t<\\/div>\\n    {@eq key=app.user.id value=post.user.id}\\n        {@eq key=post.is_private value=1}\\n            <div class=\\\"privatePost\\\">\\n                <img width=\\\"32\\\" src=\\\"\\/images\\/glyphicons_lock_64.png\\\" style=\\\"opacity: 0.5;\\\" title=\\\"{@t}Post a the secret board. Only you can see this post.{\\/t}\\\">\\n            <\\/div>\\n        {\\/eq}\\n    {:else}\\n        {@eq key=post.is_private value=1}\\n            <div class=\\\"privatePost\\\">\\n                <img width=\\\"32\\\" src=\\\"\\/images\\/glyphicons_lock_64.png\\\" style=\\\"opacity: 0.5;\\\" title=\\\"{@t}Post a the secret board. Only you can see this post.{\\/t}\\\">\\n            <\\/div>\\n        {:else}\\n            <div class=\\\"userAction followLink buttonLink\\\">\\n                {post.user.followLink|s}\\n            <\\/div>\\n        {\\/eq}\\n    {\\/eq}\\n<\\/div>\\n\\n{?babyWidget}\\n<div>{babyWidget|s}<\\/div>\\n{\\/babyWidget}\\n\\n{! NS: begin hack !}\\n{!@eq key=app.user.id value=post.user.id!}\\n{!:else!}\\n    {@eq key=post.is_private value=1}\\n    {:else}\\n        {@eq key=post.disable_ads value=0}\\n            {?post.user.censor_trust_level}\\n                <div id=\\\"gAds\\\">\\n                    <div>\\n                        {post.inside_post_banner|s}\\n                    <\\/div>\\n                    <script type=\\\"text\\/javascript\\\">\\n                        window.ga && ga(\'send\', \'event\', \'showrek\', \'zone:content\');\\n                        if (typeof window.SlickJumpFullUpdate === \'function\') {\\n                            window.SlickJumpFullUpdate();\\n                        }\\n                        \\/*\\n                        style=\\\"overflow: hidden; width: 100%; margin-top: 20px; margin-bottom: 20px;\\\"\\n                        p && p.page.afterscript.once(function () {\\n                            var gAds = $(\'#gAds\');\\n                            if (window.IS_PHONE) {\\n                                gAds.attr(\'height\', \'290px\');\\n                                gAds.css(\'height\', \'290px\');\\n                                gAds.css(\'overflow\', \'hidden\');\\n                            }\\n                        });*\\/\\n                    <\\/script>\\n                <\\/div>\\n            {\\/post.user.censor_trust_level}\\n        {\\/eq}\\n    {\\/eq}\\n{!\\/eq!}\\n{! NS: end hack !}\\n\\n<!-- comments begin -->\\n{?post.commentsList}\\n<div class=\\\"post-comments\\\">\\n{>\\\"{post.commentsList.template|s}\\\" data=post.commentsList.data element=post.commentsList.element id=post.commentsList.id title=post.commentsList.title add_form=post.commentsList.add_form count=post.comments baseurl=post.commentsList.baseurl maxonpage=post.commentsList.maxonpage \\/}\\n<\\/div>\\n{\\/post.commentsList}\\n<!-- comments end -->\\n\\n<!-- likes begin -->\\n{?post.likesList.data-}\\n{>\\\"{post.likesList.template|s}\\\" data=post.likesList.data element=post.likesList.element id=post.likesList.id title=post.likesList.title all=post.likes count=post.likesList.count \\/}\\n{\\/post.likesList.data-}\\n<!-- likes end -->\\n\\n<!-- reposts begin -->\\n{?post.repostsList.data-}\\n{>\\\"{post.repostsList.template|s}\\\" data=post.repostsList.data element=post.repostsList.element id=post.repostsList.id title=post.repostsList.title all=post.reposts count=post.repostsList.count \\/}\\n{\\/post.repostsList.data-}\\n<!-- reposts end -->\\n\\n<!--div class=\\\"layout__row\\\">\\n{?post.merchandise}\\n    <a target=\\\"_blank\\\" style=\\\"text-decoration:none\\\" rel=\\\"nofollow\\\" href=\\\"{post.outLink}\\\">\\n    <div class=\\\"layout__col layout__col-half merchandise-buy\\\" data-counters=\\\"no\\\">\\n        {?post.merchandise.price}\\n        <div class=\\\"price\\\">\\n            <nobr>\\n            {?post.merchandise.price_usual}<span class=\\\"price-strikeout\\\">{post.merchandise.price_usual}<\\/span>{\\/post.merchandise.price_usual}&nbsp;\\n            {post.merchandise.price}\\n            <\\/nobr>\\n        <\\/div>\\n        {\\/post.merchandise.price}\\n        <div class=\\\"button button-big button-merchandise\\\" title=\\\"{@t}Buy{\\/t}\\\">\\n          {@t}Buy{\\/t}\\n        <\\/div>\\n    {?post.merchandise.info}\\n    <\\/div><div class=\\\"layout__col layout__col-half merchandise-shop-info\\\" data-counters=\\\"no\\\">\\n        {post.merchandise.info|nl2br}\\n    <\\/div>\\n    {\\/post.merchandise.info}\\n    <\\/a>\\n{:else}\\n    <div class=\\\"layout__col layout__col-third layout__col-mobile social-likes\\\" data-counters=\\\"no\\\">\\n        <div class=\\\"facebook button button-big button-facebook\\\" title=\\\"{@t}Share this post in Facebook{\\/t}\\\" onclick=\\\"ga(\'send\', \'event\', \'Post - Share\', \'big\', \'FB\');\\\">{@t}Share in Facebook{\\/t}<\\/div>\\n    <\\/div>\\n    <div class=\\\"layout__col layout__col-third layout__col-mobile social-likes\\\" data-counters=\\\"no\\\">\\n        <div class=\\\"odnoklassniki button button-big button-ok\\\" title=\\\"{@t}Share this post in Odnoklassniki{\\/t}\\\" onclick=\\\"ga(\'send\', \'event\', \'Post - Share\', \'big\', \'OK\');\\\">{@t}Share in Odnoklassniki{\\/t}<\\/div>\\n    <\\/div>\\n    <div class=\\\"layout__col layout__col-third layout__col-mobile social-likes\\\" data-counters=\\\"no\\\">\\n        <div class=\\\"pinterest button button-big button-pinterest\\\" title=\\\"{@t}Share this post in Pinterest{\\/t}\\\" onclick=\\\"ga(\'send\', \'event\', \'Post - Share\', \'big\', \'Pinterest\');\\\">{@t}Share in Pinterest{\\/t}<\\/div>\\n    <\\/div>\\n{\\/post.merchandise}\\n<\\/div-->\\n\\n{!@eq key=app.user.id value=post.user.id!}\\n{!:else!}\\n    {@eq key=post.is_private value=1}\\n    {:else}\\n        {@eq key=post.disable_ads value=0}\\n            <div id=\\\"inpost-video-ads\\\">\\n                <div id=\\\"bz-video-ads\\\"><\\/div>\\n            <\\/div>\\n        {\\/eq}\\n    {\\/eq}\\n{!\\/eq!}\\n\\n<!-- microdata -->\\n{?post.microdata}\\n    <a id=\\\"pmd\\\"><\\/a>\\n{\\/post.microdata}\\n\\n{?post.microdata}\\n    <div class=\\\"post_microdata\\\">\\n        {post.microdata|s}\\n        {?post.outLink}\\n          <div class=\\\"post-source\\\">\\n              <a href=\\\"{post.outLink|s}\\\" class=\\\"base_link_red\\\">\\n                {post.sourceDomain|s}\\n              <\\/a>\\n          <\\/div>\\n        {\\/post.outLink}\\n    <\\/div>\\n{\\/post.microdata}\\n\\n{?post.microdataRaw}\\n  {post.microdataRaw|s}\\n{\\/post.microdataRaw}\\n<!-- microdata end -->\\n\\n<!-- subtitles -->\\n{?post.subtitles}\\n    <div class=\\\"post_subtitles\\\">\\n        <div class=\\\"post_subtitles-title\\\">{@t}Subtitles{\\/t}:<\\/div>\\n        <div class=\\\"post_subtitles-content\\\">{post.subtitles|s}<\\/div>\\n    <\\/div>\\n{\\/post.subtitles}\\n<!-- subtitles end -->\\n\\n<script type=\\\"text\\/javascript\\\" id=\\\"post_script_{post.id}\\\">\\n    p && p.page.afterscript.once(function () {\\n        var isLightbox = $(\'#post_{post.id}\').closest(\'#lightbox\').length > 0;\\n        var container = isLightbox ? $(\'#post_{post.id}\').closest(\'.container\') : $(\'#post_{post.id}\').closest(\'#main\');\\n        showSimilarPosts && showSimilarPosts(container, \'{post.id}\');\\n    });\\n<\\/script>\\n\\n{?post.secondMessage}\\n<div>\\n    {post.secondMessage|s}\\n<div>\\n{\\/post.secondMessage}\\n\\n<div id=\\\"post_view_end\\\"\\/>\\n\\n{\\/widget}\\n\\n{?post.spamNotice}\\n  {post.spamNotice|s}\\n{\\/post.spamNotice}\",\"avatar\":\"{?model}\\n  {@if cond=\\\"\'{app.user.id}\' == \'0\'\\\"}\\n    <span class=\\\"avatar user-status-{model.status}\\\" href=\\\"\\/{model.username|s}\\\">\\n        <span class=\\\"avatar-image\\\" style=\\\"background: url({?model.getAvatar}{model.getAvatar|s}{:else}{model.avatar|s}{\\/model.getAvatar}) no-repeat;\\\">\\n    <\\/span>\\n  {:else}\\n    <a class=\\\"avatar user-status-{model.status}\\\" href=\\\"\\/{model.username|s}\\\">\\n      <span class=\\\"avatar-image\\\" style=\\\"background: url({?model.getAvatar}{model.getAvatar|s}{:else}{model.avatar|s}{\\/model.getAvatar}) no-repeat;\\\">\\n    <\\/a>\\n  {\\/if}\\n{\\/model}\",\"worklet\":\"<div id=\\\"{id|s}\\\" class=\\\"worklet\\\">\\n\\t{?title}<div class=\\\"worklet-title\\\">{title|s}<\\/div>{\\/title}\\n\\t<div class=\\\"worklet-info notice hide\\\"><\\/div>\\n\\t<div class=\\\"worklet-content\\\">{content|s}<\\/div>\\n<\\/div>\",\"list\":\"<div class=\\\"list-view\\\" id=\\\"{id}-list\\\">\\r\\n<div class=\\\"items\\\">\\r\\n{content|s}\\r\\n<\\/div>\\r\\n{?pager}\\r\\n    {@pager count=count maxonpage=maxonpage baseurl=baseurl \\/}\\r\\n{\\/pager}\\r\\n<div title=\\\"?ajax={id}-list\\\" style=\\\"display:none\\\" class=\\\"keys\\\">\\r\\n{#data}\\r\\n<span>{id}<\\/span>\\r\\n{\\/data}\\r\\n<\\/div>\\r\\n<\\/div>\\r\\n\"};if(p.renderer && typeof p.renderer.compileTpls === \'function\'){p.renderer.compileTpls(p.templates);p.templates = null;};})();'},'1':{'WBaseInit':'window.IS_PHONE = false;'},'3':{'showCookieNotice':'   require([\"jquery\"], function(){\n                        $(function(){\n                            $.get(\"/base/cookienotice\", function(data) {\n                                $(\"body\").append(data);\n                                $(\"#cookie_notice .cookie_notice-control button.close\").click(function(){\n                                    console.log(\"close\");\n                                    var cookie_date = new Date();\n                                    document.cookie=\"disableCookieNotice=1; path=/\";\n                                    $(\"#cookie_notice\").remove();\n                                });\n                                $(\"#cookie_notice\").show();\n                            });\n                        });\n                    });\n                '},'2':{'SHOWTOPWIDEADS':'typeof hideTopWideAds != \'undefined\' && hideTopWideAds();'}},'staticRelease':'0ab31e05e8bb'};})(window)
+/*]]>*/
+</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+var app = {messages: {"Error! Report it.":"\u041e\u0448\u0438\u0431\u043a\u0430. <a href=\"https:\/\/pishite.postila.ru\" target=\"_blank\">\u0421\u043e\u043e\u0431\u0449\u0438\u0442\u044c \u043e \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0435<\/a>","Report":"\u041f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f","Delete":"\u0423\u0434\u0430\u043b\u0438\u0442\u044c","See details":"\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435","See details at":"\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435 \u043d\u0430","{n} more repost|{n} more reposts":"\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a|\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430|\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a|\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a","{n} more like|{n} more likes":"\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a|\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430|\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a|\u0438 \u0435\u0449\u0451 {n} \u0447\u0435\u043b\u043e\u0432\u0435\u043a","{who} onto {board}":"{who}<br\/> \u0432 {board}","Close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","Close this post (ESC button)":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u0441\u0442 (\u043a\u043b\u0430\u0432\u0438\u0448\u0430 ESC)","Previous post (&#8592; button)":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u043f\u043e\u0441\u0442 (\u043a\u043b\u0430\u0432\u0438\u0448\u0430 &#8592;)","Next post (&#8594; button)":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043f\u043e\u0441\u0442 (\u043a\u043b\u0430\u0432\u0438\u0448\u0430 &#8594;)","Share this post in Facebook":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u043f\u043e\u0441\u0442\u043e\u043c \u0432 Facebook","Share in Facebook":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Facebook","Share this post in Odnoklassniki":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u043f\u043e\u0441\u0442\u043e\u043c \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445","Share in Odnoklassniki":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 OK","Share in Pinterest":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Pinterest","Buy":"\u041a\u0443\u043f\u0438\u0442\u044c","Select Image to Upload":"\u041d\u0430\u0436\u043c\u0438\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0443 \u0434\u043b\u044f \u043f\u043e\u0434\u0433\u0440\u0443\u0437\u043a\u0438","Please, wait a moment":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435...","Comments":"\u041a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438","Loading":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430","Signature":"\u041f\u043e\u0434\u043f\u0438\u0441\u044c","Download problem. Please check your connection and refresh page.":"\u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u0437\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u0442\u0441\u044f \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043e\u043b\u0433\u043e. \u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 <a href=\"javascript:window.location.reload(true)\">\u043f\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443<\/a>","Do you like Postila.ru? Please join us on Facebook":"\u0412\u0430\u043c \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u041f\u043e\u0441\u0442\u0438\u043b\u0430?<br>\u0415\u0441\u043b\u0438 \u0434\u0430, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u00ab\u041d\u0440\u0430\u0432\u0438\u0442\u0441\u044f\u00bb","Done":"\u0413\u043e\u0442\u043e\u0432\u043e","Thank you, I am already with you!":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u044f \u0443\u0436\u0435 \u0441 \u0432\u0430\u043c\u0438, \u0432\u0441\u0451 \u043a\u043b\u0430\u0441\u0441\u043d\u043e!","Do you like Postila.ru? Please join us on Odnoklassniki":"\u0412\u0430\u043c \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u041f\u043e\u0441\u0442\u0438\u043b\u0430?<br>\u0415\u0441\u043b\u0438 \u0434\u0430, \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a \u043d\u0430\u043c \u0432 \u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0430\u0445","Post added":"\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043e","Post saved":"\u0421\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u043e","Added to":"\u0432","Added from":"\u0438\u0437","An error occurred while processing your request.":"\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0437\u0430\u043f\u0440\u043e\u0441\u0430.","Post!":"\u041f\u043e\u0441\u0442!","Like":"\u0421\u043f\u0430\u0441\u0438\u0431\u043e","More":"\u0415\u0449\u0435","Edit":"\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c","Unsubcribe":"\u041e\u0442\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f","Unfollow":"\u041e\u0442\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f","Follow":"\u041f\u043e\u0434\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f","Subcribe":"Subcribe","Embed":"\u0412\u0441\u0442\u0440\u043e\u0438\u0442\u044c","Postila":"\u041f\u043e\u0441\u0442\u0438\u043b\u0430","Post a the secret board. Only you can see this post.":"\u041f\u043e\u0441\u0442 \u0438\u0437 \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u043a\u0438. \u042d\u0442\u043e\u0442 \u043f\u043e\u0441\u0442 \u043d\u0435 \u0432\u0438\u0434\u044f\u0442 \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438.","Secret board. Only you can see this board.":"\u042d\u0442\u043e \u0412\u0430\u0448\u0430 \u0441\u0435\u043a\u0440\u0435\u0442\u043d\u0430\u044f \u0434\u043e\u0441\u043a\u0430. \u0414\u0440\u0443\u0433\u0438\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0435\u0451 \u043f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c.","Subtitles":"\u0422\u0435\u043a\u0441\u0442 \u0438\u0437 \u0432\u0438\u0434\u0435\u043e"}, server_name: 'postila.ru', language: "ru", now: "2023-02-20 15:47:51"};
+;(function(){p = p || {}; p.user = {"id":0,"email":null,"role":"guest","allow_adblock":false};})();
+
+                (function () {
+                    window.COL_WIDTH = 336;
+                    window.GUTTER_WIDTH = 22;
+                })();
+            
+/*]]>*/
+</script>
+<title>Постила – русскоязычный каталог идей 🎈</title>
+
+               <meta property="og:title" name="og:title" content="Постила" data-app>
+                   <meta property="og:type" name="og:type" content="website" data-app>
+                   <meta name="robots" content="max-image-preview:large">
+                   <meta property="og:image" name="og:image" content="https://postila.ru/storage/3328000/3301767/09c7652528fa2f8099da0f6c8f8f46f4.jpg" data-app>
+                   <meta name="robots" content="max-image-preview:large">
+                   <meta property="og:image" name="og:image" content="https://postila.ru/storage/3296000/3284784/47b94d433d0d7673e484c51a679001f6.jpg" data-app>
+                   <meta name="robots" content="max-image-preview:large">
+                   <meta property="og:image" name="og:image" content="https://postila.ru/storage/800000/780065/ed9b6715db40d75df486df95dec13d5e.jpg" data-app>
+                   <meta name="robots" content="max-image-preview:large">
+                   <meta property="og:image" name="og:image" content="https://postila.ru/storage/1632000/1617462/2ef8b212fb556dd7abed466b97874367.jpg" data-app>
+                   <meta name="robots" content="max-image-preview:large">
+                   <meta property="og:image" name="og:image" content="https://postila.ru/storage/1632000/1613705/3ef6c2b96afe5a1a2adac7801be30544.jpg" data-app>
+                   <meta property="og:description" name="og:description" content="Находите и сохраняйте схемы для вязания и вышивки, простые и вкусные рецепты и другие интересные идеи." data-app>
+                   <meta property="description" name="description" content="Находите и сохраняйте схемы для вязания и вышивки, простые и вкусные рецепты и другие интересные идеи." data-app>
+                   <meta property="twitter:title" name="twitter:title" content="Постила" data-app>
+                   <meta property="twitter:description" name="twitter:description" content="Находите и сохраняйте схемы для вязания и вышивки, простые и вкусные рецепты и другие интересные идеи." data-app>
+                   <meta property="og:url" name="og:url" content="https://postila.ru" data-app>
+    <!-- ¯\_(ツ)_/¯ -->
+    
+    <!-- AdFox Initialization -->
+    <script async src="https://yastatic.net/pcode/adfox/header-bidding.js"></script>
+<script>
+var adfoxBiddersMap = {
+    "myTarget": "1253588",
+    "adriver": "1336654"
+},
+adUnits = [
+    {
+        code: "adfox-head__post",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701261"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_728x90_post"
+                }
+            }
+        ],
+        sizes: [
+            [
+                728,
+                90
+            ]
+        ]
+    },
+    {
+        code: "adfox-head__all",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701310"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_728x90_post"
+                }
+            }
+        ],
+        sizes: [
+            [
+                728,
+                90
+            ]
+        ]
+    },
+    {
+        code: "adfox_160_600",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701267"
+                }
+            }
+        ],
+        sizes: [
+            [
+                160,
+                600
+            ]
+        ]
+    },
+    {
+        code: "adfox_240_400",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701269"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_240x400_right"
+                }
+            }
+        ],
+        sizes: [
+            [
+                240,
+                400
+            ]
+        ]
+    },
+    {
+        code: "adfox_in-article",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701312"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_970x250"
+                }
+            }
+        ],
+        sizes: [
+            [
+                970,
+                250
+            ]
+        ]
+    },
+    {
+        code: "adfox_728_90__inpost",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701265"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_728x90"
+                }
+            }
+        ],
+        sizes: [
+            [
+                728,
+                90
+            ]
+        ]
+    },
+    {
+        code: "adfox_300_250m_underpost",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701275"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_300x250mob"
+                }
+            }
+        ],
+        sizes: [
+            [
+                300,
+                250
+            ]
+        ]
+    },
+    {
+        code: "adfox_head_mobile",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701279"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_320x50mob_top"
+                }
+            }
+        ],
+        sizes: [
+            [
+                320,
+                50
+            ]
+        ]
+    },
+    {
+        code: "adfox_bottom",
+        bids: [
+            {
+                bidder: "myTarget",
+                params: {
+                    placementId: "701281"
+                }
+            },
+            {
+                bidder: "adriver",
+                params: {
+                    placementId: "66:postila_320x50mob_bottom"
+                }
+            }
+        ],
+        sizes: [
+            [
+                320,
+                50
+            ]
+        ]
+    }
+],
+userTimeout = 1000;
+
+window.YaHeaderBiddingSettings = {
+    biddersMap: adfoxBiddersMap,
+    adUnits: adUnits,
+    timeout: userTimeout
+};
+
+function adsError() {
+    if (console.warn instanceof Function) {
+        console.warn.apply(console, arguments);
+    } else {
+        console.error.apply(console, arguments);
+    }
+}
+</script>
+<!--script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous" async></script-->
+
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script src='https://ru.viadata.store/tag/load.js?sid=105695' defer  charset='UTF-8' ></script>    <!-- AdFox Initialization -->
+
+    <link rel="manifest" href="/manifest/google.json" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0842875998787084" crossorigin="anonymous"></script>
+
+        <script async src="https://jsn.24smi.net/smi.js"></script>
+        <!-- WEB fonts -->
+    <link rel="preload" href="/css/fonts.css?0ab31e05e8bb" as="style" />
+    <link rel="stylesheet" href="/css/fonts.css?0ab31e05e8bb" />
+
+    <!--script>
+        var cb = function() {
+            var cssFiles = [
+                '/css/fonts.css?0ab31e05e8bb',
+                '/css/blueprint/screen.css?0ab31e05e8bb',
+                '/themes/classic/css/main.css?0ab31e05e8bb',
+            ];
+
+            cssFiles.forEach(function(cssFile, i, cssFiles) {
+                var l = document.createElement('link'); l.rel = 'stylesheet';
+                l.href = cssFile;
+                var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+            });
+        };
+
+        window.addEventListener('load', cb);
+    </script-->
+<!-- Useragent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.13) Gecko/20080330 Ubuntu/7.10 (gutsy) Firefox/2.0.0.13 (Linux Mint) -->
+
+<script async type="text/javascript" src="//sjsmartcontent.org/static/plugin-site/js/sjplugin.js" data-site="6lx7"></script>
+
+</head>
+<body class="classic-theme desktop">
+    <noscript>
+        <div class="noscript-message">
+          Для работы с сайтом необходимо включить поддержку Javascript. См. <a href="https://www.enable-javascript.com/ru/" target="_blank">инструкцию</a>.<br/>        </div>
+    </noscript>
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW2962J"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- AdFox stat -->
+    <div id="adfox_15808141918876494_7807705" class="adfox_stat_pixel"></div>
+<script>
+    var adfox_15808141918876494_params = {
+        ownerId: 337827,
+        containerId: 'adfox_15808141918876494_7807705',
+        params: {
+            pp: 'g',
+            ps: 'dwgv',
+            p2: 'frfe'
+        }
+    };
+
+    if (window.Ya && window.Ya.adfoxCode) {
+        window.Ya.adfoxCode.create(adfox_15808141918876494_params);
+    } else {
+        (function(w, n) {
+            w[n] = w[n] || [];
+            w[n].push(adfox_15808141918876494_params);
+        })(window, 'adfoxAsyncParams');
+    }
+</script>
+    <!-- AdFox stat -->
+
+    <div class="fullscreen" id="page">
+
+        
+        <div id="wlt-BaseBrowser" class="worklet">
+	
+	<div class="worklet-info notice hide"></div>
+	<div class="worklet-content"></div>
+</div>
+        <div id="top_wide_ads">
+        </div>
+
+        
+        
+                
+        <div id="page-content" class="container" style="display: none;">
+            
+	<div id="main" class="clearfix">
+        
+		
+    
+        <div class="" id="content">
+
+        <div id="wlt-PictureLp" class="worklet">
+	
+	<div class="worklet-info notice hide"></div>
+	<div class="worklet-content"><div class='clearfix'>    <div id="wlt-PictureLp-list" class="list-view">
+<div class="items">
+<script>
+    p.pictureitems && p.pictureitems.push('63f39627a23ac');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a23ac"
+    data-post-id="76322018"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 16.01.23, 19:46"
+    data-board-title="Уход за лицом, телом, волосами, маски и косметика"
+    data-board-link="/id4392281/1307665-uhod_za_litsom__telom__volosami__maski_i_kosmetika"
+    data-user="4392281"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:237px;"
+        data-card-width="336"
+        data-card-height="237"
+                data-is-liked="false"
+        data-large-height="465"
+        data-large-width="660">
+        <div class="placeholder">aelita544.ru</div><a href="https://postila.ru/post/76322018"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F24%2Fe7%2F3a%2Fc0%2F24e73ac0cea388cce63e749c52d43dff7587b7f4e2f06a9e60a8c216faacca3b.jpg" alt="Как ускорить рост волос дома — комплексный подход для лучшего результата" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76322018" >
+          <div>Как ускорить рост волос дома — комплексный подход для лучшег…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4392281" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fe1%2F3d%2F37%2Fcd%2Fe13d37cd649028763a9950257785454cd080a0ffcb57d701466a756eeebccf85.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fe1%2F3d%2F37%2Fcd%2Fe13d37cd649028763a9950257785454cd080a0ffcb57d701466a756eeebccf85.jpg) no-repeat;" title="Ирина Шатилова">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4392281/1307665-uhod_za_litsom__telom__volosami__maski_i_kosmetika">
+            <span class="title authorName  base_link_black">
+                Уход за лицом, телом, волосами, маски и косметика                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4392281/1307665-uhod_za_litsom__telom__volosami__maski_i_kosmetika" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fe1%2F3d%2F37%2Fcd%2Fe13d37cd649028763a9950257785454cd080a0ffcb57d701466a756eeebccf85.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fe1%2F3d%2F37%2Fcd%2Fe13d37cd649028763a9950257785454cd080a0ffcb57d701466a756eeebccf85.jpg) no-repeat;" title="Ирина Шатилова"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4392281/1307665-uhod_za_litsom__telom__volosami__maski_i_kosmetika">
+            <span class="title authorName ">Ирина Шатилова</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">4</li><li class="reposts" title="Перепосты">9</li><li class="comments" title="Комментарии">1</li></ul>
+        </div>
+            </div>
+    
+  </div></div><div class='pictureItem hybridauthWidget default'><div class='pictureCard'>
+
+    
+    <div class="hybridauthWidget-wrapp style-" style="padding: 0">
+              <div class="logo_big"><h1 class="text-simple">Постила</h1></div>
+        <div class="valueproposition">Находите и собирайте полезные и интересные идеи            <br/><a rel="nofollow" href="https://pishite.postila.ru/topic/249698-chto-takoe-postila/" target="_blank" style="cursor:pointer;">Еще »</a>
+        </div>
+                  <div style="margin: auto; max-width: 340px; padding: 0 10px 0 10px;">
+                        <a
+                href="https://auth.postila.ru/auth?provider=mailru&ref=https://postila.ru"
+                target="_blank"
+                rel="nofollow"
+                class="social_button social_button-mailru js_auth"
+                              >
+                  <div class="social_button__icon">
+                      <img class="social_button__icon_image" src="/images/social/mail.png" alt="" />
+                  </div>
+                  <div class="social_button__title">
+                      Войти через Mail.ru                  </div>
+              </a>
+              <br>
+                                  <a
+                href="https://auth.postila.ru/auth?provider=ok&ref=https://postila.ru"
+                target="_blank"
+                rel="nofollow"
+                class="social_button social_button-ok js_auth"
+                              >
+                  <div class="social_button__icon">
+                      <img class="social_button__icon_image" src="/images/social/ok.png" alt="" />
+                  </div>
+                  <div class="social_button__title">
+                      Войти через Одноклассники                  </div>
+              </a>
+              <br>
+                                  <a
+                href="https://auth.postila.ru/auth?provider=vk&ref=https://postila.ru"
+                target="_blank"
+                rel="nofollow"
+                class="social_button social_button-vk js_auth"
+                              >
+                  <div class="social_button__icon">
+                      <img class="social_button__icon_image" src="/images/social/vk.png" alt="" />
+                  </div>
+                  <div class="social_button__title">
+                      Войти через Вконтакте                  </div>
+              </a>
+              <br>
+                                  <a
+                href="https://auth.postila.ru/auth?provider=google&ref=https://postila.ru"
+                target="_blank"
+                rel="nofollow"
+                class="social_button social_button-google js_auth"
+                              >
+                  <div class="social_button__icon">
+                      <img class="social_button__icon_image" src="/images/social/g-logo.png" alt="" />
+                  </div>
+                  <div class="social_button__title">
+                      Войти через Google                  </div>
+              </a>
+              <br>
+                </div>
+          </div>
+        <div class="enter">
+        <span><span class="enterLink">...или</span> <a class="enterLink" href="/user/login">войти с помощью email</a></span>
+    </div>
+                        <div class="rulesCaption">Осуществляя вход, вы соглашаетесь с <a target="_blank" class="rulesLink" href="/help/agreement">Правилами</a></div>
+        <div class="catalogCaptionLang">
+            <span class="emoji emoji-ru"></span>&nbsp;&nbsp;<a class="catalogLink" onclick="window.location=&#039;https://postila.ru?hl=ru&#039;;">Русский</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="emoji emoji-en"></span>&nbsp;&nbsp;<a class="catalogLink" onclick="window.location=&#039;https://postila.ru?hl=en&#039;;">English (US)</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="emoji emoji-es"></span>&nbsp;&nbsp;<a class="catalogLink" onclick="window.location=&#039;https://postila.ru?hl=es&#039;;">Espanol</a>&nbsp;&nbsp;&nbsp;&nbsp;        </div>
+        
+</div></div>
+
+
+<div aria-hidden="true" aria-labelledby="ReactivateAcc" role="dialog" tabindex="-1" class="modal hide fade" id="modal-on-reactivate-acc" style="display: none;">
+	<div class="modal-header">
+		<button aria-hidden="true" data-dismiss="modal" class="close" type="button">x</button>
+		<h3 id="ReactivateAcc">Ваш аккаунт был удалён</h3>
+	</div>
+	<div class="modal-body">
+		<p>Чтобы войти, Вам нужно его восстановить из архива. После восстановления он будет доступен Вашим друзьям и знакомым.</p>
+	</div>
+	<div class="modal-footer">
+		<button aria-hidden="true" data-dismiss="modal" class="btn">Отменить</button>
+		<button class="btn btn-postila reactivate">Восстановить</button>
+	</div>
+</div><div aria-hidden="true" aria-labelledby="ReactivateOk" role="dialog" tabindex="-1" class="modal hide fade" id="modal-on-reactivate-ok" style="display: none;">
+	<div class="modal-header">
+		<button aria-hidden="true" data-dismiss="modal" class="close" type="button">x</button>
+		<h3 id="ReactivateOk">Восстановление аккаунта</h3>
+	</div>
+	<div class="modal-body">
+		<p>Данные для восстановления вашего аккаунта были отправлены на Вашу почту.</p>
+	</div>
+	<div class="modal-footer">
+		<button aria-hidden="true" data-dismiss="modal" class="btn btn-danger goodbye">Закрыть</button>
+	</div>
+</div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a2c98');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a2c98"
+    data-post-id="76278393"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 12:46"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="441"
+        data-large-width="660">
+        <div class="placeholder">xn--b1aqjenlka.xn--p1ai</div><a href="https://postila.ru/post/76278393"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F44%2Fd1%2Fff%2F54%2F44d1ff5403c2864432c8ea546ed4f16c06ca658a04d0c00d0cc8e324fb325f40.jpg" alt="Японский суп рамен, пошаговый рецепт с фото - Вкуснофф.рф" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76278393" >
+          <div>Японский суп рамен, пошаговый рецепт с фото - Вкуснофф.рф</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">4</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a331f');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a331f"
+    data-post-id="76315939"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 15.01.23, 19:22"
+    data-board-title="ЗДОРОВЬЕ.СОВЕТЫ"
+    data-board-link="/id3870648/1433952-zdorove_sovetyi"
+    data-user="3870648"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:300px;"
+        data-card-width="336"
+        data-card-height="300"
+                data-is-liked="false"
+        data-large-height="590"
+        data-large-width="660">
+        <div class="placeholder">budtezdorovy.net</div><a href="https://postila.ru/post/76315939"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F44%2Fa0%2Fcb%2Fcd%2F44a0cbcd31f7968cc4d1e34d3730d498cbc8b24b894082d0621d9539ae69840e.jpg" alt="Что следует знать о задержке жидкости в организме Задержка жидкости в организме не является серьезным заболеванием, но, без сомнения, может вызывать различные осложнения" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76315939" >
+          <div>Что следует знать о задержке жидкости в организме Задержка ж…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id3870648" data-img="https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg) no-repeat;" title="Людмила Чернышева">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id3870648/1433952-zdorove_sovetyi">
+            <span class="title authorName  base_link_black">
+                ЗДОРОВЬЕ.СОВЕТЫ                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id3870648/1433952-zdorove_sovetyi" data-img="https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg) no-repeat;" title="Людмила Чернышева"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id3870648/1433952-zdorove_sovetyi">
+            <span class="title authorName ">Людмила Чернышева</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">10</li><li class="reposts" title="Перепосты">5</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a3de6');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a3de6"
+    data-post-id="76278360"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 12:44"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:312px;"
+        data-card-width="336"
+        data-card-height="312"
+                data-is-liked="false"
+        data-large-height="614"
+        data-large-width="660">
+        <div class="placeholder">korshop.ru</div><a href="https://postila.ru/post/76278360"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Feb%2Fe6%2F6f%2Fe5%2Febe66fe5bf23f29c80e29add542fb6e806064ed2c600df8e6344122af6126140.jpg" alt="Японская кухня: Капустно-мясные биточки в японском стиле (рецепт с фото)" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76278360" >
+          <div>Японская кухня: Капустно-мясные биточки в японском стиле (ре…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a4019');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a4019"
+    data-post-id="76287954"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 12:55"
+    data-board-title="дизайн и интерьер"
+    data-board-link="/id7484348/1486432-dizayn_i_interer"
+    data-user="7484348"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:292px;"
+        data-card-width="336"
+        data-card-height="292"
+                data-is-liked="false"
+        data-large-height="573"
+        data-large-width="660">
+        <div class="placeholder">vseprochistky.ru</div><a href="https://postila.ru/post/76287954"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F07%2Fab%2F27%2F35%2F07ab2735f88c1c4588efb3d76e18fe9f12ef3d566119c43f6ef331b75272d2c2.jpg" alt="Теплица своими руками в домашних условиях как сделать дом и быт Всё про чистку вещей, дома и офиса. Как почистить квартиру, машину, золото, серебро, дом, мех, зеркало и многое другое..." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76287954" >
+          <div>Теплица своими руками в домашних условиях как сделать дом и…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a480a');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a480a"
+    data-post-id="76325399"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 17.01.23, 9:38"
+    data-board-title="ВСЕ ДЛЯ КОМПЬЮТЕРА"
+    data-board-link="/id4403735/848630-vse_dlya_kompyutera"
+    data-user="4403735"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="439"
+        data-large-width="660">
+        <div class="placeholder">pomogaemkompu.temaretik.com</div><a href="https://postila.ru/post/76325399"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F88%2F2f%2F96%2F0e%2F882f960e874f5262a2cfb4f83d5278546df6e847cdf97c1b255852527f2a6eb6.jpg" alt="Ноутбук меняет яркость экрана сам, автоматически В последнее время, довольно много вопросов получаю по яркости монитора ноутбуков. Особенно, это касается ноутбуков со встроенными видеокартами IntelHD (очень популярны в последнее время, тем более, чт..." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76325399" >
+          <div>Ноутбук меняет яркость экрана сам, автоматически В последнее…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4403735" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg) no-repeat;" title="василий титов">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4403735/848630-vse_dlya_kompyutera">
+            <span class="title authorName  base_link_black">
+                ВСЕ ДЛЯ КОМПЬЮТЕРА                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4403735/848630-vse_dlya_kompyutera" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg) no-repeat;" title="василий титов"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4403735/848630-vse_dlya_kompyutera">
+            <span class="title authorName ">василий титов</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">6</li><li class="reposts" title="Перепосты">4</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a4e96');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a4e96"
+    data-post-id="76338224"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 19.01.23, 16:07"
+    data-board-title="Про ремонт и  строим сами"
+    data-board-link="/id4299808/503910-pro_remont_i__stroim_sami"
+    data-user="4299808"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:190px;"
+        data-card-width="336"
+        data-card-height="190"
+                data-is-liked="false"
+        data-large-height="373"
+        data-large-width="660">
+        <div class="placeholder">pulse.mail.ru</div><a href="https://postila.ru/post/76338224"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fb7%2Fdb%2Fe7%2Fb2%2Fb7dbe7b2c76b41f6eee923deb92b2e85ab9560caabe95642f37f2e844aed3e7a.jpg" alt="Пропорции цемента и песка: 1:1, 1:2, 1:3, 1:4, 1:5, 1:6. Какой раствор и где необходимо использовать? Соотношение цемента и песка при замесе зависит от задачи и от вида выполняемых работ" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76338224" >
+          <div>Пропорции цемента и песка: 1:1, 1:2, 1:3, 1:4, 1:5, 1:6. Как…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4299808" data-img="https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg">
+                        <span class="avatar-container" style="background: url(https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg) no-repeat;" title="Наталия Васильева">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4299808/503910-pro_remont_i__stroim_sami">
+            <span class="title authorName  base_link_black">
+                Про ремонт и  строим сами                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4299808/503910-pro_remont_i__stroim_sami" data-img="https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg">
+                        <span class="avatar-container" style="background: url(https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg) no-repeat;" title="Наталия Васильева"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4299808/503910-pro_remont_i__stroim_sami">
+            <span class="title authorName ">Наталия Васильева</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">7</li><li class="reposts" title="Перепосты">10</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a57f1');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a57f1"
+    data-post-id="76315422"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 15.01.23, 17:07"
+    data-board-title="заготовки"
+    data-board-link="/id5628707/779903-zagotovki"
+    data-user="5628707"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="440"
+        data-large-width="660">
+        <div class="placeholder">niksya.ru</div><a href="https://postila.ru/post/76315422"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Ffb%2F98%2F54%2F4d%2Ffb98544d6109281bf03ba273cb9c3a2ed525cc19812d38392e8ad92951d7bc11.jpg" alt="Морковный конфитюр с апельсинами и шафраном | Самый вкусный портал Рунета" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76315422" >
+          <div>Морковный конфитюр с апельсинами и шафраном | Самый вкусный…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id5628707" data-img="https://img3.postila.ru/storage/10816000/10812656/a62c972b794707a58a7df02f9539c421.jpeg">
+                        <span class="avatar-container" style="background: url(https://img3.postila.ru/storage/10816000/10812656/a62c972b794707a58a7df02f9539c421.jpeg) no-repeat;" title="Сергей В">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id5628707/779903-zagotovki">
+            <span class="title authorName  base_link_black">
+                заготовки                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id5628707/779903-zagotovki" data-img="https://img3.postila.ru/storage/10816000/10812656/a62c972b794707a58a7df02f9539c421.jpeg">
+                        <span class="avatar-container" style="background: url(https://img3.postila.ru/storage/10816000/10812656/a62c972b794707a58a7df02f9539c421.jpeg) no-repeat;" title="Сергей В"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id5628707/779903-zagotovki">
+            <span class="title authorName ">Сергей В</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">11</li><li class="reposts" title="Перепосты">17</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a60df');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a60df"
+    data-post-id="76329815"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 18.01.23, 5:35"
+    data-board-title="Про ремонт и  строим сами"
+    data-board-link="/id4299808/503910-pro_remont_i__stroim_sami"
+    data-user="4299808"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:227px;"
+        data-card-width="336"
+        data-card-height="227"
+                data-is-liked="false"
+        data-large-height="446"
+        data-large-width="660">
+        <div class="placeholder">pulse.mail.ru</div><a href="https://postila.ru/post/76329815"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F03%2F1a%2F7b%2Fc5%2F031a7bc51e21e183d7eb513ca5d4c1c304fb2f61eb3a6e54f303183151d8b64f.jpg" alt="Зачем мастера делают двойную работу: наносят клей на пол (стены) и на сам кафель? Простое объяснение Почему нужно и на поверхность и на плитку наносить клей." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76329815" >
+          <div>Зачем мастера делают двойную работу: наносят клей на пол (ст…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4299808" data-img="https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg">
+                        <span class="avatar-container" style="background: url(https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg) no-repeat;" title="Наталия Васильева">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4299808/503910-pro_remont_i__stroim_sami">
+            <span class="title authorName  base_link_black">
+                Про ремонт и  строим сами                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4299808/503910-pro_remont_i__stroim_sami" data-img="https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg">
+                        <span class="avatar-container" style="background: url(https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg) no-repeat;" title="Наталия Васильева"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4299808/503910-pro_remont_i__stroim_sami">
+            <span class="title authorName ">Наталия Васильева</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">4</li><li class="reposts" title="Перепосты">4</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a6327');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a6327"
+    data-post-id="76276050"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 7:48"
+    data-board-title="ღСтильные нарядыღ👗"
+    data-board-link="/id7307527/1535755-ღstilnyie_naryadyiღ👗"
+    data-user="7307527"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:417px;"
+        data-card-width="336"
+        data-card-height="417"
+                data-is-liked="false"
+        data-large-height="699"
+        data-large-width="563">
+        <div class="placeholder">dzen.ru</div><a href="https://postila.ru/post/76276050"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F36%2F93%2F35%2Ff6%2F369335f6912a51811de123db190a44ca278c290eb58a6bd7e71404dc65fb1dca.jpg" alt="ღ Модные идеи носить стеганую куртку и выглядеть красиво и стильно" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76276050" >
+          <div>ღ Модные идеи носить стеганую куртку и выглядеть красиво и с…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id7307527" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535755-ღstilnyie_naryadyiღ👗">
+            <span class="title authorName  base_link_black">
+                ღСтильные нарядыღ👗                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7307527/1535755-ღstilnyie_naryadyiღ👗" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535755-ღstilnyie_naryadyiღ👗">
+            <span class="title authorName ">ღValentinaღ </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">1</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a6ac6');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a6ac6"
+    data-post-id="76289727"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 16:33"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:225px;"
+        data-card-width="336"
+        data-card-height="225"
+                data-is-liked="false"
+        data-large-height="377"
+        data-large-width="563">
+        <div class="placeholder">ru.pinterest.com</div><a href="https://postila.ru/post/76289727"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Ff6%2Fe8%2F73%2Fdc%2Ff6e873dcf175da47a9038e34f799c2ddeb1963f4ed87f18f0aadf29c00cd0b88.jpg" alt="Японские сладости. Гармония вкуса и цвета :: SYL.ru" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76289727" >
+          <div>Японские сладости. Гармония вкуса и цвета :: SYL.ru</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">1</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a6d13');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a6d13"
+    data-post-id="76289049"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 15:44"
+    data-board-title="Postila Blog"
+    data-board-link="/postila/1457682-postila_blog"
+    data-user="7234241"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="400"
+        data-large-width="600">
+        <div class="placeholder">ads.adfox.ru</div><a href="https://postila.ru/post/76289049"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F70%2F2f%2F0e%2Fd5%2F702f0ed599581e9199b3e9892878271dbb43462fa25e90ff1d8d1a4c77d4bbdf.jpg" alt="Идеи для зимних путешествий на выходные и в отпуск. Собрали несколько интересных маршрутов внутри страны." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76289049" >
+          <div>Идеи для зимних путешествий на выходные и в отпуск. Собрали…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/postila" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F4b%2F27%2F0b%2Fc1%2F4b270bc1b40f49509c4d71b30269dd880d7e5e104671241b85c2a95d123be6a3.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F4b%2F27%2F0b%2Fc1%2F4b270bc1b40f49509c4d71b30269dd880d7e5e104671241b85c2a95d123be6a3.jpg) no-repeat;" title="Postila ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/postila/1457682-postila_blog">
+            <span class="title authorName  base_link_black">
+                Postila Blog                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/postila/1457682-postila_blog" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F4b%2F27%2F0b%2Fc1%2F4b270bc1b40f49509c4d71b30269dd880d7e5e104671241b85c2a95d123be6a3.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F4b%2F27%2F0b%2Fc1%2F4b270bc1b40f49509c4d71b30269dd880d7e5e104671241b85c2a95d123be6a3.jpg) no-repeat;" title="Postila "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/postila/1457682-postila_blog">
+            <span class="title authorName ">Postila </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">12</li><li class="reposts" title="Перепосты">7</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a7390');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a7390"
+    data-post-id="76314194"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 15.01.23, 12:45"
+    data-board-title="Рецепты на каждый случай"
+    data-board-link="/id1833152/352641-retseptyi-na-kajdyiy-sluchay"
+    data-user="1833152"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:420px;"
+        data-card-width="336"
+        data-card-height="420"
+                data-is-liked="false"
+        data-large-height="690"
+        data-large-width="552">
+        <div class="placeholder">sloosh.ru</div><a href="https://postila.ru/post/76314194"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F03%2F22%2F6b%2F3a%2F03226b3a04665de0ac2932ab0231a27847a416b6248ba22f07bbf21ad15edd71.jpg" alt="​Домашние карамельные тянучки" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76314194" >
+          <div>​Домашние карамельные тянучки</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id1833152" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F23%2Fdb%2F95%2F19%2F23db95197f487e50857b209bc49408b36546e147bdc3521b0c005e062a012299.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F23%2Fdb%2F95%2F19%2F23db95197f487e50857b209bc49408b36546e147bdc3521b0c005e062a012299.jpg) no-repeat;" title="Нина Классен">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id1833152/352641-retseptyi-na-kajdyiy-sluchay">
+            <span class="title authorName  base_link_black">
+                Рецепты на каждый случай                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id1833152/352641-retseptyi-na-kajdyiy-sluchay" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F23%2Fdb%2F95%2F19%2F23db95197f487e50857b209bc49408b36546e147bdc3521b0c005e062a012299.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F23%2Fdb%2F95%2F19%2F23db95197f487e50857b209bc49408b36546e147bdc3521b0c005e062a012299.jpg) no-repeat;" title="Нина Классен"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id1833152/352641-retseptyi-na-kajdyiy-sluchay">
+            <span class="title authorName ">Нина Классен</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">10</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a80b1');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a80b1"
+    data-post-id="76289743"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 16:34"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:260px;"
+        data-card-width="336"
+        data-card-height="260"
+                data-is-liked="false"
+        data-large-height="511"
+        data-large-width="660">
+        <div class="placeholder">povarenok.ru</div><a href="https://postila.ru/post/76289743"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F9c%2Fa7%2Fd6%2F7b%2F9ca7d67b4aaa828bc55cb74b437b599cd18b0997555b15a03b3d5b5726effe83.jpg" alt="Японские сладости дайфуку с клубникой – кулинарный рецепт" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76289743" >
+          <div>Японские сладости дайфуку с клубникой – кулинарный рецепт</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a8306');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a8306"
+    data-post-id="76277696"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 11:49"
+    data-board-title="ПИЦЦА, ПИРОГИ"
+    data-board-link="/id6388531/1245378-pitstsa__pirogi"
+    data-user="6388531"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:524px;"
+        data-card-width="336"
+        data-card-height="524"
+                data-is-liked="false"
+        data-large-height="593"
+        data-large-width="380">
+        <div class="placeholder">1000.menu</div><a href="https://postila.ru/post/76277696"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fbc%2F6a%2F96%2Fc1%2Fbc6a96c1f39747cec471b4caecd88377e8f2072cfad7708d453c07c6714a25cb.jpg" alt="Лоранский пирог с курицей и грибами рецепт с фото пошагово - 1000.menu" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76277696" >
+          <div>Лоранский пирог с курицей и грибами рецепт с фото пошагово…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a8bd6');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a8bd6"
+    data-post-id="76335311"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 19.01.23, 5:58"
+    data-board-title="Здоровье"
+    data-board-link="/id6448701/1294133-zdorove"
+    data-user="6448701"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:265px;"
+        data-card-width="336"
+        data-card-height="265"
+                data-is-liked="false"
+        data-large-height="521"
+        data-large-width="660">
+        <div class="placeholder">budtezdorovy.net</div><a href="https://postila.ru/post/76335311"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F8e%2F1a%2Fbd%2Fba%2F8e1abdba323d9feb470b401d8216b3db9a36ab2ce3a92097d08d5c2c0388266b.jpg" alt="Что лечат медицинские банки / Будьте здоровы" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76335311" >
+          <div>Что лечат медицинские банки / Будьте здоровы</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-0"
+            href="/id6448701" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F8f%2F7c%2Fa6%2Ffa%2F8f7ca6fa543937f2fd0469b210e8c4c80d793ff430295b1a07d9605040adf358.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F8f%2F7c%2Fa6%2Ffa%2F8f7ca6fa543937f2fd0469b210e8c4c80d793ff430295b1a07d9605040adf358.jpg) no-repeat;" title="Георгий Карлагин">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id6448701/1294133-zdorove">
+            <span class="title authorName  base_link_black">
+                Здоровье                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id6448701/1294133-zdorove" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F8f%2F7c%2Fa6%2Ffa%2F8f7ca6fa543937f2fd0469b210e8c4c80d793ff430295b1a07d9605040adf358.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F8f%2F7c%2Fa6%2Ffa%2F8f7ca6fa543937f2fd0469b210e8c4c80d793ff430295b1a07d9605040adf358.jpg) no-repeat;" title="Георгий Карлагин"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id6448701/1294133-zdorove">
+            <span class="title authorName ">Георгий Карлагин</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">8</li><li class="reposts" title="Перепосты">12</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a9403');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a9403"
+    data-post-id="76330494"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 18.01.23, 8:20"
+    data-board-title="ღПолезно или вредноღ"
+    data-board-link="/id7307527/1535849-_polezno_ili_vredno_"
+    data-user="7307527"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:391px;"
+        data-card-width="336"
+        data-card-height="391"
+                data-is-liked="false"
+        data-large-height="480"
+        data-large-width="413">
+        <div class="placeholder">ok.ru</div><a href="https://postila.ru/post/76330494"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fd4%2F00%2Fcf%2F7e%2Fd400cf7e66dd8135fdc4fee59c773a8ac659f8d278d5043ae7f93148dd61e53b.jpg" alt="ღ 15 СИГНАЛОВ O БОЛЕЗНИ , КOТОРЫЕ ПОДАЕТ НАШ ОРГАНИЗМ" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76330494" >
+          <div>ღ 15 СИГНАЛОВ O БОЛЕЗНИ , КOТОРЫЕ ПОДАЕТ НАШ ОРГАНИЗМ</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id7307527" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535849-_polezno_ili_vredno_">
+            <span class="title authorName  base_link_black">
+                ღПолезно или вредноღ                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7307527/1535849-_polezno_ili_vredno_" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535849-_polezno_ili_vredno_">
+            <span class="title authorName ">ღValentinaღ </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a9b25');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a9b25"
+    data-post-id="76278403"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 12:48"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:223px;"
+        data-card-width="336"
+        data-card-height="223"
+                data-is-liked="false"
+        data-large-height="438"
+        data-large-width="660">
+        <div class="placeholder">pngwing.com</div><a href="https://postila.ru/post/76278403"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fc3%2Fe7%2Fa4%2F9d%2Fc3e7a49d032db29f0dafe0fa3d17a101faea92a09192afc772af4970403835c4.png" alt="Китайская кухня Мясной рулет Вегетарианская кухня Теппаньяки, раздел Три железных мяса, еда, рецепт, домашняя кухня png | PNGWing" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76278403" >
+          <div>Китайская кухня Мясной рулет Вегетарианская кухня Теппаньяки…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">1</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a9d5e');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a9d5e"
+    data-post-id="76326694"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 17.01.23, 13:49"
+    data-board-title="ВСЕ ДЛЯ КОМПЬЮТЕРА"
+    data-board-link="/id4403735/848630-vse_dlya_kompyutera"
+    data-user="4403735"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:252px;"
+        data-card-width="336"
+        data-card-height="252"
+                data-is-liked="false"
+        data-large-height="495"
+        data-large-width="660">
+        <div class="placeholder">pomogaemkompu.temaretik.com</div><a href="https://postila.ru/post/76326694"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F7e%2F7f%2Ff6%2F4f%2F7e7ff64f064f805f092a800014995b55b14fbc5030648941781f60bd56cb54c2.jpg" alt="Как запустить командную строку от имени администратора — 7 способов Командная строка от имени Администратора — режим запуска утилиты командной строки в операционной системе Windows с полными административными правами. Командная строка — инструмент для выполнения админ..." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76326694" >
+          <div>Как запустить командную строку от имени администратора — 7 с…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4403735" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg) no-repeat;" title="василий титов">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4403735/848630-vse_dlya_kompyutera">
+            <span class="title authorName  base_link_black">
+                ВСЕ ДЛЯ КОМПЬЮТЕРА                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4403735/848630-vse_dlya_kompyutera" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fbd%2Fbf%2Faa%2Fea%2Fbdbfaaea8013ff19912a69241af345dba6ff7757515c01ace08176ce5324e1fe.jpg) no-repeat;" title="василий титов"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4403735/848630-vse_dlya_kompyutera">
+            <span class="title authorName ">василий титов</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">5</li><li class="reposts" title="Перепосты">8</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627a9fa9');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627a9fa9"
+    data-post-id="76320799"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 16.01.23, 15:34"
+    data-board-title="ремонт-мебель"
+    data-board-link="/id5866387/1105996-remont-mebel"
+    data-user="5866387"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:248px;"
+        data-card-width="336"
+        data-card-height="248"
+                data-is-liked="false"
+        data-large-height="486"
+        data-large-width="660">
+        <div class="placeholder">pulse.mail.ru</div><a href="https://postila.ru/post/76320799"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F93%2Fb2%2F8a%2F01%2F93b28a01acc7b1dc5bea44fcd565d10fa21531f2e8ddf0f635c9954079e0eaf7.jpg" alt="Как из обычных советских табуреток за полдня сделать симпатичные и удобные сиденья на кухню Получится не хуже, чем из магазина!" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76320799" >
+          <div>Как из обычных советских табуреток за полдня сделать симпати…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id5866387" data-img="https://img3.postila.ru/storage/11616000/11604056/e96414e6a6fc879d6cb8a03246a6999c.jpeg">
+                        <span class="avatar-container" style="background: url(https://img3.postila.ru/storage/11616000/11604056/e96414e6a6fc879d6cb8a03246a6999c.jpeg) no-repeat;" title="владимир славкин">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id5866387/1105996-remont-mebel">
+            <span class="title authorName  base_link_black">
+                ремонт-мебель                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id5866387/1105996-remont-mebel" data-img="https://img3.postila.ru/storage/11616000/11604056/e96414e6a6fc879d6cb8a03246a6999c.jpeg">
+                        <span class="avatar-container" style="background: url(https://img3.postila.ru/storage/11616000/11604056/e96414e6a6fc879d6cb8a03246a6999c.jpeg) no-repeat;" title="владимир славкин"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id5866387/1105996-remont-mebel">
+            <span class="title authorName ">владимир славкин</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">2</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627aa948');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627aa948"
+    data-post-id="76308336"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 14.01.23, 11:16"
+    data-board-title="маникюр"
+    data-board-link="/id4830869/1462367-manikyur"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:336px;"
+        data-card-width="336"
+        data-card-height="336"
+                data-is-liked="false"
+        data-large-height="660"
+        data-large-width="660">
+        <div class="placeholder">bestmanikyur.ru</div><a href="https://postila.ru/post/76308336"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F29%2Fed%2F95%2F43%2F29ed9543a28cf8231dd59ae52f78b83923c36698d59943f85c6c142aacf50964.jpg" alt="Маникюр №4809 - фото дизайна - Best Маникюр Маникюр №4809 - самые красивые фото дизайна ногтей. Идеи рисунков на ногтях на любой вкус. Будь самой привлекательной!" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76308336" >
+          <div>Маникюр №4809 - фото дизайна - Best Маникюр Маникюр №4809…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1462367-manikyur">
+            <span class="title authorName  base_link_black">
+                маникюр                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1462367-manikyur" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1462367-manikyur">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ab02b');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ab02b"
+    data-post-id="76329313"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 18.01.23, 3:19"
+    data-board-title="авто"
+    data-board-link="/id4290240/538157-avto"
+    data-user="4290240"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:189px;"
+        data-card-width="336"
+        data-card-height="189"
+                data-is-liked="false"
+        data-large-height="371"
+        data-large-width="660">
+        <div class="placeholder">sdelaysam-svoimirukami.ru</div><a href="https://postila.ru/post/76329313"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F86%2Fcf%2F3b%2F9d%2F86cf3b9d02eb14e1f556f3c09f7f16ffc00739c9dfb3cc1770b602c6717459f5.jpg" alt="Как сделать домкрат без шестерней своими руками" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76329313" >
+          <div>Как сделать домкрат без шестерней своими руками</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4290240" data-img="https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg) no-repeat;" title="Валентин Осипов">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4290240/538157-avto">
+            <span class="title authorName  base_link_black">
+                авто                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4290240/538157-avto" data-img="https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg) no-repeat;" title="Валентин Осипов"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4290240/538157-avto">
+            <span class="title authorName ">Валентин Осипов</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">4</li><li class="reposts" title="Перепосты">8</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ab9bd');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ab9bd"
+    data-post-id="76279120"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 13:56"
+    data-board-title="ремонт и обустройство дома дизайн своими руками"
+    data-board-link="/id7138299/1478603-remont_i_obustroystvo_doma_dizayn_svoimi_rukami"
+    data-user="7138299"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="440"
+        data-large-width="660">
+        <div class="placeholder">liferip.cf</div><a href="https://postila.ru/post/76279120"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Ff7%2F0f%2F1e%2F98%2Ff70f1e981423878fcfbe8a6f512b11d6126376bd17b1296a3346b9211789403c.jpg" alt="Фотообои в интерьере комнат — декор Интересные факты обо всём на свете, которых вы, возможно, не знали." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76279120" >
+          <div>Фотообои в интерьере комнат — декор Интересные факты обо всё…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ac2d3');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ac2d3"
+    data-post-id="76278367"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 12:45"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="298"
+        data-large-width="448">
+        <div class="placeholder">discovery-russia.ru</div><a href="https://postila.ru/post/76278367"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fa9%2F2e%2F24%2F1a%2Fa92e241af49d1c59f9e47eef10e02da51f018e4ce48d27a58129142386dcd917.jpg" alt="Японская кухня - блюда, рецепты, супы, салаты, закуски, горячее Японской кухни" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76278367" >
+          <div>Японская кухня - блюда, рецепты, супы, салаты, закуски, горя…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ac53b');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ac53b"
+    data-post-id="76313363"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 15.01.23, 9:55"
+    data-board-title="ღСтильные нарядыღ👗"
+    data-board-link="/id7307527/1535755-ღstilnyie_naryadyiღ👗"
+    data-user="7307527"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:420px;"
+        data-card-width="336"
+        data-card-height="420"
+                data-is-liked="false"
+        data-large-height="825"
+        data-large-width="660">
+        <div class="placeholder">ladywomans.ru</div><a href="https://postila.ru/post/76313363"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F90%2Ff8%2Fbe%2Fef%2F90f8beef1374c561b2de69ac078f1b463714910d1e70f756877ff7b1fef18b9b.jpg" alt="ღТренды на сумки осень-зима 2023-2024, цвета, принты, фото" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76313363" >
+          <div>ღТренды на сумки осень-зима 2023-2024, цвета, принты, фото</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id7307527" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535755-ღstilnyie_naryadyiღ👗">
+            <span class="title authorName  base_link_black">
+                ღСтильные нарядыღ👗                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7307527/1535755-ღstilnyie_naryadyiღ👗" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535755-ღstilnyie_naryadyiღ👗">
+            <span class="title authorName ">ღValentinaღ </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">1</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ac789');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ac789"
+    data-post-id="76289745"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 16:34"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:189px;"
+        data-card-width="336"
+        data-card-height="189"
+                data-is-liked="false"
+        data-large-height="317"
+        data-large-width="564">
+        <div class="placeholder">br.pinterest.com</div><a href="https://postila.ru/post/76289745"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F0f%2Fb5%2F6e%2F1b%2F0fb56e1b112695651bedc3b44d7f0b543acba5f9c0aac24ef0faed80928914cd.jpg" alt="Невероятно вкусный десерт &quot;Японские моти&quot;" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76289745" >
+          <div>Невероятно вкусный десерт "Японские моти"</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">2</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ac9e8');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ac9e8"
+    data-post-id="76279113"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 13:55"
+    data-board-title="ремонт и обустройство дома дизайн своими руками"
+    data-board-link="/id7138299/1478603-remont_i_obustroystvo_doma_dizayn_svoimi_rukami"
+    data-user="7138299"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:336px;"
+        data-card-width="336"
+        data-card-height="336"
+                data-is-liked="false"
+        data-large-height="660"
+        data-large-width="660">
+        <div class="placeholder">liferip.cf</div><a href="https://postila.ru/post/76279113"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fda%2F42%2F1b%2Fae%2Fda421bae9d5085340da58d3c45722177d35bc568c17572c905ccb4b58ac53141.jpg" alt="Парилка в ванной — стройка и ремонт Интересные факты обо всём на свете, которых вы, возможно, не знали." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76279113" >
+          <div>Парилка в ванной — стройка и ремонт Интересные факты обо всё…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627acbf5');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627acbf5"
+    data-post-id="76324657"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 17.01.23, 6:32"
+    data-board-title="лечебные  травы  вокруг  нас"
+    data-board-link="/id4949776/800663-lechebnyie__travyi__vokrug__nas"
+    data-user="4949776"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:176px;"
+        data-card-width="336"
+        data-card-height="176"
+                data-is-liked="false"
+        data-large-height="287"
+        data-large-width="548">
+        <div class="placeholder">ok.ru</div><a href="https://postila.ru/post/76324657"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fa1%2F63%2Ff6%2F53%2Fa163f6539dc2f8299888f4a0db1e948b0a01b01e8d9575dd3e3d5fe2e8602118.png" alt="ВОТ ТАК МОЖНО ИСПОЛЬЗОВАТЬ ЛАВРОВЫЙ ЛИСТ.
+У всех имеется дома лавровый лист? Вы знаете, какой это замечательный листик. Он может помочь во многом. Познакомьтесь, как его можно использовать и применять.
+- если беспокоит неприятный запах изо рта или воспалительный процесс в этой области (стоматит, гингивит – воспаление десен), то можно просто несколько раз в день пожевать лавровый листик, после чего в течение часа не нужно ничего пить и есть;
+- легко возбудимым, плохо засыпа..." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76324657" >
+          <div>ВОТ ТАК МОЖНО ИСПОЛЬЗОВАТЬ ЛАВРОВЫЙ ЛИСТ.
+У всех имеется дом…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ad45a');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ad45a"
+    data-post-id="76340326"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 20.01.23, 1:48"
+    data-board-title="ღПолезно или вредноღ"
+    data-board-link="/id7307527/1535849-_polezno_ili_vredno_"
+    data-user="7307527"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:334px;"
+        data-card-width="336"
+        data-card-height="334"
+                data-is-liked="false"
+        data-large-height="656"
+        data-large-width="660">
+        <div class="placeholder">static11.tgcnt.ru</div><a href="https://postila.ru/post/76340326"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fff%2F6e%2F47%2Fc6%2Fff6e47c68c4e52b8d6c802fc78043affb14d7fe05f030218f97e716c88e9bdff.jpg" alt="ღ" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76340326" >
+          <div>ღ</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id7307527" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535849-_polezno_ili_vredno_">
+            <span class="title authorName  base_link_black">
+                ღПолезно или вредноღ                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7307527/1535849-_polezno_ili_vredno_" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535849-_polezno_ili_vredno_">
+            <span class="title authorName ">ღValentinaღ </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li><li class="reposts" title="Перепосты">2</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ad698');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ad698"
+    data-post-id="76289708"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 16:32"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:241px;"
+        data-card-width="336"
+        data-card-height="241"
+                data-is-liked="false"
+        data-large-height="474"
+        data-large-width="660">
+        <div class="placeholder">tur-gid.net</div><a href="https://postila.ru/post/76289708"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F86%2F28%2F96%2Fd8%2F862896d8e5ef5b7d300cae258b993bbb9fed71d64979e2747f8eba7a2b21f307.jpg" alt="Десерт японский: рецепты сладостей моча, вагаси и других, пошаговое приготовление в домашних условиях, ингредиенты, калорийность" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76289708" >
+          <div>Десерт японский: рецепты сладостей моча, вагаси и других, по…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ad92f');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ad92f"
+    data-post-id="76319525"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 16.01.23, 11:17"
+    data-board-title="ღЦветыღ"
+    data-board-link="/id7307527/1442242-_tsvetyi_"
+    data-user="7307527"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="440"
+        data-large-width="660">
+        <div class="placeholder">jenciklopedija-roz.ru</div><a href="https://postila.ru/post/76319525"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F2c%2F37%2Fdc%2Fd8%2F2c37dcd85cfc917f192773360406aa0cd5e07f91e46cb10e75d433717456e6ff.jpg" alt="ღДрацена: принципы ухода, лучшие виды для выращивания в домашних условиях" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76319525" >
+          <div>ღДрацена: принципы ухода, лучшие виды для выращивания в дома…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id7307527" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1442242-_tsvetyi_">
+            <span class="title authorName  base_link_black">
+                ღЦветыღ                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7307527/1442242-_tsvetyi_" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1442242-_tsvetyi_">
+            <span class="title authorName ">ღValentinaღ </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">4</li><li class="reposts" title="Перепосты">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ae02a');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ae02a"
+    data-post-id="76337251"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 19.01.23, 13:33"
+    data-board-title="ИНТЕРЬЕР . ЖИЛЬЁ."
+    data-board-link="/id3870648/1427439-interer___jil__"
+    data-user="3870648"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:214px;"
+        data-card-width="336"
+        data-card-height="214"
+                data-is-liked="false"
+        data-large-height="421"
+        data-large-width="660">
+        <div class="placeholder">kaprizulka.mediasole.ru</div><a href="https://postila.ru/post/76337251"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F60%2F80%2F85%2Fa8%2F608085a8171793256af1ee315dedc569f24449f74b70623dd1a80e3e24dce2c0.jpg" alt="8 хитростей, которые помогут сделать дизайн квартиры уникальным Когда мы продумываем интерьер, то обычно смотрим варианты в журналах или в интернете. Но каждый хочет добавить в дизайн нотку уникальности, чтобы квартира отличалась от других. В статье мы..." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76337251" >
+          <div>8 хитростей, которые помогут сделать дизайн квартиры уникаль…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id3870648" data-img="https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg) no-repeat;" title="Людмила Чернышева">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id3870648/1427439-interer___jil__">
+            <span class="title authorName  base_link_black">
+                ИНТЕРЬЕР . ЖИЛЬЁ.                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id3870648/1427439-interer___jil__" data-img="https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/3648000/3645493/f7adc2ed38d07c60670dab01e173dbe3.jpeg) no-repeat;" title="Людмила Чернышева"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id3870648/1427439-interer___jil__">
+            <span class="title authorName ">Людмила Чернышева</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">7</li><li class="reposts" title="Перепосты">4</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ae752');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ae752"
+    data-post-id="76279082"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 10.01.23, 13:52"
+    data-board-title="ремонт и обустройство дома дизайн своими руками"
+    data-board-link="/id7138299/1478603-remont_i_obustroystvo_doma_dizayn_svoimi_rukami"
+    data-user="7138299"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="439"
+        data-large-width="660">
+        <div class="placeholder">liferip.cf</div><a href="https://postila.ru/post/76279082"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F9c%2F21%2F12%2F08%2F9c211208c0738c6cd470d4f18e64a0aae3b297b9b09ac1ea7727fdcd9d4aa784.jpg" alt="10 важных правил общения с постаревшими родителями Интересные факты обо всём на свете, которых вы, возможно, не знали." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76279082" >
+          <div>10 важных правил общения с постаревшими родителями Интересны…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627ae96c');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627ae96c"
+    data-post-id="76330505"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 18.01.23, 8:26"
+    data-board-title="Здоровье"
+    data-board-link="/id4949776/807601-zdorove"
+    data-user="4949776"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:224px;"
+        data-card-width="336"
+        data-card-height="224"
+                data-is-liked="false"
+        data-large-height="440"
+        data-large-width="660">
+        <div class="placeholder">dzen.ru</div><a href="https://postila.ru/post/76330505"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F2e%2Fff%2F07%2F06%2F2eff0706dceb422caa351230a94f5bed873140b8cb2b365e2ce74110f1e3c9fc.jpg" alt="Вас удивит этот список продуктов для крепкого иммунитета! | Своё Родное - Всё о полезной еде | Дзен" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76330505" >
+          <div>Вас удивит этот список продуктов для крепкого иммунитета! |…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627aefd4');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627aefd4"
+    data-post-id="76289699"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 16:32"
+    data-board-title="Вкусная японская кухня"
+    data-board-link="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya"
+    data-user="4830869"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:261px;"
+        data-card-width="336"
+        data-card-height="261"
+                data-is-liked="false"
+        data-large-height="450"
+        data-large-width="580">
+        <div class="placeholder">edimdoma.ru</div><a href="https://postila.ru/post/76289699"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F5d%2Fca%2F27%2Fb2%2F5dca27b2d64a929e61922cd70fcbd9a53175ae4e76bcc8fb7b972bf1523ff3f1.jpg" alt="Японские сладости «Итиго дайфуку», пошаговый рецепт на 1672 ккал, фото, ингредиенты - golkka" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76289699" >
+          <div>Японские сладости «Итиго дайфуку», пошаговый рецепт на 1672…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4830869" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName  base_link_black">
+                Вкусная японская кухня                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fd3%2Fa6%2Fdb%2F99%2Fd3a6db99278a207daf5398128c9a9192cfdd552470d8e6b1bd2fcccf1d8d6666.jpg) no-repeat;" title="Anna Milaya"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4830869/1428571-vkusnaya-yaponskaya-kuhnya">
+            <span class="title authorName ">Anna Milaya</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">5</li><li class="reposts" title="Перепосты">1</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627af200');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627af200"
+    data-post-id="76324260"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 17.01.23, 5:36"
+    data-board-title="Цветы 🦋"
+    data-board-link="/id7661683/1535913-tsvetyi_🦋"
+    data-user="7661683"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:225px;"
+        data-card-width="336"
+        data-card-height="225"
+                data-is-liked="false"
+        data-large-height="428"
+        data-large-width="640">
+        <div class="placeholder">botanichka.ru</div><a href="https://postila.ru/post/76324260"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F38%2Fb3%2F5c%2F01%2F38b35c016d7968856a3642994f73687e97fef7d3789d167fee036a9f89a1dcc9.jpg" alt="Не как у всех — необычные комнатные растения. Фото — Ботаничка" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76324260" >
+          <div>Не как у всех — необычные комнатные растения. Фото — Ботанич…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-1"
+            href="/id7661683" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fc5%2F27%2Fcc%2F51%2Fc527cc511a24aec065781f9b02a57a04bc1b988664121f798f433a13bba2726b.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fc5%2F27%2Fcc%2F51%2Fc527cc511a24aec065781f9b02a57a04bc1b988664121f798f433a13bba2726b.jpg) no-repeat;" title="Taj  Okkina 🦋">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7661683/1535913-tsvetyi_🦋">
+            <span class="title authorName  base_link_black">
+                Цветы 🦋                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7661683/1535913-tsvetyi_🦋" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fc5%2F27%2Fcc%2F51%2Fc527cc511a24aec065781f9b02a57a04bc1b988664121f798f433a13bba2726b.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2Fc5%2F27%2Fcc%2F51%2Fc527cc511a24aec065781f9b02a57a04bc1b988664121f798f433a13bba2726b.jpg) no-repeat;" title="Taj  Okkina 🦋"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7661683/1535913-tsvetyi_🦋">
+            <span class="title authorName ">Taj  Okkina 🦋</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">9</li><li class="reposts" title="Перепосты">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627afaa1');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627afaa1"
+    data-post-id="76308899"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 14.01.23, 13:23"
+    data-board-title="Маленькие хитрости для дома"
+    data-board-link="/id4299808/419944-malenkie_hitrosti_dlya_doma"
+    data-user="4299808"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:252px;"
+        data-card-width="336"
+        data-card-height="252"
+                data-is-liked="false"
+        data-large-height="495"
+        data-large-width="660">
+        <div class="placeholder">pulse.mail.ru</div><a href="https://postila.ru/post/76308899"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2F8e%2Ffd%2F9e%2F76%2F8efd9e76da02f2c80b429bf87add50ba42fa6832b8a1fb57147b227dfbc94674.jpg" alt="Как почистить утюг от нагара и накипи? Выведала хитрые способы от домохозяйки со стажем | Пока муж на работе ✅ | Пульс Mail.ru" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76308899" >
+          <div>Как почистить утюг от нагара и накипи? Выведала хитрые спосо…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4299808" data-img="https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg">
+                        <span class="avatar-container" style="background: url(https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg) no-repeat;" title="Наталия Васильева">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4299808/419944-malenkie_hitrosti_dlya_doma">
+            <span class="title authorName  base_link_black">
+                Маленькие хитрости для дома                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4299808/419944-malenkie_hitrosti_dlya_doma" data-img="https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg">
+                        <span class="avatar-container" style="background: url(https://img1.postila.ru/storage/4480000/4460690/b46353165d35e34199180952d079e2ec.jpg) no-repeat;" title="Наталия Васильева"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4299808/419944-malenkie_hitrosti_dlya_doma">
+            <span class="title authorName ">Наталия Васильева</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">12</li><li class="reposts" title="Перепосты">21</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627b0632');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627b0632"
+    data-post-id="76330535"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 18.01.23, 8:47"
+    data-board-title="ღПолезно или вредноღ"
+    data-board-link="/id7307527/1535849-_polezno_ili_vredno_"
+    data-user="7307527"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:252px;"
+        data-card-width="336"
+        data-card-height="252"
+                data-is-liked="false"
+        data-large-height="495"
+        data-large-width="660">
+        <div class="placeholder">formulazdorovya.com</div><a href="https://postila.ru/post/76330535"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fc0%2F45%2F6f%2F61%2Fc0456f6113fdb617c761e158f02137dc32417cf9ee7c6a902ca804432e13e8b9.jpg" alt="ღПчелиное маточное молочко – полезные и лечебные свойства Среди многообразия продуктов пчеловодства, которыми щедро одаривают нас самые трудолюбивые насекомые на Земле, есть поистине уникальные продукты, одним из которых является пчелиное маточное молочко." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76330535" >
+          <div>ღПчелиное маточное молочко – полезные и лечебные свойства Ср…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id7307527" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ ">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535849-_polezno_ili_vredno_">
+            <span class="title authorName  base_link_black">
+                ღПолезно или вредноღ                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id7307527/1535849-_polezno_ili_vredno_" data-img="https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg">
+                        <span class="avatar-container" style="background: url(https://postila.ru/resize?w=100&h=100&src=%2Fdata%2F06%2Ff7%2F87%2F94%2F06f78794c731a58a6fb75cf6d1851d7c6144914901ec2185a32181ff0d930cc6.jpg) no-repeat;" title="ღValentinaღ "></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id7307527/1535849-_polezno_ili_vredno_">
+            <span class="title authorName ">ღValentinaღ </span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">3</li></ul>
+        </div>
+            </div>
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627b08f7');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627b08f7"
+    data-post-id="76287990"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 11.01.23, 13:00"
+    data-board-title="дизайн и интерьер"
+    data-board-link="/id7484348/1486432-dizayn_i_interer"
+    data-user="7484348"
+    data-trust-level="1"
+>
+  
+  <div class="pictureImage"
+        style="min-height:254px;"
+        data-card-width="336"
+        data-card-height="254"
+                data-is-liked="false"
+        data-large-height="499"
+        data-large-width="660">
+        <div class="placeholder">vseprochistky.ru</div><a href="https://postila.ru/post/76287990"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fb1%2F5a%2F20%2Fc4%2Fb15a20c429b5987df0bb60639a1847a60cfd39f0745071b92afd41119a4021c0.jpg" alt="Простой и доступный метод обновления столешницы. справится даже новичок в этом деле — своими руками Всё про чистку вещей, дома и офиса. Как почистить квартиру, машину, золото, серебро, дом, мех, зеркало и многое другое..." /></a>                <div class="pictureMessage" href="https://postila.ru/post/76287990" >
+          <div>Простой и доступный метод обновления столешницы. справится д…</div>        </div>
+  </div>
+
+    
+    
+  </div></div><script>
+    p.pictureitems && p.pictureitems.push('63f39627b0c28');
+</script>
+<div class='pictureItem'><div class='pictureCard pictureCard-loaded'
+    data-bind="if: isVisible"
+    data-item-id="63f39627b0c28"
+    data-post-id="76334506"
+    data-can-edit="false"
+    data-has-source="true"
+    data-has-added="false"
+    data-when=" 19.01.23, 0:55"
+    data-board-title="рыбалка"
+    data-board-link="/id4290240/540798-ryibalka"
+    data-user="4290240"
+    data-trust-level="0"
+>
+  
+  <div class="pictureImage"
+        style="min-height:189px;"
+        data-card-width="336"
+        data-card-height="189"
+                data-is-liked="false"
+        data-large-height="371"
+        data-large-width="660">
+        <div class="placeholder">pulse.mail.ru</div><a href="https://postila.ru/post/76334506"><img width="336" src="https://postila.ru/resize?w=460&amp;src=%2Fdata%2Fd1%2F3c%2F64%2F6b%2Fd13c646b397364695188bfc3e19baf9f636adce34e6ec1026c8614ea9eda4ad6.jpg" alt="Изобретение из консервной банки Топ 5 самоделок для охоты и рыбалки" /></a>                <div class="pictureMessage" href="https://postila.ru/post/76334506" >
+          <div>Изобретение из консервной банки Топ 5 самоделок для охоты и…</div>        </div>
+  </div>
+
+    
+        <div class="clearfix pictureInfoBlock">
+        <a
+            class="clearfix pictureInfoAuthorAvatar user-status-2"
+            href="/id4290240" data-img="https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg) no-repeat;" title="Валентин Осипов">
+            </span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4290240/540798-ryibalka">
+            <span class="title authorName  base_link_black">
+                рыбалка                            </span>
+        </a>
+        <!--a class="clearfix pictureInfoAuthorAvatar" href="/id4290240/540798-ryibalka" data-img="https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg">
+                        <span class="avatar-container" style="background: url(https://img2.postila.ru/storage/4448000/4435882/6bfefe951ee8a73e89fa246856d28855.jpeg) no-repeat;" title="Валентин Осипов"></span>
+                    </a>
+        <a class="clearfix pictureInfoAuthor" href="/id4290240/540798-ryibalka">
+            <span class="title authorName ">Валентин Осипов</span>
+        </a-->
+                </object>
+                <div class="pictureStats">
+            <ul class='horizontal clearfix'><li class="likes" title="Спасибо">6</li><li class="reposts" title="Перепосты">4</li></ul>
+        </div>
+            </div>
+    
+  </div></div></div>
+<div class="keys" style="display:none" title="/"><span>76322018</span><span>76278393</span><span>76315939</span><span>76278360</span><span>76287954</span><span>76325399</span><span>76338224</span><span>76315422</span><span>76329815</span><span>76276050</span><span>76289727</span><span>76289049</span><span>76314194</span><span>76289743</span><span>76277696</span><span>76335311</span><span>76330494</span><span>76278403</span><span>76326694</span><span>76320799</span><span>76308336</span><span>76329313</span><span>76279120</span><span>76278367</span><span>76313363</span><span>76289745</span><span>76279113</span><span>76324657</span><span>76340326</span><span>76289708</span><span>76319525</span><span>76337251</span><span>76279082</span><span>76330505</span><span>76289699</span><span>76324260</span><span>76308899</span><span>76330535</span><span>76287990</span><span>76334506</span></div>
+</div><div class="footer">
+    <div class="footer_logo"></div>
+    <div class="footer_column">
+        <a target="_blank" class="catalogLink base_link_gray" href="https://pishite.postila.ru/topic/249698-chto-takoe-postila/?lang=ru">Что такое Постила</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="/page/aboutus">О нас</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="/blog">Блог</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="https://post.postila.ru">Кнопка «Пост!»</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="https://vk.com/postila_public">Постила ВКонтакте</a>    </div>
+    <div class="footer_column">
+        <a target="_blank" class="catalogLink base_link_gray" href="/base/lastposts">Новые посты</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="/base/lastboards">Новые доски</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="/recipes">Рецепты</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="/archive">Aрхив</a><br/>
+        <a target="_blank" class="catalogLink base_link_gray" href="/base/categorylist">Категории</a><br/>
+    </div>
+    <div class="footer_column">
+        <a target="_blank" class="catalogLink base_link_gray" href="/base/topiclist">Темы</a><br/>
+        <a target="_blank" class="catalogLink  base_link_gray" href="/tags">Теги</a><br/>
+        <br/>
+        <a target="_blank" class="supportLink  base_link_gray" href="https://pishite.postila.ru/?lang=ru">Центр поддержки</a><br/>
+        <br/>
+    </div>
+</div></div>
+<div class='loadingDiv'></div>
+</div>
+</div>        </div><!-- content -->
+
+    </div><!-- main -->
+        </div>
+    </div>
+    <!-- page -->
+    <div id="wlt-PictureScroll" class="worklet">
+	
+	<div class="worklet-info notice hide"></div>
+	<div class="worklet-content"><a id="scrollToTop" class="base_button base_button_round base_button_white" href="#"></a></div>
+</div><div id="wlt-BaseLink" class="worklet">
+	
+	<div class="worklet-info notice hide"></div>
+	<div class="worklet-content"></div>
+</div><div id="wlt-BaseDialog">
+<div class="content"></div></div>    <!--LiveInternet counter-->
+<script type="text/javascript">
+    <!--//--><![CDATA[// ><!--
+    function isPostUrl(url){
+        var isPostRep = p.page.hasHistory ? /\/post\/(\d+)/ig : /(post\/(\d*)?|#post\/(\d*))$/i;
+        url = url || window.location.href;
+        return isPostRep.test(url);
+    }
+    var liruDocumentUrls = [];
+    var liru_counter = function(){
+        var currentUrl = document.URL;
+        if (!liruDocumentUrls.length || !isPostUrl(currentUrl) || (isPostUrl(currentUrl) && liruDocumentUrls.length && liruDocumentUrls[liruDocumentUrls.length - 1] != currentUrl)) {
+            var limg = document.createElement('img');limg.alt = ""; limg.width = 1; limg.height = 1; limg.style.position = "absolute"; limg.style.left = "-9999px";
+            limg.src = "//counter.yadro.ru/hit;postila?t52.6;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+
+                (screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(currentUrl)+";"+Math.random();
+            document.body.appendChild(limg);
+
+            var limg = document.createElement('img');limg.id='licntC3F7';limg.alt = ""; limg.width = 1; limg.height = 1; limg.style.position = "absolute"; limg.style.left = "-9999px";
+            limg.src = "//counter.yadro.ru/hit;Group_baby_postila?t52.6;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+
+                (screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(currentUrl)+";h"+escape(document.title.substring(0,150))+";"+Math.random();
+            document.body.appendChild(limg);
+
+            if (!liruDocumentUrls.length || liruDocumentUrls[liruDocumentUrls.length - 1] != currentUrl) {
+                liruDocumentUrls.push(currentUrl);
+            }
+        }
+    };
+    liru_counter();
+    typeof p !== 'undefined' && p.page && p.page.counters && p.page.counters.add(liru_counter);
+    //--><!]]>
+</script>
+<!--/LiveInternet-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42560327-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-42560327-6');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!--GoogleAnalytics-->
+<script>
+    var gaDocumentUrls = [];
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-42560327-1', 'auto');
+    ga('require', 'displayfeatures');
+
+    var ga_counter = function() {
+        var currentUrl = document.URL;
+        if (!gaDocumentUrls.length || !isPostUrl(currentUrl) || (isPostUrl(currentUrl) && gaDocumentUrls.length && gaDocumentUrls[gaDocumentUrls.length - 1] != currentUrl)) {
+            ga('send', 'pageview');
+            if (!gaDocumentUrls.length || gaDocumentUrls[gaDocumentUrls.length - 1] != currentUrl) {
+                gaDocumentUrls.push(currentUrl);
+            }
+        }
+    };
+        typeof p !== 'undefined' && p.page && p.page.counters && p.page.counters.add(ga_counter);
+</script>
+<!--/GoogleAnalytics-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    var yaDocumentUrls = [];
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter22413142 = new Ya.Metrika({id:22413142,
+                    webvisor:false,
+                    clickmap:true,
+                    trackLinks:true,
+                    trackHash:true,
+                    accurateTrackBounce:true,
+                    userParams: { loggedIn: false }
+                });
+            yaCounter22413142.params({ loggedIn: false });
+                        w.yaReachGoal = function(goalId, params) {
+                w.yaCounter22413142 && yaCounter22413142.reachGoal(goalId, params || {});
+            }
+            p.page.counters.add(function() {
+                var currentUrl = document.URL;
+                if (!yaDocumentUrls.length || !isPostUrl(currentUrl) || (isPostUrl(currentUrl) && yaDocumentUrls.length && yaDocumentUrls[yaDocumentUrls.length - 1] != currentUrl)) {
+                    yaCounter22413142.hit(window.location.href, document.title);
+                    if (!yaDocumentUrls.length || yaDocumentUrls[yaDocumentUrls.length - 1] != currentUrl) {
+                        yaDocumentUrls.push(currentUrl);
+                    }
+                }
+            });
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/22413142" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- DMPKit Tag Manager -->
+<script>
+    (function (w, d, s, l, h, m) {
+        w[l] = w[l] || [];
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dmpkitdl' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//' + m + '/tm.js?id=' + h + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dmpkitdl', 'd5c59c1a-148d-4be6-81c7-1fe03ddeab07', 'static.dmpkit.1dmp.io');
+</script>
+<!-- End DMPKit Tag Manager -->
+
+<!--script src="https://ru.viadata.store/tag/load.js?sid=104709" defer  charset="UTF-8" ></script-->
+<div id="ue-stub">
+  <div href="#" class="ue-tab-container" style="width:27px;max-width:27px;position: fixed;left: 0px;top:35%;">
+    <a id="ueButton" class="ue-button ue-left ue-feedback"  target="_blank" href="https://pishite.postila.ru">
+        <img
+            class="ueLabel"
+            src="https://cdn.userecho.com/tabs/020FFFFFF057000855/0J%2FQvtC80L7RidGMICsg0L%2FQvtC00LTQtdGA0LbQutCw"
+            srcset="https://cdn.userecho.com/tabs/020FFFFFF057000855/0J%2FQvtC80L7RidGMICsg0L%2FQvtC00LTQtdGA0LbQutCw 1x,https://cdn.userecho.com/tabsx2/020FFFFFF057000855/0J%2FQvtC80L7RidGMICsg0L%2FQvtC00LTQtdGA0LbQutCw 2x"
+            style="width:27px;max-width:27px;vertical-align:top; border:0; background-color: transparent; padding:0; margin:0;"
+        >
+    </a>
+  </div>
+</div>
+
+<script src="/js/libs/modernizr.min.js"></script>
+
+
+
+</body>
+</html>

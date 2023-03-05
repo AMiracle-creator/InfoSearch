@@ -1,0 +1,1829 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="ru">
+
+    
+
+<head id="ctl00_mphead"><meta charset="UTF-8" /><title>
+	Справочный портал | SpravPortal
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="robots" content="INDEX,FOLLOW" /><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" /><meta name="keywords" content="почтовые,индексы,телефонные,коды,организации,фирмы,товары,услуги,справка,бизнес,предприятия,компании,телефоны,адреса,коды,ОКВЭД" /><meta name="description" content="СправПортал - справочник, который всегда с тобой. Телефонные коды операторов и городов, почтовые индексы, штрихкоды стран, ОКВЭД и другая справочная информация в одном месте." /><meta name="msapplication-tooltip" content="Справочный портал" /><meta name="application-name" content="Справочный портал" /><meta name="msapplication-task" content="name=Определить оператора по телефону;action-uri=/Services/PhoneCodes/MobilePhoneInfo.aspx;icon-uri=/favicon.ico" /><link id="ctl00_lnkPreconnectCdn" rel="preconnect" href="https://cdn5.spravportal.ru" /><link rel="preconnect" href="https://mc.yandex.ru" /><link id="ctl00_lnkPreloadFont" rel="preload" href="https://cdn5.spravportal.ru/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="https://cdn5.spravportal.ru/assets/js/jquery-3.6.3.min.js" as="script" /><link rel="preload" href="https://cdn5.spravportal.ru/assets/img/logo/logo_white.png" as="image" />
+    
+
+    <script type="text/javascript" src="https://cdn5.spravportal.ru/assets/js/sp-dev.js?v=3.61" defer></script>
+
+    <meta name="google-site-verification" content="1fz0PKo9fuYf-YEy7G9VOsTyf0sGxRavO7kDyF-2pFk" />
+
+    
+
+    
+
+
+
+
+
+
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.min.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+
+    
+
+    
+
+    <link rel="shortcut icon" href="https://cdn5.spravportal.ru/assets/img/favicon.png" /><link title="SpravPortal: Определить оператора" type="application/opensearchdescription+xml" rel="search" href="Services/PhoneCodes/Features/spsearch_mobilephoneinfo.xml" />
+    <style>
+        .adjustedZIndex {
+            z-index: 1;
+        }
+    </style>
+
+    
+    
+<style>/*custom*//*cust2*/html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}header,nav,section{display:block}a{background-color:transparent}h1{font-size:2em;margin:.67em 0}img{border:0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px}body{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}img{vertical-align:middle}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}h1,h2,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1,h2,h3{margin-top:20px;margin-bottom:10px}h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}p{margin:0 0 10px}.text-center{text-align:center}ul{margin-top:0;margin-bottom:10px}ul ul{margin-bottom:0}.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-right:-15px;margin-left:-15px}.col-md-12,.col-md-6,.col-sm-12,.col-sm-6{position:relative;min-height:1px;padding-right:15px;padding-left:15px}@media (min-width:768px){.col-sm-12,.col-sm-6{float:left}.col-sm-12{width:100%}.col-sm-6{width:50%}}@media (min-width:992px){.col-md-12,.col-md-6{float:left}.col-md-12{width:100%}.col-md-6{width:50%}}.btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;background-image:none;border:1px solid transparent;padding:6px 12px;font-size:14px;line-height:1.42857143;border-radius:4px}.btn-default{color:#333;background-color:#fff;border-color:#ccc}.btn-sm{padding:5px 10px;font-size:12px;line-height:1.5;border-radius:3px}.collapse{display:none}.dropdown{position:relative}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;font-size:14px;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:4px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175)}.dropdown-menu>li>a{display:block;padding:3px 20px;clear:both;font-weight:400;line-height:1.42857143;color:#333;white-space:nowrap}.dropdown-menu-left{right:auto;left:0}.nav{padding-left:0;margin-bottom:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.navbar{position:relative;min-height:50px;margin-bottom:20px;border:1px solid transparent}@media (min-width:768px){.navbar{border-radius:4px}}@media (min-width:768px){.navbar-header{float:left}}.navbar-collapse{padding-right:15px;padding-left:15px;overflow-x:visible;border-top:1px solid transparent;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,.1);box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}@media (min-width:768px){.navbar-collapse{width:auto;border-top:0;-webkit-box-shadow:none;box-shadow:none}.navbar-collapse.collapse{display:block!important;height:auto!important;padding-bottom:0;overflow:visible!important}.navbar-static-top .navbar-collapse{padding-right:0;padding-left:0}}.container>.navbar-collapse,.container>.navbar-header{margin-right:-15px;margin-left:-15px}@media (min-width:768px){.container>.navbar-collapse,.container>.navbar-header{margin-right:0;margin-left:0}}.navbar-static-top{z-index:1000;border-width:0 0 1px}@media (min-width:768px){.navbar-static-top{border-radius:0}}.navbar-brand{float:left;height:50px;padding:15px 15px;font-size:18px;line-height:20px}@media (min-width:768px){.navbar>.container .navbar-brand{margin-left:-15px}}.navbar-toggle{position:relative;float:right;padding:9px 10px;margin-right:15px;margin-top:8px;margin-bottom:8px;background-color:transparent;background-image:none;border:1px solid transparent;border-radius:4px}@media (min-width:768px){.navbar-toggle{display:none}}.navbar-nav{margin:7.5px -15px}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}@media (min-width:768px){.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:15px;padding-bottom:15px}}.navbar-nav>li>.dropdown-menu{margin-top:0;border-top-left-radius:0;border-top-right-radius:0}.navbar-default{background-color:#f8f8f8;border-color:#e7e7e7}.navbar-default .navbar-brand{color:#777}.navbar-default .navbar-nav>li>a{color:#777}.navbar-default .navbar-toggle{border-color:#ddd}.navbar-default .navbar-collapse{border-color:#e7e7e7}.navbar-inverse{background-color:#222;border-color:#080808}.navbar-inverse .navbar-brand{color:#9d9d9d}.navbar-inverse .navbar-nav>li>a{color:#9d9d9d}.navbar-inverse .navbar-toggle{border-color:#333}.navbar-inverse .navbar-collapse{border-color:#101010}.container:after,.container:before,.nav:after,.nav:before,.navbar-collapse:after,.navbar-collapse:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.row:after,.row:before{display:table;content:' '}.container:after,.nav:after,.navbar-collapse:after,.navbar-header:after,.navbar:after,.row:after{clear:both}.center-block{display:block;margin-right:auto;margin-left:auto}@-ms-viewport{width:device-width}@media (max-width:767px){.hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.hidden-sm{display:none!important}}@media (min-width:992px) and (max-width:1199px){.hidden-md{display:none!important}}@media (min-width:1200px){.hidden-lg{display:none!important}}.animation-delay-2{-webkit-animation-delay:.2s!important;animation-delay:.2s!important}.animation-delay-5{-webkit-animation-delay:.5s!important;animation-delay:.5s!important}.animation-delay-8{-webkit-animation-delay:.8s!important;animation-delay:.8s!important}.animation-delay-11{-webkit-animation-delay:1.1s!important;animation-delay:1.1s!important}.animation-delay-12{-webkit-animation-delay:1.2s!important;animation-delay:1.2s!important}html{-webkit-font-smoothing:antialiased}body{background-color:#fff;color:#666;font-family:'Open Sans','Segoe UI',sans-serif;font-size:14px;line-height:1.75em}.boxed{background-color:#fff}h1,h2,h3{font-family:'Segoe UI',sans-serif;font-weight:300;line-height:120%;color:#ae0000;margin:20px 0 17px 0}h1{font-size:2.3em}h2{font-size:2em}h3{font-size:1.7em}a{color:#ae0000}input:-webkit-autofill{-webkit-box-shadow:0 0 0 1000px white inset}:focus{outline:none!important}::-moz-focus-inner{border:0!important}.margin-bottom{margin-bottom:40px}.text-icon{margin-bottom:30px;overflow:hidden}.text-icon .icon-ar{float:left;margin-top:5px}.text-icon-content{padding-left:70px;font-size:.9em}.text-icon-content p{margin-top:5px}.btn-ar{border-radius:2px;font-size:14px}.btn-ar.btn-default{color:#333;background:linear-gradient(to bottom,#f1f1f1 5%,#e4e4e4 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f1f1f1',endColorstr='darken(#f1f1f1, 5%)',GradientType=0);background-color:#f1f1f1;border:1px solid #d0d0d0}.icon-ar{width:40px;height:40px;font-size:18px;background-color:#ae0000;color:#fff;border-radius:2px;display:inline-block;margin:0 5px 5px 0;text-align:center;line-height:2.2}.icon-ar.icon-ar-lg{width:50px;height:50px;font-size:22px;line-height:2.2}.right-line{position:relative;z-index:1;overflow:hidden;color:#000;margin:30px 0}.right-line:after{position:absolute;top:55%;overflow:hidden;width:100%;height:1px;content:' ';background-color:#ddd;border-left:solid 20px #fff}input{border-radius:0!important;box-shadow:none}.dropdown>a:after{top:8px;right:9px;font-size:11px;content:'';position:absolute;font-weight:normal;display:inline-block;font-family:FontAwesome}.dropdown>a:after{top:18px;right:15px;content:''}@media (max-width:767px){.dropdown>a{border-bottom:solid 1px #ddd;margin:0}.dropdown a{padding:0 6px}.dropdown>a:after{top:10px;right:15px;content:''}}.navbar-default{box-shadow:0 1px 2px rgba(0,0,0,.4),inset 0 0 2px rgba(255,255,255,.75);background-image:linear-gradient(to top,#ececec,#f4f4f4);margin-bottom:0;border-bottom:0}.navbar-default .navbar-brand{font-size:28px;font-weight:300;text-transform:lowercase;font-family:'Muli',sans-serif;word-spacing:-6px;-webkit-text-stroke:.01em;background-image:url('../img/colors/red2/logo.png');background-position:left center;background-repeat:no-repeat;padding-left:45px;color:#000}@media (min-width:360px) and (max-width:768px){.navbar-default .navbar-brand{margin-left:10px}}@media (max-width:400px){.navbar-default .navbar-brand{padding-left:0;background-repeat:no-repeat}}.dropdown-menu li a{position:relative}@media (min-width:767px){.navbar-collapse{padding:0}.navbar-default .navbar-nav>li>a{padding-top:16px;padding-bottom:15px;margin-top:-1px;color:#000;font-family:'Segoe UI','Lato',sans-serif;font-size:16px;font-weight:400}.navbar-default .navbar-nav>li.dropdown>a{padding-right:30px}.dropdown-menu{padding:0;min-width:200px;border-radius:0;z-index:9999!important;margin-top:0!important;box-shadow:0 1px 1px rgba(0,0,0,.4),inset 0 0 2px rgba(255,255,255,.75);background-color:#f5f5f5}.dropdown-menu li a{font-size:13px;font-weight:400;padding:6px 15px}}@media (min-width:768px) and (max-width:991px){.navbar-default .navbar-nav>li>a{font-size:14px;padding-left:8px;padding-right:8px}.navbar-default .navbar-nav>li.dropdown>a{padding-right:25px}.dropdown>a:after{right:10px}.navbar-default .navbar-brand{font-size:1.9em;word-spacing:-5px;-webkit-text-stroke:.007em;background-image:none;padding-left:5px}}.navbar-header .navbar-toggle{margin:0;padding:8px 12px 4px 12px;background-color:#555;background-image:linear-gradient(to top,#4d4d4d,#666);border:none;border-radius:0;color:#fff;position:absolute;left:0;height:50px}.navbar-header .navbar-toggle i{margin:0;padding:0;line-height:100%;font-size:1.5em}@media (max-width:767px){.navbar-default .navbar-brand{font-size:1.7em;word-spacing:-4px;margin-left:50px}}.no-margin{margin:0!important}.services-header{min-height:350px;background-image:url('https://cdn5.spravportal.ru/assets/img/back_services.jpg');background-repeat:no-repeat;background-size:cover;color:#fff;margin-bottom:40px}.primary-dark-div{background-color:rgba(82,0,0,.5)}.services-header .primary-dark-div{min-height:350px;padding:50px 0}.service-header-text{max-width:450px;text-shadow:0 1px 2px rgba(0,0,0,.75)}.service-header-text h1{color:#fff6a7}.services-header-list{list-style-type:none;padding:0;margin:0}.services-header-list li a{display:block;color:#fff;text-decoration:none;font-size:1.7em;font-family:'Segoe UI','Lato','Open Sans',sans-serif;font-weight:300;text-shadow:0 1px 2px rgba(0,0,0,.75);background-color:rgba(255,255,255,.2);box-shadow:0 0 5px #000,inset 0 0 2px rgba(255,255,255,.65);border:solid 1px rgba(255,255,255,.4);padding:15px;margin:20px 0}.services-header-list li a i{margin-right:10px;font-size:1.1em}@media (min-width:992px) and (max-width:1199px){.services-header-list li a{font-size:1.4em}}@media (max-width:600px){.services-header-list li a{font-size:1.4em}}#back-top a{position:fixed;bottom:20px;right:20px;z-index:999999999;color:#eee;background-color:rgba(0,0,0,.3);padding:10px;border-radius:5px;text-align:center}#back-top a i{font-size:2em}@media (max-width:767px){#back-top a{position:fixed;bottom:10px;right:10px}#back-top a i{font-size:1.6em}}.header-full{background-image:linear-gradient(to top,#f0f0f0,#f4f4f4)}.header-full-title{float:left;overflow:hidden;padding-left:400px;background-image:url('https://cdn5.spravportal.ru/assets/img/logo/logo_big.png');background-repeat:no-repeat;background-position:left center}.header-full-title p{margin-bottom:15px;font-size:1.2em;text-align:center}.navbar-header-full{background-color:#f0f0f0;background-image:none;box-shadow:none;border-top:solid 1px #ddd}.navbar-header-full.navbar-inverse{border-top:solid 1px #ae0000}.header-full+.navbar-inverse{background-image:none;box-shadow:none}@media (max-width:767px){.navbar-default .navbar-nav{margin-top:0;margin-bottom:0}.dropdown-menu a{padding-top:7px!important;padding-bottom:7px!important}}.navbar-inverse{background-color:#ae0000;background-image:none;color:#fff;box-shadow:none}.navbar-inverse .navbar-brand{background-image:url('https://cdn5.spravportal.ru/assets/img/logo/logo_white.png')}.navbar-inverse .navbar-brand{color:#fff}.navbar-inverse a{background-image:none}.navbar-default.navbar-inverse .navbar-nav>li>a{color:#fff}.navbar-inverse .dropdown .dropdown-menu{background-color:#444;color:#fff;border-color:#555;box-shadow:none}.navbar-inverse .dropdown .dropdown-menu a{color:#fff;background-image:none}.navbar-inverse .navbar-header .navbar-toggle{background-color:#333;background-image:none}@media (max-width:767px){.navbar-inverse .navbar-collapse{border-color:#555;background-color:#444}.navbar-inverse .dropdown>a{border-bottom:solid 1px #555;margin:0}.dropdown-menu a{padding-top:7px!important;padding-bottom:7px!important}.navbar-inverse .dropdown-menu a{color:#fff!important}}.yamm .nav,.yamm .collapse,.yamm .dropdown{position:static}.yamm .container{position:relative}.yamm .dropdown-menu{left:auto}/*20-01-23 body{overflow:hidden}*/.boxed{background-color:#fff}.col-md-12,.col-md-6,.col-sm-12,.col-sm-6{padding-right:8px;padding-left:8px}@media (max-width:767px){.sp-stickheader{position:sticky;top:0;width:100%}.sp-stickheaderpadding{padding-top:12px}}body{color:#333;margin:0;background-color:#fff;text-align:left}A.Nav{text-decoration:none}A:visited.Nav{text-decoration:none}@media (max-width:500px){.Nav{display:none!important}}.Nav{color:#777}input{font-size:8pt;font-family:Verdana,Tahoma,Arial}ul{padding-left:10px;vertical-align:middle}ul{padding-left:10px;vertical-align:middle}@font-face{font-family:'FontAwesome';src:url('/assets/fonts/fontawesome-webfont.eot?v=4.7.0');src:url('/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('/assets/fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),url('/assets/fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),url('/assets/fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'),url('/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-barcode:before{content:''}.fa-book:before{content:''}.fa-check-square-o:before{content:''}.fa-chevron-up:before{content:''}.fa-phone:before{content:''}.fa-bars:before{content:''}.fa-lightbulb-o:before{content:''}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}@-webkit-keyframes fadeInDown{0%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}to{opacity:1;-webkit-transform:translateZ(0);transform:translateZ(0)}}@keyframes fadeInDown{0%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}to{opacity:1;-webkit-transform:translateZ(0);transform:translateZ(0)}}.fadeInDown{-webkit-animation-name:fadeInDown;animation-name:fadeInDown}@-webkit-keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:translateZ(0);transform:translateZ(0)}}@keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:translateZ(0);transform:translateZ(0)}}.fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}@media (prefers-reduced-motion:reduce),(print){.animated{-webkit-animation-duration:1ms!important;animation-duration:1ms!important;-webkit-animation-iteration-count:1!important;animation-iteration-count:1!important}}/*add*/</style><meta name="date" content="2023-02-20" /></head>
+
+ 
+
+<!-- Preloader -->
+
+
+
+
+<body itemscope="" itemtype="http://schema.org/WebPage">
+
+
+
+
+
+
+
+    <form name="aspnetForm" method="post" action="/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzZGRzDz8aoH+YPNjyl6OdbyR3tJcHhw==" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAI7DMAEd2V0T75Zm3raIbcGkPxA2/g5DzWakL0DrQsTULzPbDsaDqBYmgPmCzEwTLq2Xyzk" />
+</div>
+  
+
+
+
+    
+    
+    
+
+
+    
+
+
+    
+ 
+    
+
+    
+
+
+<div id="sb-site">
+<div class="boxed">
+
+    
+<header id="header-full-top" class="hidden-xs header-full">
+    <div class="container">
+        
+
+            <div class="header-full-title" style="height: 60px;" title="SpravPortal - Справочный портал">
+                
+                
+                <p>&nbsp;</p>
+            </div>
+        
+        
+    </div> <!-- container -->
+</header> <!-- header-full -->
+
+
+
+
+    
+<nav class="navbar navbar-static-top navbar-default navbar-header-full navbar-inverse yamm sp-stickheader" id="header">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <i class="fa fa-bars"></i>
+            </button>
+            <a href="./" id="ctl00_arbrand" class="navbar-brand hidden-lg hidden-md hidden-sm" style="width:210px;" aria-label="Основное меню сайта"></a>
+        </div> <!-- navbar-header -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+
+                <li class="dropdown">
+                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Справочники</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li><a href="/Services/PhoneCodes">Телефонные коды</a></li>
+                        
+                        <li><a href="/Services/Barcodes">Штрих коды стран</a></li>
+
+
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Сервисы</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li><a  href="/Services/PhoneCodes/MobilePhoneInfo.aspx">Определить регион и оператора по номеру телефона</a></li>
+                         <li><a  href="/services/who-calls">Кто звонит: определитель спам-номеров</a></li>
+                        <li><a  href="/Services/Barcodes/Check">Проверить штрих-код</a></li>
+                        
+                    </ul>
+                </li>
+
+                
+
+
+
+
+                <li class="dropdown">
+                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">О проекте</a>
+                     <ul class="dropdown-menu dropdown-menu-left">
+                        <li><a href="/Portal/About">О проекте</a></li>
+                        
+                        
+                    </ul>
+                </li>
+             </ul>
+        </div><!-- navbar-collapse -->
+    </div><!-- container -->
+</nav>
+
+
+
+
+
+<header class="services-header hidden-xs">
+    <div class="primary-dark-div">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="service-header-text text-center center-block">
+                        <h1 class="animated fadeInDown animation-delay-2" itemprop="name">Новый SpravPortal</h1>
+                        <p class="animated fadeInDown animation-delay-5">
+                            Встречайте абсолютно новый SpravPortal - мы переработали его полностью для вас.
+                            Новый адаптированный под мобильные устройства дизайн, более удобный, более быстрый.
+                        </p>
+                        <p class="animated fadeInDown animation-delay-12">
+                            Справочник, который всегда с тобой.
+                        </p>
+                        
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <ul class="services-header-list">
+                        <li class="animated fadeInUp animation-delay-5"><a href="Portal/About"><i class="fa fa-check-square-o"></i> Новый дизайн</a></li>
+                        <li class="animated fadeInUp animation-delay-8"><a href="Services"><i class="fa fa-book"></i>Новые справочники</a></li>
+                        <li class="animated fadeInUp animation-delay-11"><a href="Services"><i class="fa fa-lightbulb-o"></i>Новые сервисы</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container sp-stickheaderpadding">
+
+
+
+    
+    <section class="margin-bottom">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="right-line">Популярные справочники и сервисы</h2>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="text-icon _wow fadeInUp">
+                    <span class="icon-ar icon-ar-lg"><i class="fa fa-phone"></i></span>
+                    <div class="text-icon-content">
+                        <h3 class="no-margin"><a href="Services/PhoneCodes/MobilePhoneInfo.aspx">Определить регион и оператора</a></h3>
+                        <p>Сервис позволит определить оператора мобильной связи и регион по заданному номеру телефона.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-sm-6">
+                <div class="text-icon _wow fadeInUp">
+                    <span class="icon-ar icon-ar-lg"><i class="fa fa-phone"></i></span>
+                    <div class="text-icon-content">
+                        <h3 class="no-margin"><a href="services/who-calls">Кто звонит: определитель спам-номеров</a></h3>
+                        <p>Вам звонят с незнакомых номеров? Проверьте номер по нашей базе с оценками и отзывами пользователей!</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="text-icon _wow fadeInUp">
+                    <span class="icon-ar icon-ar-lg"><i class="fa fa-phone"></i></span>
+                    <div class="text-icon-content">
+                        <h3 class="no-margin"><a href="Services/PhoneCodes/Mobile">Коды мобильных операторов</a></h3>
+                        <p>Коды мобильных операторов России по регионам</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="text-icon _wow fadeInUp">
+                    <span class="icon-ar icon-ar-lg"><i class="fa fa-barcode"></i></span>
+                    <div class="text-icon-content">
+                        <h3 class="no-margin"><a href="Services/Barcodes">Штрих коды стран мира</a></h3>
+                        <p>Справочник штрих-кодов стран с поиском по кодам и названиям стран и проверкой правильности штрих кода.</p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div> <!-- row -->
+    </section>
+
+    
+
+
+    <section class="margin-bottom">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="right-line">Коды операторов</h2>
+            </div>
+            <div class="col-md-12 col-sm-12">
+
+                
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/900" 
+            title="Операторы сотовой связи с кодами 900, 8900, +7900">
+            
+            900
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/901" 
+            title="Операторы сотовой связи с кодами 901, 8901, +7901">
+            
+            901
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/902" 
+            title="Операторы сотовой связи с кодами 902, 8902, +7902">
+            
+            902
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/903" 
+            title="Операторы сотовой связи с кодами 903, 8903, +7903">
+            
+            903
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/904" 
+            title="Операторы сотовой связи с кодами 904, 8904, +7904">
+            
+            904
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/905" 
+            title="Операторы сотовой связи с кодами 905, 8905, +7905">
+            
+            905
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/906" 
+            title="Операторы сотовой связи с кодами 906, 8906, +7906">
+            
+            906
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/908" 
+            title="Операторы сотовой связи с кодами 908, 8908, +7908">
+            
+            908
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/909" 
+            title="Операторы сотовой связи с кодами 909, 8909, +7909">
+            
+            909
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/910" 
+            title="Операторы сотовой связи с кодами 910, 8910, +7910">
+            
+            910
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/911" 
+            title="Операторы сотовой связи с кодами 911, 8911, +7911">
+            
+            911
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/912" 
+            title="Операторы сотовой связи с кодами 912, 8912, +7912">
+            
+            912
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/913" 
+            title="Операторы сотовой связи с кодами 913, 8913, +7913">
+            
+            913
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/914" 
+            title="Операторы сотовой связи с кодами 914, 8914, +7914">
+            
+            914
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/915" 
+            title="Операторы сотовой связи с кодами 915, 8915, +7915">
+            
+            915
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/916" 
+            title="Операторы сотовой связи с кодами 916, 8916, +7916">
+            
+            916
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/917" 
+            title="Операторы сотовой связи с кодами 917, 8917, +7917">
+            
+            917
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/918" 
+            title="Операторы сотовой связи с кодами 918, 8918, +7918">
+            
+            918
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/919" 
+            title="Операторы сотовой связи с кодами 919, 8919, +7919">
+            
+            919
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/920" 
+            title="Операторы сотовой связи с кодами 920, 8920, +7920">
+            
+            920
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/921" 
+            title="Операторы сотовой связи с кодами 921, 8921, +7921">
+            
+            921
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/922" 
+            title="Операторы сотовой связи с кодами 922, 8922, +7922">
+            
+            922
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/923" 
+            title="Операторы сотовой связи с кодами 923, 8923, +7923">
+            
+            923
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/924" 
+            title="Операторы сотовой связи с кодами 924, 8924, +7924">
+            
+            924
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/925" 
+            title="Операторы сотовой связи с кодами 925, 8925, +7925">
+            
+            925
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/926" 
+            title="Операторы сотовой связи с кодами 926, 8926, +7926">
+            
+            926
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/927" 
+            title="Операторы сотовой связи с кодами 927, 8927, +7927">
+            
+            927
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/928" 
+            title="Операторы сотовой связи с кодами 928, 8928, +7928">
+            
+            928
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/929" 
+            title="Операторы сотовой связи с кодами 929, 8929, +7929">
+            
+            929
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/930" 
+            title="Операторы сотовой связи с кодами 930, 8930, +7930">
+            
+            930
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/931" 
+            title="Операторы сотовой связи с кодами 931, 8931, +7931">
+            
+            931
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/932" 
+            title="Операторы сотовой связи с кодами 932, 8932, +7932">
+            
+            932
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/933" 
+            title="Операторы сотовой связи с кодами 933, 8933, +7933">
+            
+            933
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/934" 
+            title="Операторы сотовой связи с кодами 934, 8934, +7934">
+            
+            934
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/936" 
+            title="Операторы сотовой связи с кодами 936, 8936, +7936">
+            
+            936
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/937" 
+            title="Операторы сотовой связи с кодами 937, 8937, +7937">
+            
+            937
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/938" 
+            title="Операторы сотовой связи с кодами 938, 8938, +7938">
+            
+            938
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/939" 
+            title="Операторы сотовой связи с кодами 939, 8939, +7939">
+            
+            939
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/941" 
+            title="Операторы сотовой связи с кодами 941, 8941, +7941">
+            
+            941
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/950" 
+            title="Операторы сотовой связи с кодами 950, 8950, +7950">
+            
+            950
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/951" 
+            title="Операторы сотовой связи с кодами 951, 8951, +7951">
+            
+            951
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/952" 
+            title="Операторы сотовой связи с кодами 952, 8952, +7952">
+            
+            952
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/953" 
+            title="Операторы сотовой связи с кодами 953, 8953, +7953">
+            
+            953
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/954" 
+            title="Операторы сотовой связи с кодами 954, 8954, +7954">
+            
+            954
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/955" 
+            title="Операторы сотовой связи с кодами 955, 8955, +7955">
+            
+            955
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/956" 
+            title="Операторы сотовой связи с кодами 956, 8956, +7956">
+            
+            956
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/958" 
+            title="Операторы сотовой связи с кодами 958, 8958, +7958">
+            
+            958
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/960" 
+            title="Операторы сотовой связи с кодами 960, 8960, +7960">
+            
+            960
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/961" 
+            title="Операторы сотовой связи с кодами 961, 8961, +7961">
+            
+            961
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/962" 
+            title="Операторы сотовой связи с кодами 962, 8962, +7962">
+            
+            962
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/963" 
+            title="Операторы сотовой связи с кодами 963, 8963, +7963">
+            
+            963
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/964" 
+            title="Операторы сотовой связи с кодами 964, 8964, +7964">
+            
+            964
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/965" 
+            title="Операторы сотовой связи с кодами 965, 8965, +7965">
+            
+            965
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/966" 
+            title="Операторы сотовой связи с кодами 966, 8966, +7966">
+            
+            966
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/967" 
+            title="Операторы сотовой связи с кодами 967, 8967, +7967">
+            
+            967
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/968" 
+            title="Операторы сотовой связи с кодами 968, 8968, +7968">
+            
+            968
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/969" 
+            title="Операторы сотовой связи с кодами 969, 8969, +7969">
+            
+            969
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/970" 
+            title="Операторы сотовой связи с кодами 970, 8970, +7970">
+            
+            970
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/971" 
+            title="Операторы сотовой связи с кодами 971, 8971, +7971">
+            
+            971
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/977" 
+            title="Операторы сотовой связи с кодами 977, 8977, +7977">
+            
+            977
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/978" 
+            title="Операторы сотовой связи с кодами 978, 8978, +7978">
+            
+            978
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/980" 
+            title="Операторы сотовой связи с кодами 980, 8980, +7980">
+            
+            980
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/981" 
+            title="Операторы сотовой связи с кодами 981, 8981, +7981">
+            
+            981
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/982" 
+            title="Операторы сотовой связи с кодами 982, 8982, +7982">
+            
+            982
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/983" 
+            title="Операторы сотовой связи с кодами 983, 8983, +7983">
+            
+            983
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/984" 
+            title="Операторы сотовой связи с кодами 984, 8984, +7984">
+            
+            984
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/985" 
+            title="Операторы сотовой связи с кодами 985, 8985, +7985">
+            
+            985
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/986" 
+            title="Операторы сотовой связи с кодами 986, 8986, +7986">
+            
+            986
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/987" 
+            title="Операторы сотовой связи с кодами 987, 8987, +7987">
+            
+            987
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/988" 
+            title="Операторы сотовой связи с кодами 988, 8988, +7988">
+            
+            988
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/989" 
+            title="Операторы сотовой связи с кодами 989, 8989, +7989">
+            
+            989
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/991" 
+            title="Операторы сотовой связи с кодами 991, 8991, +7991">
+            
+            991
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/992" 
+            title="Операторы сотовой связи с кодами 992, 8992, +7992">
+            
+            992
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/993" 
+            title="Операторы сотовой связи с кодами 993, 8993, +7993">
+            
+            993
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/994" 
+            title="Операторы сотовой связи с кодами 994, 8994, +7994">
+            
+            994
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/995" 
+            title="Операторы сотовой связи с кодами 995, 8995, +7995">
+            
+            995
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/996" 
+            title="Операторы сотовой связи с кодами 996, 8996, +7996">
+            
+            996
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/997" 
+            title="Операторы сотовой связи с кодами 997, 8997, +7997">
+            
+            997
+        </a>
+    
+        
+        <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/PhoneCodes/Mobile/999" 
+            title="Операторы сотовой связи с кодами 999, 8999, +7999">
+            
+            999
+        </a>
+    
+
+
+
+                
+            </div>
+        </div>
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="right-line">Коды городов</h2>
+            </div>
+            <div class="col-md-12 col-sm-12">
+
+                
+                
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/moskva"
+                title="Телефонный код города Москва">
+                Москва
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/novosibirsk"
+                title="Телефонный код города Новосибирск">
+                Новосибирск
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/voronezh"
+                title="Телефонный код города Воронеж">
+                Воронеж
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/kazan"
+                title="Телефонный код города Казань">
+                Казань
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/samara"
+                title="Телефонный код города Самара">
+                Самара
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/saratov"
+                title="Телефонный код города Саратов">
+                Саратов
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/krasnoyarsk"
+                title="Телефонный код города Красноярск">
+                Красноярск
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/krasnodar"
+                title="Телефонный код города Краснодар">
+                Краснодар
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/nizhnij-novgorod"
+                title="Телефонный код города Нижний Новгород">
+                Нижний Новгород
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/volgograd"
+                title="Телефонный код города Волгоград">
+                Волгоград
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/sankt-peterburg"
+                title="Телефонный код города Санкт-Петербург">
+                Санкт-Петербург
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/tyumen"
+                title="Телефонный код города Тюмень">
+                Тюмень
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/ekaterinburg"
+                title="Телефонный код города Екатеринбург">
+                Екатеринбург
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/yaroslavl"
+                title="Телефонный код города Ярославль">
+                Ярославль
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/chita"
+                title="Телефонный код города Чита">
+                Чита
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/barnaul"
+                title="Телефонный код города Барнаул">
+                Барнаул
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/perm"
+                title="Телефонный код города Пермь">
+                Пермь
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/stavropol"
+                title="Телефонный код города Ставрополь">
+                Ставрополь
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/irkutsk"
+                title="Телефонный код города Иркутск">
+                Иркутск
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/omsk"
+                title="Телефонный код города Омск">
+                Омск
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/tula"
+                title="Телефонный код города Тула">
+                Тула
+            </a>
+        
+            <a class="btn btn-ar btn-sm btn-default" style="margin-bottom: 4px" href="/phone-codes/city/all"
+                title="Телефонный код города Все города">
+                Все города
+            </a>
+        
+
+                
+            </div>
+        </div>
+        <!-- row -->
+
+
+        
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="right-line">Кто звонит? Определитель спам-номеров</h2>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <h3 class="section-title" style="margin-top: 0; font-size: 1.4em">Последние отзывы по телефонным номерам</h3>
+                
+
+
+<style>
+    .sp-h {
+        display: none;
+    }
+</style>
+
+<ul class="list-unstyled">
+
+    
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-danger" href="/services/who-calls/num/74953694340" style="float: left; font-size: 14px !important;">+74953694340</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Анонимный пользователь</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:47</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='#d9534f' viewBox='0 0 24 24' stroke='currentColor' height='24' width='24' style='float: left;'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='0.5' d='M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5' /></svg>
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-danger" href="/services/who-calls/num/79300332810" style="float: left; font-size: 14px !important;">+79300332810</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Елена</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:46</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='#d9534f' viewBox='0 0 24 24' stroke='currentColor' height='24' width='24' style='float: left;'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='0.5' d='M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5' /></svg>
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-danger" href="/services/who-calls/num/79962877020" style="float: left; font-size: 14px !important;">+79962877020</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Олег</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:43</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='#d9534f' viewBox='0 0 24 24' stroke='currentColor' height='24' width='24' style='float: left;'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='0.5' d='M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5' /></svg>
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-default" href="/services/who-calls/num/79053950224" style="float: left; font-size: 14px !important;">+79053950224</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Анонимный пользователь</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:42</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-default" href="/services/who-calls/num/74956767565" style="float: left; font-size: 14px !important;">+74956767565</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Виктория</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:39</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-danger" href="/services/who-calls/num/79028757576" style="float: left; font-size: 14px !important;">+79028757576</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Василий</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:36</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='#d9534f' viewBox='0 0 24 24' stroke='currentColor' height='24' width='24' style='float: left;'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='0.5' d='M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5' /></svg>
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-default" href="/services/who-calls/num/79779612115" style="float: left; font-size: 14px !important;">+79779612115</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Анастасия </span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:34</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-danger" href="/services/who-calls/num/79363162043" style="float: left; font-size: 14px !important;">+79363162043</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Алина</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:32</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='#d9534f' viewBox='0 0 24 24' stroke='currentColor' height='24' width='24' style='float: left;'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='0.5' d='M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5' /></svg>
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-danger" href="/services/who-calls/num/79363162043" style="float: left; font-size: 14px !important;">+79363162043</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Алина</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:32</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            <svg xmlns='http://www.w3.org/2000/svg' class='h-6 w-6' fill='#d9534f' viewBox='0 0 24 24' stroke='currentColor' height='24' width='24' style='float: left;'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='0.5' d='M10 14H5.236a2 2 0 01-1.789-2.894l3.5-7A2 2 0 018.736 3h4.018a2 2 0 01.485.06l3.76.94m-7 10v5a2 2 0 002 2h.096c.5 0 .905-.405.905-.904 0-.715.211-1.413.608-2.008L17 13V4m-7 10h2m5-10h2a2 2 0 012 2v6a2 2 0 01-2 2h-2.5' /></svg>
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+            <li class="comment">
+                <div class="panel panel-default">
+                    <div class="panel-footer">
+                        <div class="row">
+                            <div class="col-sm-3 col-xs-4">
+
+                                
+                                <span>
+                                    <a class="label label-default" href="/services/who-calls/num/79923486112" style="float: left; font-size: 14px !important;">+79923486112</a>
+
+                                </span>
+
+                            </div>
+                            <div class="col-sm-9 col-xs-8">
+                                <span class="pull-right"><i class="fa fa-user hidden-xs"></i><span class="hidden-xs">Анонимный пользователь</span>
+                                    <i class="fa fa-clock-o"></i>20 февраля, 18:32</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" style="padding-left: 0; padding-top: 0;">
+                        <div class="col-sm-1 col-xs-2" style="padding-top: 12px;">
+                            
+                        </div>
+                        <div class="col-sm-11 col-xs-10">
+                            
+                            
+                            
+
+                        </div>
+                    </div>
+
+                </div>
+            </li>
+        
+
+    
+
+</ul>
+
+
+
+            </div>
+            <div class="col-md-6 col-sm-6">
+                
+                <h3 class="section-title"  style="margin-top: 0; font-size: 1.4em">Топ телефонных номеров</h3>
+                
+
+<ul class="list-group list-group-striped">
+    
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79804163256" title="Кто звонил с номера +79804163256">+79804163256</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79651334650" title="Кто звонил с номера +79651334650">+79651334650</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79780382316" title="Кто звонил с номера +79780382316">+79780382316</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79804305414" title="Кто звонил с номера +79804305414">+79804305414</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79134867090" title="Кто звонил с номера +79134867090">+79134867090</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79031892768" title="Кто звонил с номера +79031892768">+79031892768</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79052199606" title="Кто звонил с номера +79052199606">+79052199606</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79276045095" title="Кто звонил с номера +79276045095">+79276045095</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79262357257" title="Кто звонил с номера +79262357257">+79262357257</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79381722078" title="Кто звонил с номера +79381722078">+79381722078</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79538245634" title="Кто звонил с номера +79538245634">+79538245634</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79962871152" title="Кто звонил с номера +79962871152">+79962871152</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79067202740" title="Кто звонил с номера +79067202740">+79067202740</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79062023644" title="Кто звонил с номера +79062023644">+79062023644</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79272080497" title="Кто звонил с номера +79272080497">+79272080497</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79857781989" title="Кто звонил с номера +79857781989">+79857781989</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/78005002055" title="Кто звонил с номера +78005002055">+78005002055</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79300332810" title="Кто звонил с номера +79300332810">+79300332810</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79914751682" title="Кто звонил с номера +79914751682">+79914751682</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79285992910" title="Кто звонил с номера +79285992910">+79285992910</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79505510660" title="Кто звонил с номера +79505510660">+79505510660</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79250899864" title="Кто звонил с номера +79250899864">+79250899864</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79039976410" title="Кто звонил с номера +79039976410">+79039976410</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79060862257" title="Кто звонил с номера +79060862257">+79060862257</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79995761762" title="Кто звонил с номера +79995761762">+79995761762</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79045486857" title="Кто звонил с номера +79045486857">+79045486857</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79771484910" title="Кто звонил с номера +79771484910">+79771484910</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79376123610" title="Кто звонил с номера +79376123610">+79376123610</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79028767188" title="Кто звонил с номера +79028767188">+79028767188</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79202131239" title="Кто звонил с номера +79202131239">+79202131239</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79194355000" title="Кто звонил с номера +79194355000">+79194355000</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79375938259" title="Кто звонил с номера +79375938259">+79375938259</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79010652659" title="Кто звонил с номера +79010652659">+79010652659</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79038382798" title="Кто звонил с номера +79038382798">+79038382798</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79375937276" title="Кто звонил с номера +79375937276">+79375937276</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79336669279" title="Кто звонил с номера +79336669279">+79336669279</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79521349472" title="Кто звонил с номера +79521349472">+79521349472</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79911711622" title="Кто звонил с номера +79911711622">+79911711622</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79778273021" title="Кто звонил с номера +79778273021">+79778273021</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79584115984" title="Кто звонил с номера +79584115984">+79584115984</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/78401045434" title="Кто звонил с номера +78401045434">+78401045434</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79041734286" title="Кто звонил с номера +79041734286">+79041734286</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79584169945" title="Кто звонил с номера +79584169945">+79584169945</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79268518558" title="Кто звонил с номера +79268518558">+79268518558</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79277026898" title="Кто звонил с номера +79277026898">+79277026898</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79000402465" title="Кто звонил с номера +79000402465">+79000402465</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79039381530" title="Кто звонил с номера +79039381530">+79039381530</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79833143891" title="Кто звонил с номера +79833143891">+79833143891</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79916539792" title="Кто звонил с номера +79916539792">+79916539792</a>
+            </li>
+        
+            <li class="list-group-item">
+                
+                <a href="/services/who-calls/num/79658615192" title="Кто звонил с номера +79658615192">+79658615192</a>
+            </li>
+        
+</ul>
+
+                <a href='/services/who-calls/top-phone-numbers'>Все популярные телефонные номера</a><br />
+                <a href='/services/who-calls/top-phone-numbers-by-reviews'>Телефонные номера с большим количеством отзывов</a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    
+
+    
+
+
+
+</div> <!-- container -->
+
+
+
+
+
+
+    
+
+        
+        
+
+
+        
+
+    
+ 
+
+
+
+
+
+
+    
+<aside id="footer-widgets">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h3 class="footer-widget-title">Справочники</h3>
+                <ul class="list-unstyled">
+                        <li><a href="/Services/PhoneCodes">Телефонные коды</a></li>
+                        
+                        <li><a href="/Services/Barcodes">Штрих коды стран</a></li>
+
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h3 class="footer-widget-title">Сервисы</h3>
+                <ul class="list-unstyled">
+                        <li><a href="/Services/PhoneCodes/MobilePhoneInfo.aspx">Определить оператора по номеру телефона</a></li>
+                        <li><a href="/services/who-calls">Кто звонит: определитель спам-номеров</a></li>
+                        <li><a href="/Services/Barcodes/Check">Проверить штрих-код</a></li>
+                        <li><a href="/philanthropy">Благотворительность</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h3 class="footer-widget-title">Калькуляторы</h3>
+                <ul class="list-unstyled">
+                    <li><a href="/calc/nds">Калькулятор НДС</a></li>
+                </ul>
+            </div>
+
+            
+
+
+        </div> <!-- row -->
+    </div> <!-- container -->
+</aside> <!-- footer-widgets -->
+
+    
+
+    <footer id="footer">
+        <p>
+            &copy; <span onclick="sp_getct();">2007</span>-2023 <a href="./">SpravPortal</a>. Все права защищены.
+
+            
+
+            
+            
+
+
+            
+
+            
+        </p>
+
+    </footer>
+
+</div> <!-- boxed -->
+</div> <!-- sb-site -->
+
+       
+
+
+<div id="back-top">
+    <a href="#header" aria-label="Подняться в самый верх"><i class="fa fa-chevron-up"></i></a>
+</div>
+
+<input type="hidden" name="ctl00$hfCachedTime" id="hfCachedTime" value="20.02.2023 18:48:48" />
+
+
+
+
+
+
+
+        <link rel='preload' href='https://cdn5.spravportal.ru/assets/css/sp-bundle3.min.css?v=230205.4' as='style' onload="this.rel='stylesheet'">
+<link rel='stylesheet' href='https://cdn5.spravportal.ru/assets/css/sp-bundle3.min.css?v=230205.4' media='print' onload="this.media='all'" />
+        <link rel='preload' href='https://cdn5.spravportal.ru/assets/css/font-awesome.min.css?v=230205.4' as='style' onload="this.rel='stylesheet'">
+<link rel='stylesheet' href='https://cdn5.spravportal.ru/assets/css/font-awesome.min.css?v=230205.4' media='print' onload="this.media='all'" />
+        <link rel='preload' href='https://cdn5.spravportal.ru/assets/css/animate.min.css?v=230205.4' as='style' onload="this.rel='stylesheet'">
+<link rel='stylesheet' href='https://cdn5.spravportal.ru/assets/css/animate.min.css?v=230205.4' media='print' onload="this.media='all'" />
+
+
+ 
+
+
+<script src="https://cdn5.spravportal.ru/assets/js/jquery-3.6.3.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!-- Syntaxhighlighter -->
+
+
+
+
+
+
+
+
+<script src='https://cdn5.spravportal.ru/assets/js/sp-bundle3.min.js?v=230205.4' defer></script>
+    
+        
+
+
+        <div style="display: none;">
+            
+
+
+
+            Вы здесь:&nbsp;                         
+                         <span id="ctl00_smPath" class="Nav"><a href="#ctl00_smPath_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=8v8C0Vvl90V0EdnK5ZnSzYIavGoROX2gbEFY652cE5P3IVatBRIOH2gR6Z92uw5GjCC0TSRSNzNq9dH9TzZOs54tcJI1&amp;t=637903560777993635" width="0" height="0" style="border-width:0px;" /></a><span class="Nav">
+                                 <a id="ctl00_smPath_ctl00_lnkCurrentNode" class="Nav" href="/">Справочный портал</a>
+                             </span><a id="ctl00_smPath_SkipLink"></a></span>
+
+        </div>
+
+            
+
+
+
+
+
+
+
+        
+
+        
+
+
+
+
+        
+
+    </form>
+
+
+<div id="ctl00_cntrGA_pnlEmbCode">
+	
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3351089-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</div>
+
+<div id="ctl00_YandexMetrika_pnlEmbCode">
+	
+<!-- Yandex.Metrika counter --> <script> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter40498015 = new Ya.Metrika({ id:40498015, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/40498015" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+</div>
+
+<div id="ctl00_LiveInternet_pnlEmbCode">
+	
+    <!--LiveInternet counter--><script><!--
+    new Image().src = "//counter.yadro.ru/hit?r" +
+        escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+            ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+        ";h" + escape(document.title.substring(0, 80)) +
+        ";" + Math.random();//--></script><!--/LiveInternet-->
+
+</div>
+
+    <!--LiveInternet counter-->
+  
+
+
+
+
+
+
+    
+
+        <input name="ctl00$hfData" type="hidden" id="hfData" data-ct="20.02.2023 18:48:48" data-cb="d" />
+
+</body>
+</html>
