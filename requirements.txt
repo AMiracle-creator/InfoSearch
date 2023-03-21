@@ -3,3 +3,4 @@ fake-useragent==1.1.1
 spacy==3.5.0
 beautifulsoup4==4.11.2
 nltk==3.8.1
+numpy==1.24.2
