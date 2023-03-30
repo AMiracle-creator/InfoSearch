@@ -2,58 +2,95 @@ import os
 import numpy as np
 
 import spacy
-from numpy import linalg as LA
-
-NULL_VECTOR_LEMMAS = []
-NULL_VECTOR = []
-
-nlp = spacy.load("ru_core_news_sm")
 
 
-def all_lemmas():
-    with open("lemmas.txt") as f:
-        for line in f:
-            lemma, _ = line.split(":")
-            NULL_VECTOR_LEMMAS.append(lemma)
-            NULL_VECTOR.append(0)
+class VectorizeSearch:
+    def __init__(self, path_to_lemmas, path_to_tokens, path_tf_idf_lemmas):
+        self.nlp = spacy.load("ru_core_news_sm")
+        self.path_to_lemmas = path_to_lemmas
+        self.path_to_tokens = path_to_tokens
+        self.path_tf_idf_lemmas = path_tf_idf_lemmas
+        self.lemmas = []
+        self.pages_dict = {}
 
+    @staticmethod
+    def read_lemmas(path_to_lemmas):
+        lemmas = []
+        with open(path_to_lemmas, 'r', encoding='utf-8') as file:
+            for line in file:
+                lemmas_split = line.split(" ")
+                lemmas.append(lemmas_split[0])
 
-all_lemmas()
+        return lemmas
 
-pages_dict = {}
+    @staticmethod
+    def read_tf_idf(path_lemmas_tf_idf, lemmas, nlp):
+        pages_dict = {}
+        for file in os.listdir(path_lemmas_tf_idf):
+            with open(f"{path_lemmas_tf_idf}/{file}", 'r', encoding="utf-8") as f:
+                page_num = file.split("_")[1].strip(".txt")
+                pages_dict[page_num] = [0] * len(lemmas)
 
+                for line in f:
+                    line_split = line.split(" ")
+                    word = line_split[0]
+                    try:
+                        pages_dict[page_num][lemmas.index(nlp(word)[0].lemma_)] = float(line_split[2])
+                    except Exception as e:
+                        pass
+                print(pages_dict[page_num])
+            print(f'ready ${file}')
+        return pages_dict
 
-def main():
-    for file in os.listdir('task_4/lemmas'):
-        with open(f"task_4/lemmas/{file}", "r") as f:
-            page_num = file.split("_")[1].strip(".txt")
-            pages_dict[page_num] = [0] * len(NULL_VECTOR_LEMMAS)
-            for line in f:
-                word, _, tf_idf = line.split()
-                try:
-                    pages_dict[page_num][NULL_VECTOR_LEMMAS.index(nlp(word)[0].lemma_)] = float(tf_idf)
-                except Exception as e:
-                    pass
-    while True:
-        request = input("Введите запрос: ")
+    @staticmethod
+    def words_vectorize(lemmas, words, nlp):
+        word_weight = len(words) / len(lemmas)
+        word_vector = [0] * len(lemmas)
 
-        word_weight = len(request.split()) / len(NULL_VECTOR_LEMMAS)
-        word_vector = [0] * len(NULL_VECTOR)
-        for word in request.split():
+        for word in words:
             try:
-                word_vector[NULL_VECTOR_LEMMAS.index(nlp(word)[0].lemma_)] = word_weight
+                word_vector[lemmas.index(nlp(word)[0].lemma_)] = word_weight
             except Exception as e:
                 pass
 
-        result_array = []
-        for key in pages_dict:
-            page_vector = pages_dict.get(key)
+        return word_vector
 
-            scalar_product = np.dot(word_vector, page_vector)
-            similarity = scalar_product / (LA.norm(word_vector) * LA.norm(page_vector))
-            result_array.append((key, similarity))
+    @staticmethod
+    def count_coef_otiai(page_vector, words_vector):
+        scalar_vectors = np.dot(page_vector, words_vector)
 
-        print(sorted(result_array, key=lambda x: x[1], reverse=True))
+        coef_otiai = scalar_vectors / np.sqrt(np.sum(words_vector) * np.sum(page_vector))
+
+        return coef_otiai
+
+    def vectorize_pages(self):
+        self.lemmas = self.read_lemmas(self.path_to_lemmas)
+        self.pages_dict = self.read_tf_idf(self.path_tf_idf_lemmas, self.lemmas, self.nlp)
+
+    def search(self, request):
+        words_vector = self.words_vectorize(self.lemmas, request.split(), self.nlp)
+
+        result_search = []
+
+        for key in self.pages_dict:
+            page_vector = self.pages_dict.get(key)
+
+            coef_otiai = self.count_coef_otiai(page_vector, words_vector)
+
+            if not np.isnan(coef_otiai):
+                result_search.append((key, coef_otiai))
+
+        return sorted(result_search, key=lambda x: x[1], reverse=True)
 
 
-main()
+if __name__ == '__main__':
+    vectorize_search = VectorizeSearch('../task_2/lemmas.txt', '../task_2/tokens.txt', '../task_4/lemmas')
+
+    vectorize_search.vectorize_pages()
+
+    while True:
+        input_request = input("Введите запрос: ")
+
+        result = vectorize_search.search(input_request)
+
+        print(result)
