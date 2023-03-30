@@ -24,8 +24,8 @@ pages_dict = {}
 
 
 def main():
-    for file in os.listdir('lemmas'):
-        with open(f"lemmas/{file}", "r") as f:
+    for file in os.listdir('task_4/lemmas'):
+        with open(f"task_4/lemmas/{file}", "r") as f:
             page_num = file.split("_")[1].strip(".txt")
             pages_dict[page_num] = [0] * len(NULL_VECTOR_LEMMAS)
             for line in f:
