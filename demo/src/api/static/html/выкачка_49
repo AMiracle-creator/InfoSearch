@@ -1,0 +1,2208 @@
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" lang="ru-RU">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="8lizKNH50gZrL3M753f7AzBW-ypOSvbEDxEECxpoz7rLEoFApLuNYDNOCnXXLp1KdhmXQCEwwrFld3dseTmK9A==">
+    <title>Главные новости России | ФедералПресс</title>
+    <link rel="preload" href="/themes/fp/fonts/MuseoSansBold/MuseoSansBold.woff" as="font" type="font/woff"
+        crossorigin="anonymous">
+    <link rel="preload" href="/themes/fp/fonts/MuseoSansMedium/MuseoSansMedium.woff" as="font" type="font/woff"
+        crossorigin="anonymous">
+    <link rel="preload" href="/themes/fp/fonts/MuseoSansLight/MuseoSansLight.woff" as="font" type="font/woff"
+        crossorigin="anonymous">
+    <link rel="preload" href="/themes/fp/fonts/bootstrap/glyphicons-halflings-regular.woff2" as="font" type="font/woff2"
+        crossorigin="anonymous">
+    <link href="/assets/9380538a/themes/smoothness/jquery-ui.min.css?v=1530956609" rel="stylesheet">
+<link href="/themes/fp/css/all.min.css?v=1671605617" rel="stylesheet">
+<link href="/themes/fp/css/translator.css?v=1558707876" rel="stylesheet">
+<script src="//cdn.sendpulse.com/js/push/d9443debd4565c6e09346865efbd5bf3_0.js" async="async" charset="UTF-8"></script>
+<script>
+        var lineChartData = {
+		labels : ["","","","","","",""],
+		datasets : [
+			{
+				label: "Прогноз погоды на неделю",
+				fillColor : "rgba(220,220,220,0)",
+				strokeColor : "#fff",
+				pointColor : "#fff",
+				pointStrokeColor : "#fff",
+				pointHighlightFill : "#fff",
+				pointHighlightStroke : "rgba(220,220,220,1)",
+				//data : [24.6,22,23,18,24,18,24]
+				data : [-6,-13,-14,-12,-5,0,0]
+			}
+		],
+	}
+    </script>
+    <meta property="og:title" content="Главные новости России | ФедералПресс" />
+    <meta property="og:url" content="https://fedpress.ru/" />
+        <meta property="og:image" content="https://fedpress.ru/themes/fp/images/noImage.jpg" />
+        <meta property="og:locale" content="ru_RU" />
+    <meta property="og:site_name" content="ФедералПресс" />
+        <meta property="og:type" content="website" />
+        
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    
+    
+
+    <meta name="Description" content="" />
+    <meta name="Keywords" content="" />
+    <meta name="title" content="" />
+
+    <meta name="yandex-verification" content="18f01eadd7c05805" />
+
+    <link rel="icon" href="/themes/fp/images/favicon-red.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/themes/fp/images/favicon-red.ico" type="image/x-icon">
+    <link type="text/plain" rel="author" href="/humans.txt" />
+    
+    <!-- Facebook Pixel Code -->
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-16975951-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-16975951-1');
+    </script>
+
+    <!-- Rambler top100 -->
+    <script>
+    (function(w, d, c) {
+        (w[c] = w[c] || []).push(function() {
+            var options = {
+                project: 2173225
+            };
+            try {
+                w.top100Counter = new top100(options);
+            } catch (e) {}
+        });
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function() {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src =
+            (d.location.protocol == "https:" ? "https:" : "http:") +
+            "//st.top100.ru/top100/top100.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(window, document, "_top100q");
+    </script>
+    <noscript><img src="//counter.rambler.ru/top100.cnt?pid=2173225"></noscript>
+
+    <script type="text/javascript">
+    (window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-175620-2gX0w';
+    </script>
+    <script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+    <script src="https://yastatic.net/share2/share.js"></script>
+
+    <meta property="fb:pages" content="182944168395311" />
+
+    <!--LiveInternet counter-->
+    <script>
+    new Image().src = "https://counter.yadro.ru/hit;FederalPress?r" +
+        escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+            ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+        ";h" + escape(document.title.substring(0, 150)) +
+        ";" + Math.random();
+    </script>
+    <!--/LiveInternet-->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+    (function(m, e, t, r, i, k, a) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        m[i].l = 1 * new Date();
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(
+            k, a)
+    })
+    (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+
+    ym(15912118, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true
+    });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/15912118" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous" async></script> -->
+
+    <script>
+    window.yaContextCb = window.yaContextCb || []
+    </script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+
+    <!-- Trafmedia  -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5622890653576968"
+        crossorigin="anonymous"></script>
+
+    <script async src="https://jsn.24smi.net/smi.js"></script>
+
+    <script async src='https://yandex.ru/ads/system/header-bidding.js'></script>
+    <script>
+    var adfoxBiddersMap = {
+        "criteo": "1537289",
+        "betweenDigital": "1537288",
+        "myTarget": "1537291"
+    };
+
+    var adUnits = [{
+            "code": "fp_300x600_1_d",
+            "sizes": [
+                [
+                    300,
+                    600
+                ]
+            ],
+            "bids": [{
+                    "bidder": "criteo",
+                    "params": {
+                        "placementId": "1644107"
+                    }
+                },
+                {
+                    "bidder": "betweenDigital",
+                    "params": {
+                        "placementId": "4495810"
+                    }
+                },
+                {
+                    "bidder": "myTarget",
+                    "params": {
+                        "placementId": "1003264"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "fp_730x300_d",
+            "sizes": [
+                [
+                    728,
+                    90
+                ]
+            ],
+            "bids": [{
+                    "bidder": "criteo",
+                    "params": {
+                        "placementId": "1644110"
+                    }
+                },
+                {
+                    "bidder": "betweenDigital",
+                    "params": {
+                        "placementId": "4495812"
+                    }
+                },
+                {
+                    "bidder": "myTarget",
+                    "params": {
+                        "placementId": "1003276"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "fp_336x280_1_m",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    336,
+                    280
+                ]
+            ],
+            "bids": [{
+                    "bidder": "criteo",
+                    "params": {
+                        "placementId": "1644108"
+                    }
+                },
+                {
+                    "bidder": "betweenDigital",
+                    "params": {
+                        "placementId": "4495813"
+                    }
+                },
+                {
+                    "bidder": "myTarget",
+                    "params": {
+                        "placementId": "1003278"
+                    }
+                }
+            ]
+        },
+        {
+            "code": "fp_336x280_2_m",
+            "sizes": [
+                [
+                    300,
+                    250
+                ],
+                [
+                    336,
+                    280
+                ]
+            ],
+            "bids": [{
+                    "bidder": "criteo",
+                    "params": {
+                        "placementId": "1644109"
+                    }
+                },
+                {
+                    "bidder": "betweenDigital",
+                    "params": {
+                        "placementId": "4495814"
+                    }
+                },
+                {
+                    "bidder": "myTarget",
+                    "params": {
+                        "placementId": "1003280"
+                    }
+                }
+            ]
+        }
+    ];
+
+    var userTimeout = 900;
+
+    window.YaHeaderBiddingSettings = {
+        biddersMap: adfoxBiddersMap,
+        adUnits: adUnits,
+        timeout: userTimeout,
+    };
+    </script>
+
+
+
+    <!-- Adfinity  -->
+
+    <link href="https://cdn.adfinity.pro/foralls/adfinity_1.1.css" rel="stylesheet">
+    <script src="https://yandex.ru/ads/system/header-bidding.js"></script>
+    <script src="https://cdn.adfinity.pro/foralls/adfinity_1.1.js" charset="utf-8"></script>
+    <script src="https://cdn.adfinity.pro/partners/fedpress.ru/hbconfig.js"></script>
+    <script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+    </script>
+
+    <link rel="preconnect" href="https://ads.betweendigital.com" crossorigin>
+
+    <!-- Adfinity_End  -->
+
+
+</head>
+
+<body>
+
+    <!-- Adfinity  -->
+    <script>
+    let invoked = false;
+    window.addEventListener('scroll', function() {
+        if (window.pageYOffset > 500 && invoked == false) {
+            invoked = true;
+            adfoxCallOverlay = function() {
+                window.Ya.adfoxCode.hbCallbacks.push(function() {
+                    window.yaContextCb.push(function() {
+                        Ya.adfoxCode.createAdaptive({
+                            ownerId: 389280,
+                            containerId: 'adfox_16424197847585287',
+                            params: {
+                                pp: 'bsgx',
+                                ps: 'fhfd',
+                                p2: 'hlww'
+                            },
+                            onLoad: function(data) {
+                                console.log(data);
+                            },
+                            onRender: function() {
+                                console.log('ads rendered');
+                            },
+                            onError: function(error) {
+                                console.log(error);
+                            },
+                            onStub: function() {
+                                console.log('Server return no ad');
+                            }
+                        }, ['tablet', 'phone'], {
+                            tabletWidth: 1023,
+                            phoneWidth: 768,
+                            isAutoReloads: false
+                        });
+                    });
+                });
+            };
+            makeAdfinityOverlay(adfoxCallOverlay, 10, 0, "adfox_16424197847585287", 320, 100, false);
+        }
+    });
+    </script>
+
+    <!-- Adfinity_End  -->
+
+    
+    <header id="header" class="header">
+        <div style="display: none">
+            <div id="popup-search" class="popup popup-simple popup-standart-c">
+                                <form class="fly-validate" action="/search" method="get">                <div class="popup-standart-c__header">
+                    <i class="popup-standart-c__close js-close-btn"></i>
+                    <h3 class="popup-standart-c__title">Поиск</h3>
+                </div>
+
+                <div class="popup-standart-c__content search-popup">
+                    <div class="search-popup__block">
+                        <div class="social-popup__text">
+                            Ищите новости, статьи, аналитику, экспертные мнения и другие материалы:
+                        </div>
+                        <input type="text" class="form-control" name="SearchForm[s]" placeholder="Поиск...">                    </div>
+                </div>
+
+                <div class="popup-standart-c__bottom">
+                    <input type="submit" value="Искать" class="btn popup-standart-c__btn redb1" />
+                    <button class="btn popup-standart-c__btn js-close-btn" type="button">Закрыть</button>
+                </div>
+                </form>            </div>
+
+                        <div id="popup-enter" class="popup popup-simple popup-standart-c">
+                <form id="login-form" action="/site/login" method="post">
+<input type="hidden" name="_csrf" value="8lizKNH50gZrL3M753f7AzBW-ypOSvbEDxEECxpoz7rLEoFApLuNYDNOCnXXLp1KdhmXQCEwwrFld3dseTmK9A==">                <div class="popup-standart-c__header">
+                    <i class="popup-standart-c__close js-close-btn"></i>
+                    <h3 class="popup-standart-c__title">Войти</h3>
+                </div>
+
+                <div class="popup-standart-c__content search-popup">
+                    <div class="search-popup__block">
+                        <div class="social-popup__text">
+                            Введите ваш логин:
+                        </div>
+
+                        <input type="text" id="loginform-email" class="form-control" name="LoginForm[email]" placeholder="">                        <br />
+
+                        <div class="social-popup__text">
+                            Введите ваш пароль:
+                        </div>
+                        <input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" placeholder="">                    </div>
+                </div>
+
+                <div class="popup-standart-c__bottom">
+                    <button type="submit" class="btn popup-standart-c__btn redb1" name="login-button">Войти</button>
+                    <a class="btn popup-standart-c__btn" href="/user/request-password-reset">Забыли пароль?</a>
+                    <a class="btn popup-standart-c__btn" href="/user/signup">Регистрация</a>                </div>
+                </form>            </div>
+            
+            <div id="popup-share" class="popup popup-simple popup-standart-c">
+
+                <div class="popup-standart-c__content"  style="width: 210px;">
+                    <i id="my-share"></i>
+                    <p></p>
+                </div>
+            </div>
+
+        </div>
+        <div class="header-container">
+            
+                    <div class="header__region">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 col-xs-6 col">
+                <div id="region-nav" class="region-nav dropdown-scroll-nav"><a href="/news/all" class="region-placeholder dropdown-scroll-nav__click">Весь мир</a>
+                  <div class="region-nav__box dropdown-scroll-nav__box">
+                    <ul class="region-nav__list dropdown-scroll-nav__list">
+                    <!-- <li class="selected"> -->
+                    <li>
+                    	<a href="/77">Москва</a>                    </li>
+                                                            	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regioncfo">Центр</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/cfo">Весь Центр</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/50">Московская область</a></li>
+                    		                    	                    		<li ><a href="/31">Белгородская область</a></li>
+                    		                    	                    		<li ><a href="/32">Брянская область</a></li>
+                    		                    	                    		<li ><a href="/33">Владимирская область</a></li>
+                    		                    	                    		<li ><a href="/36">Воронежская область</a></li>
+                    		                    	                    		<li ><a href="/37">Ивановская область</a></li>
+                    		                    	                    		<li ><a href="/40">Калужская область</a></li>
+                    		                    	                    		<li ><a href="/44">Костромская область</a></li>
+                    		                    	                    		<li ><a href="/46">Курская область</a></li>
+                    		                    	                    		<li ><a href="/48">Липецкая область</a></li>
+                    		                    	                    		<li ><a href="/57">Орловская область</a></li>
+                    		                    	                    		<li ><a href="/62">Рязанская область</a></li>
+                    		                    	                    		<li ><a href="/67">Смоленская область</a></li>
+                    		                    	                    		<li ><a href="/68">Тамбовская область</a></li>
+                    		                    	                    		<li ><a href="/69">Тверская область</a></li>
+                    		                    	                    		<li ><a href="/71">Тульская область</a></li>
+                    		                    	                    		<li ><a href="/76">Ярославская область</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regionjfo">Юг</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/jfo">Весь Юг</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/30">Астраханская область</a></li>
+                    		                    	                    		<li ><a href="/34">Волгоградская область</a></li>
+                    		                    	                    		<li ><a href="/23">Краснодарский край</a></li>
+                    		                    	                    		<li ><a href="/01">Республика Адыгея</a></li>
+                    		                    	                    		<li ><a href="/08">Республика Калмыкия</a></li>
+                    		                    	                    		<li ><a href="/61">Ростовская область</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regionszfo">Северо-Запад</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/szfo">Весь Северо-Запад</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/29">Архангельская область</a></li>
+                    		                    	                    		<li ><a href="/39">Калининградская область</a></li>
+                    		                    	                    		<li ><a href="/35">Вологодская область</a></li>
+                    		                    	                    		<li ><a href="/83">Ненецкий автономный округ</a></li>
+                    		                    	                    		<li ><a href="/47">Ленинградская область</a></li>
+                    		                    	                    		<li ><a href="/51">Мурманская область</a></li>
+                    		                    	                    		<li ><a href="/53">Новгородская область</a></li>
+                    		                    	                    		<li ><a href="/60">Псковская область</a></li>
+                    		                    	                    		<li ><a href="/10">Республика Карелия</a></li>
+                    		                    	                    		<li ><a href="/11">Республика Коми</a></li>
+                    		                    	                    		<li ><a href="/78">Санкт-Петербург</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regionpfo">Приволжье</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/pfo">Всё Приволжье</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/43">Кировская область</a></li>
+                    		                    	                    		<li ><a href="/52">Нижегородская область</a></li>
+                    		                    	                    		<li ><a href="/56">Оренбургская область</a></li>
+                    		                    	                    		<li ><a href="/58">Пензенская область</a></li>
+                    		                    	                    		<li ><a href="/59">Пермский край</a></li>
+                    		                    	                    		<li ><a href="/02">Республика Башкортостан</a></li>
+                    		                    	                    		<li ><a href="/12">Республика Марий Эл</a></li>
+                    		                    	                    		<li ><a href="/13">Республика Мордовия</a></li>
+                    		                    	                    		<li ><a href="/16">Республика Татарстан</a></li>
+                    		                    	                    		<li ><a href="/63">Самарская область</a></li>
+                    		                    	                    		<li ><a href="/64">Саратовская область</a></li>
+                    		                    	                    		<li ><a href="/18">Удмуртская республика</a></li>
+                    		                    	                    		<li ><a href="/73">Ульяновская область</a></li>
+                    		                    	                    		<li ><a href="/21">Чувашская республика</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regionurfo">Урал</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/urfo">Весь Урал</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/66">Свердловская область</a></li>
+                    		                    	                    		<li ><a href="/74">Челябинская область</a></li>
+                    		                    	                    		<li ><a href="/45">Курганская область</a></li>
+                    		                    	                    		<li ><a href="/72">Тюменская область</a></li>
+                    		                    	                    		<li ><a href="/86">Ханты-Мансийский автономный округ</a></li>
+                    		                    	                    		<li ><a href="/89">Ямало-Ненецкий автономный округ</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regionsfo">Сибирь</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/sfo">Вся Сибирь</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/22">Алтайский край</a></li>
+                    		                    	                    		<li ><a href="/38">Иркутская область</a></li>
+                    		                    	                    		<li ><a href="/42">Кемеровская область</a></li>
+                    		                    	                    		<li ><a href="/24">Красноярский край</a></li>
+                    		                    	                    		<li ><a href="/54">Новосибирская область</a></li>
+                    		                    	                    		<li ><a href="/55">Омская область</a></li>
+                    		                    	                    		<li ><a href="/04">Республика Алтай</a></li>
+                    		                    	                    		<li ><a href="/17">Республика Тыва</a></li>
+                    		                    	                    		<li ><a href="/19">Республика Хакасия</a></li>
+                    		                    	                    		<li ><a href="/70">Томская область</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regionskfo">Кавказ</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/skfo">Весь Кавказ</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/05">Республика Дагестан</a></li>
+                    		                    	                    		<li ><a href="/06">Республика Ингушетия</a></li>
+                    		                    	                    		<li ><a href="/07">Республика Кабардино-Балкария</a></li>
+                    		                    	                    		<li ><a href="/09">Республика Карачаево-Черкесия</a></li>
+                    		                    	                    		<li ><a href="/20">Республика Чечня</a></li>
+                    		                    	                    		<li ><a href="/15">Северная Осетия – Алания</a></li>
+                    		                    	                    		<li ><a href="/26">Ставропольский край</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regiondfo">Дальний Восток</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/dfo">Весь Дальний Восток</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/28">Амурская область</a></li>
+                    		                    	                    		<li ><a href="/79">Еврейская автономная область</a></li>
+                    		                    	                    		<li ><a href="/41">Камчатский край</a></li>
+                    		                    	                    		<li ><a href="/49">Магаданская область</a></li>
+                    		                    	                    		<li ><a href="/25">Приморский край</a></li>
+                    		                    	                    		<li ><a href="/14">Республика Саха (Якутия)</a></li>
+                    		                    	                    		<li ><a href="/65">Сахалинская область</a></li>
+                    		                    	                    		<li ><a href="/27">Хабаровский край</a></li>
+                    		                    	                    		<li ><a href="/87">Чукотский автономный округ</a></li>
+                    		                    	                    		<li ><a href="/75">Забайкальский край</a></li>
+                    		                    	                    		<li ><a href="/03">Республика Бурятия</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        	
+                    	                    	                    	<li class="parent">
+                    		<a href="#regioncrimea">Крым</a>
+                    		<ul>
+                    		
+                    		
+                    	
+                    	<!-- federal district -->
+                    	<li ><a href="/crimea">Весь Крым</a></li>
+                    		
+                    		
+                    	                    		<li ><a href="/91">Республика Крым</a></li>
+                    		                    	                    		<li ><a href="/92">Севастополь</a></li>
+                    		                    	                    		</ul>
+                    	</li>
+                    	                    	
+                    	                    	
+                                        </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+		  <div id="regioncfo" class="sub"><ul><li ><a href="/cfo">Весь Центр</a></li><li ><a href="/50">Московская область</a></li><li ><a href="/31">Белгородская область</a></li><li ><a href="/32">Брянская область</a></li><li ><a href="/33">Владимирская область</a></li><li ><a href="/36">Воронежская область</a></li><li ><a href="/37">Ивановская область</a></li><li ><a href="/40">Калужская область</a></li><li ><a href="/44">Костромская область</a></li><li ><a href="/46">Курская область</a></li><li ><a href="/48">Липецкая область</a></li><li ><a href="/57">Орловская область</a></li><li ><a href="/62">Рязанская область</a></li><li ><a href="/67">Смоленская область</a></li><li ><a href="/68">Тамбовская область</a></li><li ><a href="/69">Тверская область</a></li><li ><a href="/71">Тульская область</a></li><li ><a href="/76">Ярославская область</a></li></ul></div><div id="regionjfo" class="sub"><ul><li ><a href="/jfo">Весь Юг</a></li><li ><a href="/30">Астраханская область</a></li><li ><a href="/34">Волгоградская область</a></li><li ><a href="/23">Краснодарский край</a></li><li ><a href="/01">Республика Адыгея</a></li><li ><a href="/08">Республика Калмыкия</a></li><li ><a href="/61">Ростовская область</a></li></ul></div><div id="regionszfo" class="sub"><ul><li ><a href="/szfo">Весь Северо-Запад</a></li><li ><a href="/29">Архангельская область</a></li><li ><a href="/39">Калининградская область</a></li><li ><a href="/35">Вологодская область</a></li><li ><a href="/83">Ненецкий автономный округ</a></li><li ><a href="/47">Ленинградская область</a></li><li ><a href="/51">Мурманская область</a></li><li ><a href="/53">Новгородская область</a></li><li ><a href="/60">Псковская область</a></li><li ><a href="/10">Республика Карелия</a></li><li ><a href="/11">Республика Коми</a></li><li ><a href="/78">Санкт-Петербург</a></li></ul></div><div id="regionpfo" class="sub"><ul><li ><a href="/pfo">Всё Приволжье</a></li><li ><a href="/43">Кировская область</a></li><li ><a href="/52">Нижегородская область</a></li><li ><a href="/56">Оренбургская область</a></li><li ><a href="/58">Пензенская область</a></li><li ><a href="/59">Пермский край</a></li><li ><a href="/02">Республика Башкортостан</a></li><li ><a href="/12">Республика Марий Эл</a></li><li ><a href="/13">Республика Мордовия</a></li><li ><a href="/16">Республика Татарстан</a></li><li ><a href="/63">Самарская область</a></li><li ><a href="/64">Саратовская область</a></li><li ><a href="/18">Удмуртская республика</a></li><li ><a href="/73">Ульяновская область</a></li><li ><a href="/21">Чувашская республика</a></li></ul></div><div id="regionurfo" class="sub"><ul><li ><a href="/urfo">Весь Урал</a></li><li ><a href="/66">Свердловская область</a></li><li ><a href="/74">Челябинская область</a></li><li ><a href="/45">Курганская область</a></li><li ><a href="/72">Тюменская область</a></li><li ><a href="/86">Ханты-Мансийский автономный округ</a></li><li ><a href="/89">Ямало-Ненецкий автономный округ</a></li></ul></div><div id="regionsfo" class="sub"><ul><li ><a href="/sfo">Вся Сибирь</a></li><li ><a href="/22">Алтайский край</a></li><li ><a href="/38">Иркутская область</a></li><li ><a href="/42">Кемеровская область</a></li><li ><a href="/24">Красноярский край</a></li><li ><a href="/54">Новосибирская область</a></li><li ><a href="/55">Омская область</a></li><li ><a href="/04">Республика Алтай</a></li><li ><a href="/17">Республика Тыва</a></li><li ><a href="/19">Республика Хакасия</a></li><li ><a href="/70">Томская область</a></li></ul></div><div id="regionskfo" class="sub"><ul><li ><a href="/skfo">Весь Кавказ</a></li><li ><a href="/05">Республика Дагестан</a></li><li ><a href="/06">Республика Ингушетия</a></li><li ><a href="/07">Республика Кабардино-Балкария</a></li><li ><a href="/09">Республика Карачаево-Черкесия</a></li><li ><a href="/20">Республика Чечня</a></li><li ><a href="/15">Северная Осетия – Алания</a></li><li ><a href="/26">Ставропольский край</a></li></ul></div><div id="regiondfo" class="sub"><ul><li ><a href="/dfo">Весь Дальний Восток</a></li><li ><a href="/28">Амурская область</a></li><li ><a href="/79">Еврейская автономная область</a></li><li ><a href="/41">Камчатский край</a></li><li ><a href="/49">Магаданская область</a></li><li ><a href="/25">Приморский край</a></li><li ><a href="/14">Республика Саха (Якутия)</a></li><li ><a href="/65">Сахалинская область</a></li><li ><a href="/27">Хабаровский край</a></li><li ><a href="/87">Чукотский автономный округ</a></li><li ><a href="/75">Забайкальский край</a></li><li ><a href="/03">Республика Бурятия</a></li></ul></div><div id="regioncrimea" class="sub"><ul><li ><a href="/crimea">Весь Крым</a></li><li ><a href="/91">Республика Крым</a></li><li ><a href="/92">Севастополь</a></li></ul></div>		  
+		  		  
+		  
+        </div>
+
+            <div class="header__red">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="logo"><a href="/"><img
+                                        src="/themes/fp/images/main/logo-symbol.png?2"><img
+                                        src="/themes/fp/images/main/logo-symbol-red.png?2"><img
+                                        src="/themes/fp/images/main/logo-text.png?2"></a></div>
+
+
+                            
+
+				
+                <div class="dropdown weather-dropdown"><a id="weather-dropdown-label" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="weather-dropdown__label"><i class="weather-snow_big code-600">sun-rain-cloud</i><span class="city">Москва</span><span class="degrees">-6</span></a>
+                  <div aria-labelledby="weather-dropdown-label" class="dropdown-menu weather-dropdown__menu">
+                    <p>Прогноз на 7 дней</p>
+                    <ul class="weather-dropdown__menu-list">
+                                                                                        <li>
+                        <time>20.02 пн</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="небольшой снег" class="weather-snow_big code-600">sun-rain-cloud</i></div>
+                        <div class="degrees">-6</div>
+                      </li>
+                                                                  <li>
+                        <time>21.02 вт</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="пасмурно" class="weather-cloud-warning_big code-804">sun-rain-cloud</i></div>
+                        <div class="degrees">-13</div>
+                      </li>
+                                                                  <li>
+                        <time>22.02 ср</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="пасмурно" class="weather-cloud-warning_big code-804">sun-rain-cloud</i></div>
+                        <div class="degrees">-14</div>
+                      </li>
+                                                                  <li>
+                        <time>23.02 чт</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="облачно с прояснениями" class="weather-cloud_big code-803">sun-rain-cloud</i></div>
+                        <div class="degrees">-12</div>
+                      </li>
+                                                                  <li>
+                        <time>24.02 пт</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="небольшой снег" class="weather-snow_big code-600">sun-rain-cloud</i></div>
+                        <div class="degrees">-5</div>
+                      </li>
+                                                                  <li>
+                        <time>25.02 сб</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="снег" class="weather-snow_big code-601">sun-rain-cloud</i></div>
+                        <div class="degrees">+0</div>
+                      </li>
+                                                                  <li>
+                        <time>26.02 вс</time>
+                        <div class="icon"><i data-toggle="tooltip" data-placement="bottom" title="снег" class="weather-snow_big code-601">sun-rain-cloud</i></div>
+                        <div class="degrees">+0</div>
+                      </li>
+                      
+                    </ul>
+                    <div class="schedule">
+                      <div class="schedule-center">
+                        <canvas id="canvas" height="50" width="485"></canvas>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                
+       
+                            <div class="settings">
+                                <div class="settings-enter">
+                                    <div class="settings-item">
+                                        <ul class="settings-list horizontal clear-list">
+                                            <li id="letter-as-link" class="email">
+                                                <a href="/newsletter"><i class="ico-email-settings">email</i></a>
+                                            </li>
+                                            <li id="translate" class="translate" data-google-lang="en">En</li>
+                                            <li id="search" class="search"><a href="#"><i
+                                                        class="ico-search-settings">search</i></a></li>
+                                            <br>
+                                            <li class="social social-left">
+                                                <a target="_blank" rel="nofollow" href="http://vk.com/federalpress">
+                                                    <i class="ico-vk-settings">vk</i>
+                                                </a>
+                                            </li>
+                                            <li class="social">
+                                                <a target="_blank" rel="nofollow"
+                                                    href="http://ok.ru/group/52235172905094">
+                                                    <i class="ico-od-settings">od</i>
+                                                </a>
+                                            </li>
+                                            <li class="social">
+                                                <a target="_blank" href="https://www.youtube.com/user/fedpresstv">
+                                                    <i class="ico-rss-settings">youtube</i>
+                                                </a>
+                                            </li>
+
+                                          
+
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="settings-cloud">
+                                    <div class="settings-item">
+                                        <div class="caption">Подпишитесь <span> на нас в соцсетях:</span></div>
+                                        <!-- <noindex>
+                                            <ul class="settings-list horizontal clear-list small"> -->
+                                        <!-- <li class="social">
+                                                    <a target="_blank" rel="nofollow" href="http://vk.com/federalpress">
+                                                        <i class="ico-vk-settings">vk</i>
+                                                    </a>
+                                                </li>
+                                                <li class="social">
+                                                    <a target="_blank" rel="nofollow"
+                                                        href="http://ok.ru/group/52235172905094">
+                                                        <i class="ico-od-settings">od</i>
+                                                    </a>
+                                                </li>
+                                                <li class="social">
+                                                    <a target="_blank" rel="nofollow"
+                                                        href="https://twitter.com/FederalPress">
+                                                        <i class="ico-tw-settings">tw</i>
+                                                    </a>
+                                                </li>
+                                                <li class="social">
+                                                    <a target="_blank" href="https://www.youtube.com/user/fedpresstv">
+                                                        <i class="ico-rss-settings">youtube</i>
+                                                    </a>
+                                                </li> -->
+                                        <!-- </ul>
+                                        </noindex> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="settings-more" class="settings-item settings-more">
+                                <ul class="settings-list horizontal">
+                                    <li class="social share-btn">
+                                        <a id="share-btn" href="#">
+                                            <i class="ico-h-more-settings">more</i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                                                        <div class="vault">
+                                <div class="vault-row">
+                                    <i class="ico-dollar-white"></i><strong>74.04</strong><i
+                                        class="ico-arrow-empty-bottom"></i>
+                                    <span>-0.72</span>                                </div>
+                                <div class="vault-row"><i class="ico-euro-white"></i><strong>79.13</strong><i
+                                        class="ico-arrow-empty-bottom"> </i>
+                                    <span>-0.48</span>                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+        <div class="header-nav">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 col-xs-6 col">
+              <!-- <a href="#" class="categories-nav__link">новости</a> --> 
+              <a class="categories-nav__link" href="/news/russia">новости</a>  
+                <!-- site sections -->
+                                <nav class="categories-nav site-categories with-sub dropdown-scroll-nav"><a href="#" class="categories-placeholder dropdown-scroll-nav__click">Рубрики</a>
+                  <div class="dropdown-scroll-nav__box">                  
+                    <ul class="categories-nav__list dropdown-scroll-nav__list">
+                                        	<li ><a href="/russia/policy">Политика</a>                    	    
+                    	</li>
+                                        	<li class="parent"><a href="#section-business">Бизнес</a>                    	                    	<ul>
+                    	                    		<li ><a href="/russia/economy">Экономика</a>                        	</li>
+                    	                    		<li ><a href="/russia/energetics">Энергетика</a>                        	</li>
+                    	                    		<li ><a href="/russia/realty">Недвижимость</a>                        	</li>
+                    	                    		<li ><a href="/russia/finance">Финансы</a>                        	</li>
+                    	                    	</ul>
+                    	    
+                    	</li>
+                                        	<li ><a href="/russia/society">Общество</a>                    	    
+                    	</li>
+                                        	<li ><a href="/russia/incidents">Происшествия</a>                    	    
+                    	</li>
+                                        	<li ><a href="/russia/nprojects">Нацпроекты</a>                    	    
+                    	</li>
+                                        	<li ><a href="/russia/ecology">Экология</a>                    	    
+                    	</li>
+                    
+                                            
+                                                <li class="parent"><a href="#experts">Эксперты</a>
+                            <ul>
+                                                                    <li>
+                                                                                    <a href="/library">Энциклопедия</a>                                                                            </li>
+                                                                    <li>
+                                                                                    <a href="/experts">Эксперты</a>                                                                            </li>
+                                                                    <li>
+                                                                                    <a href="/expert-opinions/russia">Экспертные мнения</a>                                                                            </li>
+                                                                    <li>
+                                                                                    <a href="/personal-views/russia">Личный взгляд</a>                                                                            </li>
+                                                                    <li>
+                                                                                    <a href="/interviews/russia">Интервью</a>                                                                            </li>
+                                                            </ul>
+                        </li>
+                        
+                        
+                                                    <li><a href="/projects/fp_multimedia">Спецпроекты</a></li>
+                        
+                                                                </ul>
+
+                  </div>
+                </nav>
+                              </div>
+            </div>
+          </div>
+          <div class="categories-nav_taber">
+            <div class="container">
+              <div class="row">
+                <div class="col-xs-12">
+                  
+                  <!-- site sections -->
+                                                                        <div id="section-business" class="categories-nav_tab">
+                    <ul class="clear-list">
+                                            
+                      <li ><a href="/russia/economy">Экономика</a></li>
+					                        
+                      <li ><a href="/russia/energetics">Энергетика</a></li>
+					                        
+                      <li ><a href="/russia/realty">Недвижимость</a></li>
+					                        
+                      <li ><a href="/russia/finance">Финансы</a></li>
+					  					  
+                    </ul>
+                  </div>                  
+                                                                                                            
+                  <!-- exprerts and apps -->
+                                                                        
+                  <div id="experts" class="categories-nav_tab">
+                    <ul class="clear-list">
+                                          <li>
+                                              <a href="/library">Энциклопедия</a>                                            </li>
+                                          <li>
+                                              <a href="/experts">Эксперты</a>                                            </li>
+                                          <li>
+                                              <a href="/expert-opinions/russia">Экспертные мнения</a>                                            </li>
+                                          <li>
+                                              <a href="/personal-views/russia">Личный взгляд</a>                                            </li>
+                                          <li>
+                                              <a href="/interviews/russia">Интервью</a>                                            </li>
+                                        </ul>
+                  </div>
+                                                      
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+    </header>
+
+    
+    <div id="hot-themes" class="hot-themes">
+            </div>
+
+    
+    
+<div class="main">
+    <div class="container">
+        <div class="row main-row">
+                        <div class="col-md-8 col-sm-12 big-col hidden-md hidden-lg">
+            <div class="hot-today">
+                <div class="container-fluid">
+                    <div class="row block-header">
+                        <div class="col-sm-6">
+                            <div class="block-title big">главное сегодня</div>
+                        </div>
+                        <div class="col-sm-6">
+                            <time>20 февраля, понедельник</time>
+                        </div>
+                    </div>
+                    <div class="row box">
+                        <div class="col-sm-6 col-xs-12 col">
+                                                            <!-- was 300x180  -->
+                                <a href="/news/77/policy/3204603" class="link"><img
+                                            src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2936/eab93b793047d21792b6cf214e03d881.jpg" alt=""
+                                            class="responsive"></a>
+                                                        <div class="news-meta">
+                                <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                                    <div class="item time">Сегодня, 17:12</div>
+                                    <a href="/news/77/policy/3204603#comments"
+                                       class="item comments">0</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-xs-12 col"><a class="type" href="/russia/policy">Политика</a>                            <h2><a href="/news/77/policy/3204603">Военный эксперт объяснил, почему украинцы сдадут Бахмут</a></h2>
+                        </div>
+                        <div class="corner">corner</div>
+                    </div>
+                </div>
+            </div>
+            <!-- END Hot-today-->
+        </div>
+
+    
+            <div class="col-md-8 col-sm-6 col-xs-12 small-col">
+                    
+        <!-- END hide md lg-->
+        <div class="hot-today visible-lg visible-md">
+            <div class="container-fluid">
+                <div class="row block-header">
+                    <div class="col-sm-6">
+                        <div class="block-title big">главное сегодня</div>
+                    </div>
+                    <div class="col-sm-6">
+                        <time>20 февраля, понедельник</time>
+                    </div>
+                </div>
+                <div class="row box">
+                    <div class="col-sm-6 col-xs-12 col">
+                                                    <a href="/news/77/policy/3204603" class="link"><img
+                                        src="https://img2.fedpress.ru/thumbs/302x302/2023/02/2936/eab93b793047d21792b6cf214e03d881.jpg" alt="" class="responsive"></a>
+                                                <div class="news-meta">
+                            <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                                <div class="item time">Сегодня, 17:12</div>
+                                <a href="/news/77/policy/3204603#comments"
+                                   class="item comments">0</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xs-12 col"><a class="type" href="/russia/policy">Политика</a>                        <h2><a href="/news/77/policy/3204603">Военный эксперт объяснил, почему украинцы сдадут Бахмут</a></h2>
+                    </div>
+                    <div class="corner">corner</div>
+                </div>
+            </div>
+        </div>
+        <!-- END Hot-today show lg md-->
+    
+                    
+            <div class="banner_bb">
+            <div class="inner">
+                <div class="caption">Реклама</div>
+                <div class="banner banner_place_bb01"></div>
+            </div>
+        </div>
+    
+                <div class="news-list">
+                    <div class="container-fluid">
+                                    <div class="row block-header">
+            <div class="col-xs-12">
+                <div class="block-title medium">Темы дня</div>
+            </div>
+        </div>
+    
+    <div class="row">
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2626/21dd9e2cf18f74a94946f2d80cac0dd2.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/society">Общество</a>                            <div class="text">
+                                <h2><a href="/expert-opinion/3204549">Политолог о новом скандале с мигрантами в Югре: «Не понимают, что ситуация изменилась»</a></h2>
+                                <p><a href="/expert-opinion/3204549">Глава СК России Александр Бастрыкин накануне поручил доложить югорскому следственному управлению о результатах проверки очередного инцидента с мигрантами. Иностранцы приставали к 14-летним девочкам в одном из ТЦ города Нижневартовска. Почему сейчас все эксцессы с мигрантами в регионах становятся такими громкими и к ним сразу подключаются федералы, насколько это тревожный звонок, рассказал «ФедералПресс» политолог и гендиректор Института региональных проблем Дмитрий Журавлев:</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/expert-opinion/3204549" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/86">Ханты-Мансийский автономный округ</a>                            <div class="item time">Сегодня, 18:00</div>
+                            <a href="/expert-opinion/3204549#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                                            <a href="/expert-opinion/3204549" class="clip">ЭКСПЕРТНОЕ МНЕНИЕ</a>
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2913/a8b4e4a7d2d693ecedf658f066f16bd7.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/article/3204551">За кем будет охотиться «Вепрь»: Роскомнадзор запускает новую информационную систему</a></h2>
+                                <p><a href="/article/3204551">Подведомственная Роскомнадзору организация «Главный радиочастотный центр», отвечающая за анализ российского интернет-пространства, готовится к запуску информационной системы «Вепрь». Запуск глобальной системы анализа интернета планируется во второй половине 2023 года. Сможет ли «Вепрь» победить фейки и запрещенный контент – разбирается «ФедералПресс».</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204551" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 17:30</div>
+                            <a href="/article/3204551#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12 col-hidden-xs col-hidden-sm">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2771/8b8a666be762563d7d35a66ffdd590a8.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/news/77/policy/3204589">Медведев подтвердил, что Байден перед визитом в Киев получил гарантии сохранности</a></h2>
+                                <p><a href="/news/77/policy/3204589">МОСКВА, 20 февраля, ФедералПресс. Заместитель председателя Совета безопасности РФ Дмитрий Медведев заявил, что перед визитом на Украину президент США Джо Байден «получил гарантии сохранности».</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/news/77/policy/3204589" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 16:51</div>
+                            <a href="/news/77/policy/3204589#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12 col-hidden-xs col-hidden-sm">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2864/3e14c3a96467a405c1660b642d96b881.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/news/77/policy/3204547">Политолог прояснил цель визита Байдена на Украину: «Денег много выделено, покажи что-нибудь»</a></h2>
+                                <p><a href="/news/77/policy/3204547">МОСКВА, 20 февраля, ФедералПресс. Президент США Джо Байден прибыл в Киев на встречу с коллегой Владимиром Зеленским. В Белом доме сообщили, что его цель – доказать приверженность суверенитету Украины, однако политолог, эксперт по внешней и внутренней политике США Дмитрий Дробницкий считает, что причина в другом. Об этом он рассказал в комментарии для «ФедералПресс».</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/news/77/policy/3204547" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 16:03</div>
+                            <a href="/news/77/policy/3204547#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+            </div>
+                    </div>
+                </div>
+            </div>
+
+            <aside class="sidebar col-md-4 col-sm-6 col-xs-12 pull-right">
+                <div class="sidebar-news p14">
+                    
+
+                          <div class="container-fluid">
+                            <div class="row block-header">
+                              <div class="col-xs-12">
+                                <div class="block-title medium">Новости</div>
+                                <div class="block-title small"></div>
+                              </div>
+                            </div>
+                            <div class="row">
+                            
+                              <div class="col-xs-12">
+                                <div  class="sidebar-news__box">
+
+                                   
+
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/77/society/3204649" class="link">
+                                      <div class="top">
+                                        <div class="date ">18:39</div>
+                                      </div>
+                                                                            <!-- was 80x60 -->
+                                      <img loading="lazy" src="https://img2.fedpress.ru/thumbs/80x60/2023/02/2523/77d2d43c22943255e87d4c8666f38f8a.jpg" alt="" class="pull-right">
+                                                                            <p >В Госдуме предложили запретить на телевидении программы на иностранных языках</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/society">Общество</a>                                  <a class="location" href="/77">Москва</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/23/society/3204644" class="link">
+                                      <div class="top">
+                                        <div class="date ">18:35</div>
+                                      </div>
+                                                                            <p >В Горячем Ключе из-за подъема уровня воды готовят пункты эвакуации</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/society">Общество</a>                                  <a class="location" href="/23">Краснодарский край</a>
+                                                                    
+                                  </div>
+
+                                                                                                                                      
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/77/policy/3204639" class="link">
+                                      <div class="top">
+                                        <div class="date ">18:30</div>
+                                      </div>
+                                                                            <p >Во ВЦИОМ рассказали, как изменилось мнение о спецоперации спустя год</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/policy">Политика</a>                                  <a class="location" href="/77">Москва</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/53/economy/3204632" class="link">
+                                      <div class="top">
+                                        <div class="date ">18:22</div>
+                                      </div>
+                                                                            <!-- was 80x60 -->
+                                      <img loading="lazy" src="https://img2.fedpress.ru/thumbs/80x60/2023/02/2720/69f01e0901fecd9338fdf1faf85a41b1.jpg" alt="" class="pull-right">
+                                                                            <p >«Новгородским врачам» пообещали выплаты в размере  500 тысяч рублей</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/economy">Экономика</a>                                  <a class="location" href="/53">Новгородская область</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/11/society/3204631" class="link">
+                                      <div class="top">
+                                        <div class="date ">18:08</div>
+                                      </div>
+                                                                            <p >В Коми планируют ввести новую выплату для родителей детей-инвалидов</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/society">Общество</a>                                  <a class="location" href="/11">Республика Коми</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/northern-america/society/3204621" class="link">
+                                      <div class="top">
+                                        <div class="date ">17:55</div>
+                                      </div>
+                                                                            <p >Молодой человек уснул в контактных линзах и лишился зрения</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/society">Общество</a>                                  <a class="location" href="/northern-america">Северная Америка</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/america/policy/3204619" class="link">
+                                      <div class="top">
+                                        <div class="date ">17:46</div>
+                                      </div>
+                                                                            <!-- was 80x60 -->
+                                      <img loading="lazy" src="https://img2.fedpress.ru/thumbs/80x60/2023/02/2651/ee8d543133f6b202e9436e0eb96e2ae0.jpg" alt="" class="pull-right">
+                                                                            <p >В США заявили, что Зеленский призывает американскую армию к мировой войне</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/policy">Политика</a>                                  <a class="location" href="/america">Америка</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/53/economy/3204614" class="link">
+                                      <div class="top">
+                                        <div class="date ">17:44</div>
+                                      </div>
+                                                                            <p >Участок трассы М-10 рядом с Великим Новгородом ждет капитальный ремонт</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/economy">Экономика</a>                                  <a class="location" href="/53">Новгородская область</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/77/policy/3204623" class="link">
+                                      <div class="top">
+                                        <div class="date ">17:34</div>
+                                      </div>
+                                                                            <p >Пранкеры Вован и Лексус под видом Порошенко пообщались с экс-канцлером Германии Ангелой Меркель</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/policy">Политика</a>                                  <a class="location" href="/77">Москва</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                                                    
+                                  <div class="sidebar-news__article">
+                                  <a href="/news/39/economy/3204613" class="link">
+                                      <div class="top">
+                                        <div class="date ">17:34</div>
+                                      </div>
+                                                                            <!-- was 80x60 -->
+                                      <img loading="lazy" src="https://img2.fedpress.ru/thumbs/80x60/2023/02/2771/b74cdb8d9e9020c541f5345f3f6670be.jpg" alt="" class="pull-right">
+                                                                            <p >Литва уменьшила квоты для перевозки грузов в Калининградскую область</p>
+                                      <div class="corner">corner</div>
+                                  </a>
+                                  <a class="type" href="/russia/economy">Экономика</a>                                  <a class="location" href="/39">Калининградская область</a>
+                                                                    
+                                  </div>
+
+                                                                  
+                                  
+
+                                         <div id="add_right_news"></div>
+
+                                  <div class="sidebar-news__article visible-xs"><a id="right_news" class="more-info"><span>показать еще [...]</span></a></div>
+                                  <div class="sidebar-news__btn">
+                                  	<a class="btn" href="/news/russia">все новости</a>                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          
+ 
+
+                       </div>
+            </aside>
+
+            <div class="col-md-8 col-sm-6 col-xs-12 small-col">
+
+                <div class="news-list">
+                    <div class="container-fluid">
+                                    <div class="row block-header">
+            <div class="col-xs-12">
+                <div class="block-title medium">Аналитика</div>
+            </div>
+        </div>
+    
+    <div class="row">
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2913/a8b4e4a7d2d693ecedf658f066f16bd7.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/article/3204551">За кем будет охотиться «Вепрь»: Роскомнадзор запускает новую информационную систему</a></h2>
+                                <p><a href="/article/3204551">Подведомственная Роскомнадзору организация «Главный радиочастотный центр», отвечающая за анализ российского интернет-пространства, готовится к запуску информационной системы «Вепрь». Запуск глобальной системы анализа интернета планируется во второй половине 2023 года. Сможет ли «Вепрь» победить фейки и запрещенный контент – разбирается «ФедералПресс».</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204551" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 17:30</div>
+                            <a href="/article/3204551#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2734/5cd885452518119f6c5f39b13875f1a9.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/article/3204481">Чего ждут свердловские политики от послания президента</a></h2>
+                                <p><a href="/article/3204481">21 февраля президент России Владимир Путин обратится с традиционным посланием к Федеральному Собранию РФ. Чего ждут от выступления главы государства свердловские политики – в материале «ФедералПресс».</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204481" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/66">Свердловская область</a>                            <div class="item time">Сегодня, 16:00</div>
+                            <a href="/article/3204481#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2897/9e35aa34f3379be04b81beb377982dc2.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/article/3204554">Соцсети главных парламентариев: почему спикеры заксобраний СЗФО непопулярны у подписчиков</a></h2>
+                                <p><a href="/article/3204554">Спикер законодательного собрания с точки зрения закона считается вторым лицом в управленческой системе региона. Он обязан быть вовлечен в социальные, политические, управленческие процессы, выстраивать коммуникацию как с исполнительной властью, так и с избирателями. В этом «главным парламентариям» помогают социальные сети. В новой серии спецпроекта «ФедералПресс» узнал, насколько эффективно руководители заксобраний на Северо-Западе РФ пользуются этим инструментом.</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204554" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/78">Санкт-Петербург</a>                            <div class="item time">Сегодня, 15:57</div>
+                            <a href="/article/3204554#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2913/041168581f3da1e073b61fb632b6159e.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/article/3204563">Кто из глав новых регионов наиболее активно решает вопросы СВО: «Человек держит удар»</a></h2>
+                                <p><a href="/article/3204563">Губернаторы продолжают активную работу по теме спецоперации. На прошлой неделе они посетили зону СВО, где передавали гуманитарную помощь, заявляли о планах создать собственное ЧВК и извинялись перед военными. «ФедералПресс» подготовил анализ деятельности губернаторов, а также разбирался вместе с политологами, кто из глав новых регионов наиболее активен, и почему.</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204563" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 15:43</div>
+                            <a href="/article/3204563#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/2764/37091ea93a5a5e64f0b0869e5933589a.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/policy">Политика</a>                            <div class="text">
+                                <h2><a href="/article/3204418">Пиар на крови: как визит Байдена в Киев может повлиять на ход СВО</a></h2>
+                                <p><a href="/article/3204418">С неожиданным визитом прибыл в украинскую столицу американский президент Джо Байден. Изначально он должен был посетить Варшаву, но изменил свои планы и приехал в Киев. Что это значит и какие цели у визита американского лидера? Читайте в материале «ФедералПресс».</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204418" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 14:13</div>
+                            <a href="/article/3204418#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+                                <div class="col-md-6 col-sm-12">
+                <div class="news-box">
+                                            <div class="photo">
+                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/450x270/2023/02/1980/710f996a632519c4c47a2d30071d3d4d.jpg" alt="" class="responsive">
+
+                                                    </div>
+                    
+                    <div class="info">
+                        <div class="cont"><a class="type" href="/russia/society">Общество</a>                            <div class="text">
+                                <h2><a href="/article/3204381">Сколько стоит приготовить блины на Масленицу: собираем корзину с продуктами</a></h2>
+                                <p><a href="/article/3204381">С 20 по 26 февраля в России празднуют Масленицу. Главное угощение масленичной недели – румяные блинчики. «ФедералПресс» подсчитал, во сколько в среднем обойдутся россиянам классические блины с добавками и без.</a></p>
+                            </div>
+                            <div class="news-box__btn"><a href="/article/3204381" class="btn red">читать далее</a></div>
+                        </div>
+                    </div>
+
+                    <div class="news-meta">
+                        <div class="news-meta__box"><a class="item location" href="/77">Москва</a>                            <div class="item time">Сегодня, 14:05</div>
+                            <a href="/article/3204381#comments" class="item comments">0</a>
+                        </div>
+                    </div>
+
+                    
+                    <div class="corner"></div>
+                </div>
+            </div>
+            </div>
+
+<div id="add_more_analitics_articles"></div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <a id="more_analitics_articles" class="more-info"><span>показать еще [...]</span></a>
+    </div>
+</div>
+                    </div>
+                </div>
+
+                            <div class="expert-opinion">
+              <div class="container-fluid">
+                <div class="row block-header">
+                  <div class="col-xs-12">
+                    <div class="block-title medium">Экспертные мнения</div>
+                  </div>
+                </div>
+                <div class="row">
+                
+                                                <div class="col-md-6 col">
+                    <!-- <div class="expert-opinion__box visited"> -->
+                    <div class="expert-opinion__box expert-opinion__only-title">                    	
+                    		                    		<a href="/person/1639540" class="link">
+                    			<img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2016/06/61/db217ec9019e14254cb045f5e3b4b266.jpg" alt="Журавлев Дмитрий Анатольевич">
+                    		</a>
+                        	                        	<a href="/expert-opinion/3204549" class="link"><p>Политолог о новом скандале с мигрантами в Югре: «Не понимают, что ситуация изменилась»</p></a>
+                      	<div class="info">
+                        	<div class="item">
+                        	                        	<a href="/person/1639540" class="name">
+                        		<span class="caption">Дмитрий</span>
+                        		<span class="caption">Журавлев</span>
+                        	</a>
+                        	                        	</div>
+                        	<div class="item"><a class="type" href="/86/society">Общество</a></div>
+                        	<div class="item">
+                            <time><i class="ico-time-dark">time</i>Сегодня, 18:00</time>
+                        	</div>
+                      	</div>
+                    </div>
+                  </div>
+                                                                <div class="col-md-6 col">
+                    <!-- <div class="expert-opinion__box visited"> -->
+                    <div class="expert-opinion__box expert-opinion__only-title">                    	
+                    		                    		<a href="/person/1694023" class="link">
+                    			<img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2016/11/66/b043ec2dcecb0a895d22ede29ea02bc1.jpg" alt="Данилин Павел Викторович">
+                    		</a>
+                        	                        	<a href="/expert-opinion/3204383" class="link"><p>Политолог о визите президента США в Киев: «Это может привести к эскалации»</p></a>
+                      	<div class="info">
+                        	<div class="item">
+                        	                        	<a href="/person/1694023" class="name">
+                        		<span class="caption">Павел</span>
+                        		<span class="caption">Данилин</span>
+                        	</a>
+                        	                        	</div>
+                        	<div class="item"><a class="type" href="/77/policy">Политика</a></div>
+                        	<div class="item">
+                            <time><i class="ico-time-dark">time</i>Сегодня, 13:35</time>
+                        	</div>
+                      	</div>
+                    </div>
+                  </div>
+                                
+                       </div>
+                
+                                
+              </div>
+            </div>
+
+ 
+       
+                            <div class="expert-opinion">
+              <div class="container-fluid">
+                <div class="row block-header">
+                  <div class="col-xs-12">
+                    <div class="block-title medium">Личный взгляд</div>
+                  </div>
+                </div>
+                <div class="row">
+                
+                                                <div class="col-md-6 col">
+                    <!-- <div class="expert-opinion__box visited"> -->
+                    <div class="expert-opinion__box expert-opinion__only-title">                    	
+                    		                    		<a href="/person/3134691" class="link">
+                    			<img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2022/11/2771/943425b2efcbdfd6267982d67c2d652d.jpeg" alt="Федосова Виктория Андреевна">
+                    		</a>
+                        	                        	<a href="/personal-view/3204627" class="link"><p>Дивный новый мир: в чем опасность ChatGPT и когда искусственный интеллект встроят в мозг</p></a>
+                      	<div class="info">
+                        	<div class="item">
+                        	                        	<a href="/person/3134691" class="name">
+                        		<span class="caption">Виктория</span>
+                        		<span class="caption">Федосова</span>
+                        	</a>
+                        	                        	</div>
+                        	<div class="item"><a class="type" href="/77/society">Общество</a></div>
+                        	<div class="item">
+                            <time><i class="ico-time-dark">time</i>Сегодня, 18:30</time>
+                        	</div>
+                      	</div>
+                    </div>
+                  </div>
+                                                                <div class="col-md-6 col">
+                    <!-- <div class="expert-opinion__box visited"> -->
+                    <div class="expert-opinion__box expert-opinion__only-title">                    	
+                    		                    		<a href="/person/2089974" class="link">
+                    			<img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2018/07/1779/e6ee0a9bb631036de332057ad4420eda.jpg" alt="Гусий Андрей Игоревич">
+                    		</a>
+                        	                        	<a href="/personal-view/3204399" class="link"><p>Политобозреватель о желании Кадырова создать ЧВК: «Вернемся к князьям и дружинам»</p></a>
+                      	<div class="info">
+                        	<div class="item">
+                        	                        	<a href="/person/2089974" class="name">
+                        		<span class="caption">Андрей</span>
+                        		<span class="caption">Гусий</span>
+                        	</a>
+                        	                        	</div>
+                        	<div class="item"><a class="type" href="/20/policy">Политика</a></div>
+                        	<div class="item">
+                            <time><i class="ico-time-dark">time</i>Сегодня, 13:47</time>
+                        	</div>
+                      	</div>
+                    </div>
+                  </div>
+                                
+                       </div>
+                
+                                
+              </div>
+            </div>
+
+ 
+       
+                
+                <div class="hidden-sm">
+                           
+                    
+
+              <div class="encyclopedia-news">
+                <div class="container-fluid">
+                  <div class="row block-header">
+                    <div class="col-xs-12">
+                      <div class="block-title medium">Энциклопедия</div>
+                    </div>
+                  </div>
+                  <div class="row">
+                                                      
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box preson"><a href="/person/2950019">
+                          <div class="top">
+                                                    <img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2022/03/25/c6e48252037afd84c409c8298c2f44fc.jpg" alt="Жовтан Наталия Вячеславовна">
+                                                                                                              <div class="name">
+                              <div class="item">Наталия</div>
+                              <div class="item">Вячеславовна</div>
+                              <div class="item">Жовтан</div>
+                            </div>
+                                                      </div>
+                          <p>Врач-косметолог, дерматолог, детский дерматолог, трихолог.
+Высшая категория, стаж 22 года.</p></a></div>
+                    </div>
+                  
+                                                                        
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box preson"><a href="/person/2949080">
+                          <div class="top">
+                                                    <img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2022/03/66/476927cfa2c8ca750fe9b520c86a9119.jpeg" alt="Неволина Елена Викторовна">
+                                                                                                              <div class="name">
+                              <div class="item">Елена</div>
+                              <div class="item">Викторовна</div>
+                              <div class="item">Неволина</div>
+                            </div>
+                                                      </div>
+                          <p>Кандидат фармакологических наук, эксперт Секции по медицине экспертного совета при правительстве РФ.</p></a></div>
+                    </div>
+                  
+                                                                        
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box company"><a href="/company/2164521">
+                          <div class="top">
+                                                      <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2018/12/1980/633e589755d233d3f060ab7219337318.png" alt="СВЕЗА"></div>
+                                                      <div class="name">
+                              <!-- <div class="item">ОАО</div> -->
+                              <div class="item">СВЕЗА</div>
+                            </div>
+                          </div>
+                          <p>Группа «СВЕЗА» – российская компания, являющаяся мировым лидером на рынке березовой фанеры.</p></a></div>
+                    </div>
+                  
+                                                                        
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box company"><a href="/company/1630183">
+                          <div class="top">
+                                                      <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2016/05/61/cf928ff727248d96a81b6f5676fc0fa4.jpg" alt="Пермдорстрой"></div>
+                                                      <div class="name">
+                              <!-- <div class="item">ОАО</div> -->
+                              <div class="item">Пермдорстрой</div>
+                            </div>
+                          </div>
+                          <p>Открытое акционерное общество «Пермдорстрой» образовано на базе треста «Пермдорстрой2, созданного в 1969 году. Ранее трест входил в состав Министерства транспортного строительства СССР, которое позже преобразовалось в Корпорацию «Трансстрой».</p></a></div>
+                    </div>
+                  
+                                                                        
+                  <div class="col-sm-6 col-xs-12 hidden-xs">
+                      <div class="encyclopedia-news__box region"><a href="/region/1631548">
+                          <div class="top">
+                                                        <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2016/05/28/9ff542e76be3dc844669d42d21877293.png" alt="Омская область"></div>
+                                                        <div class="name">
+                              <div class="item">Омская область</div>
+                            </div>
+                          </div>
+                          <p>Входит в состав Сибирского федерального округа</p></a></div>
+                    </div>
+                  
+                                                                        
+                  <div class="col-sm-6 col-xs-12 hidden-xs">
+                      <div class="encyclopedia-news__box region"><a href="/region/1630853">
+                          <div class="top">
+                                                        <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2016/05/28/41123703f3afd2efcf79e0c780506e14.png" alt="Республика Ингушетия"></div>
+                                                        <div class="name">
+                              <div class="item">Республика Ингушетия</div>
+                            </div>
+                          </div>
+                          <p>Субъект Российской Федерации. Входит в состав Северо-Кавказского федерального округа.</p></a></div>
+                    </div>
+                  
+                                    
+                  </div>
+                </div>
+              </div>
+
+
+
+       
+                                           </div>
+            </div>
+            <aside class="sidebar col-md-4 col-sm-6 col-xs-12 pull-right">
+                <div class="sidebar-news plot-news hidden-xs">
+                    
+
+              <div class="container-fluid">
+                <div class="row block-header">
+                  <div class="col-xs-12">
+                    <div class="block-title medium">Актуальные сюжеты</div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                                        <!--  <div class="sidebar-news__article no-corner visited"> -->
+                    <div class="sidebar-news__article no-corner">
+                      <div class="photo">
+                      	                      	<a href="/story/2950145" class="photo-link">
+                      		<img loading="lazy" src="https://img2.fedpress.ru/thumbs/267x133/2022/03/2691/ce104a090cc02b2be0af0c5e7d0741ff.jpg" alt="Санкции против России" class="responsive">
+                      	</a>
+                      	                      	<a href="/story/2950145" class="caption">Санкции против России</a>
+                      </div>
+                                            <a href="/news/39/economy/3204613" class="link">                      	
+                        <p>Литва уменьшила квоты для перевозки грузов в Калининградскую область</p>
+                      </a>
+                                          </div>
+                                        <!--  <div class="sidebar-news__article no-corner visited"> -->
+                    <div class="sidebar-news__article no-corner">
+                      <div class="photo">
+                      	                      	<a href="/story/3201431" class="photo-link">
+                      		<img loading="lazy" src="https://img2.fedpress.ru/thumbs/267x133/2023/02/2691/323c186b231b2fc4dbf6fce83168a0cb.jpg" alt="Эксклюзивы «ФедералПресс»" class="responsive">
+                      	</a>
+                      	                      	<a href="/story/3201431" class="caption">Эксклюзивы «ФедералПресс»</a>
+                      </div>
+                                            <a href="/news/77/policy/3204547" class="link">                      	
+                        <p>Политолог прояснил цель визита Байдена на Украину: «Денег много выделено, покажи что-нибудь»</p>
+                      </a>
+                                          </div>
+                                        <!--  <div class="sidebar-news__article no-corner visited"> -->
+                    <div class="sidebar-news__article no-corner">
+                      <div class="photo">
+                      	                      	<a href="/story/2944140" class="photo-link">
+                      		<img loading="lazy" src="https://img2.fedpress.ru/thumbs/267x133/2022/02/2691/a8f2eaf9bf9d4d2db1562f68a0d5b8b1.jpg" alt="Спецоперация" class="responsive">
+                      	</a>
+                      	                      	<a href="/story/2944140" class="caption">Спецоперация</a>
+                      </div>
+                                            <a href="/news/america/policy/3204619" class="link">                      	
+                        <p>В США заявили, что Зеленский призывает американскую армию к мировой войне</p>
+                      </a>
+                                          </div>
+                    
+                    <div class="sidebar-news__btn">
+                    	<a class="btn" href="/storys/russia">все актуальные сюжеты</a>                    </div>
+                  </div>
+                </div>
+              </div>
+            
+                       </div>
+
+                    
+            <div class="advertising-banner hidden-xs">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="advertising-banner__box">
+                            <div class="caption">Реклама</div>
+                            <div class="banner banner_place_rb02">
+                            </div>
+
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+                 <div class="debriefing hidden-xs poll-right-3204069"></div>
+
+       
+                <div class="commentable-news">
+                                    </div>
+            </aside>
+            <div class="col-xs-12 visible-sm visible-xs hidden-xs bottom-col">
+
+                       
+                
+
+            <div class="encyclopedia-news">
+              <div class="container-fluid">
+                <div class="row block-header">
+                  <div class="col-xs-12">
+                    <div class="block-title medium">Энциклопедия</div>
+                  </div>
+                </div>
+                <div class="row">
+                  
+                                    <div class="col-sm-6 col-xs-12">
+                    <div class="encyclopedia-news__box preson"><a href="/person/2950019">
+                        <div class="top">
+						                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2022/03/25/c6e48252037afd84c409c8298c2f44fc.jpg" alt="Жовтан Наталия Вячеславовна">
+                          	
+                                                                                  <div class="name">
+                              <div class="item">Наталия</div>
+                              <div class="item">Вячеславовна</div>
+                              <div class="item">Жовтан</div>
+                            </div>
+                                                    
+                        </div>
+                        <p>Врач-косметолог, дерматолог, детский дерматолог, трихолог.
+Высшая категория, стаж 22 года.</p></a></div>
+                  </div>
+                                      
+                                    <div class="col-sm-6 col-xs-12">
+                    <div class="encyclopedia-news__box preson"><a href="/person/2949080">
+                        <div class="top">
+						                            <img loading="lazy" src="https://img2.fedpress.ru/thumbs/70x80/2022/03/66/476927cfa2c8ca750fe9b520c86a9119.jpeg" alt="Неволина Елена Викторовна">
+                          	
+                                                                                  <div class="name">
+                              <div class="item">Елена</div>
+                              <div class="item">Викторовна</div>
+                              <div class="item">Неволина</div>
+                            </div>
+                                                    
+                        </div>
+                        <p>Кандидат фармакологических наук, эксперт Секции по медицине экспертного совета при правительстве РФ.</p></a></div>
+                  </div>
+                                      
+                                    
+                  
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box company"><a href="/company/2164521">
+                          <div class="top">
+                                                      <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2018/12/1980/633e589755d233d3f060ab7219337318.png" alt="СВЕЗА"></div>
+                                                      <div class="name">
+                              <!-- <div class="item">ОАО</div> -->
+                              <div class="item">СВЕЗА</div>
+                            </div>
+                          </div>
+                          <p>Группа «СВЕЗА» – российская компания, являющаяся мировым лидером на рынке березовой фанеры.</p></a></div>
+                    </div>
+                  
+                                      
+                                    
+                  
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box company"><a href="/company/1630183">
+                          <div class="top">
+                                                      <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2016/05/61/cf928ff727248d96a81b6f5676fc0fa4.jpg" alt="Пермдорстрой"></div>
+                                                      <div class="name">
+                              <!-- <div class="item">ОАО</div> -->
+                              <div class="item">Пермдорстрой</div>
+                            </div>
+                          </div>
+                          <p>Открытое акционерное общество «Пермдорстрой» образовано на базе треста «Пермдорстрой2, созданного в 1969 году. Ранее трест входил в состав Министерства транспортного строительства СССР, которое позже преобразовалось в Корпорацию «Трансстрой».</p></a></div>
+                    </div>
+                  
+                                      
+                                                     
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box region"><a href="/region/1631548">
+                          <div class="top">
+                                                        <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2016/05/28/9ff542e76be3dc844669d42d21877293.png" alt="Омская область"></div>
+                                                        <div class="name">
+                              <div class="item">Омская область</div>
+                            </div>
+                          </div>
+                          <p>Входит в состав Сибирского федерального округа</p></a></div>
+                    </div>
+                  
+                                      
+                                                     
+                  <div class="col-sm-6 col-xs-12">
+                      <div class="encyclopedia-news__box region"><a href="/region/1630853">
+                          <div class="top">
+                                                        <div class="photo"><img loading="lazy" src="https://img2.fedpress.ru/thumbs/90x90/2016/05/28/41123703f3afd2efcf79e0c780506e14.png" alt="Республика Ингушетия"></div>
+                                                        <div class="name">
+                              <div class="item">Республика Ингушетия</div>
+                            </div>
+                          </div>
+                          <p>Субъект Российской Федерации. Входит в состав Северо-Кавказского федерального округа.</p></a></div>
+                    </div>
+                  
+                                                      
+                </div>
+              </div>
+            </div>
+
+
+
+       
+                                   </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="picture-story hidden-xs">
+      <div class="container">
+        <div class="row picture-story__header">
+          <div class="col-sm-6 col-xs-12">
+            <div class="block-title white">Фоторепортажи</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 picture-story__slider">
+            <ul id="picture-story-slider" class="bxslider">
+                          <li><a href="/picture-story/3191839" class="box">
+              	              	<span class="photo"><img src="https://img2.fedpress.ru/thumbs/280x160/2023/02/2734/85e70378ee0d337f9e59808af0854f2d.jpeg" alt="Не для слабонервных: полоса препятствий на тротуарах Екатеринбурга"></span>
+              	              	<span class="title">Не для слабонервных: полоса препятствий на тротуарах Екатеринбурга</span>
+              	</a>
+              </li>
+                          <li><a href="/picture-story/3173762" class="box">
+              	              	<span class="photo"><img src="https://img2.fedpress.ru/thumbs/280x160/2022/12/2734/fd14eb6443ffa5d793c0930e3599d596.jpg" alt="В Екатеринбурге открыли главный ледовый городок: фото"></span>
+              	              	<span class="title">В Екатеринбурге открыли главный ледовый городок: фото</span>
+              	</a>
+              </li>
+                          <li><a href="/picture-story/3165158" class="box">
+              	              	<span class="photo"><img src="https://img2.fedpress.ru/thumbs/280x160/2022/12/2018/f34a0e112507a66265414a7dc8f16af5.jpeg" alt="Как идет строительство ледового городка в Екатеринбурге: фото"></span>
+              	              	<span class="title">Как идет строительство ледового городка в Екатеринбурге: фото</span>
+              	</a>
+              </li>
+                          <li><a href="/picture-story/3157088" class="box">
+              	              	<span class="photo"><img src="https://img2.fedpress.ru/thumbs/280x160/2022/12/2696/95f703ad22a0276f8d7a64abda326514.jpg" alt="В Екатеринбург привезли главную новогоднюю ель"></span>
+              	              	<span class="title">В Екатеринбург привезли главную новогоднюю ель</span>
+              	</a>
+              </li>
+                          <li><a href="/picture-story/3153859" class="box">
+              	              	<span class="photo"><img src="https://img2.fedpress.ru/thumbs/280x160/2022/12/1963/d3edf4feaa7a7d6cc3679a7aa8d44f46.jpg" alt="Торговые центры во Владивостоке уже украсили к Новому году"></span>
+              	              	<span class="title">Торговые центры во Владивостоке уже украсили к Новому году</span>
+              	</a>
+              </li>
+                          <li><a href="/picture-story/3152137" class="box">
+              	              	<span class="photo"><img src="https://img2.fedpress.ru/thumbs/280x160/2022/12/2696/0646044e41d4a60e299b449264922245.jpg" alt="В Екатеринбург приехал поезд Деда Мороза"></span>
+              	              	<span class="title">В Екатеринбург приехал поезд Деда Мороза</span>
+              	</a>
+              </li>
+                      
+            </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3 col-s-12 picture-story__all-photo">
+          	<a class="btn white" href="/picture-storys/russia">все фоторепортажи</a>          </div>
+        </div>
+      </div>
+    </div>
+ 
+ 
+       
+<div class="partners-news hidden-xs">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+    <footer id="footer" class="footer">
+        <div class="print-copyright">&copy; Информационное агентство «ФедералПресс»</div>
+        <div itemscope itemtype="http://schema.org/Organization" class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <div class="logo"><a href="/"><img src="/themes/fp/images/main/logo-symbol-red.png"
+                                alt=""><img src="/themes/fp/images/main/logo-text-black.png" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-sm-3 col-md-offset-1 col-xs-6"><a href="/text/1639339" class="btn red">О
+                        проекте</a>
+                </div>
+                <div class="col-md-2 col-sm-3 col-xs-6"><a href="/text/1639345" class="btn red">Реклама</a></div>
+                <div class="col-md-2 col-sm-3 col-xs-6"><a href="/text/1643033" class="btn red">Редакция</a></div>
+                <div class="col-md-2 col-sm-3 col-xs-6"><a href="#" id="login-link"
+                        class="btn red login">Авторизация</a></div>
+                <!-- <div id="login" class="login">
+                                            <a href="#"><i class="ico-login-settings">login</i></a>
+                                        </div> -->
+
+                <div class="col-md-2 col-sm-3 col-xs-6 pull-right">
+
+                    <!-- Yandex.Metrika informer -->
+                    <a href="https://metrika.yandex.ru/stat/?id=15912118&amp;from=informer" target="_blank"
+                        rel="nofollow"><img
+                            src="https://metrika-informer.com/informer/15912118/3_0_EFEFEFFF_EFEFEFFF_0_pageviews"
+                            style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика"
+                            title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)"
+                            class="ym-advanced-informer" data-cid="15912118" data-lang="ru" /></a>
+                    <!-- /Yandex.Metrika informer -->
+
+                    <!-- Yandex.Metrika counter -->
+                    <!-- /Yandex.Metrika counter -->
+
+                    <!--LiveInternet logo--><a href="https://www.liveinternet.ru/click;FederalPress"
+                        target="_blank"><img src="https://counter.yadro.ru/logo;FederalPress?44.1" title="LiveInternet"
+                            alt="" style="border:0" width="31" height="31" /></a>
+                    <!--/LiveInternet-->
+
+
+                    <script type="text/javascript">
+                    var _tmr = window._tmr || (window._tmr = []);
+                    _tmr.push({
+                        id: "1414406",
+                        type: "pageView",
+                        start: (new Date()).getTime()
+                    });
+                    (function(d, w, id) {
+                        if (d.getElementById(id)) return;
+                        var ts = d.createElement("script");
+                        ts.type = "text/javascript";
+                        ts.async = true;
+                        ts.id = id;
+                        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") +
+                            "//top-fwz1.mail.ru/js/code.js";
+                        var f = function() {
+                            var s = d.getElementsByTagName("script")[0];
+                            s.parentNode.insertBefore(ts, s);
+                        };
+                        if (w.opera == "[object Opera]") {
+                            d.addEventListener("DOMContentLoaded", f, false);
+                        } else {
+                            f();
+                        }
+                    })(document, window, "topmailru-code");
+                    </script>
+                    <noscript>
+                        <div style="position:absolute;left:-10000px;">
+                            <img src="//top-fwz1.mail.ru/counter?id=1414406;js=na" style="border:0;" height="1"
+                                width="1" alt="Рейтинг@Mail.ru" />
+                        </div>
+                    </noscript>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-5 col-md-offset-1 col-sm-6 col50">
+                    <p class="copyright">2007-2023 © <br>Редакция «<span
+                            itemprop="name">ФедералПресс</span>»
+                    </p>
+                    <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Адрес для корреспонденции
+                        и посетителей:<br>
+                        <span itemprop="postalCode">127018</span>, Россия, г.<span
+                            itemprop="addressLocality">Москва</span>, <span itemprop="streetAddress">ул. Полковая, д. 3,
+                            стр. 3</span>, офис 211<br>Тел.<span itemprop="telephone">+7(499) 112-35-89,
+                            +7(495)928-77-67</span>&nbsp;&nbsp;&nbsp;E-mail:
+                        <span itemprop="email">news@fedpress.ru</span>
+                    </p>
+                </div>
+
+                <div class="col-md-5 col-sm-6 col50">
+                    <p>E-mail: <span itemprop="email">msk@fedpress.ru</span></p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 col-xs-12 col">
+                    <p>«ФедералПресс» - медиа-холдинг: экспертный канал, информагентства, журнал. Политика, экономика,
+                        происшествия, общество. Экспертный взгляд на жизнь регионов РФ</p>
+                    <p>Информационное агентство «ФедералПресс» (зарегистрировано Федеральной службой по надзору в сфере
+                        связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 21.08.2012г. за номером
+                        ИА №
+                        ФС 77 – 50947)</p>
+                    <p>Адрес редакции:<br>
+                        127018, Россия, г.Москва, ул. Полковая, д. 3, стр. 3, офис 211<br>
+                        Тел.+7(499) 112-35-89, +7(495)928-77-67 E-mail: news@fedpress.ru</p>
+                    <p>Информация на сайте предназначена для лиц старше 16 лет</p>
+                    <p><b>«Функционирует при финансовой поддержке Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации»</b></p>
+                    <p> При заимствовании сообщений и материалов информационного агентства ссылка на первоисточник
+                        обязательна.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?139"></script>
+
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
+
+    <!-- <div id="google_translate_element"></div>
+<script type="text/javascript">
+
+    function googleTranslateElementInit() {
+
+        new google.translate.TranslateElement({
+            pageLanguage: 'ru',
+            includedLanguages: 'en',
+            layout: google.translate.TranslateElement.FloatPosition.BOTTOM_RIGHT,
+            autoDisplay: false
+        }, 'google_translate_element');
+
+    }
+</script>
+-->
+    <!--<div class="language">
+        <img src="images/lang/lang__ru.png" alt="ru" data-google-lang="ru" class="language__img">
+        <img src="images/lang/lang__en.png" alt="en" data-google-lang="en" class="language__img">
+        <img src="images/lang/lang__de.png" alt="de" data-google-lang="de" class="language__img">
+        <img src="images/lang/lang__fr.png" alt="fr" data-google-lang="fr" class="language__img">
+        <img src="images/lang/lang__pt.png" alt="pt" data-google-lang="pt" class="language__img">
+</div>-->
+
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
+    <script async src="/themes/fp/js/share.js"></script>
+
+    <script src="/assets/4493c45/jquery.min.js?v=1530956607"></script>
+<script src="/assets/70a6cba6/yii.js?v=1530956609"></script>
+<script src="/themes/fp/dist/JQueryPluginsAsset.js?v=1488540532"></script>
+<script src="/themes/fp/dist/jquery.cookie.min.js?v=1558707876"></script>
+<script src="/assets/9380538a/jquery-ui.min.js?v=1530956609"></script>
+<script src="/themes/fp/dist/AppAsset.min.js?v=1558707876"></script>
+<script src="/themes/fp/dist/translator.js?v=1558707876"></script>
+<script src="/assets/70a6cba6/yii.activeForm.js?v=1530956609"></script>
+<script>
+
+$(document).ready(function() {
+	$.ajax({
+			dataType: "html",
+			type: "GET",
+			url: "/banner/show?place=bb01&region=3",
+			success: function(html){
+ 				$(".banner_place_bb01").html(html);
+		},
+
+		beforeSend: function(){
+			$(".banner_place_bb01").append("<div class=\"preloader\"></div>");
+		},
+
+		complete: function(){
+			$(".banner_place_bb01 div.preloader" ).remove();
+		}
+	});
+});
+
+
+$(document).ready(function() {
+	$.ajax({
+			dataType: "html",
+			type: "GET",
+			url: "/banner/show?place=rb02&region=3",
+			success: function(html){
+ 				$(".banner_place_rb02").html(html);
+		},
+
+		beforeSend: function(){
+			$(".banner_place_rb02").append("<div class=\"preloader\"></div>");
+		},
+
+		complete: function(){
+			$(".banner_place_rb02 div.preloader" ).remove();
+		}
+	});
+});</script>
+<script>jQuery(function ($) {
+
+    $("#more_analitics_articles").css("cursor", "pointer");
+    $("#more_analitics_articles").on("click tap", function(event) {
+        ajaxAddNodes($(this).attr("id"), "#add_more_analitics_articles", "/ajax/show-more?scenario=regional-articles");
+    });
+
+
+    $("#right_news").css("cursor", "pointer");
+    $("#right_news").on("click tap", function(event) {
+        ajaxAddNodes($(this).attr("id"), "#add_right_news", "/ajax/show-more?scenario=right-news");
+    });
+
+
+        
+        var pollRightSelector = ".poll-right-3204069";
+        $.ajax({
+	   	   type: "GET",
+           dataType: "json",
+	   	   url: "/ajax/poll?id=3204069&place=sidebar",
+	   	   success: function(jqXHR){
+	           $(pollRightSelector).html(jqXHR.html);
+		   },
+           
+    	   beforeSend: function(){
+		      $(pollRightSelector).append("<div class=\"preloader\"></div>");
+		   },
+
+		   complete: function(){
+		      $(pollRightSelector + " div.preloader" ).remove();
+		   }
+		});
+   
+jQuery('#login-form').yiiActiveForm([], []);
+});</script></body>
+
+</html>

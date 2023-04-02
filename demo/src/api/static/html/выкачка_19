@@ -1,0 +1,2235 @@
+<!doctype html>
+<html lang="ru">
+<head>
+	<title>ASTV.RU Сахалинская область. Новости, бизнес, общение, объявления, погода.</title>
+		<meta name="keywords" content="аств, сахалин, сахалинская область, дальний восток, новости, блоги, общение, бизнес, объявления, курс валют, погода, общество, экономика, политика, происшествия, культура, спорт" />
+	<meta name="description" content="Сахалинская область, Сахалин. Новости, бизнес, общение, объявления, погода." />
+
+	<link rel="manifest" href="/manifest.json" />
+
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<!-- html5.js for IE less than 9 -->
+	<!--[if lt IE 9]>
+		<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="Афиша RSS 2.0" href="/rss/afishaList/">
+	<link rel="alternate" type="application/rss+xml" title="Блоги RSS 2.0" href="/rss/blogs/">
+	<link rel="alternate" type="application/rss+xml" title="Город RSS 2.0" href="/rss/city/">
+	<link rel="alternate" type="application/rss+xml" title="Новости RSS 2.0" href="/rss/lenta/">
+
+	
+
+	<link href="/Css/default.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Css/style.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Css/screen.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Css/myslo_window.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Css/smile.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Scripts/jquery-ui.min.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/SiteCss/uploadify-simple.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/SiteCss/uploadifive.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Css/comments.css?v=53517805" rel="stylesheet" type="text/css" />
+<link href="/Css/modal_window.css?v=53517805" rel="stylesheet" type="text/css" />
+
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700|Roboto+Slab:700,400&subset=cyrillic,cyrillic-ext" rel="stylesheet" type="text/css">
+	
+
+	<script type="text/javascript" src="/Scripts/jquery-1.8.3.min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/default.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/paginator3000.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/swfobject.js?v=53517805"></script>
+
+	<script type="text/javascript" src="/Scripts/jquery.unobtrusive-ajax.js?v=53517805"></script>
+
+
+	<!-- Group Begin:script-head-->
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous">
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-9637893590696472",
+		enable_page_level_ads: true
+	});
+</script>
+<script type="text/javascript"> (function(){ var s = document.createElement('script'); s.src = document.location.protocol+'//static.ao.gl/js/analytics-min.js'; s.type = 'text/javascript'; s.async = true; var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t); })();
+</script>
+<!-- Group End:script-head-->
+</head>
+<body data-v="32972390">
+	<!-- Group Begin:fullskrin-->
+<script type="text/javascript">	
+	function installcookie(name, dat) {
+		var expires;
+		var cookstr;
+		var days=90;
+		expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
+		cookstr = name + "=" + encodeURIComponent(dat) + "; expires=" + expires + "; path=/";
+		document.cookie = cookstr;
+	}
+	
+	function findCoockie() {
+		console.log("HH");
+		var myCookie = getCookie("whab");
+		if (myCookie == null) {
+			installcookie("whab",1);
+			return false;
+			// do cookie doesn't exist stuff;
+		} else {
+			// do cookie exists stuff
+			return true;
+		}
+	}
+
+	function searchCoockie() {
+		var myCookie = getCookie("whab");
+		if (myCookie == null) {
+			return false;
+		} else {
+			return true;
+		}
+	}
+	
+	function getCookie(name) {
+		var dc = document.cookie;
+		var prefix = name + "=";
+		var begin = dc.indexOf("; " + prefix);
+		if (begin == -1) {
+			begin = dc.indexOf(prefix);
+			if (begin != 0) return null;
+		}
+		else
+		{
+			begin += 2;
+			var end = document.cookie.indexOf(";", begin);
+			if (end == -1) {
+			end = dc.length;
+			}
+		}
+		// because unescape has been deprecated, replaced with decodeURI
+		//return unescape(dc.substring(begin + prefix.length, end));
+		return decodeURI(dc.substring(begin + prefix.length, end));
+	} 
+	
+	
+	function getRandomInt(min, max) {
+		min = Math.ceil(min);
+		max = Math.floor(max);
+		return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+
+		
+	
+		if (searchCoockie() == false) {
+				
+			var whatsarr = new Array(
+'https://chat.whatsapp.com/KvsaJGGNwy91qel2pZE3pI',
+'https://chat.whatsapp.com/CqghW82Je3bBWZpbh49xwc',
+'https://chat.whatsapp.com/2BTXZFzKtLHLtInkIpQymK',
+'https://chat.whatsapp.com/I1uaunprmirDgu5NAJWcZ4',
+'https://chat.whatsapp.com/JQridXw1wWc1J3YloWQno2',
+'https://chat.whatsapp.com/Itx9O8OfQArKNv6tl6d67E',
+'https://chat.whatsapp.com/C3ESd2y6sFwFDtoZUVMler',
+'https://chat.whatsapp.com/EKmBseMVVTK5IAxi6EKY3v',
+'https://chat.whatsapp.com/KohO9HPv1SXEFZpXBAhAfk',
+'https://chat.whatsapp.com/Ftk9oySCe3I8gm6Hk80ftR',
+'https://chat.whatsapp.com/EZ6ID9bl7rX6cnlFk0AJGn',
+'https://chat.whatsapp.com/LsLvaGLPzzmDjOjBR016hG',
+'https://chat.whatsapp.com/KeRUTgiBivn6jVb1Qd82Sa',
+'https://chat.whatsapp.com/DSEizlKnj5EIr0247kfUjW',
+'https://chat.whatsapp.com/GzS4k2RbmndBubFuOF3a2h',
+'https://chat.whatsapp.com/K2O2jZNZw3WGiWBhriT6xR',
+'https://chat.whatsapp.com/BA8g5h8jqzkHeGRyIou7a7',
+'https://chat.whatsapp.com/LhrXNy1xbVx2cTMvfeuOQY',
+'https://chat.whatsapp.com/IgGk3haqfok2ZN70Upm7qg',
+'https://chat.whatsapp.com/DMZElsHa3IYLcCTabnVtpj'
+				);
+			var instalink = 'https://www.instagram.com/astv_ru/';
+			var tglink = 'https://t.me/astv_ru';
+			var d = new Date();
+			var n = d.getHours();
+			var w = d.getDay();
+			var showpopupvar = 0; /* always show popup, even if cookie set */
+			var showpopuptimer = 1; /* seconds before popup */
+			var whrand = getRandomInt(0, whatsarr.length-1);
+			var whlink = whatsarr[whrand];
+
+			/** check if mobile **/
+			window.mobileAndTabletcheck = function() {
+				var check = false; (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino|android|ipad|playbook|silk/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+				return check;
+			};
+											
+			function showpopup() {
+				var tmp = document.getElementById("fullscreenmf");
+				tmp.style.opacity = "1";
+				tmp.style.display = "block";
+				var tmp = document.getElementById("clfullscreenbutton");
+				tmp.style.display = "block";
+				showpopupvar = 0;
+			}
+											
+			function hidepopup() {
+				installcookie("whab",1);
+				document.getElementById("fullscreenmf").remove();
+				//document.getElementById("fullscreenmf").style.display = "none";
+			}
+							
+			function openlink(URL) {
+				installcookie("whab",1);
+				document.getElementById("fullscreenmf").remove();
+				//document.getElementById("fullscreenmf").style.display = "none";
+				if (typeof URL !== 'undefined') {
+					window.open(URL, '_blank');
+				}
+			}
+
+			var blockwidth = 600;
+			var fontsize = 27;
+			var clfontsize = 18;
+			var mobilecoef = 1;
+			/*random or manual?*/
+			var randtxt = 0;
+			
+			if (randtxt == 1) {
+				ctt = getRandomInt(0,2);
+			}
+			
+			/*select if manual*/
+			if (randtxt == 0) {
+				ctt = 1; /* 0 - wh, 1 - tg, 2 - insta */
+			}
+			/*0 - whatsapp, 1 - telegram, 2 - instagram*/
+			
+			if (ctt == 0) {
+				var buttontxt = document.createTextNode("Нажать здесь");
+				var URL = whlink;
+			}
+			if (ctt == 1) {
+				var buttontxt = document.createTextNode("Жми здесь!");
+				var URL = tglink;
+			}
+			if (ctt == 2) {
+				var buttontxt = document.createTextNode("Подпишитесь сейчас!");
+				var URL = instalink;
+			}
+			var buttontxtclose = document.createTextNode("Закрыть");
+
+			var mobile = window.mobileAndTabletcheck();
+			if (mobile) {
+				fontsize = fontsize * mobilecoef;
+				blockwidth = 280;
+			}
+			var mobile = window.mobileAndTabletcheck();
+			if (mobile) {
+				fontsize = fontsize * mobilecoef;
+			}
+			var lineheig = fontsize*1.1;
+			//var showtimer = setInterval(whTimer, showpopuptimer * 1000);				
+
+			/** overlay **/
+			var overlay = document.createElement('div');
+			overlay.id = 'fullscreenmf';
+			overlay.style.cssText = 'margin: 0px; padding:0; z-index: 9991; position: fixed; width: 100%; height: 100%; background-color: rgba(41, 41, 42, 0.8);';
+			overlay.onclick = function (e) {openlink(URL)};
+			document.body.appendChild(overlay);
+
+			/** center **/
+			var center = document.createElement('div');
+			center.id = 'centerfs';
+			center.style.cssText = 'margin: 0; padding: 15px; font-size: ' + fontsize + 'px; line-height: ' + lineheig + 'px; z-index: 9993; position: absolute; top: 50%; left: 50%; margin-right: -50%; transform: translate(-50%, -50%);  width: ' + blockwidth + 'px; text-align: center;';
+			document.getElementById("fullscreenmf").appendChild(center);
+			
+			/** whatsapp logo container **/
+			var elem = document.createElement('div');
+			elem.id = 'fssocaillogo';
+			elem.style.cssText = 'margin: 10px auto; z-index: 9994; width: 70px; height: auto;';
+			document.getElementById("centerfs").appendChild(elem);
+
+			/** whatsapp logo **/
+			var imgw = 70;
+			var imgh = 70;
+			var imgwh = document.createElement('img');
+
+			if (ctt == 0) {
+				imgwh.src = "https://astv.ru/Content/whatsapp/images/logo-whatsapp.png";
+				imgwh.title = "WhatsApp";
+				
+				var ifr = document.createElement('a');
+				ifr.id = 'fullscreenmfa';
+				var linkText = document.createTextNode("WhatsApp не заблокируют. Подпишитесь на группу АСТВ сейчас!");
+				ifr.appendChild(linkText);
+				ifr.href = whlink;
+				ifr.title = "WhatsApp";
+				ifr.target = "_blank";
+				ifr.style.cssText = 'color: white;text-decoration: none;font-family: "Roboto Slab", "arial narrow", sans-serif; font-size:' + fontsize + 'px; line-height: ' + lineheig + 'px; text-shadow: rgb(0 0 0) 1px 1px 1px;';
+			}
+			if (ctt == 1) {
+				imgwh.src = "https://astv.ru/Content/whatsapp/images/tglogo_big.png";
+				imgwh.title = "Telegram";
+				
+				var ifr = document.createElement('a');
+				ifr.id = 'fullscreenmfa';
+				var linkText = document.createTextNode("Telegram не заблокируют. Подпишись на всякий случай!");
+				ifr.appendChild(linkText);
+				ifr.href = tglink;
+				ifr.title = "Telegram";
+				ifr.target = "_blank";
+				ifr.style.cssText = 'color: white;text-decoration: none;font-family: "Roboto Slab", "arial narrow", sans-serif; font-size: ' + fontsize + 'px; line-height: ' + lineheig + 'px;';
+			}
+			if (ctt == 2) {
+				imgwh.src = "https://astv.ru/Content/whatsapp/images/insta_70x70.png";
+				imgwh.title = "Instagram";
+				
+				var ifr = document.createElement('a');
+				ifr.id = 'fullscreenmfa';
+				var linkText = document.createTextNode("@astv_ru - главный Instagram-паблик Сахалина и Курил.\r\nВы ещё не с нами?\r\n");
+				ifr.appendChild(linkText);
+				ifr.href = instalink;
+				ifr.title = "Instagram";
+				ifr.target = "_blank";
+				ifr.style.cssText = 'color: white;text-decoration: none;font-family: "Roboto Slab", "arial narrow", sans-serif; font-size: ' + fontsize + 'px; line-height: ' + lineheig + 'px;';
+			}
+			imgwh.width = imgw*mobilecoef;
+			imgwh.height = imgh*mobilecoef;
+			imgwh.onclick = function (e) {openlink(URL)};
+			document.getElementById("fssocaillogo").appendChild(imgwh);
+			
+			document.getElementById("centerfs").appendChild(ifr);
+			
+			/** button **/
+			var buttonwrapper = document.createElement('div');
+			buttonwrapper.id = 'buttonwrapper';
+			buttonwrapper.style.cssText = 'display: block; text-align: center; margin-top: 8px;';
+			document.getElementById("centerfs").appendChild(buttonwrapper);
+			
+			
+			/** Subscribe button **/
+			var fsbutton = document.createElement('a');
+			fsbutton.id = 'fullscreenbutton';
+			fsbutton.href = URL;
+			fsbutton.target = "_blank";
+			fsbutton.appendChild(buttontxt);
+			fsbutton.style.cssText = 'z-index: 9995; box-shadow: 3px 4px 0px 0px #8a2a21; background-color:#c62d1f; border-radius:18px; border:1px solid #d02718; display:block; cursor:pointer; color:#ffffff; font-family:"Roboto Slab", "arial narrow", sans-serif; font-size:' + fontsize + 'px; padding:7px 25px; text-decoration:none; text-shadow:0px 1px 0px #810e05;';
+			fsbutton.onclick = function (f) {hidepopup()};
+			document.getElementById("buttonwrapper").appendChild(fsbutton);
+			
+			/** Close button **/
+			var close = document.createElement('div');
+			close.id = 'clfullscreenbutton';
+			close.innerHTML = "";
+			close.onclick = function (g) {hidepopup()};
+			close.style.cssText = "margin: 0px; padding:3px; font-size: ' + fontsize + 'px; z-index: 99999;position: absolute;right: 0;top: -30px; cursor: pointer; color: white; font-family: sans-serif; width: 32px; height: 32px; text-align: center; border-radius: 30px; border: 2px solid #fff; background: rgba(41, 41, 42, 1) url('https://astv.ru/Content/whatsapp/images/close.png') no-repeat center center;";
+			document.getElementById("buttonwrapper").appendChild(close);
+
+
+			
+			
+		}
+	</script>
+<!-- Group End:fullskrin-->
+	<div class="main">
+		<!-- Group Begin:menu-top-->
+<div style="position:relative;margin: 0 auto;width:100%;height:20px;text-align:left;z-index:1;font-size: 12px;">Реклама. ООО "Финк-рек"</div>
+<div class="display-screen-medium-big">
+	<div style="position:relative;margin: 0 auto;width:1240px;height:90px;text-align:center;z-index:1;overflow: hidden;">
+	
+		<img src="https://astv.ru/content/NewsImage/20/w5pc.gif" onclick="pc20()">
+	
+	</div>
+</div>
+<div class="display-screen-tiny-small">
+	<div style="position:relative;margin: 0 auto;text-align:center;z-index:1;overflow: hidden;">
+	
+		<img src="https://astv.ru/content/NewsImage/20/w5m.gif" onclick="m20()">
+	
+	</div>
+</div>
+<script>
+	function pc20() {
+		window.open(
+		"https://20idei.ru/", "_blank");
+	}
+	function m20() {
+		window.open(
+		"https://20idei.ru/", "_blank");
+	}
+</script>
+<!-- Group End:menu-top-->
+		
+<div class="head tiny-hide">
+    <div class="headMiddle autowidth">
+        <a href="/" title="astv.ru" class="logo">
+            <img src="/Images/logo/logo_main_new_dis.png" width="193" height="70" alt="astv.ru" />
+            
+        </a>
+            <noindex>
+                <div class="city_and_day display-screen-medium-big">
+                    <span class="date h5">Южно-Сахалинск<br />Вторник, 21 февраля</span>
+                </div>
+            </noindex>
+        <noindex>
+            <div id="banner288x80" class="display-screen-big">
+                <!-- Group Begin:menu-insert-->
+<div id="vbid133445-a"></div>
+<script type="text/javascript">
+		(function() {
+			var w = window,
+				d = document,
+				e = d.documentElement,
+				g = d.getElementsByTagName("body")[0],
+				x = w.innerWidth || e.clientWidth || g.clientWidth;
+			if (x > 1268) {
+				window.loadbannersastv(41, "vbid133445-a");
+			}
+		})();
+	</script>
+<!-- Group End:menu-insert-->
+            </div>
+        </noindex>
+
+        <noindex>
+            <div class="field_search_main">
+                <form action="/Search" method="get">
+                    <input type="text" name="search" value="Поиск..." class="search" maxlength="50" onblur="if (this.value == '') { this.value = 'Поиск...'; this.style.color = '#9C9C9C'; };" onfocus="if (this.value == 'Поиск...') { this.value = ''; this.style.color = '#000'; };" />
+                    <input type="submit" class="search_submit" value="" />
+                </form>
+            </div>
+        </noindex>
+
+        <noindex>
+            <div class="short_user_profile">
+                <div class="uactionlogin h5">
+    
+    
+</div>
+<div class="uactionbutton">
+    
+    
+    <a href="javascript:void(0);" class = "uactionbutton-login" onclick="$(this).trigger('myslo-login')">Вход</a>
+    <a href="javascript:void(0);" class = "uactionbutton-register" onclick="$(this).trigger('myslo-register')">Регистрация</a>
+</div>
+            </div>
+        </noindex>
+        
+<ul class="topMenu autowidth">
+    <li class="">
+        <a href="/news" title="Новости">Новости</a>
+        
+<div class="menu-padding">
+    <table class="menu-table">
+        <tbody>
+            <tr>
+                <td class="width-220">
+			        <div class="rubrics h3-rubric padding">
+
+	                        <a href="/news/mir">Мир</a>
+	                        <a href="/news/society">Общество</a>
+	                        <a href="/news/politics">Политика и экономика</a>
+	                        <a href="/news/criminal">Происшествия</a>
+	                        <a href="/news/conflict">Конфликт</a>
+	                        <a href="/news/culture">Культура</a>
+	                        <a href="/news/sport">Спорт</a>
+	                        <a href="/news/nash-den">Наш день</a>
+	                        <a href="/news/goroskop">Гороскоп</a>
+	                        <a href="/news/razgruzka">Разгрузка</a>
+                    </div>
+                    <div class="rubrics h3-rubric">
+                        <a href="/photo">Фото</a>
+                        <a href="/video">Видео</a>
+                        <a href="/story">Сюжеты</a>
+                    </div>
+                </td>
+
+                <td class="h5 width-126 center ">
+				    <noindex>
+                        <div>
+					        <a href="/news/society/2023-02-20-my-hotim-zashitit-detej-kak-sahalinki-na-kursah-nvp-perenimayut-opyt-u-bojcov-svo">
+					            <img class="section-img" width="126" height="113" src="https://astv.ru/content/NewsImage/62/32/6232f3af-94e2-42a7-8966-bdce3ffff9d0_8.jpg" alt="&quot;Мы хотим защитить детей&quot;: как сахалинки на курсах НВП перенимают опыт у бойцов СВО" />
+					        </a>
+                        </div>
+                        <div>
+					        <a href="/news/society/2023-02-20-my-hotim-zashitit-detej-kak-sahalinki-na-kursah-nvp-perenimayut-opyt-u-bojcov-svo">&quot;Мы хотим защитить детей&quot;: как сахалинки на курсах НВП перенимают опыт у бойцов СВО</a>
+                        </div>
+				    </noindex>
+                </td>
+                <td class="h5 width-126 center ">
+				    <noindex>
+                        <div>
+					        <a href="/news/criminal/2023-02-20-rebenka-pogibshej-v-aviakatastrofe-turistki-uvezli-s-sahalina-rodstvenniki">
+					            <img class="section-img" width="126" height="113" src="https://astv.ru/content/NewsImage/ce/09/ce0911e9-b0de-4bc1-8577-786f1fa0848c_8.jpg" alt="Ребёнка погибшей в авиакатастрофе туристки увезли с Сахалина" />
+					        </a>
+                        </div>
+                        <div>
+					        <a href="/news/criminal/2023-02-20-rebenka-pogibshej-v-aviakatastrofe-turistki-uvezli-s-sahalina-rodstvenniki">Ребёнка погибшей в авиакатастрофе туристки увезли с Сахалина</a>
+                        </div>
+				    </noindex>
+                </td>
+                <td class="h5 width-126 center display-screen-big">
+				    <noindex>
+                        <div>
+					        <a href="/news/criminal/2023-02-20-vrachi-rasskazali-o-sostoyanii-turista-vyzhivshego-v-aviakatastrofe-na-sahaline">
+					            <img class="section-img" width="126" height="113" src="https://astv.ru/content/NewsImage/6c/15/6c15ab82-c4e9-401c-a9d3-7c269fdda2bf_8.jpg" alt="Врачи рассказали о состоянии туриста, выжившего в авиакатастрофе на Сахалине" />
+					        </a>
+                        </div>
+                        <div>
+					        <a href="/news/criminal/2023-02-20-vrachi-rasskazali-o-sostoyanii-turista-vyzhivshego-v-aviakatastrofe-na-sahaline">Врачи рассказали о состоянии туриста, выжившего в авиакатастрофе на Сахалине</a>
+                        </div>
+				    </noindex>
+                </td>
+                <td class="display-screen-medium-big lines">
+				    <noindex>
+                        <div class="h3-rubric"><a href="/news/main/commented">Обсуждают</a></div>
+                        <nav class="menu-table-nav h5">
+
+                            <a href="/news/society/2023-02-17-u-mayaka-aniva-snesut-tretij-etazh">У маяка Анива снесут третий этаж</a>
+                            <a href="/news/society/2023-02-15-bezvkusnaya-kak-vata-primorskoe-smi-zhestko-raskritikovalo-sahalinskuyu-navagu">&quot;Безвкусная, как вата&quot;: приморское СМИ жёстко раскритиковало сахалинскую навагу</a>
+                            <a href="/news/society/2023-02-16-v-rossii-vvedut-qr-kody-vmesto-pasporta">В России введут QR-коды вместо паспорта</a>
+                            <a href="/news/society/2023-02-20-avtokoshmar-ustroili-rybaki-na-doroge-k-sahalinskomu-selu">Автокошмар устроили рыбаки на дороге к сахалинскому селу</a>
+                            <a href="/news/society/2023-02-20-vonyaet-navozom-na-sahalinskoj-reke-iz-lunok-hlynuli-fekalii">&quot;Воняет навозом&quot;: фекалии хлынули из лунок на сахалинской реке</a>
+                        </nav>
+				    </noindex>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+    </li>
+    <li>
+        <a href="/pages/astv-24" class="no-letter-spacing no-border-bottom">ТВ онлайн</a>
+    </li>
+    <li class="display-screen-medium-big">
+        <a href="https://astv.ru/radio" rel="nofollow" target="_blank" class="no-letter-spacing no-border-bottom">Радио онлайн</a>
+    </li>
+    <li class=" display-screen-big">
+        <a href="/club" title="Блоги">Блоги</a>
+        
+<div class="menu-padding">
+    <table class="menu-table">
+        <tbody>
+            <tr>
+                <td class="width-220">
+			        <div class="rubrics h3-rubric">
+
+<a href="/club/allblog">Редакционные</a>                            <nav>
+                                <a href="/club/blog/utro">Утро с АСТВ</a>
+                                <a href="/club/blog/konkursi-astv">Конкурсы АСТВ</a>
+                                <a href="/club/blog/internet-prostor">Интернет-простор</a>
+                            </nav>
+<a href="/club/allblog/community">Коллективные</a>                            <nav>
+                                <a href="/club/blog/narodniy-zhurnalist">Народный журналист</a>
+                                <a href="/club/blog/hochu-skazat">Хочу сказать</a>
+                                <a href="/club/blog/fotoalbom">Фотоальбом</a>
+                            </nav>
+<a href="/club/allblog/comersical">Коммерческие</a>			        </div>
+                </td>
+
+                        <td class="h5 width-126 center ">
+                            <noindex>
+                                <div>
+                                    <a href="/club/blog/utro/VNukGibyEkKrMLpG81gvsA" title="МасленичноТрадиционно со всей Европы доброутреннее с конкурсом)">
+                                        
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/ff/11/ff1183ee-c667-4b78-b3be-6192260d08f4_8.jpg" width="126" height="113" alt="МасленичноТрадиционно со всей Европы доброутреннее с конкурсом)" />
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="/club/blog/utro/VNukGibyEkKrMLpG81gvsA">
+                                        <strong>Утро с АСТВ</strong><br />МасленичноТрадиционно со всей Европы доброутреннее с конкурсом)
+                                    </a>
+                                </div>
+                            </noindex>
+                        </td>
+                        <td class="h5 width-126 center ">
+                            <noindex>
+                                <div>
+                                    <a href="/club/blog/sahalinskiy-parizh-blog-grigoriya-smekalova/QxeDi0vhwUeSOtuexA9KXA" title="С Днем орнитолога.">
+                                        
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/bd/2e/bd2e1391-0a8b-4c7f-9c02-78f3bba43792_8.jpg" width="126" height="113" alt="С Днем орнитолога." />
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="/club/blog/sahalinskiy-parizh-blog-grigoriya-smekalova/QxeDi0vhwUeSOtuexA9KXA">
+                                        <strong>Сахалинский Париж - блог Григория Смекалова</strong><br />С Днем орнитолога.
+                                    </a>
+                                </div>
+                            </noindex>
+                        </td>
+                        <td class="h5 width-126 center display-screen-big">
+                            <noindex>
+                                <div>
+                                    <a href="/club/blog/utro/IQjR6sMvCEWDBmOq7noBLQ" title="МестамиМимишноАкварельное доброутреннее с конкурсом)">
+                                        
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/7a/fd/7afd778e-49df-4929-b4f5-8acc7c7c82cf_8.jpg" width="126" height="113" alt="МестамиМимишноАкварельное доброутреннее с конкурсом)" />
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="/club/blog/utro/IQjR6sMvCEWDBmOq7noBLQ">
+                                        <strong>Утро с АСТВ</strong><br />МестамиМимишноАкварельное доброутреннее с конкурсом)
+                                    </a>
+                                </div>
+                            </noindex>
+                        </td>
+                <td class="display-screen-medium-big lines">
+				    <noindex>
+                        <div class="h3-rubric">
+                            <a href="/club/article">Последние записи</a>
+                        </div>
+                        <nav class="menu-table-nav h5">
+
+                                <a href="/club/blog/utro/qZxmhOcRB061sQ1li0hYbg" title="Антикварные чудесные столы и шкафы в доброутреннем с конкурсом)"><strong>Утро с АСТВ:</strong> Антикварные чудесные столы и шкафы в доброутреннем с конкурсом)</a>
+                                <a href="/club/blog/utro/Np1TgsSaXE2K1Y_ueg1rNQ" title="ФлорийскоМозаичное доброутреннее с конкурсом)"><strong>Утро с АСТВ:</strong> ФлорийскоМозаичное доброутреннее с конкурсом)</a>
+                                <a href="/club/blog/utro/jubXf8398EKVTgc74788kg" title="ШелковоКартинное доброутреннее с конкурсом)"><strong>Утро с АСТВ:</strong> ШелковоКартинное доброутреннее с конкурсом)</a>
+                                <a href="/club/blog/utro/jCpK45U7dU23w3YBgumaKg" title="МиниатюрноДомиковое доброутреннее с конкурсом)"><strong>Утро с АСТВ:</strong> МиниатюрноДомиковое доброутреннее с конкурсом)</a>
+                                <a href="/club/blog/utro/psehFgFlMUyE5L73-wDwbA" title="ТульскоСамоварное доброутреннее с конкурсом)"><strong>Утро с АСТВ:</strong> ТульскоСамоварное доброутреннее с конкурсом)</a>
+                        </nav>
+				    </noindex>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+    </li>
+    <li class="display-screen-big">
+        <a href="https://astv.ru/weather" rel="nofollow" target="_blank" class="no-letter-spacing no-border-bottom">Погода</a>
+    </li>
+	<li>
+        <a href="https://astv.ru/news/teg/%D1%82%D0%B5%D1%81%D1%82">Тесты</a>
+    </li>
+	
+    <li class=" last-child">
+        <a href="javascript:void(0)"><span class="display-screen-medium-big">Ещё</span>&nbsp;&nbsp;</a>
+        <div class="menu-padding">
+    <div class="list-esche-rubric">
+        <div class="rubrics h3-rubric display-screen-small">
+            <a href="https://astv.ru/radio" rel="nofollow" target="_blank">Радио онлайн</a>
+        </div>
+        <div class="rubrics h3-rubric display-screen-small">
+            <a href="/club">Блоги</a>
+        </div>
+        <div class="rubrics h3-rubric display-screen-small-medium">
+            <a href="https://astv.ru/weather" rel="nofollow" target="_blank">Погода</a>
+        </div>
+        <div class="rubrics h3-rubric display-screen-small-medium">
+            <a href="/pressa">Телемир</a>
+        </div>
+        <div class="rubrics h3-rubric">
+            <a href="/club/photo">Фотоконкурсы</a>
+        </div>
+        <div class="rubrics h3-rubric">
+            <a href="https://astv.ru/currency" rel="nofollow" target="_blank">КУРС ВАЛЮТ</a>
+        </div>
+        <div class="rubrics h3-rubric">
+            <a href="/organizations">Справка</a>
+        </div>
+        
+    </div>
+</div>
+    </li>
+</ul>
+
+
+        
+    </div>
+</div>
+<noindex>
+    <div class="head-tiny display-screen-tiny">
+        <a href="/" class="head-tiny-logo">
+            <div class="icon">
+                <img src="/Images/logo/logo_mobile_v2.png" width="134" height="64" alt="A" />
+            </div>
+        </a>
+        <a href="/" class="head-tiny-rubric">
+            
+        </a>
+        <a href="javascript:void(0);" class="head-tiny-menu-button" onclick="if($('.head-tiny').hasClass('head-tiny-open')){$('.head-tiny').removeClass('head-tiny-open');}else{$('.head-tiny').addClass('head-tiny-open');}">
+            <span class="h-l"></span>
+            <span class="h-l"></span>
+            <span class="h-l"></span>
+            <span class="h-o"></span>
+        </a>
+        <div class="head-tiny-menu">
+            <div class="head-tiny-menu-p head-tiny-menu-border">
+    <div class="uactionbutton padding-2">
+        <a class="uactionbutton-login" onclick="$(this).trigger('myslo-login')" href="javascript:void(0);">Вход</a>
+        <a class="uactionbutton-register" onclick="$(this).trigger('myslo-register')" href="javascript:void(0);">Регистрация</a>
+    </div>
+</div>
+            <div class="head-tiny-menu-p">
+                <div class="head-tiny-search">
+                    <form method="get" action="/Search">
+                        <div class="search">
+                            <input type="text" maxlength="50" value="" placeholder="Поиск..." name="search">
+                        </div>
+                        <input class="search_submit" type="submit" value="">
+                    </form>
+                </div>
+                <nav class="head-tiny-list">
+                    <a href="/news">
+                        <span class="title-big">Новости</span>
+                    </a>
+                    <a href="/pages/astv-24">
+                        <span class="title-big">ТВ онлайн</span>
+                    </a>
+                    <a href="https://astv.ru/radio" rel="nofollow" target="_blank">
+                        <span class="title-big">Радио онлайн</span>
+                    </a>
+                    <a href="/club">
+                        <span class="title-big">блоги</span>
+                    </a>
+                    <a href="https://astv.ru/weather" rel="nofollow" target="_blank">
+                        <span class="title-big">Погода</span>
+                    </a>
+                    <a href="/news/teg/%D1%82%D0%B5%D1%81%D1%82">
+                        <span class="title-big">Тесты</span>
+                    </a>
+                    <a href="/club/photo">
+                        <span class="title-big">Фотоконкурсы</span>
+                    </a>
+                    <a href="https://astv.ru/currency" rel="nofollow" target="_blank">
+                        <span class="title-big">КУРС ВАЛЮТ</span>
+                    </a>
+                    <a href="/organizations">
+                        <span class="title-big">Справка</span>
+                    </a>
+                    
+                </nav>
+            </div>
+        </div>
+    </div>
+</noindex>
+		<!-- Group Begin:menu-bottom-->
+<div class="display-screen-small-medium-big">
+	<div id="id42"></div>
+</div>
+<div class="display-screen-tiny">
+<div id="id141"></div>
+</div>
+<script type="text/javascript">
+	(function() {
+		var w = window,
+			d = document,
+			e = d.documentElement,
+			g = d.getElementsByTagName("body")[0],
+			x = w.innerWidth || e.clientWidth || g.clientWidth;
+
+		!(function(n, s, a) {
+			var d = document,
+				t,
+				r,
+				h,
+				f = function() {
+					clearInterval(h);
+					if (!r) new CrossAd(a).run();
+					r = 1;
+				};
+			if (n in window) {
+				f();
+				return;
+			}
+			h = d.getElementsByTagName("script");
+			for (t in h)
+				if (h[t].src == s) {
+					h = s = "";
+					break;
+				}
+			if (s) {
+				t = d.createElement("script");
+				t.type = "text/javascript";
+				t.async = true;
+				t.src = s;
+				t.onload = function() {
+					if (!r && n in window) f();
+				};
+				d.getElementsByTagName("head")[0].appendChild(t);
+			}
+			if (!h || !h[h.length - 1].onload)
+				h = setInterval(function() {
+					if (n in window) f();
+				}, 250);
+		})(
+			"CrossAd",
+			"//ff.astv.ru/cross/cross.min.js",
+			x >= 650 ? { id42: "//ff.astv.ru/simple/42" } : { id141: "//ff.astv.ru/simple/141" }
+		);
+	})();
+</script>
+<!-- Group End:menu-bottom-->
+		
+		<div class="mainContent autowidth">
+			
+
+<div class="contentmainpage" style="padding-top:0;">
+	<div class="main-page-block-main">
+		
+
+<div class="main-page-block">
+	<div class="slider">
+		<div class="slider-items">
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/62/32/6232f3af-94e2-42a7-8966-bdce3ffff9d0_1.jpg" />
+	<a href="/news/society/2023-02-20-my-hotim-zashitit-detej-kak-sahalinki-na-kursah-nvp-perenimayut-opyt-u-bojcov-svo" class="absolute bg"></a>
+	<a href="/news/society/2023-02-20-my-hotim-zashitit-detej-kak-sahalinki-na-kursah-nvp-perenimayut-opyt-u-bojcov-svo" class="title hover  title-big ">
+		&quot;Мы хотим защитить детей&quot;: как сахалинки на курсах НВП перенимают опыт у бойцов СВО
+	</a>
+		<div class="rubric style">
+			<span class="plashka">видео</span>
+		</div>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/ce/09/ce0911e9-b0de-4bc1-8577-786f1fa0848c_1.jpg" />
+	<a href="/news/criminal/2023-02-20-rebenka-pogibshej-v-aviakatastrofe-turistki-uvezli-s-sahalina-rodstvenniki" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-20-rebenka-pogibshej-v-aviakatastrofe-turistki-uvezli-s-sahalina-rodstvenniki" class="title hover  title-big ">
+		Ребёнка погибшей в авиакатастрофе туристки увезли с Сахалина
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-20-rebenka-pogibshej-v-aviakatastrofe-turistki-uvezli-s-sahalina-rodstvenniki" class="count style hover">
+			<span class="icon icon-comment"></span> 1
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/6c/15/6c15ab82-c4e9-401c-a9d3-7c269fdda2bf_1.jpg" />
+	<a href="/news/criminal/2023-02-20-vrachi-rasskazali-o-sostoyanii-turista-vyzhivshego-v-aviakatastrofe-na-sahaline" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-20-vrachi-rasskazali-o-sostoyanii-turista-vyzhivshego-v-aviakatastrofe-na-sahaline" class="title hover  title-big ">
+		Врачи рассказали о состоянии туриста, выжившего в авиакатастрофе на Сахалине
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-20-vrachi-rasskazali-o-sostoyanii-turista-vyzhivshego-v-aviakatastrofe-na-sahaline" class="count style hover">
+			<span class="icon icon-comment"></span> 6
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/1a/24/1a24b681-7bcd-4381-bbaa-c64340c4c722_1.jpg" />
+	<a href="/news/criminal/2023-02-20-ochevidcy-v-holmske-deti-natknulis-na-ostanki-ubitoj-sobaki" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-20-ochevidcy-v-holmske-deti-natknulis-na-ostanki-ubitoj-sobaki" class="title hover  title-big ">
+		Очевидцы: в Холмске дети наткнулись на останки убитой собаки
+	</a>
+		<div class="rubric style">
+			<span class="plashka">фото.видео</span>
+		</div>
+		<a href="/news/criminal/2023-02-20-ochevidcy-v-holmske-deti-natknulis-na-ostanki-ubitoj-sobaki" class="count style hover">
+			<span class="icon icon-comment"></span> 27
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/60/1d/601dcfb6-237f-49ff-ae71-2b919721f471_1.jpg" />
+	<a href="/news/criminal/2023-02-19-pogibshuyu-vo-vremya-krusheniya-vertoleta-zhenshinu-dostavili-v-yuzhno-sahalinsk" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-19-pogibshuyu-vo-vremya-krusheniya-vertoleta-zhenshinu-dostavili-v-yuzhno-sahalinsk" class="title hover  title-big ">
+		Погибшую во время крушения вертолёта женщину доставили в Южно-Сахалинск
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-19-pogibshuyu-vo-vremya-krusheniya-vertoleta-zhenshinu-dostavili-v-yuzhno-sahalinsk" class="count style hover">
+			<span class="icon icon-comment"></span> 26
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/97/3f/973f6567-6983-413a-9f98-0dac8c6ab50e_1.jpg" />
+	<a href="/news/criminal/2023-02-19-brakon-ery-ubili-losya-v-noglikskom-rajone" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-19-brakon-ery-ubili-losya-v-noglikskom-rajone" class="title hover  title-big ">
+		Браконьеры убили лося в Ногликском районе
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-19-brakon-ery-ubili-losya-v-noglikskom-rajone" class="count style hover">
+			<span class="icon icon-comment"></span> 37
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/cb/7d/cb7de01b-1247-4a22-a3dc-3e339083ed1e_1.jpg" />
+	<a href="/news/criminal/2023-02-18-malysh-adaptirovalsya-igraet-lyubov-ustinovskaya-rasskazala-o-sostoyanii-rebenka-pogibshej-na-sahaline-turistki" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-18-malysh-adaptirovalsya-igraet-lyubov-ustinovskaya-rasskazala-o-sostoyanii-rebenka-pogibshej-na-sahaline-turistki" class="title hover  title-big ">
+		&quot;Малыш адаптировался, играет&quot;: Любовь Устиновская рассказала о состоянии ребёнка погибшей на Сахалине туристки 
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-18-malysh-adaptirovalsya-igraet-lyubov-ustinovskaya-rasskazala-o-sostoyanii-rebenka-pogibshej-na-sahaline-turistki" class="count style hover">
+			<span class="icon icon-comment"></span> 14
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/c4/54/c454532e-0458-45ed-92ea-d6a6bf62074f_1.jpg" />
+	<a href="/news/criminal/2023-02-18-vyzhivshemu-v-krushenii-vertoleta-na-sahaline-proveli-operaciyu" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-18-vyzhivshemu-v-krushenii-vertoleta-na-sahaline-proveli-operaciyu" class="title hover  title-big ">
+		Выжившему в крушении вертолёта на Сахалине сделали операцию
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-18-vyzhivshemu-v-krushenii-vertoleta-na-sahaline-proveli-operaciyu" class="count style hover">
+			<span class="icon icon-comment"></span> 8
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/b0/73/b0730a98-d3a1-4ae2-aceb-81116f069128_1.jpg" />
+	<a href="/news/criminal/2023-02-17-piloty-o-krushenii-robinson-r-44-pogoda-v-yuzhno-sahalinske-byla-nepoletnaya" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-17-piloty-o-krushenii-robinson-r-44-pogoda-v-yuzhno-sahalinske-byla-nepoletnaya" class="title hover  title-big ">
+		Пилоты о крушении Robinson R 44: погода в Южно-Сахалинске была нелётная
+	</a>
+		<div class="rubric style">
+			<span class="plashka">фото</span>
+		</div>
+		<a href="/news/criminal/2023-02-17-piloty-o-krushenii-robinson-r-44-pogoda-v-yuzhno-sahalinske-byla-nepoletnaya" class="count style hover">
+			<span class="icon icon-comment"></span> 16
+		</a>
+
+				</div>
+				<div class="slider-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/8f/3e/8f3ebecf-f861-4edd-a3d5-b96fa768c61e_1.jpg" />
+	<a href="/news/criminal/2023-02-17-turisty-poterpevshie-krushenie-na-robinson-r44-ostavili-4-letnego-syna-v-gostinice-yuzhno-sahalinska" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-17-turisty-poterpevshie-krushenie-na-robinson-r44-ostavili-4-letnego-syna-v-gostinice-yuzhno-sahalinska" class="title hover  title-big ">
+		Туристы, потерпевшие крушение на Robinson R44, оставили 4-летнего сына в гостинице Южно-Сахалинска
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-17-turisty-poterpevshie-krushenie-na-robinson-r44-ostavili-4-letnego-syna-v-gostinice-yuzhno-sahalinska" class="count style hover">
+			<span class="icon icon-comment"></span> 28
+		</a>
+
+				</div>
+		</div>
+		<div class="slider-arrows slider-left">
+			<div class="slider-corner"></div>
+		</div>
+		<div class="slider-arrows slider-right">
+			<div class="slider-corner"></div>
+		</div>
+	</div>
+	<div class="items">
+		<div class="group">
+
+				<div class="group-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/6e/71/6e716666-3b65-4737-8f1c-d3b210cd25aa_5.jpg" />
+	<a href="/news/criminal/2023-02-20-vodolaz-propal-v-more-na-yuge-sahalina" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-20-vodolaz-propal-v-more-na-yuge-sahalina" class="title hover ">
+		Водолаз пропал в море на юге Сахалина
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-20-vodolaz-propal-v-more-na-yuge-sahalina" class="count style hover">
+			<span class="icon icon-comment"></span> 14
+		</a>
+
+				</div>
+				<div class="group-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/7f/f2/7ff25415-36fa-4634-a328-00c800ea3f55_5.jpg" />
+	<a href="/news/criminal/2023-02-20-sahalincy-pugayut-drug-druga-soobsheniyami-o-sbezhavshem-agressivnom-paciente-psihbol-nicy" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-20-sahalincy-pugayut-drug-druga-soobsheniyami-o-sbezhavshem-agressivnom-paciente-psihbol-nicy" class="title hover ">
+		Сахалинцы пугают друг друга сообщениями о сбежавшем агрессивном пациенте психбольницы
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-20-sahalincy-pugayut-drug-druga-soobsheniyami-o-sbezhavshem-agressivnom-paciente-psihbol-nicy" class="count style hover">
+			<span class="icon icon-comment"></span> 20
+		</a>
+
+				</div>
+					<div class="display-screen-tiny">
+						<!-- Group Begin:mid-mobile-1-->
+<div class="display-screen-tiny">
+<div id="vbid926094"></div>
+<script type="text/javascript">
+	(function() {
+		window.loadbannersastv(142, "vbid926094");
+	})();
+</script>
+</div>
+<!-- Group End:mid-mobile-1-->
+					</div>
+				<div class="group-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/29/b8/29b8eda7-6045-4d6b-ae4a-9f6fafff89f2_5.jpg" />
+	<a href="/news/criminal/2023-02-20-specialisty-ishut-istochnik-nechistot-kotorymi-zabilo-reku-v-anivskom-rajone" class="absolute bg"></a>
+	<a href="/news/criminal/2023-02-20-specialisty-ishut-istochnik-nechistot-kotorymi-zabilo-reku-v-anivskom-rajone" class="title hover ">
+		Специалисты ищут источник нечистот, которыми забило реку в Анивском районе
+	</a>
+		<div class="rubric style">
+			<a href="/news/criminal">Происшествия</a>
+		</div>
+		<a href="/news/criminal/2023-02-20-specialisty-ishut-istochnik-nechistot-kotorymi-zabilo-reku-v-anivskom-rajone" class="count style hover">
+			<span class="icon icon-comment"></span> 14
+		</a>
+
+				</div>
+		</div>
+		<div class="group">
+
+				<div class="group-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/ac/1a/ac1a4d82-fa6c-41d9-a241-e3bc178abaad_5.jpg" />
+	<a href="/news/society/2023-02-20-neskol-ko-rajonov-zasyplet-snegom-prognoz-pogody-dlya-sahalinskoj-oblasti-na-21-fevralya" class="absolute bg"></a>
+	<a href="/news/society/2023-02-20-neskol-ko-rajonov-zasyplet-snegom-prognoz-pogody-dlya-sahalinskoj-oblasti-na-21-fevralya" class="title hover ">
+		Несколько районов засыплет снегом: прогноз погоды для Сахалинской области на 21 февраля
+	</a>
+		<div class="rubric style">
+			<a href="/news/society">Общество</a>
+		</div>
+
+				</div>
+					<div class="display-screen-tiny">
+						<!-- Group Begin:mid-mobile-2-->
+<!--mobile mid-1 -->
+<div class="display-screen-tiny">
+<div id="vbid841199"></div>
+<script type="text/javascript">
+	(function() {
+		window.loadbannersastv(2365, "vbid841199");
+	})();
+</script>
+</div>
+<!-- Group End:mid-mobile-2-->
+					</div>
+				<div class="group-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/ff/e4/ffe4ccf7-0a33-4262-9b39-26391557601f_5.jpg" />
+	<a href="/news/society/2023-02-20-v-vedrah-po-utram-led-ne-dolbili-a-ya-dolbil-zhiteli-dolinska-rasskazali-blogeru-chto-dumayut-o-gorode" class="absolute bg"></a>
+	<a href="/news/society/2023-02-20-v-vedrah-po-utram-led-ne-dolbili-a-ya-dolbil-zhiteli-dolinska-rasskazali-blogeru-chto-dumayut-o-gorode" class="title hover ">
+		&quot;В ведрах по утрам лёд не долбили? А я долбил&quot;: жители Долинска рассказали блогеру, что думают о городе
+	</a>
+		<div class="rubric style">
+			<span class="plashka">фото.видео</span>
+		</div>
+		<a href="/news/society/2023-02-20-v-vedrah-po-utram-led-ne-dolbili-a-ya-dolbil-zhiteli-dolinska-rasskazali-blogeru-chto-dumayut-o-gorode" class="count style hover">
+			<span class="icon icon-comment"></span> 3
+		</a>
+
+				</div>
+				<div class="group-item">
+						<img class="img" src="https://astv.ru/content/NewsImage/d9/04/d904630f-9097-4b76-b956-bc885d0eb80f_5.jpg" />
+	<a href="/news/society/2023-02-20-pomogli-s-gostinicej-i-pereletom-v-minsoczashity-sahalina-rasskazali-kak-peredali-syna-pogibshej-turistki-rodnym" class="absolute bg"></a>
+	<a href="/news/society/2023-02-20-pomogli-s-gostinicej-i-pereletom-v-minsoczashity-sahalina-rasskazali-kak-peredali-syna-pogibshej-turistki-rodnym" class="title hover ">
+		Помогли с гостиницей и перелётом: в минсоцзащиты Сахалина рассказали, как передали сына погибшей туристки родным
+	</a>
+		<div class="rubric style">
+			<span class="plashka">видео</span>
+		</div>
+		<a href="/news/society/2023-02-20-pomogli-s-gostinicej-i-pereletom-v-minsoczashity-sahalina-rasskazali-kak-peredali-syna-pogibshej-turistki-rodnym" class="count style hover">
+			<span class="icon icon-comment"></span> 2
+		</a>
+
+				</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(function () {
+		var slider = $('.main-page-block');
+		var slid = slider.find('.slider');
+		var items = slider.find('.slider-items');
+		slider.find('.slider-left').click(function () {
+			if (!items.data('active')) {
+				items.data('active', true);
+				items.prepend(items.find('.slider-item:last').remove());
+				items.css({ left: '-' + slid.innerWidth() + 'px' });
+				items.animate({ left: 0 }, 300, function () {
+					items.data('active', false);
+				});
+			}
+		});
+		slider.find('.slider-right').click(function () {
+			if (!items.data('active')) {
+				items.data('active', true);
+				items.animate({ left: '-' + slid.innerWidth() + 'px' }, 300, function () {
+					items.append(items.find('.slider-item:first').remove());
+					items.css({ left: 0 });
+					items.data('active', false);
+				});
+			}
+		});
+	});
+</script>
+
+	</div>
+
+	<div class="banner612x200 in-content-1">
+	<!-- Group Begin:mid-default-1-->
+<div class="display-screen-small-medium-big">
+	<div id="vbid981740-a"></div>
+</div>
+<div class="display-screen-tiny">
+	<div id="vbid981740-b"></div>
+</div>
+<script type="text/javascript">
+	(function() {
+		window.loadbannersastv(43, "vbid981740-a");
+		window.loadbannersastv(2366, "vbid981740-b");
+	})();
+</script>
+<!-- Group End:mid-default-1-->
+</div>
+
+	<div class="mainContentPadding" style="padding-top: 18px;">
+		
+<div class="lenta-blog-slider">
+    <div class="lenta-blog-slider-title h5 tiny-hide">
+        <a href="/club/blog/narodniy-zhurnalist">Народный журналист</a>
+    </div>
+            <ul>
+
+                    <li class="h5" >
+                        <noindex>
+                            <span>ShabashevMikhaelLvovichj</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/QK8RgaJ7hEO0CQNZDH-12g">..И снова Троицкое</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>ShabashevMikhaelLvovichj</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/hx3P0n-sF0q7qwRU_VMsMA">Газовые проблемы Троицкого</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>KGG</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/ShfN29V_lEe8xnm4PT-vIQ">Загадочный холодец</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Виктория Тетерятникова (Сенива)</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/4tZwt49ugUSSp0iHJo3gUg">Концерт группы Самоцветы</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Виктория Тетерятникова (Сенива)</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/7URbfTjSoE2zfXJIhMrQ6Q">Концерт ко Дню инвалидов</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>TKV</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/V-GtQHhKlUeLcniw-1yTWw">Сюрприз, которого не ждали</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Пьяная белка</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/ZHpylaVS40iFQqorGZH_KQ">О наболевшем</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Igorek65</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/lmzH9u2B50una98QeAdW0g">Автохамы продолжают не бояться ...</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>nomer4</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/ev6iBmP66USwD-0DyjzGxQ">Любовь к острову Сахалин в стихах</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Ogonek</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/QiAW2220lECOF1si-O8ehQ">Фестиваль состоялся. Книге- быть!</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>solidaren</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/Xk1IoU6pS0GxXJ6m3lWm1A">Символы новому аэропорту - всей семьёй!</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>nomer4</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/Y3QGnqNznkK-YNaSN6VTIQ">Солдатам Победы!</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Bastet</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/sPZ6VEUZ8ECRBfc4Q5mq1Q">Юные корсаковские спортсмены одержали победу в баскетбольном турнире в минувшее воскресенье</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Sovhoz</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/2_S04vxGzU6Mc3q1Ol0cjg">Конкурс детских рисунков, приуроченный ко дню защиты детей, состоялся в АО &#171;Совхоз Корсаковский&#187;</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Alena_iz_goroda_y_morya</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/DoiQSG-Nm0ePQrEITpUebg">Акция СВОИХ НЕ БРОСАЕМ в Углегорском районе</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Barry</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/fe7_M_Hixke8vqvDeOu3cw">Диана прибыла.</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Виктория Тетерятникова (Сенива)</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/5YlcmfJZ60SKPz3PszYpDA">Выставка в художественном музее</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Diana2018</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/ICpDfF13lEuqT_5IgwxPrA">Уникальный подарок Карафуто</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Polina0511</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/4VdJX_V0-UOCLe4WhFHoPw">Несанкционированная мойка во дворе дома</a>
+                        </noindex>
+                    </li>
+                    <li class="h5" style="display:none">
+                        <noindex>
+                            <span>Sunrise</span>:
+                            <a href="/club/blog/narodniy-zhurnalist/6038OoNvW0GCeeb0N45h1w">Тротуары Тымовска спустя сутки после снега</a>
+                        </noindex>
+                    </li>
+            </ul>
+    <noindex>
+        <div class="button-goto-blog-create-big background-play display-screen-big">
+            <span class="button-goto button-goto-blog-left" onclick="slider_blog_elem.left();"></span>
+            <span class="button-goto button-goto-blog-play" onclick="slider_blog_elem.stop();"></span>
+            <span class="button-goto button-goto-blog-right" onclick="slider_blog_elem.right();"></span>
+            <a href="/club/create/narodniy-zhurnalist" class="style-button" title="Написать">Написать</a>
+        </div>
+        <a class="button-goto-blog-create-small style-button  display-screen-tiny-small-medium" title="Написать" href="/club/create/narodniy-zhurnalist">+</a>
+    </noindex>
+</div>
+
+		<div class="content-main-news-afisha width-100-tiny">
+			<div class="content-update content-news-width-main width-100-tiny" id="news_upload_content">
+				
+
+    <nav class="tabs-first tabs-count-2 tabs-line-bild-botton">
+            <a  href="/news/main/popular" data-ajax-mode="replace" data-ajax-update="#news_upload_content" data-ajax="true" data-ajax-method="POST" >
+                Читают
+            </a>
+            <a class="active" href="/news/main/commented" data-ajax-mode="replace" data-ajax-update="#news_upload_content" data-ajax="true" data-ajax-method="POST" >
+                Обсуждают
+                    <span class="corner"></span>
+            </a>
+    </nav>
+<nav class="tabs-second">
+        <a class="active" href="/news/main/commented/1/now" data-ajax-mode="replace" data-ajax-update="#news_upload_content" data-ajax="true" data-ajax-method="POST" >
+            Сейчас
+        </a>
+        <a  href="/news/main/commented/1/day" data-ajax-mode="replace" data-ajax-update="#news_upload_content" data-ajax="true" data-ajax-method="POST" >
+            За сутки
+        </a>
+        <a  href="/news/main/commented" data-ajax-mode="replace" data-ajax-update="#news_upload_content" data-ajax="true" data-ajax-method="POST" >
+            За неделю
+        </a>
+        <a  href="/news/main/commented/1/month" data-ajax-mode="replace" data-ajax-update="#news_upload_content" data-ajax="true" data-ajax-method="POST" >
+            За месяц
+        </a>
+</nav>
+
+
+
+<div class="section">
+    <a title="Общество" href="/news/society/2023-02-20-krichashaya-reklama-magazina-v-yuzhno-sahalinske-dejstvuet-na-nervy-zhil-cam-mnogoetazhki">
+        <img class="section-img" width="288" height="178" alt="Общество" src="https://astv.ru/content/NewsImage/6f/eb/6feb7126-5fb5-4e1a-8891-a23ad853b8d9_5.jpg">
+    </a>
+    <section>
+        <div class="h3-rubric padding-05">
+            <a href="/news?rubric=society">Общество</a>
+        </div>
+        <h1 class="h3">
+            <a href="/news/society/2023-02-20-krichashaya-reklama-magazina-v-yuzhno-sahalinske-dejstvuet-na-nervy-zhil-cam-mnogoetazhki">&quot;Кричащая&quot; реклама магазина в Южно-Сахалинске действует на нервы жильцам многоэтажки</a>
+        </h1>
+        <p>Человек с мегафоном в руке ходит по улице Ленина с утра до вечера, громко зазывая людей на распродажу</p>
+        
+<div class="systemInfoNew">
+            <span class="ico-p icon icon-youtube-play"></span>
+            <span class="ico-p">вчера, в 12:03,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 40</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 11107</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> -3</span>
+</div>
+    </section>
+    <div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+<div class="section">
+    <a title="Общество" href="/news/society/2023-02-20-eto-rekord-zhitel-kamchatki-perevel-moshennikam-bolee-41-milliona-rublej">
+        <img class="section-img" width="288" height="178" alt="Общество" src="https://astv.ru/content/NewsImage/f1/c3/f1c3be54-63b8-4a3b-8f56-44a5eeda34b4_5.jpg">
+    </a>
+    <section>
+        <div class="h3-rubric padding-05">
+            <a href="/news?rubric=society">Общество</a>
+        </div>
+        <h1 class="h3">
+            <a href="/news/society/2023-02-20-eto-rekord-zhitel-kamchatki-perevel-moshennikam-bolee-41-milliona-rublej">Это рекорд: житель Камчатки перевёл мошенникам более 41 миллиона рублей</a>
+        </h1>
+        <p>Мужчина поверил в банальную схему "ваши деньги хотят украсть", и его средства разлетелись по 78 разным счетам</p>
+        
+<div class="systemInfoNew">
+                <span class="ico-p">вчера, в 14:55,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 24</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 4261</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> -1</span>
+</div>
+    </section>
+    <div class="clear"></div>
+</div>
+
+
+
+
+        <div class="linkright">
+            <a class="h6 linkright-top" href="/news/main/commented/1/now">Все самые обсуждаемые </a>
+        </div>
+
+			</div>
+			
+<div class="section-afisha display-screen-big">
+    <div class="section-last-news-container">
+<ul>
+
+        <li class="h4 line">
+            <span class="data-time">17:02</span>
+            <a href="/news/society/2023-02-20-sahalinskie-energetiki-rasskazali-kto-v-oblasti-i-skol-ko-prosidit-bez-sveta-21-fevralya">Сахалинские энергетики рассказали, кто в области и сколько просидит без света 21 февраля</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">16:48</span>
+            <a href="/news/society/2023-02-20-na-zebre-u-akva-siti-gde-sbili-neskol-ko-chelovek-postavyat-svetofor">На &quot;зебре&quot; у &quot;Аква Сити&quot;, где сбили несколько человек, поставят светофор</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">16:33</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/society/2023-02-20-my-hotim-zashitit-detej-kak-sahalinki-na-kursah-nvp-perenimayut-opyt-u-bojcov-svo">&quot;Мы хотим защитить детей&quot;: как сахалинки на курсах НВП перенимают опыт у бойцов СВО</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">16:17</span>
+            <a href="/news/culture/2023-02-20-priem-zayavok-na-v-oblastnoj-festival-domashnih-teatrov-kukol-nachalsya-na-sahaline">Приём заявок на V областной фестиваль домашних театров кукол начался на Сахалине</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">16:00</span>
+            <a href="/news/criminal/2023-02-20-cherdak-chastnoj-bani-polyhal-v-holmske">Чердак частной бани полыхал в Холмске</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">15:44</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/society/2023-02-20-pomogli-s-gostinicej-i-pereletom-v-minsoczashity-sahalina-rasskazali-kak-peredali-syna-pogibshej-turistki-rodnym">Помогли с гостиницей и перелётом: в минсоцзащиты Сахалина рассказали, как передали сына погибшей туристки родным</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">15:28</span>
+            <a href="/news/criminal/2023-02-20-sahalinskie-policejskie-oprovergli-preduprezhdenie-o-zaminirovannyh-koshel-kah-i-telefonah">Сахалинские полицейские опровергли предупреждение о &quot;заминированных кошельках и телефонах&quot;</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">15:11</span>
+            <span class="span-icon-block">
+                <span class="icon icon-camera" title="Фото"></span>
+                            </span>
+            <a href="/news/criminal/2023-02-20-ochevidcev-stolknoveniya-toyota-prius-i-toyota-verossa-ishut-v-yuzhno-sahalinske">Очевидцев столкновения Toyota Prius и Toyota Verossa ищут в Южно-Сахалинске</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">14:55</span>
+            <a href="/news/society/2023-02-20-eto-rekord-zhitel-kamchatki-perevel-moshennikam-bolee-41-milliona-rublej">Это рекорд: житель Камчатки перевёл мошенникам более 41 миллиона рублей</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">14:41</span>
+            <a href="/news/society/2023-02-20-mobilizovannym-kuril-chanam-gotovyat-podarki-k-23-fevralya">Мобилизованным курильчанам готовят подарки к 23 февраля</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">14:30</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/society/2023-02-20-v-vedrah-po-utram-led-ne-dolbili-a-ya-dolbil-zhiteli-dolinska-rasskazali-blogeru-chto-dumayut-o-gorode">&quot;В ведрах по утрам лёд не долбили? А я долбил&quot;: жители Долинска рассказали блогеру, что думают о городе</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">14:20</span>
+            <a href="/news/criminal/2023-02-20-specialisty-ishut-istochnik-nechistot-kotorymi-zabilo-reku-v-anivskom-rajone">Специалисты ищут источник нечистот, которыми забило реку в Анивском районе</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">14:06</span>
+            <a href="/news/society/2023-02-20-sahalinka-obnaruzhila-v-musornom-bake-enotovidnuyu-sobaku">Сахалинка обнаружила в мусорном баке енотовидную собаку</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">13:50</span>
+            <a href="/news/society/2023-02-20-razbityj-pripaj-v-zalive-mordvinova-pokazali-s-drona">Разбитый припай в заливе Мордвинова показали с высоты</a>
+        </li>
+</ul>
+    </div>
+</div>
+<div class="section-last-news width-100-tiny">
+    <div class="section-last-news-container width-100-tiny">
+<ul>
+
+            <li class="h4">21 февраля, вторник</li>
+        <li class="h4 line">
+            <span class="data-time">01:00</span>
+            <a href="/news/goroskop/2023-02-20-goroskop-na-21-fevralya-l-vu-stoit-proyavit-naporistost-a-strel-cu-neobhodimo-sobrat-v-kulak-vse-svoi-sily">Гороскоп на 21 февраля: Льву стоит проявить напористость, а Стрельцу необходимо собрать в кулак все свои силы</a>
+        </li>
+            <li class="h4">20 февраля, понедельник</li>
+        <li class="h4 line">
+            <span class="data-time">23:35</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/criminal/2023-02-20-ochevidcy-avtomobilist-sbivshij-rebenka-v-yuzhno-sahalinske-ehal-na-krasnyj-signal-svetofora">Очевидцы: автомобилист, сбивший ребёнка в Южно-Сахалинске, ехал на красный сигнал светофора</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">21:45</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/society/2023-02-20-zhenshina-v-yuzhno-sahalinske-prodolzhaet-hodit-tol-ko-po-razdelitel-noj-polose">Сахалинка в шубе продолжает ходить только по разделительной полосе</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">20:32</span>
+            <a href="/news/criminal/2023-02-20-v-yuzhno-sahalinske-na-peshehodnom-perehode-sbili-9-letnego-rebenka">В Южно-Сахалинске на пешеходном переходе сбили 9-летнего ребёнка</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">20:05</span>
+            <a href="/news/nash-den/2023-02-20-nash-den">&#171;Наш день&#187;: 20 февраля 2023</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">19:58</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/society/2023-02-20-enotke-kotoraya-neskol-ko-dnej-spala-v-musornom-bake-pomogli-doehat-do-doma">Енотке, которая несколько дней спала в мусорном баке, помогли доехать до дома</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">18:41</span>
+            <a href="/news/society/2023-02-20-pervyj-benzovoz-s-toplivom-otpravilsya-ot-novogo-neftenalivnogo-terminala-v-il-inskom">Первый бензовоз с топливом отправился от нового нефтеналивного терминала в Ильинском</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">18:24</span>
+            <a href="/news/society/2023-02-20-na-sahaline-pokazali-sejf-konca-xix-veka-s-sekretnym-komponentom-v-dverce-i-stenkah">На Сахалине показали сейф конца XIX века с &quot;секретным компонентом&quot; в дверце и стенках</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">18:00</span>
+            <a href="/news/criminal/2023-02-20-dymom-zavoloklo-dom-v-cheremshanke-iz-za-goryashego-divana">Квартира сгорела в Черемшанке</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">17:46</span>
+            <span class="span-icon-block">
+                                <span class="icon icon-youtube-play" title="Видео"></span>
+            </span>
+            <a href="/news/society/2023-02-20-svora-sobak-pregradila-put-posetitelyu-parka-v-yuzhno-sahalinske">Свора собак преградила путь посетителю парка в Южно-Сахалинске</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">17:42</span>
+            <a href="/news/society/2023-02-20-avtomobilistov-preduprezhdayut-v-nevel-skom-rajone-vozmozhen-shod-snezhnyh-lavin">Автомобилистов предупреждают: в Невельском районе возможен сход снежных лавин</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">17:30</span>
+            <a href="/news/society/2023-02-20-neskol-ko-rajonov-zasyplet-snegom-prognoz-pogody-dlya-sahalinskoj-oblasti-na-21-fevralya">Несколько районов засыплет снегом: прогноз погоды для Сахалинской области на 21 февраля</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">17:16</span>
+            <a href="/news/society/2023-02-20-do-konca-dekabrya-prodolzhitel-nost-zhizni-sahalincev-i-kuril-chan-hotyat-uvelichit-na-chetyre-goda">Продолжительность жизни сахалинцев и курильчан хотят увеличить на четыре года</a>
+        </li>
+        <li class="h4 line">
+            <span class="data-time">17:12</span>
+            <a href="/news/criminal/2023-02-20-sahalinec-s-nozhom-prishel-v-bulochnuyu-i-svalil-s-nog-prodavca">Сахалинец с ножом пришёл в булочную и свалил с ног продавца</a>
+        </li>
+</ul>
+    </div>
+</div>
+			<div class="fon-white">
+				<div class="linkright linkright-line linkright-width linkright-position">
+					<div class="fon-last-news"></div>
+					<a class="h6 linkright-top" href="/news/main/fresh">Все последние новости</a>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+
+		<div class="padding-2">
+			
+<div class="banner285x200 display-screen-big">
+	<a href="https://t.me/astv_ru">
+		<img src="/Content/Banners/banners-no-view/tg.png" width="288" height="200" alt="" />
+	</a>
+</div>
+			<div class="banner612x200 in-content-2">
+	<!-- Group Begin:mid-default-2-->
+<div class="display-screen-small-medium-big">
+	<div id="vbid10124-a"></div>
+</div>
+<div class="display-screen-tiny">
+	<div id="vbid10124-b"></div>
+</div>
+<script type="text/javascript">
+	(function() {
+		window.loadbannersastv(44, "vbid10124-a");
+		window.loadbannersastv(2431, "vbid10124-b");
+	})();
+</script>
+<!-- Group End:mid-default-2-->
+</div>
+			<div class="clear"></div>
+		</div>
+
+		<div class="list-on-bg-main  tiny-hide">
+    <div class="h3-rubric padding-2"><a href="/news/company" title="Новости компаний">Новости компаний</a></div>
+
+    <div class="list-on-bg-group">
+            <div class="item h5 ">
+                <div class="padding">
+                    <a href="/news/company/2023-02-17-dom-rf-razrabatyvaet-programmu-stroitel-stva-arendnogo-zhil-ya-na-dal-nem-vostoke" title="ДОМ.РФ разрабатывает программу строительства арендного жилья на Дальнем Востоке">
+                        <img src="https://astv.ru/content/NewsImage/89/ee/89ee6f32-e39f-48fe-9950-d886d639f905_8.jpg" width="126" height="113" title="ДОМ.РФ разрабатывает программу строительства арендного жилья на Дальнем Востоке" alt="ДОМ.РФ разрабатывает программу строительства арендного жилья на Дальнем Востоке" />
+                    </a>
+                </div>
+		        <a href="/news/company/2023-02-17-dom-rf-razrabatyvaet-programmu-stroitel-stva-arendnogo-zhil-ya-na-dal-nem-vostoke">ДОМ.РФ разрабатывает программу строительства арендного жилья на Дальнем Востоке</a>
+            </div>
+            <div class="item h5 ">
+                <div class="padding">
+                    <a href="/news/company/2023-02-17-eksperty-ob-yasnili-vysokij-rejting-edinoj-rossii" title="Эксперты объяснили высокий рейтинг &quot;Единой России&quot;">
+                        <img src="https://astv.ru/content/NewsImage/43/a5/43a549cb-ed90-4dfe-9455-907e77562dec_8.jpg" width="126" height="113" title="Эксперты объяснили высокий рейтинг &quot;Единой России&quot;" alt="Эксперты объяснили высокий рейтинг &quot;Единой России&quot;" />
+                    </a>
+                </div>
+		        <a href="/news/company/2023-02-17-eksperty-ob-yasnili-vysokij-rejting-edinoj-rossii">Эксперты объяснили высокий рейтинг &quot;Единой России&quot;</a>
+            </div>
+            <div class="item h5 ">
+                <div class="padding">
+                    <a href="/news/company/2023-02-15-vpervye-v-yuzhno-sahalinske-projdet-vystavka-dlya-detej-megolego" title="Впервые в Южно-Сахалинске пройдёт выставка для детей MEGOLEGO">
+                        <img src="https://astv.ru/content/NewsImage/7f/a6/7fa67da9-766c-4857-9c24-cd348d00135c_8.jpg" width="126" height="113" title="Впервые в Южно-Сахалинске пройдёт выставка для детей MEGOLEGO" alt="Впервые в Южно-Сахалинске пройдёт выставка для детей MEGOLEGO" />
+                    </a>
+                </div>
+		        <a href="/news/company/2023-02-15-vpervye-v-yuzhno-sahalinske-projdet-vystavka-dlya-detej-megolego">Впервые в Южно-Сахалинске пройдёт выставка для детей MEGOLEGO</a>
+            </div>
+            <div class="item h5 ">
+                <div class="padding">
+                    <a href="/news/company/2023-02-15-besprovodnye-naushniki-stali-samym-populyarnym-podarkom-k-14-fevralya" title="Беспроводные наушники стали самым популярным подарком к 14 февраля">
+                        <img src="https://astv.ru/content/NewsImage/e9/97/e997874b-0521-487d-a4db-bf6addbc4102_8.jpg" width="126" height="113" title="Беспроводные наушники стали самым популярным подарком к 14 февраля" alt="Беспроводные наушники стали самым популярным подарком к 14 февраля" />
+                    </a>
+                </div>
+		        <a href="/news/company/2023-02-15-besprovodnye-naushniki-stali-samym-populyarnym-podarkom-k-14-fevralya">Беспроводные наушники стали самым популярным подарком к 14 февраля</a>
+            </div>
+            <div class="item h5 display-screen-big">
+                <div class="padding">
+                    <a href="/news/company/2023-02-15-arendnaya-kvartira-stala-sovsem-rodnoj-istoriya-sahalinskoj-sem-i-kupivshej-zhil-e-u-sia" title="&quot;Арендная квартира стала совсем родной&quot;: история сахалинской семьи, купившей жильё у СИА">
+                        <img src="https://astv.ru/content/NewsImage/cd/1c/cd1cc6e9-82b3-40f0-af2f-8c6ac272958f_8.jpg" width="126" height="113" title="&quot;Арендная квартира стала совсем родной&quot;: история сахалинской семьи, купившей жильё у СИА" alt="&quot;Арендная квартира стала совсем родной&quot;: история сахалинской семьи, купившей жильё у СИА" />
+                    </a>
+                </div>
+		        <a href="/news/company/2023-02-15-arendnaya-kvartira-stala-sovsem-rodnoj-istoriya-sahalinskoj-sem-i-kupivshej-zhil-e-u-sia">&quot;Арендная квартира стала совсем родной&quot;: история сахалинской семьи, купившей жильё у СИА</a>
+            </div>
+            <div class="item h5 display-screen-big">
+                <div class="padding">
+                    <a href="/news/company/2023-02-14-yota-darit-14-fevralya-bezlimitnyj-dostup-k-populyarnym-servisam-dlya-znakomstv" title="Yota дарит 14 февраля безлимитный доступ к популярным сервисам для знакомств">
+                        <img src="https://astv.ru/content/NewsImage/5b/ba/5bba919b-7432-4da1-839a-d5816f079f29_8.jpg" width="126" height="113" title="Yota дарит 14 февраля безлимитный доступ к популярным сервисам для знакомств" alt="Yota дарит 14 февраля безлимитный доступ к популярным сервисам для знакомств" />
+                    </a>
+                </div>
+		        <a href="/news/company/2023-02-14-yota-darit-14-fevralya-bezlimitnyj-dostup-k-populyarnym-servisam-dlya-znakomstv">Yota дарит 14 февраля безлимитный доступ к популярным сервисам для знакомств</a>
+            </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+		
+
+		<div class="block_in_main_page">
+    <div class="corner-line h2-rubric">
+        <div class="corner-line-bg">
+            <a href="/Club?filter=main" title="Блоги">Блоги</a>
+            <span class="corner-line-left-small"></span>
+            <span class="corner-line-right-small"></span>
+        </div>
+        <span class="corner-line-left-big"></span>
+        <span class="corner-line-right-big"></span>
+    </div>
+    <div id="blog_upload_content">
+        <nav class="tabs-first tabs-count-3 tabs-line-bild-botton">
+        <a  data-ajax-url="/Club/StartPageBlock?filter=raiting&amp;Rubric=def" href="/club/article/def/raiting" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            По рейтингу
+        </a>
+        <a class="active" data-ajax-url="/Club/StartPageBlock?filter=main&amp;Rubric=def" href="/club/article" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            Новые
+                <span class="corner"></span>
+        </a>
+        <a  data-ajax-url="/Club/StartPageBlock?filter=commented&amp;Rubric=def" href="/club/article/def/commented" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            Обсуждают
+        </a>
+        <a  data-ajax-url="/Club/StartPageBlock?filter=popular&amp;Rubric=def" href="/club/article/def/popular" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            Читают
+        </a>
+</nav>
+<nav class="tabs-second">
+        <a class="active" data-ajax-url="/Club/StartPageBlock?filter=main&amp;rubric=def" href="/club/article" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            Все вместе
+        </a>
+        <a  data-ajax-url="/Club/StartPageBlock?filter=main&amp;rubric=editor" href="/club/article/editor" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            Редакционные
+        </a>
+        <a  data-ajax-url="/Club/StartPageBlock?filter=main&amp;rubric=community" href="/club/article/community" data-ajax-mode="replace" data-ajax-update="#blog_upload_content" data-ajax-method="POST" data-ajax="true">
+            Коллективные
+        </a>
+</nav>
+<div class="listitems width-100-tiny">
+        <section class="item width-100-tiny">
+            <div class="padding-05">
+                <a title="МасленичноТрадиционно со всей Европы доброутреннее с конкурсом)" href="/club/blog/utro/VNukGibyEkKrMLpG81gvsA">
+                    
+                    
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/ff/11/ff1183ee-c667-4b78-b3be-6192260d08f4_5.jpg" width="288" height="178" alt="МасленичноТрадиционно со всей Европы доброутреннее с конкурсом)" />
+                </a>
+            </div>
+            <div class="padding-05 h3-rubric">
+                <a class="sec-rubric" href="/club/blog/utro/main">Утро с АСТВ</a>
+            </div>
+            <div>
+                <h1 class="h4"><a href="/club/blog/utro/VNukGibyEkKrMLpG81gvsA">МасленичноТрадиционно со всей Европы доброутреннее с конкурсом)</a></h1>
+            </div>
+		    
+<div class="systemInfoNew">
+                <span class="ico-p">вчера,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 30</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 370</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> 3</span>
+</div>
+        </section>
+        <section class="item width-100-tiny">
+            <div class="padding-05">
+                <a title="С Днем орнитолога." href="/club/blog/sahalinskiy-parizh-blog-grigoriya-smekalova/QxeDi0vhwUeSOtuexA9KXA">
+                    
+                    
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/bd/2e/bd2e1391-0a8b-4c7f-9c02-78f3bba43792_5.jpg" width="288" height="178" alt="С Днем орнитолога." />
+                </a>
+            </div>
+            <div class="padding-05 h3-rubric">
+                <a class="sec-rubric" href="/club/blog/sahalinskiy-parizh-blog-grigoriya-smekalova/main">Сахалинский Париж - блог Григория Смекалова</a>
+            </div>
+            <div>
+                <h1 class="h4"><a href="/club/blog/sahalinskiy-parizh-blog-grigoriya-smekalova/QxeDi0vhwUeSOtuexA9KXA">С Днем орнитолога.</a></h1>
+            </div>
+		    
+<div class="systemInfoNew">
+                <span class="ico-p">19 февраля,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 3</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 357</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> 7</span>
+</div>
+        </section>
+        <section class="item width-100-tiny">
+            <div class="padding-05">
+                <a title="МестамиМимишноАкварельное доброутреннее с конкурсом)" href="/club/blog/utro/IQjR6sMvCEWDBmOq7noBLQ">
+                    
+                    
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/7a/fd/7afd778e-49df-4929-b4f5-8acc7c7c82cf_5.jpg" width="288" height="178" alt="МестамиМимишноАкварельное доброутреннее с конкурсом)" />
+                </a>
+            </div>
+            <div class="padding-05 h3-rubric">
+                <a class="sec-rubric" href="/club/blog/utro/main">Утро с АСТВ</a>
+            </div>
+            <div>
+                <h1 class="h4"><a href="/club/blog/utro/IQjR6sMvCEWDBmOq7noBLQ">МестамиМимишноАкварельное доброутреннее с конкурсом)</a></h1>
+            </div>
+		    
+<div class="systemInfoNew">
+                <span class="ico-p">17 февраля,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 20</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 683</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> 2</span>
+</div>
+        </section>
+        <section class="item width-100-tiny">
+            <div class="padding-05">
+                <a title="Антикварные чудесные столы и шкафы в доброутреннем с конкурсом)" href="/club/blog/utro/qZxmhOcRB061sQ1li0hYbg">
+                    
+                    
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/7e/a6/7ea665cd-b1a2-497b-aa9f-c73886c1161a_5.jpg" width="288" height="178" alt="Антикварные чудесные столы и шкафы в доброутреннем с конкурсом)" />
+                </a>
+            </div>
+            <div class="padding-05 h3-rubric">
+                <a class="sec-rubric" href="/club/blog/utro/main">Утро с АСТВ</a>
+            </div>
+            <div>
+                <h1 class="h4"><a href="/club/blog/utro/qZxmhOcRB061sQ1li0hYbg">Антикварные чудесные столы и шкафы в доброутреннем с конкурсом)</a></h1>
+            </div>
+		    
+<div class="systemInfoNew">
+            <span class="ico-p icon icon-youtube-play"></span>
+            <span class="ico-p">16 февраля,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 18</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 840</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> 1</span>
+</div>
+        </section>
+        <section class="item width-100-tiny">
+            <div class="padding-05">
+                <a title="ФлорийскоМозаичное доброутреннее с конкурсом)" href="/club/blog/utro/Np1TgsSaXE2K1Y_ueg1rNQ">
+                    
+                    
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/dc/ce/dcce0db7-e593-4d5f-acaf-0cf583109659_5.jpg" width="288" height="178" alt="ФлорийскоМозаичное доброутреннее с конкурсом)" />
+                </a>
+            </div>
+            <div class="padding-05 h3-rubric">
+                <a class="sec-rubric" href="/club/blog/utro/main">Утро с АСТВ</a>
+            </div>
+            <div>
+                <h1 class="h4"><a href="/club/blog/utro/Np1TgsSaXE2K1Y_ueg1rNQ">ФлорийскоМозаичное доброутреннее с конкурсом)</a></h1>
+            </div>
+		    
+<div class="systemInfoNew">
+                <span class="ico-p">15 февраля,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 23</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 959</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> 2</span>
+</div>
+        </section>
+        <section class="item width-100-tiny">
+            <div class="padding-05">
+                <a title="ШелковоКартинное доброутреннее с конкурсом)" href="/club/blog/utro/jubXf8398EKVTgc74788kg">
+                    
+                    
+
+
+<img class="section-img" src="https://astv.ru/content/BlogArticle/72/e5/72e50a21-6e10-460b-9c7d-942de96a97b3_5.jpg" width="288" height="178" alt="ШелковоКартинное доброутреннее с конкурсом)" />
+                </a>
+            </div>
+            <div class="padding-05 h3-rubric">
+                <a class="sec-rubric" href="/club/blog/utro/main">Утро с АСТВ</a>
+            </div>
+            <div>
+                <h1 class="h4"><a href="/club/blog/utro/jubXf8398EKVTgc74788kg">ШелковоКартинное доброутреннее с конкурсом)</a></h1>
+            </div>
+		    
+<div class="systemInfoNew">
+            <span class="ico-p icon icon-youtube-play"></span>
+            <span class="ico-p">14 февраля,</span>
+            <span class="ico-p" title="Комментарии"><span class="icon icon-comment"></span> 18</span>
+            <span class="ico-p" title="Просмотров"><span class="icon icon-eye"></span> 941</span>
+            <span class="ico-p" title="Рейтинг"><span class="icon icon-like-filled"></span> 4</span>
+</div>
+        </section>
+    <div class="clear"></div>
+</div>
+    </div>
+    
+
+</div>
+
+		
+
+		<div class="socialBlock padding-2  tiny-hide">
+	<div class="socialBlockItem">
+		<div class="socialBlockHead"><a href="https://vk.com/club40123810">ВКонтакте</a></div>
+		<script type="text/javascript" src="//vk.com/js/api/openapi.js?82"></script>
+		<div id="vk_groups"></div>
+		<script type="text/javascript">
+			VK.Widgets.Group("vk_groups", { mode: 0, width: "283", height: "380" }, 40123810);
+		</script>
+	</div>
+	<div class="socialBlockItem">
+		<div class="socialBlockHead"><a href="https://www.odnoklassniki.ru/group/52675014951136">Одноклассники</a></div>
+		<div id="ok_group_widget"></div>
+		<script>
+			!function (d, id, did, st) {
+				var js = d.createElement("script");
+				js.src = "https://connect.ok.ru/connect.js";
+				js.onload = js.onreadystatechange = function () {
+					if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+						if (!this.executed) {
+							this.executed = true;
+							setTimeout(function () {
+								OK.CONNECT.insertGroupWidget(id, did, st);
+							}, 0);
+						}
+					}
+				}
+				d.documentElement.appendChild(js);
+			}(document, "ok_group_widget", "52675014951136", "{width:288,height:383}");
+		</script>
+
+		
+	</div>
+	<div class="socialBlockItem display-screen-big" style="overflow: hidden">
+		<div class="socialBlockHead"><a href="https://t.me/astv_ru">Telegram</a></div>
+
+		<iframe src='https://instagram.astv.ru/index.php?adaptive=true&inline=3&view=12' scrolling='no' frameborder='no' style='border:none;width:287px;height:383px;overflow:hidden;'></iframe>
+		
+
+	</div>
+</div>
+
+		
+	</div>
+</div>
+<div class="rightBlock display-screen-medium-big tiny-hide">
+	<!-- Group Begin:nebo-1-->
+<div class="banner240x400">
+	<div>
+		<div class="padding">
+			<div id="vbid452629-a"></div>
+		</div>
+		<div class="padding">
+			<div id="vbid452629-b"></div>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		(function() {
+			var w = window,
+				d = document,
+				e = d.documentElement,
+				g = d.getElementsByTagName("body")[0],
+				x = w.innerWidth || e.clientWidth || g.clientWidth;
+			if (x > 983) {
+				window.loadbannersastv(46, "vbid452629-a");
+				window.loadbannersastv(78, "vbid452629-b");
+			}
+		})();
+	</script>
+</div>
+<!-- Group End:nebo-1-->
+	<!-- Group Begin:nebo-2-->
+<div class="banner240x400">
+	<div>
+		<div class="padding">
+			<div id="vbid899915-a"></div>
+		</div>
+		<div class="padding">
+			<div id="vbid899915-b"></div>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		(function() {
+			var w = window,
+				d = document,
+				e = d.documentElement,
+				g = d.getElementsByTagName("body")[0],
+				x = w.innerWidth || e.clientWidth || g.clientWidth;
+			if (x > 983) {
+				window.loadbannersastv(47, "vbid899915-a");
+			}
+		})();
+	</script>
+	<script type="text/javascript">
+		(function() {
+			var w = window,
+				d = document,
+				e = d.documentElement,
+				g = d.getElementsByTagName("body")[0],
+				x = w.innerWidth || e.clientWidth || g.clientWidth;
+			if (x > 983) {
+				window.loadbannersastv(79, "vbid899915-b");
+			}
+		})();
+	</script>
+	<script type="text/javascript">
+		(function() {
+			window.Ya.adfoxCode.create({
+				ownerId: 284301,
+				containerId: 'adfox_158450732248249995',
+				params: {
+					pp: 'g',
+					ps: 'dcko',
+					p2: 'gkfg'
+				}
+			});
+		})();
+	</script>
+<!-- Group End:nebo-2-->
+	
+</div>
+
+
+
+			<div class="clear"></div>
+		</div>
+		
+		<div class="footer">
+	<div class="footer-center autowidth">
+		<div class="listitems width-100-tiny">
+			<!-- Group Begin:footer-sections-->
+<section class="item">
+<div class="h3-rubric padding">
+<a href="/news">Новости</a>
+</div>
+<nav>
+<a href="/news/main/editor">– Выбор редакции </a>
+<a href="/news/main/popular">– Самые просматриваемые </a>
+<a href="/news/main/commented">– Самые обсуждаемые</a>
+</nav>
+<nav>
+<a href="/news/mir">– Мир</a>
+<a href="/news/society">– Общество</a>
+<a href="/news/politics">– Политика и экономика</a>
+<a href="/news/criminal">– Происшествия</a>
+<a href="/news/conflict">– Конфликт</a>
+<a href="/news/culture">– Культура</a>
+<a href="/news/sport">– Спорт</a>
+<a href="/news/nash-den">– Наш день</a>
+<a href="/news/city">– Город</a>
+<a href="/news/public">– Материалы</a>
+</nav>
+<nav>
+<a href="/photo">– Фото</a>
+<a href="/video">– Видео</a>
+</nav>
+</section>
+<section class="item">
+<div class="h3-rubric padding">
+<a href="/club/blog">Блоги</a>
+</div>
+<nav>
+<a href="/club/article/def/raiting">– Самые рейтинговые</a>
+<a href="/club/article/def/popular">– Самые просматриваемые</a>
+<a href="/club/article/def/commented">– Самые обсуждаемые</a>
+</nav>
+<nav>
+<a href="/club/allblog">– Редакционные</a>
+<a style="padding-left:15px" href="/club/blog/utro">Утро с АСТВ</a>
+<a style="padding-left:15px" href="/club/blog/konkursi-astv">Конкурсы АСТВ</a>
+<a style="padding-left:15px" href="/club/blog/internet-prostor">Интернет-простор</a>
+<a href="/club/allblog/community">– Коллективные</a>
+<a style="padding-left:15px" href="/club/blog/narodniy-zhurnalist">Народный журналист</a>
+<a style="padding-left:15px" href="/club/blog/hochu-skazat">Хочу сказать</a>
+<a style="padding-left:15px" href="/club/blog/fotoalbom">Фотоальбом</a>
+<a href="/club/allblog/comersical">– Коммерческие</a>
+</nav>
+</section>
+<section class="item">
+<div class="h3-rubric padding">
+<a href="/city">Город (архив)</a>
+</div>
+<nav>
+<a href="/city/main/default/popular">– Читают</a>
+<a href="/city/main/default/commented">– Обсуждают</a>
+</nav>
+<nav>
+<a href="/city/reviews">– Обзоры</a>
+<a href="/city/people">– Люди</a>
+</nav>
+</section>
+<section class="item">
+<div class="h3-rubric  padding-05">
+<a href="/pressa">Пресса</a>
+</div>
+<nav>
+<a href="/pressa/telemir">– ТелеМир</a>
+</nav>
+</section>
+<section class="item">
+<div class="h3-rubric">
+<a href="/club/photo">Фотоконкурсы</a>
+</div>
+<div class="h3-rubric">
+<a href="/afisha">Афиша</a>
+</div>
+</section>
+<section class="item">
+<div class="h3-rubric padding-05">
+<a href="http://radio.astv.ru/" rel="nofollow" target="_blank">Радио онлайн</a>
+</div>
+<div class="h3-rubric padding-05">
+<a href="https://www.youtube.com/channel/UCLvra3KbZ8boHN3Viln_tWA" rel="nofollow" target="_blank">Канал Youtube</a>
+</div>
+</section>
+<div>© 2012–2023 г., ИП Филин М.С.  Все права защищены. Ни одна часть содержания сайта ASTV.RU не может быть воспроизведена или передана  каким-либо образом, электронным, механическим, методом фотокопирования, записи или как-то ещё без письменного разрешения ИП Филин М.С.
+<br />* Соцсеть, признанная в России экстремистской</div>
+<!-- Group End:footer-sections-->
+		</div>
+		<div class="footer-info">
+			<div class="footer-info-div">
+				<section class="item width-100-tiny">
+					<!-- Group Begin:footer-mains-->
+<div class="padding-2">
+<a href="/">
+<img src="/Images/footer/logo_futer_v2.png" width="240" height="70" alt="АСТВ" style="width:240px">
+</a>
+</div>
+<div class="padding">
+<noindex>
+<nav class="footer-social">
+<a href="/rss/lenta" target="_blank">
+<img src="/Images/footer/footer_logo_rss.png" width="28" height="28" alt="RSS" title="RSS">
+</a>
+<a href="https://wa.me/79621251515" rel="nofollow" target="_blank">
+<img src="/Content/whatsapp/footer/footer_logo_whatsapp.png" width="28" height="28" alt="WhatsApp" title="WhatsApp">
+</a>
+<a href="https://t.me/astv_ru" rel="nofollow" target="_blank">
+<img src="/Content/whatsapp/footer/footer_logo_telegram.png" width="28" height="28" alt="Telegram" title="Telegram">
+</a>
+<a href="http://www.odnoklassniki.ru/group/52675014951136" rel="nofollow" target="_blank">
+<img src="/Images/footer/footer_logo_od.png" width="28" height="28" alt="Odnoklassniki" title="Odnoklassniki">
+</a>
+<a href="https://vk.com/club40123810" rel="nofollow" target="_blank">
+<img src="/Images/footer/footer_logo_vk.png" width="28" height="28" alt="VK" title="VK">
+</a>
+<a href="https://www.tiktok.com/@astv.ru" rel="nofollow" target="_blank">
+<img src="/Content/whatsapp/footer/footer_logo_tiktok.png" width="28" height="28" alt="TikTok" title="TikTok">
+</a>
+</nav>
+</noindex>
+<div class="clear"></div>
+</div>
+<div class="padding">
+<div class="footer-email-border">
+<a href="mailto:info@astv.ru">info@astv.ru</a>
+</div>
+</div>
+<div class="padding">
+<nav>
+<a href="javascript:void(0);" onclick="$(window).trigger('myslo-help');">– Помощь</a>
+<a href="/pages/reklama">– Реклама</a>
+<a href="/pages/vakansii">– Вакансии</a>
+<a href="/pages/polzovatelskoe-soglashenie">– Пользовательское соглашение</a>
+<a href="/pages/subscription">– E-mail рассылки</a>
+<a href="/pages/kontakti">– Контакты</a>
+</nav>
+<noindex>
+<p><a href="https://play.google.com/store/apps/details?id=com.gaincode.radiostream.client.android.astv&amp;hl=ru&amp;gl=US" rel="nofollow" target="_blank"><img alt="" src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" style="width: 200px; height: 43px;"></a><br>&nbsp;</p>
+<p><a href="https://apps.apple.com/ru/app/аств/id1500413559" rel="nofollow" target="_blank"><img alt="" src="https://ff.astv.ru/sites/default/files/appstore.png" style="width: 200px; height: 63px;"></a></p>
+</noindex>
+</div>
+<!-- Group End:footer-mains-->
+				</section>
+				<section class="item width-100-tiny">
+					<p class="padding">
+						<img src="/Images/footer/footer_logo_18.png" width="60" height="61" alt="18+" style="width:60px;" />
+					</p>
+					<p class="h6">
+						<!-- Group Begin:footer-support-->
+Отдел новостей телекомпании АСТВ:<br /><span style="color:red;">(4242)</span> 49-15-15
+<br />Редакция сайта ASTV.RU:<br /><span style="color:red;">(4242)</span> 49-15-34, 49-15-95
+<br />Отдел рекламы: <span style="color:red;">(4242)</span> 49-16-23
+<br />e-mail: <a href="mailto:region-sdr@astv.ru">region-sdr@astv.ru</a>
+<br />Тех.отдел: <span style="color:red;">(4242)</span> 49-15-32
+<br />e-mail: <a href="mailto:contact@astv.ru">contact@astv.ru</a>
+<!-- Group End:footer-support-->
+					</p>
+					<div class="counter">
+						<!-- Group Begin:script-counter-->
+<noindex><span><a href="https://metrika.yandex.ru/stat/?id=16885702&amp;from=informer" rel="nofollow"
+target="_blank"></noindex><img src="https://informer.yandex.ru/informer/16885702/3_0_ECECECFF_ECECECFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="16885702" data-lang="ru" /></a>
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(16885702, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/16885702" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</span>
+<span>
+	<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+</script><!--/LiveInternet-->
+</span>
+<a href="https://astv.ru/news/public">
+<span style="width:20px; height:20px;display: block;">
+</span>
+</a>
+<!--LiveInternet second counter--><a href="https://www.liveinternet.ru/click;news"
+target="_blank"><img id="licntF2EC" width="0" height="0" style="border:0" 
+title="LiveInternet"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licntF2EC").src=
+"https://counter.yadro.ru/hit;news?t44.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+<!-- Group End:script-counter-->
+					</div>
+				</section>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+	
+
+	<noindex>
+    <div class="modal-window-content-html"></div>
+</noindex>
+
+	<div id="popUp"></div>
+
+	<script type="text/javascript" src="/Scripts/modal_popup.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/modal_window.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/init_modal_window.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/slider_blog.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.address-1.5.min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery-ui.min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.ui.datepicker-ru.min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.animate-colors-min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.uploadify.min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.uploadifive.min.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.myslo_slider_window.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.form.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/myslo_window.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/raiting.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/comment_smile.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/comments.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/search_user.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/comment-edit.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/dialog.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/podpiska.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/menu-scroller.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.elastic.source.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/lineblock.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/myslo_social_shared.js?v=53517805"></script>
+<script type="text/javascript" src="/Scripts/jquery.nicescroll.min.js?v=53517805"></script>
+
+
+	<script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+	<script type="text/javascript" src="/Scripts/firebasepush.js?v=53517805"></script>
+
+
+	
+	<script type="text/javascript" src="/Scripts/jquery.fotogallery.js?v=53517805"></script>
+
+
+
+
+	<!-- Group Begin:script-footer-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function(d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter16885702 = new Ya.Metrika({
+					id: 16885702,
+					clickmap: true,
+					trackLinks: true,
+					accurateTrackBounce: true,
+					webvisor: true
+				});
+			} catch (e) {}
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function() {
+				n.parentNode.insertBefore(s, n);
+			};
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else {
+			f();
+		}
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript
+	><div><img src="https://mc.yandex.ru/watch/16885702" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function(i, s, o, g, r, a, m) {
+		i["GoogleAnalyticsObject"] = r;
+		(i[r] =
+			i[r] ||
+			function() {
+				(i[r].q = i[r].q || []).push(arguments);
+			}),
+			(i[r].l = 1 * new Date());
+		(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m);
+	})(window, document, "script", "https://www.google-analytics.com/analytics.js", "ga");
+	ga("create", "UA-91863345-1", "auto");
+	ga("send", "pageview");
+</script>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+	var _tmr = window._tmr || (window._tmr = []);
+	_tmr.push({ id: "2858531", type: "pageView", start: new Date().getTime() });
+	(function(d, w, id) {
+		if (d.getElementById(id)) return;
+		var ts = d.createElement("script");
+		ts.type = "text/javascript";
+		ts.async = true;
+		ts.id = id;
+		ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+		var f = function() {
+			var s = d.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(ts, s);
+		};
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else {
+			f();
+		}
+	})(document, window, "topmailru-code");</script
+><noscript>
+	<div style="position:absolute;left:-10000px;">
+		<img
+			src="//top-fwz1.mail.ru/counter?id=2858531;js=na"
+			style="border:0;"
+			height="1"
+			width="1"
+			alt="Рейтинг@Mail.ru"
+		/>
+	</div>
+</noscript>
+<!-- //Rating@Mail.ru counter -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "6ffee67bf1534d6586e3a08d13aec55d"}'></script>
+<!-- Group End:script-footer-->
+<script>(function(){var js = "window['__CF$cv$params']={r:'79c85fc0a9c63837',m:'Wzx2us.5AV23UX2xK.hGrigTKaZGXJuUrLGcLpzG.80-1676907976-0-ASiGQbcxqTfq/qhca9jfZFOSLAyzyYTddI+vRf5PG6dz3d8VDty+lrGGSjZkRfh/uxWVHcpzImhdN/nj2LJ1IKdNFRRAufLUmhYSmlmt9PfmlPz4c98MKfp+G1UmOKmPqg==',s:[0xf47e6db05f,0x31997e6af0],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

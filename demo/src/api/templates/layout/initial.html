@@ -1,0 +1,192 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static 'assets/css/style.css' %}">
+    <!-- Useful meta tags -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="robots" content="index, follow">
+    <meta name="google" content="notranslate">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <title>
+        Поисковик Итис
+    </title>
+
+    <style>
+        html {
+    height: 100%;
+}
+
+        *, :after, :before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    background-color: #fbfbfb;
+}
+
+.home {
+    width: 100%;
+    height: 100%;
+}
+
+.home__center {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home__start {
+    width: 100%;
+    height: 100%;
+}
+
+.search__form {
+    width: 956px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 60px;
+}
+
+.search__form--start {
+    width: 100%;
+    max-width: 838px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 60px;
+}
+
+
+.seatch__title {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #101010;
+    font-size: 24px;
+}
+
+.search__block {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.search__block--start {
+     width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.search__input--global {
+    width: 80%;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 2px 10px 0 rgb(0 0 0 / 10%);
+    padding: 18px 18px;
+    font-size: 16px;
+    color: #000;
+    border: none;
+    font-weight: 600;
+    outline: 0;
+}
+
+.search__input--start {
+    width: 70%;
+}
+
+.search__input--global:focus {
+    outline: 0;
+}
+
+.btn__search {
+    box-shadow: 0 2px 10px 0 rgb(0 0 0 / 10%);
+    padding: 18px 25px;
+    border-radius: 15px;
+    background: #fff;
+    border: 0;
+    cursor: pointer;
+    outline: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-left: 15px;
+}
+
+.search__results {
+    list-style: none;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 60px;
+    max-width: 738px;
+}
+
+.search__result--item {
+    margin-bottom: 10px;
+    padding: 12px 16px;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px 0#0d234308;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.search__result--link {
+    font-weight: 400;
+    white-space: normal;
+    display: inline-block;
+    min-width: 0;
+    max-width: 100%;
+    padding: 10px 2px 2px 10px;
+    vertical-align: top;
+    text-overflow: ellipsis;
+    color: #000080;
+    font-size: 18px;
+
+    text-decoration: none;
+}
+
+.search__result--domen {
+    padding: 3px 10px;
+    font-size: 14px;
+    color: #006000;
+
+    text-decoration: none;
+}
+
+.search__result--domen:hover {
+    color: #d00;
+}
+
+.search__result--description {
+    font-size: 14px;
+    color: #333;
+    padding: 10px 2px 2px 10px;
+}
+
+.search__result--link:hover {
+   color: #d00;
+}
+    </style>
+
+</head>
+<body>
+    <div class="home">
+        {% block page %}
+        {% endblock %}
+    </div>
+</body>
+</html>

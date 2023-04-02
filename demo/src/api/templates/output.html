@@ -1,0 +1,29 @@
+{% extends 'layout/initial.html' %}
+{% load static %}
+
+{% block page %}
+<div class="home__start">
+    <form method="post" action="{% url 'search' %}" class="search__form--start">
+        {% csrf_token %}
+
+        <div class="search__block--start">
+           <input value="{{search}}" type="text" class="search__input--global search__input--start" name="search" placeholder="Поиск" required />
+
+            <button type="submit" class="btn__search">Начать поиск</button>
+        </div>
+    </form>
+
+    <ul class="search__results">
+         {% for page in pages %}
+         <li class="search__result--item">
+            <a href="{{page.href}}" target="_blank" class="search__result--link">{{ page.title }}</a>
+
+            <a href="{{page.href}}" target="_blank" class="search__result--domen">{{ page.domen }}</a>
+
+            <span class="search__result--description">{{page.description}}</span>
+        </li>
+ {% endfor %}
+
+    </ul>
+</div>
+{% endblock %}

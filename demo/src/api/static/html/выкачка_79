@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/><link rel="dns-prefetch" href="//www.google-analytics.com"/><link rel="dns-prefetch" href="//mc.yandex.ru"/><link rel="shortcut icon" type="image/png" href="https://d-assets.2gis.ru/favicon.png"/><link rel="apple-touch-icon-precomposed" href="https://d-assets.2gis.ru/apple-icon.png"/><title>2ГИС</title><style>
+@font-face {
+    font-family: SuisseIntl;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://d-assets.2gis.ru/fonts/SuisseIntl-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: SuisseIntl;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://d-assets.2gis.ru/fonts/SuisseIntl-Bold.woff2") format("woff2");
+}
+
+body {
+  overflow: hidden;
+  font-family: SuisseIntl, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+#acceptRiskButton {
+  display: block;
+  border: none;
+  margin: 0;
+  padding: 12px 24px;
+  -webkit-appearance: none;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 400;
+  font-variant-numeric: oldstyle-nums;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: inline-block;
+  border-radius: 4px;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 1);
+  background: #299400;
+}
+#acceptRiskButton:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+.link {
+  font-size: 11px;
+  line-height: 12px;
+  font-weight: 400;
+  font-variant-numeric: oldstyle-nums;
+  color: #929292;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-decoration: none;
+}
+  </style><meta property="og:image" content="https://d-assets.2gis.ru/promo/social.png"/></head><body><div id="root"><div dir="ltr" style="height:100%"><div style="position:absolute;z-index:0;top:0;bottom:0;left:0;right:0;display:table;text-align:center;height:100%;width:100%;background:#f2f2f2;font-size:13px;line-height:16px;font-weight:400;font-variant-numeric:oldstyle-nums"><div style="display:table-cell;text-align:center;vertical-align:middle"><div style="display:inline-block;width:98px;height:101px;padding-top:18px;padding-bottom:25px;padding-left:15px;padding-right:15px"><div style="background-image:url(https://d-assets.2gis.ru/museum/icon200.png);width:100%;height:100%;max-width:100%;max-height:100%" data-n="wat-image"></div></div><div style="font-size:18px;line-height:20px;font-weight:400;word-wrap:break-word;padding-bottom:16px">2ГИС советует обновить браузер</div><div style="margin:0 50px;padding-bottom:24px;text-align:center;white-space:pre-wrap">2ГИС прекрасно работает в новых браузерах, а в старых могут быть неожиданности. 
+У вас не самый новый браузер, и мы рекомендуем его обновить:</div><div style="text-align:center"><div style="width:112px;height:128px;display:inline-block;border-radius:6px;border:solid 1px #e6e6e6;margin:0 8px"><a href="https://www.google.ru/chrome/browser/" target="_blank" class="link"><div style="padding-top:16px;padding-bottom:4px;padding-left:16px;padding-right:16px;width:80px;height:80px"><div style="background-image:url(https://d-assets.2gis.ru/museum/google-chrome.png);width:100%;height:100%;max-width:100%;max-height:100%" data-n="wat-image"></div></div><div style="font-size:11px;line-height:12px;font-weight:400;font-variant-numeric:oldstyle-nums;color:#929292;text-align:center;user-select:none">Chrome</div></a></div><div style="width:112px;height:128px;display:inline-block;border-radius:6px;border:solid 1px #e6e6e6;margin:0 8px"><a href="https://www.mozilla.org/ru/firefox/new/" target="_blank" class="link"><div style="padding-top:16px;padding-bottom:4px;padding-left:16px;padding-right:16px;width:80px;height:80px"><div style="background-image:url(https://d-assets.2gis.ru/museum/mozilla-firefox.png);width:100%;height:100%;max-width:100%;max-height:100%" data-n="wat-image"></div></div><div style="font-size:11px;line-height:12px;font-weight:400;font-variant-numeric:oldstyle-nums;color:#929292;text-align:center;user-select:none">Firefox</div></a></div><div style="width:112px;height:128px;display:inline-block;border-radius:6px;border:solid 1px #e6e6e6;margin:0 8px"><a href="http://www.opera.com/" target="_blank" class="link"><div style="padding-top:16px;padding-bottom:4px;padding-left:16px;padding-right:16px;width:80px;height:80px"><div style="background-image:url(https://d-assets.2gis.ru/museum/opera.png);width:100%;height:100%;max-width:100%;max-height:100%" data-n="wat-image"></div></div><div style="font-size:11px;line-height:12px;font-weight:400;font-variant-numeric:oldstyle-nums;color:#929292;text-align:center;user-select:none">Opera</div></a></div></div><div style="padding-top:24px;padding-bottom:8px;padding-left:0;padding-right:0;text-align:center">Но если не хотите, мы не настаиваем!</div><a id="acceptRiskButton" href="https://2gis.ru/">Пропустить обновление браузера и перейти в 2ГИС</a></div></div></div></div>&lt;script&gt;!function(n,e){var t,o,i,c=[],f={passive:!0,capture:!0},r=new Date,a=&quot;pointerup&quot;,u=&quot;pointercancel&quot;;function p(n,c){t||(t=c,o=n,i=new Date,w(e),s())}function s(){o&gt;=0&amp;&amp;o&lt;i-r&amp;&amp;(c.forEach(function(n){n(o,t)}),c=[])}function l(t){if(t.cancelable){var o=(t.timeStamp&gt;1e12?new Date:performance.now())-t.timeStamp;&quot;pointerdown&quot;==t.type?function(t,o){function i(){p(t,o),r()}function c(){r()}function r(){e(a,i,f),e(u,c,f)}n(a,i,f),n(u,c,f)}(o,t):p(o,t)}}function w(n){[&quot;click&quot;,&quot;mousedown&quot;,&quot;keydown&quot;,&quot;touchstart&quot;,&quot;pointerdown&quot;].forEach(function(e){n(e,l,f)})}w(n),self.perfMetrics=self.perfMetrics||{},self.perfMetrics.onFirstInputDelay=function(n){c.push(n),s()}}(addEventListener,removeEventListener);;var __features=[];try{if(!Array.prototype.flat || !Array.prototype.flatMap){__features.push(&quot;Array.flatMapAndFlat&quot;)}if(false){__features.push(&quot;firstInputDelay&quot;)}if(!window.IntersectionObserver){__features.push(&quot;IntersectionObserver&quot;)}if(!Object.assign){__features.push(&quot;Object.assign&quot;)}if(!window.requestIdleCallback){__features.push(&quot;requestIdleCallback&quot;)}if(!window.Worker){__features.push(&quot;Worker&quot;)}if(!window.ResizeObserver){__features.push(&quot;ResizeObserver&quot;)}}catch(e){};if (__features.length){document.write(&#x27;&lt;script src=&quot;/_/polyfills.min.js?features=&#x27;+__features.join(&#x27;,&#x27;)+&#x27;&quot;&gt;&lt;/scr&#x27;+&#x27;ipt&gt;&#x27;)}&lt;/script&gt;<script>var __analyticsCfg = JSON.parse('{"deviceType":"desktop","google":{"counterId":"UA-25529177-1","cookieExpires":63072000},"yandex":{"counterId":"837864","webvisor":false,"fallback":false},"tns":true,"liveInternet":{"countryCode":"ru"},"vkPixel":{"key":"VK-RTRG-518300-5Yb9V"}}');</script><script>(self.webpackChunk=self.webpackChunk||[]).push([[1142],{70567:()=>{"use strict";const e="online5";const n=e=>{const n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://vk.com/js/api/openapi.js?168",n.onload=function(){window.VK.Retargeting.Init(e),window.VK&&window.VK.Retargeting.Hit()},document.head.appendChild(n)};let t="";const o=window.__analyticsCfg||{};var i,a;o.google&&(!function(n){const{counterId:t,cookieExpires:o,deviceType:i}=n;var a,c,r,s,w,d;a=window,c=document,r="script",s="ga",a.GoogleAnalyticsObject=s,a.ga=a.ga||function(){(a.ga.q=a.ga.q||[]).push(arguments)},a.ga.l=1*new Date,w=c.createElement(r),d=c.getElementsByTagName(r)[0],w.async=1,w.src="https://www.google-analytics.com/analytics.js",d.parentNode.insertBefore(w,d),window.ga("create",t,{name:e,cookieDomain:"auto",cookieExpires:o}),window.ga("online5.require","displayfeatures"),window.ga("online5.set","dimension10",i),window.ga("online5.set","checkProtocolTask",null)}(Object.assign(Object.assign({},o.google),{deviceType:o.deviceType})),window.ga&&window.ga("online5.send","pageview",{page:window.location.pathname+window.location.search,location:window.location.origin+window.location.pathname+window.location.search,title:document.title})),o.yandex&&(!function(e){const{counterId:n,webvisor:t,fallback:o}=e;var i,a,c,r,s,w;i=window,a=document,c="script",r=o?"//cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js":"//mc.yandex.ru/metrika/tag.js",i.ym=i.ym||function(){(i.ym.a=i.ym.a||[]).push(arguments)},i.ym.l=1*new Date,s=a.createElement(c),w=a.getElementsByTagName(c)[0],s.async=1,s.src=r,w.parentNode.insertBefore(s,w),window.ym_default=window.ym.bind(window,n),window.ym_default("init",{webvisor:t,clickmap:!1,trackLinks:!0,accurateTrackBounce:!0,trackHash:!0})}(o.yandex),window.ym_default&&window.ym_default("hit",window.location.origin+window.location.pathname+window.location.search,{title:document.title})),o.facebookPixel&&(!function(e){const{counterId:n,isImgMethod:t}=e;if(t){if(window.fbqImageTrack)return;window.fbqImageTrack={isImgMethod:t,counterId:n}}else{var o,i,a,c,r,s;o=window,i=document,a="script",o.fbq||(c=o.fbq=function(){c.callMethod?c.callMethod.apply(c,arguments):c.queue.push(arguments)},o._fbq||(o._fbq=c),c.push=c,c.loaded=!0,c.version="2.0",c.queue=[],(r=i.createElement(a)).async=!0,r.src="https://connect.facebook.net/en_US/fbevents.js",(s=i.getElementsByTagName(a)[0]).parentNode.insertBefore(r,s)),window.fbq("init",n)}}(o.facebookPixel),o.facebookPixel.isImgMethod?(null===(i=window.fbqImageTrack)||void 0===i?void 0:i.isImgMethod)&&((new Image).src=`https://www.facebook.com/tr?id=${window.fbqImageTrack.counterId}&ev=PageView&hash=${Math.random()}`):window.fbq("track","PageView")),o.vkPixel&&n(o.vkPixel.key),o.tns&&(function(e,n,t){(e[t]=e[t]||[]).push((function(){try{window.tnsCounter2gis_ru=new TNS.TnsCounter({account:"2gis_ru",tmsec:"2gis_site"})}catch(e){}}));var o=n.createElement("script");o.type="text/javascript",o.async=!0,o.src=("https:"==n.location.protocol?"https:":"http:")+"//www.tns-counter.ru/tcounter.js";var i=n.getElementsByTagName("script")[0];i.parentNode.insertBefore(o,i)}(window,document,"tnscounter_callback"),function(){function e(){window.tnsCounter2gis_ru.hit(void 0,window.location.href,(t||document.referrer).replace(/\*/g,"%2a")),t=window.location.origin+window.location.pathname}(window.tnsCounter2gis_ru||window.tnscounter_callback)&&(window.tnsCounter2gis_ru?e():window.tnscounter_callback.push(e))}()),o.liveInternet&&(a=o.liveInternet,(new Image).src=function(e){const{countryCode:n,projectCode:t}=e;let o="//counter.yadro.ru/hit;2gis/online";return o+=`/${n}`,t&&(o+=`/${t}`),o+="?t38.6",o+=`;r${encodeURIComponent(document.referrer)}`,o+=`;s${screen.width}*${screen.height}*${screen.colorDepth}`,o+=`;u${encodeURIComponent(window.location.href)}`,o+=Math.random(),o}(a))}},e=>{"use strict";var n;n=70567,e(e.s=n)}]);</script><script src="https://d-assets.2gis.ru/museum/museum.js"></script></body></html>

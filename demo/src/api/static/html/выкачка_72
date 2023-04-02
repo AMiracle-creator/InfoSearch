@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+	<meta name="yandex-verification" content="84201abe9583cf7a" />
+	<meta name="yandex-verification" content="84201abe9583cf7a" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="msthemecompatible" content="no">
+	<meta name="cleartype" content="on">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="format-detection" content="address=no">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="dns-prefetch" href="//cdn.tvc.ru">
+    <link rel="dns-prefetch" href="//ads.adfox.ru">
+    <link rel="dns-prefetch" href="//yastatic.net">
+    <link rel="apple-touch-icon" sizes="152x152" href="//static.tvc.ru/i/apple_touch/152x152.png?v=162"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="//static.tvc.ru/i/apple_touch/144x144.png?v=162"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="//static.tvc.ru/i/apple_touch/120x120.png?v=162"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="//static.tvc.ru/i/apple_touch/114x114.png?v=162"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="//static.tvc.ru/i/apple_touch/72x72.png?v=162"/>
+    <link rel="apple-touch-icon-precomposed" href="//static.tvc.ru/i/apple_touch/57x57.png?v=162"/>
+
+    <link rel="Shortcut Icon" href="//cdn.tvc.ru/i/favicon.ico" type="image/x-icon" >
+    <link rel="icon" href="//cdn.tvc.ru/favicon.ico" type="image/x-icon" >
+
+    
+    <title>ТВ Центр - Официальный сайт телекомпании</title>    
+    <link rel="canonical" href="https://www.tvc.ru" />
+    <meta name="description" content="Телеканал &quot;ТВ Центр&quot;. Новости, телепрограмма, прямой эфир, архив видео. Передачи, фильмы, сериалы." />
+<meta name="keywords" content="Новости дня, Новости Москвы, Прямой эфир, документальное кино, фильмы о звездах, программа передач" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="ТВ Центр - Официальный сайт телекомпании" />
+<meta property="og:title" content="ТВ Центр - Официальный сайт телекомпании" />
+<meta property="og:url" content="https://www.tvc.ru" />
+<meta property="og:type" content="website" />	<meta name="pmail-verification" content="851ba66403b97ed138daab05590c70e5">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,700&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/reset.css?v=162" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/owl.carousel.css?v=162" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/jquery.bxslider.css?v=162" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/slick.css?v=162" rel="stylesheet">
+    <link href="//static.tvc.ru/assets/css/slick-theme.css?v=162" rel="stylesheet">
+    <link href="//static.tvc.ru/assets/css/common.css?v=162" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/datepicker.min.css?v=162" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/magnific-popup.css?v=162" rel="stylesheet">
+	<link href="//static.tvc.ru/assets/css/add.css?v=162" rel="stylesheet">
+	<script src="//static.tvc.ru/assets/js/libs/jquery/jquery.min.js?v=162"></script>
+	<script type="text/javascript" src="//static.tvc.ru/js/libs/adfox.asyn.code.ver3.js?v=162"></script>
+	<script type="text/javascript" src="//static.tvc.ru/js/libs/adfox.asyn.code.scroll.js?v=162"></script>
+
+	<script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+	<script>
+	var adfoxBiddersMap = {
+	  "adfox_adsmart": "1679381",
+	  "myTarget": "1519406",
+	  "buzzoola": "1599851"
+	};
+
+	var adUnits = [
+	  {
+		"code": "adfox_151368708462324621_1460947490",
+		"bids": [
+		  {
+			"bidder": "adfox_adsmart",
+			"params": {
+			  "p1": "cqgwn",
+			  "p2": "hhrn"
+			}
+		  },
+		  {
+			"bidder": "myTarget",
+			"params": {
+			  "placementId": "615077"
+			}
+		  }
+		]
+	  },
+	  {
+		"code": "adfox_15172302731609_1460947490",
+		"bids": [
+		  {
+			"bidder": "adfox_adsmart",
+			"params": {
+			  "p1": "cqgwn",
+			  "p2": "hhrn"
+			}
+		  },
+		  {
+			"bidder": "myTarget",
+			"params": {
+			  "placementId": "854892"
+			}
+		  }
+		]
+	  },
+	  {
+		"code": "adfox_151739437241248873_1460947490",
+		"bids": [
+		  {
+			"bidder": "myTarget",
+			"params": {
+			  "placementId": "854903"
+			}
+		  }
+		]
+	  },
+	  {
+		"code": "adfox_151723292090679744_1460947490",
+		"bids": [
+		  {
+			"bidder": "myTarget",
+			"params": {
+			  "placementId": "854905"
+			}
+		  },
+		  {
+			"bidder": "buzzoola",
+			"params": {
+			  "placementId": "1221672",
+			  "sendTargetRef": true
+			}
+		  }
+		]
+	  }
+	];
+
+	var userTimeout = 500;
+
+	window.YaHeaderBiddingSettings = {
+	  biddersMap: adfoxBiddersMap,
+	  adUnits: adUnits,
+	  timeout: userTimeout
+	};
+	</script>
+
+	<script>window.yaContextCb = window.yaContextCb || []</script>
+	<script src="https://yandex.ru/ads/system/context.js" async></script>
+	<script type="text/javascript" src="https://s3.wi-fi.ru/mtt/configs/sites/tvc.js" nocache></script> 
+</head>
+<body>
+<div class="wrapper">
+	<div class="content-outer">
+
+		<!-- .content-inner [ -->
+		<div class="content-inner">
+			<div class="header">
+				<div class="header__inner">
+					<div class="container header_container">
+												<a href="/" class="logo__link">
+                            <img src="//static.tvc.ru/assets/img/logo.svg?v=162" alt="">
+							<span class="logo__text">ТВЦ</span>
+						</a>
+						
+						<div class="header__social">
+							<ul class="social">
+																						<li class="social__item"><a href="https://vk.com/tvcplus" class="social__link social__link_vk" target="_blank"></a></li>
+                                <li class="social__item"><a href="https://ok.ru/tvcplus" class="social__link social__link_ok" target="_blank"></a></li>
+								<li class="social__item"><a href="https://rutube.ru/feeds/tvc/" class="social__link social__link_rutube" target="_blank"></a></li>
+								<li class="social__item"><a href="https://t.me/tvctvc" class="social__link social__link_telegram" target="_blank"></a></li>
+														</ul>
+						</div>
+					</div>
+				</div>
+				<div class="header__bottom">
+					<div class="container">
+						<a href="//nastroenie.tv/" class="header__link-bottom" target="_blank"><img src="//static.tvc.ru/assets/img/nastroenie_logo.png?v=162" alt=""></a>
+					</div>
+				</div>
+			</div>
+			<div class="main-menu">
+				<div class="container">
+                    <div class="main-menu__inner">
+                        <span class="main-menu__mobile-btn"><span>open menu</span></span>
+                        <ul class="main-menu__list">
+
+                            
+                                <li class="main-menu__item">
+                                    <a href="/"
+                                       class="main-menu__link active">ГЛАВНАЯ</a>
+                                </li>
+
+                            
+                                <li class="main-menu__item">
+                                    <a href="/news"
+                                       class="main-menu__link ">НОВОСТИ</a>
+                                </li>
+
+                            
+                                <li class="main-menu__item">
+                                    <a href="/tvp"
+                                       class="main-menu__link ">ТЕЛЕПРОГРАММА</a>
+                                </li>
+
+                            
+                                <li class="main-menu__item">
+                                    <a href="/channel/onair"
+                                       class="main-menu__link ">ПРЯМОЙ ЭФИР</a>
+                                </li>
+
+                            
+                                <li class="main-menu__item">
+                                    <a href="/video"
+                                       class="main-menu__link ">ВИДЕОТЕКА</a>
+                                </li>
+
+                            
+                                <li class="main-menu__item">
+                                    <a href="/section/show/id/3"
+                                       class="main-menu__link ">О КОМПАНИИ</a>
+                                </li>
+
+                            
+                            <li class="main-menu__item">
+                                <span class="main-menu__link">16+</span>
+                            </li>
+                        </ul>
+						<div class="main-menu__tvc-msk">
+							<a href="//moscow.tvc.ru/playlist/show/id/11" target="_blank"><span class="main-menu__logo_tvc-msk"></span></a>
+						</div>
+                        <div class="main-menu__search"><span class="main-menu__btn-search"></span>
+						<div class="main-menu__search-overlay"></div>
+						<div class="main-menu__search-block">
+							<div class="main-menu__search-tabs">
+								<ul class="main-menu__tabs-controls">
+									<li class="main-menu__tabs-controls-item active">
+										<span class="main-menu__tabs-link">поиск по дате</span>
+									</li>
+									<li class="main-menu__tabs-controls-item">
+										<span class="main-menu__tabs-link">поиск по новостям</span>
+									</li>
+									<li class="main-menu__tabs-controls-item">
+										<span class="main-menu__tabs-link">поиск по телеканалу</span>
+									</li>
+								</ul>
+								<ul class="main-menu__tabs-list">
+									<li class="main-menu__tabs-list-item active">
+										<form action="/news/archive/" method="get">
+											<input autocomplete="off" type="text" name="date" class="main-menu__search-input main-menu__search-input_date" readonly><button type="submit" class="main-menu__search-submit"></button>
+										</form>
+									</li>
+									<li class="main-menu__tabs-list-item">
+										<form action="/search/index/" method="get">
+											<input type="hidden" name="type" value="news">
+											<input type="text" name="search_str" class="main-menu__search-input  main-menu__search-input_news"><button type="submit" class="main-menu__search-submit"></button>
+										</form>
+									</li>
+									<li class="main-menu__tabs-list-item">
+										<form action="/search/index/" method="get">
+											<input type="hidden" name="type" value="channel">
+											<input type="text" name="search_str" class="main-menu__search-input main-menu__search-input_channel"><button type="submit" class="main-menu__search-submit"></button>
+										</form>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+                    </div>
+				</div>
+			</div>
+			
+			<div class="head_banner" style="margin-bottom: 5px;">
+
+<!--AdFox START-->
+<!--tvc.ru-->
+<!--Площадка: new.tvc.ru / * / *-->
+<!--Тип баннера: 1280*140-->
+<!--Расположение: верх страницы-->
+<div id="adfox_15136793703846952_1460947490"></div>
+<script>
+try {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 220018,
+            containerId: 'adfox_15136793703846952_1460947490',
+            params: {
+                pp: 'g',
+                ps: 'cpsb',
+                p2: 'evre'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: true
+        })
+    })
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script>
+
+</div>
+			<div class="fixed-menu">
+				<div class="fixed-menu__inner">
+					<div class="container">
+						<span class="main-menu__mobile-btn"><span>open menu</span></span>
+												<a href="/" class="fixed-menu__logo-link">
+							<img src="//static.tvc.ru/assets/img/logo.png?v=162" alt="">
+						</a>
+												<ul class="fixed-menu__list">
+                            
+                                <li class="fixed-menu__item">
+                                    <a href="/" class="fixed-menu__link active">ГЛАВНАЯ</a>
+                                </li>
+
+                            
+                                <li class="fixed-menu__item">
+                                    <a href="/news" class="fixed-menu__link ">НОВОСТИ</a>
+                                </li>
+
+                            
+                                <li class="fixed-menu__item">
+                                    <a href="/tvp" class="fixed-menu__link ">ТЕЛЕПРОГРАММА</a>
+                                </li>
+
+                            
+                                <li class="fixed-menu__item">
+                                    <a href="/channel/onair" class="fixed-menu__link ">ПРЯМОЙ ЭФИР</a>
+                                </li>
+
+                            
+                                <li class="fixed-menu__item">
+                                    <a href="/video" class="fixed-menu__link ">ВИДЕОТЕКА</a>
+                                </li>
+
+                            
+                                <li class="fixed-menu__item">
+                                    <a href="/section/show/id/3" class="fixed-menu__link ">О КОМПАНИИ</a>
+                                </li>
+
+                            
+                            <!--
+							<li class="fixed-menu__item">
+                                								<a href="/persons/index" class="fixed-menu__link ">ПЕРСОНЫ</a>
+							</li>
+							-->
+							<li class="fixed-menu__item">
+								<span class="fixed-menu__link">16+</span>
+							</li>
+						</ul>
+												<a href="#" class="fixed-menu__tvc"><img src="//static.tvc.ru/assets/img/logo.svg?v=162" alt=""></a>
+						                        <span class="main-menu__btn-search main-menu__btn-search_fixed"></span>
+						<a href="//nastroenie.tv/" class="fixed-menu__nastroenie" target="_blank">NASTROENIE.TV</a>
+						<a href="//moscow.tvc.ru/playlist/show/id/11" target="_blank" class="fixed-menu__tvc-msk"><span class="fixed-menu__logo_tvc-msk"></span></a>
+					</div>
+				</div>
+
+							</div>
+
+
+<!-- content begin -->
+<!-- .content [ -->
+<div class="content">
+    <div class="main">
+        <div class="container">
+            <!-- .main-news__list [ -->
+            <div class="main-news__list"  data-page-url="/index/index/">
+
+                
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260536" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/546.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/10">
+                            Политика                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260536">
+                    <div class="main-news__title"><span>Разведка Нидерландов обвинила Россию в подготовке диверсий</span></div>
+                                            <div class="main-news__anons">
+                            Доказательств в докладе не приводится                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/3914/show/episodes/episode_id/78926" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/546/050.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/1339">
+                            Фильмы о звёздах                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/3914/show/episodes/episode_id/78926">
+                    <div class="main-news__title"><span>Секс-бомбы со стажем</span></div>
+                                            <div class="main-news__anons">
+                            Можно ли в 68 лет выходить на публику в коротких шортах и демонстрировать бывалый бюст и накачанные губы? Одни говорят: &quot;Неприлично&quot;. Другие одобряют. Лариса Долина, Любовь Успенская, Наталья Штурм, Лолита… Секс-символы серьёзного возраста. Цена и задачи. Технологии и прибыль.                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_big "   data-page-url="/">
+            <a href="/news/show/id/260530" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/553.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/645">
+                            Украина                        </a>
+                                                                <a href="/news/show/id/260530">      <i class="ico-video ico-video_big-news"></i>   </a>
+                                    </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260530">
+                    <div class="main-news__title"><span>Попытка поднять рейтинг: главное о визите Байдена в Киев</span></div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_big "   data-page-url="/">
+            <a href="/channel/brand/id/1257/show/episodes/episode_id/50097" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+												
+								<div class="look_on_tvc"></div>
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/268/912.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/2033">
+                            Худ. фильмы                        </a>
+                                                                <a href="/channel/brand/id/1257/show/episodes/episode_id/50097">      <i class="ico-video ico-video_big-news"></i>   </a>
+                                    </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/1257/show/episodes/episode_id/50097">
+                    <div class="main-news__title"><span>Детективы Татьяны Устиновой. &quot;Жизнь, по слухам, одна&quot;. 1-я серия</span></div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260531" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/555.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/10">
+                            Политика                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260531">
+                    <div class="main-news__title"><span>Молдавию накрыл тяжелый политический кризис</span></div>
+                                            <div class="main-news__anons">
+                            Тысячи протестующих вышли на улицы Кишинева                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+            <div class="main-news__item main-news__item_small"  data-page-url="/">
+            <a href="#" class="main-news__item-inner">
+                <div class="main-news__img-wrap main-news__img-wrap_banner">
+				                    <!--AdFox START-->
+<!--tvc.ru-->
+<!--Площадка: new.tvc.ru / * / *-->
+<!--Тип баннера: 240*400-->
+<!--Расположение: верх страницы-->
+<div id="adfox_151368708462324621_1460947490"></div>
+<script>
+try {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 220018,
+            containerId: 'adfox_151368708462324621_1460947490',
+            params: {
+                pp: 'g',
+                ps: 'cpsb',
+                p2: 'evpt'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: true
+        })
+    })
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script>
+				                </div>
+            </a>
+        </div>
+			
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/2324/show/episodes/episode_id/80391" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/469.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/15">
+                            Передачи                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/2324/show/episodes/episode_id/80391">
+                    <div class="main-news__title"><span>Мой герой. Амаяк Акопян</span></div>
+                                            <div class="main-news__anons">
+                            Амаяк Акопян в выпуске ток-шоу &quot;Мой герой&quot; рассказал, почему отец не остался в танцевальном ансамбле Игоря Моисеева и какой генсек обожал смотреть фокусы, кем нарядился в детский сад после просмотра &quot;Вечеров на хуторе близ Диканьки&quot; и что сыграл на рояле для Рины Зелёной, как выступал в сумасшедшем доме и в каком номере прожёг галстук Жана Маре, а также чему учил Александра Панкратова-Чёрного для съёмок в картине &quot;Где находится нофелет?&quot;.                         </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260523" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/438.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/2308">
+                            Спецоперация                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260523">
+                    <div class="main-news__title"><span>Минобороны сообщило об освобождении Парасковиевки в ДНР</span></div>
+                                            <div class="main-news__anons">
+                            Село было освобождено добровольцами штурмовых отрядов во взаимодействии с ВДВ и при поддержке артиллерии                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/3143/show/episodes/episode_id/80394" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/354/744.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/2032">
+                            Док. фильмы                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/3143/show/episodes/episode_id/80394">
+                    <div class="main-news__title"><span>Большое кино. &quot;Верные друзья&quot;</span></div>
+                                            <div class="main-news__anons">
+                            Название &quot;Верные друзья&quot; отражает всё то светлое, что есть в этом фильме. А ведь лента вполне могла оказаться на полке. Сомнения вызывал не только сюжет, но и взаимоотношения главных героев, их безупречность. Была ли дружба между актёрами не только на экране, но и в жизни? Где и как создавался фильм, с какими трудностями столкнулся перед тем, как выйти в прокат? Что в нём было вымыслом, а что нет?                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260540" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/575.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/697">
+                            Экономика                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260540">
+                    <div class="main-news__title"><span>Росстат оценил спад ВВП России в 2022 году</span></div>
+                                            <div class="main-news__anons">
+                            Снижение оказалось меньше, чем оценивал в феврале ЦБ                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_full "   data-page-url="/">
+            <a href="/channel/brand/id/3870/show/episodes/episode_id/80259" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/o/558/938.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/2032">
+                            Док. фильмы                        </a>
+                                                                <a href="/channel/brand/id/3870/show/episodes/episode_id/80259">      <i class="ico-video ico-video_big-news"></i>   </a>
+                                    </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/3870/show/episodes/episode_id/80259">
+                    <div class="main-news__title"><span>&quot;Тайная комната. Эммануэль Макрон&quot;</span></div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/1756/show/episodes/episode_id/80264" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/360.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/15">
+                            Передачи                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/1756/show/episodes/episode_id/80264">
+                    <div class="main-news__title"><span>Право знать!</span></div>
+                                            <div class="main-news__anons">
+                            Гостем студии программы &quot;Право знать!&quot; на канале &quot;ТВ Центр&quot; стал политолог Сергей Кургинян.                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260528" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/535/839.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/1321">
+                            Происшествие                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260528">
+                    <div class="main-news__title"><span>Шесть военнослужащих погибли при пожаре в Курской области</span></div>
+                                            <div class="main-news__anons">
+                            Еще один человек пострадал                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_big "   data-page-url="/">
+            <a href="/news/show/id/260474" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/465.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/1894">
+                            Благотворительность                         </a>
+                                                                <a href="/news/show/id/260474">      <i class="ico-video ico-video_big-news"></i>   </a>
+                                    </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260474">
+                    <div class="main-news__title"><span>Зрители ТВЦ собирают средства на лечение Романа Чарова</span></div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/3869/show/episodes/episode_id/76018" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/515/080.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/15">
+                            Передачи                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/3869/show/episodes/episode_id/76018">
+                    <div class="main-news__title"><span>&quot;Как стать оптимистом&quot;. Юмористический концерт</span></div>
+                                            <div class="main-news__anons">
+                            В юмористическом концерте &quot;Как стать оптимистом&quot; принимали участие: Евгений Петросян, Сергей Дроботенко, Николай Бандурин, Ефим Шифрин, Александр Ширвиндт, Георгий Менглет, Святослав Ещенко, Алексей Щеглов, Елена Степаненко, Валентина Коркина, Виктор Остоухов, &quot;Новые русские бабки&quot;, Оксана Невежина и другие.                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260537" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/561.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/24">
+                            Общество                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260537">
+                    <div class="main-news__title"><span>В АТОР заявили о решении проблемы качества сервиса в отелях </span></div>
+                                            <div class="main-news__anons">
+                            Ассортимент объектов размещения в России очень разнообразен                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_big "   data-page-url="/">
+            <a href="/channel/brand/id/3951/show/episodes/episode_id/80365" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/558/853.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/16">
+                            Сериалы                        </a>
+                                                                <a href="/channel/brand/id/3951/show/episodes/episode_id/80365">      <i class="ico-video ico-video_big-news"></i>   </a>
+                                    </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/3951/show/episodes/episode_id/80365">
+                    <div class="main-news__title"><span>&quot;Свои&quot; - 2. 51-я серия</span></div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/41/show/episodes/episode_id/80262" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/243.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/15">
+                            Передачи                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/41/show/episodes/episode_id/80262">
+                    <div class="main-news__title"><span>Постскриптум</span></div>
+                                            <div class="main-news__anons">
+                            Пауза, но не точка - встреча в Рамштайне - отложенное решение НАТО по истребителям для Украины. Стратосферные войны - что именно сбивают американцы над Северной Америкой? Сдвиги в здравоохранении - как идёт модернизация первичного звена в регионах? Итоги парламентских выборов в Берлине - партия Шольца теряет голоса. Тревожное эхо Второй мировой - немецкие танки снова на Украине. Чему учит история? Человек, которого отменить невозможно. Роджер Уотерс в ООН - пробьёт ли его голос &quot;Стену&quot; лжи?                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260520" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/517.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/10">
+                            Политика                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260520">
+                    <div class="main-news__title"><span>Байден пообещал Киеву &quot;миллиарды&quot; помощи</span></div>
+                                            <div class="main-news__anons">
+                            Президент США встретился с украинским коллегой                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/18/show/episodes/episode_id/80410" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/199.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/15">
+                            Передачи                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/18/show/episodes/episode_id/80410">
+                    <div class="main-news__title"><span>В центре событий с Анной Прохоровой</span></div>
+                                            <div class="main-news__anons">
+                            1. Затишья нет, но буря близко. Фронт в ожидании масштабного наступления. 2. А виноваты – немцы! Варшава обвинила Берлин в начале российской спецоперации на Украине. 3. Повсеместные контакты первой степени. Похоже, сериал &quot;Секретные материалы&quot; был документальным.                         </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+            <div class="main-news__item main-news__item_small"  data-page-url="/">
+            <a href="#" class="main-news__item-inner">
+                <div class="main-news__img-wrap main-news__img-wrap_banner">
+									<!--AdFox START-->
+<!--tvc.ru-->
+<!--Площадка: new.tvc.ru / * / *-->
+<!--Тип баннера: 240*400-->
+<!--Расположение: середина страницы-->
+<div id="adfox_15172302731609_1460947490"></div>
+<script>
+try {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 220018,
+            containerId: 'adfox_15172302731609_1460947490',
+            params: {
+                pp: 'h',
+                ps: 'cpsb',
+                p2: 'evpt'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: true
+        })
+    })
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script>
+				                </div>
+            </a>
+        </div>
+			
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/news/show/id/260535" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/544.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/10">
+                            Политика                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/news/show/id/260535">
+                    <div class="main-news__title"><span>Белый дом раскрыл детали подготовки визита Байдена в Киев</span></div>
+                                            <div class="main-news__anons">
+                            Поездка тщательно готовилась                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_big "   data-page-url="/">
+            <a href="/news/show/id/259641" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/557/409.jpg" alt="">
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/news/tag/id/1894">
+                            Благотворительность                         </a>
+                                                                <a href="/news/show/id/259641">      <i class="ico-video ico-video_big-news"></i>   </a>
+                                    </div>
+                <a class="main-news__item-title-link" href="/news/show/id/259641">
+                    <div class="main-news__title"><span>Зрители ТВЦ собирают средства на лечение Максима Овчаренко</span></div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+    		        <div class="main-news__item main-news__item_small "   data-page-url="/">
+            <a href="/channel/brand/id/3665/show/episodes/episode_id/80278" class="main-news__item-inner">
+                <div class="main-news__img-wrap">
+								                    <img class="main-news__img" src="https://cdn.tvc.ru/pictures/tc/559/154.jpg" alt="">
+                                            <i class="ico-video ico-video_small-news"></i>
+                    
+                </div>
+            </a>
+            <div class="main-news__info">
+                <div class="main-news__item-tag">
+                                            <a class="main-news__item-tag-text" href="/channel/brands/tag/15">
+                            Передачи                        </a>
+                                                        </div>
+                <a class="main-news__item-title-link" href="/channel/brand/id/3665/show/episodes/episode_id/80278">
+                    <div class="main-news__title"><span>Москва резиновая</span></div>
+                                            <div class="main-news__anons">
+                            &quot;Москва резиновая&quot; – юмористический телевизионный киносборник, состоящий из коротких сценок – скетчей. Герои &quot;Москвы резиновой&quot; – персонажи, приехавшие в Москву со всех уголков нашей страны в поисках счастья. Они представители разных народов, социальных слоёв и профессий, которых объединяет общее желание – найти своё место под солнцем и стать настоящими москвичами. На пути к этой цели они попадают в различные комичные ситуации.                        </div>
+                                    </a>
+            </div>
+        </div>
+
+    	
+
+
+            </div>
+            <!-- ] .main-news__list -->
+            <div class="news__loader">
+                <img src="//static.tvc.ru/assets/img/loader.gif?v=162" alt="">
+            </div>
+            <div class="more-btn__wrap">
+                <span class="more-btn"></span>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ] .content -->
+
+<!-- content end -->
+
+<div class="footer">
+    <div class="container">
+        <div class="footer__top">
+            <div class="footer__top-left">
+				<div class="footer__info">Copyright © 2007-2023 АО «ТВ Центр»</div>
+				<div class="footer__info">На сайте работает система коррекции ошибок. Обнаружив неточность в тексте, выделите ее и нажмите Ctrl+Enter.</div>
+				<div class="footer__info">Реклама в эфире телеканала <a href="mailto:reklama@tvc.ru">reklama@tvc.ru</a></div>
+				<div class="footer__info"><a href="/feedback" style="text-decoration:underline;">Форма обратной связи</a></div>
+            </div>
+            <div class="footer__top-right">
+                <p>Партнеры сайта: </p>
+                <p>проект <a href="//ag.mos.ru/" target="_blank" style="text-decoration:underline;">Активный гражданин</a></p>
+                <p>проект <a href="http://lenta-on-line.ru/" target="_blank" style="text-decoration:underline;">Георгиевская лента онлайн</a></p>
+            </div>
+        </div>
+        <div class="footer__info">Сетевое издание "ТВ Центр-Москва". 16+. Учредитель - АО "ТВ Центр". Свидетельство о регистрации СМИ Эл № ФС77-63915 от 09 декабря 2015 года выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций. Главный редактор - Быстрицкая Ю. А. </div>
+        <div class="footer__info">Сетевое издание "ТВ Центр - Москва" выпускается при финансовой поддержке Департамента средств массовой информации и рекламы города Москвы.</div>
+        <div class="footer__info">На сайте могут демонстрироваться табачные изделия. Потребление табака вредит вашему здоровью.</div>
+        <div class="footer__turn-on"><a href="//nastroenie.tv/" target="_blank"><img src="//static.tvc.ru/assets/img/logo-ftr.png?v=162" alt=""></a></div>
+    </div>
+</div>
+</div>
+<!-- ] .content-inner -->
+</div>
+<div class="nav-mobile">
+    <ul class="nav-mobile__menu-list">
+
+        
+            <li class="nav-mobile__menu-item"><a href="/" class="nav-mobile__menu-link">ГЛАВНАЯ</a></li>
+
+        
+            <li class="nav-mobile__menu-item"><a href="/news" class="nav-mobile__menu-link">НОВОСТИ</a></li>
+
+        
+            <li class="nav-mobile__menu-item"><a href="/tvp" class="nav-mobile__menu-link">ТЕЛЕПРОГРАММА</a></li>
+
+        
+            <li class="nav-mobile__menu-item"><a href="/channel/onair" class="nav-mobile__menu-link">ПРЯМОЙ ЭФИР</a></li>
+
+        
+            <li class="nav-mobile__menu-item"><a href="/video" class="nav-mobile__menu-link">ВИДЕОТЕКА</a></li>
+
+        
+            <li class="nav-mobile__menu-item"><a href="/section/show/id/3" class="nav-mobile__menu-link">О КОМПАНИИ</a></li>
+
+        
+        <li class="nav-mobile__menu-item"><a href="" class="nav-mobile__menu-link">16+</a></li>
+        <li class="nav-mobile__menu-item"><a href="" class="nav-mobile__menu-link nav-mobile__menu-link_nastroenie">NASTROENIE.TV</a></li>
+    </ul>
+
+
+</div>
+</div>
+
+<script src="//static.tvc.ru/assets/js/libs/masonry/masonry.pkgd.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/owl/owl.carousel.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/slick/slick.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/jquery.bxslider/jquery.bxslider.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/air-datepicker/datepicker.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/magnific-popup/jquery.magnific-popup.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/waypoints/jquery.waypoints.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/libs/imagesloaded/imagesloaded.pkgd.min.js?v=162"></script>
+<script src="//static.tvc.ru/assets/js/common.js?v=162"></script>
+<script src="//static.tvc.ru/js/libs/misprint.js?v=162"></script>
+
+<div class="count">
+
+<div style="display: none">
+<!--LiveInternet counter--><script type="text/javascript">
+try {
+document.write("<a href='//www.liveinternet.ru/click;TVCenter' "+
+"target=_blank><img src='//counter.yadro.ru/hit;TVCenter?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script><!--/LiveInternet-->
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+try {   
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(22353196, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        trackHash:true
+   });
+} catch (e) {
+	console.error('try...catch: ' + e);
+}
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/22353196" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	
+<!-- Yandex.Metrika counter --><script type="text/javascript">
+try {
+(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter22353196 = new Ya.Metrika({id:22353196, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script><noscript><div><img src="//mc.yandex.ru/watch/22353196" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+</div>
+
+<script type="text/javascript">
+try {
+var ttsmi2_data = { siteid: 39127, count: 'site' };
+(function() {
+var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+sc.src = '//target.smi2.net/client/target.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+}());
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script>
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+try {
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "38736", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=38736;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- tns-counter.ru -->
+<script language="JavaScript" type="text/javascript">
+    var img = new Image();
+    img.src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g, '%2a') + '*tvc_ru/ru/UTF-8/tmsec=tvc_total/' + Math.round(Math.random() * 1000000000);
+</script>
+<noscript>
+    <img src="//www.tns-counter.ru/V13a****tvc_ru/ru/UTF-8/tmsec=tvc_total/" width="1"
+         height="1" alt="">
+</noscript>
+<!-- tns-counter.ru -->
+
+<script>
+try {
+    ((counterHostname) => {
+        window.MSCounter = {
+            counterHostname: counterHostname
+        };
+        window.mscounterCallbacks = window.mscounterCallbacks || [];
+        window.mscounterCallbacks.push(() => {
+            msCounterExampleCom = new MSCounter.counter({
+                    'account':'tvc_tv',
+                    'tmsec': 'tvc_tv',
+                    'autohit' : true
+                });
+        });
+  
+        const newScript = document.createElement('script');
+        newScript.async = true;
+        newScript.src = `${counterHostname}/ncc/counter.js`;
+  
+        const referenceNode = document.querySelector('script');
+        if (referenceNode) {
+            referenceNode.parentNode.insertBefore(newScript, referenceNode);
+        } else {
+            document.firstElementChild.appendChild(newScript);
+        }
+    })('https://tns-counter.ru/');
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script><div class="adv-template adv-template_240x400_head">
+<!--AdFox START-->
+<!--tvc.ru-->
+<!--Площадка: new.tvc.ru / * / *-->
+<!--Тип баннера: 240*400-->
+<!--Расположение: верх страницы-->
+<div id="adfox_151368708462324621_121460947490"></div>
+<script>
+try {
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 220018,
+            containerId: 'adfox_151368708462324621_121460947490',
+            params: {
+                pp: 'g',
+                ps: 'cpsb',
+                p2: 'evpt'
+            }
+        }, ['desktop', 'tablet', 'phone'], {
+            tabletWidth: 830,
+            phoneWidth: 480,
+            isAutoReloads: true
+        })
+    })
+} catch (e) {
+  console.error('try...catch: ' + e);
+}
+</script>
+</div>
+
+<script type="text/javascript" src="//static.tvc.ru/js/analytics.js?v=162"></script>
+
+</body>
+</html>

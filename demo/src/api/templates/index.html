@@ -1,0 +1,17 @@
+{% extends 'layout/initial.html' %}
+{% load static %}
+
+{% block page %}
+<div class="home__center">
+    <form method="post" action="{% url 'main' %}" class="search__form">
+        {% csrf_token %}
+        <div class="seatch__title">Поисковик Итис</div>
+
+        <div class="search__block">
+           <input type="text" class="search__input--global" name="search" placeholder="Поиск" required />
+
+            <button type="submit" class="btn__search">Начать поиск</button>
+        </div>
+    </form>
+</div>
+{% endblock %}

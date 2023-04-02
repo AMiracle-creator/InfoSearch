@@ -1,0 +1,2645 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie8"> <![endif]-->
+<!--[if gt IE 8]><!--><html lang="ru"> <!--<![endif]-->
+<head>
+    <!-- created_at 20-02-2023 22:47:50 -->
+    <script>
+        window.isIndexPage = 1;
+        window.isMobileBrowser = 0;
+        window.disableSidebarCut = 1;
+        window.bannerDebugMode = 0;
+    </script>
+
+                
+                                    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<meta name="format-detection" content="telephone=no" >
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+<meta name="HandheldFriendly" content="true" >
+<meta name="format-detection" content="telephone=no" >
+<meta name="theme-color" content="#ffffff" >
+<meta name="description" content="Аргументы и факты: последние новости и главные события Новосибирска и Новосибирской области, картина сегодняшнего дня, прогнозы экспертов. Справки, памятки и инструкции, ответы на вопросы новосибирцев, комментарии специалистов" >
+<meta name="facebook-domain-verification" content="jiqbwww7rrqnwzjkizob7wrpmgmwq3" >
+        <title>Аргументы и факты в Новосибирске: новости и события дня на | nsk.aif.ru</title>    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-italic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-700italic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/redesign2018/fonts/montserrat-v15-latin-ext_latin_cyrillic-ext_cyrillic-800.woff2" as="font" type="font/woff2" crossorigin>
+    <link href="https://nsk.aif.ru/" rel="canonical" >
+<link href="https://nsk.aif.ru/redesign2018/css/style.css?067" media="all" rel="stylesheet" type="text/css" >
+<link href="https://nsk.aif.ru/img/icon/apple_touch_icon_57x57.png?067" rel="apple-touch-icon" sizes="57x57" >
+<link href="https://nsk.aif.ru/img/icon/apple_touch_icon_114x114.png?067" rel="apple-touch-icon" sizes="114x114" >
+<link href="https://nsk.aif.ru/img/icon/apple_touch_icon_72x72.png?067" rel="apple-touch-icon" sizes="72x72" >
+<link href="https://nsk.aif.ru/img/icon/apple_touch_icon_144x144.png?067" rel="apple-touch-icon" sizes="144x144" >
+<link href="https://nsk.aif.ru/img/icon/apple-touch-icon.png?067" rel="apple-touch-icon" sizes="180x180" >
+<link href="https://nsk.aif.ru/img/icon/favicon-32x32.png?067" rel="icon" type="image/png" sizes="32x32" >
+<link href="https://nsk.aif.ru/img/icon/favicon-16x16.png?067" rel="icon" type="image/png" sizes="16x16" >
+<link href="https://nsk.aif.ru/img/manifest.json?067" rel="manifest" >
+<link href="https://nsk.aif.ru/img/safari-pinned-tab.svg?067" rel="mask-icon" color="#d55b5b" >
+<link href="https://nsk.aif.ru/rss/googlearticles" rel="alternate" type="application/rss+xml" >
+<link href="https://nsk.aif.ru/rss/googlenews" rel="alternate" type="application/rss+xml" >
+<link href="https://ads.betweendigital.com" rel="preconnect" crossorigin="" >
+        <script type="text/javascript">
+    //<!--
+    var isRedesignPage = true;    //-->
+</script>
+<script type="text/javascript" src="https://nsk.aif.ru/js/output/jquery.min.js?067"></script>
+<script type="text/javascript" src="https://nsk.aif.ru/js/output/header_scripts.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    var _sf_startpt=(new Date()).getTime()    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    function AdFox_getWindowSize() {
+    var winWidth,winHeight;
+	if( typeof( window.innerWidth ) == 'number' ) {
+		//Non-IE
+		winWidth = window.innerWidth;
+		winHeight = window.innerHeight;
+	} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+		//IE 6+ in 'standards compliant mode'
+		winWidth = document.documentElement.clientWidth;
+		winHeight = document.documentElement.clientHeight;
+	} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+		//IE 4 compatible
+		winWidth = document.body.clientWidth;
+		winHeight = document.body.clientHeight;
+	}
+	return {"width":winWidth, "height":winHeight};
+}//END function AdFox_getWindowSize
+
+function AdFox_getElementPosition(elemId){
+    var elem;
+    
+    if (document.getElementById) {
+		elem = document.getElementById(elemId);
+	}
+	else if (document.layers) {
+		elem = document.elemId;
+	}
+	else if (document.all) {
+		elem = document.all.elemId;
+	}
+    var w = elem.offsetWidth;
+    var h = elem.offsetHeight;	
+    var l = 0;
+    var t = 0;
+	
+    while (elem)
+    {
+        l += elem.offsetLeft;
+        t += elem.offsetTop;
+        elem = elem.offsetParent;
+    }
+
+    return {"left":l, "top":t, "width":w, "height":h};
+} //END function AdFox_getElementPosition
+
+function AdFox_getBodyScrollTop(){
+	return self.pageYOffset || (document.documentElement && document.documentElement.scrollTop) || (document.body && document.body.scrollTop);
+} //END function AdFox_getBodyScrollTop
+
+function AdFox_getBodyScrollLeft(){
+	return self.pageXOffset || (document.documentElement && document.documentElement.scrollLeft) || (document.body && document.body.scrollLeft);
+}//END function AdFox_getBodyScrollLeft
+
+function AdFox_Scroll(elemId,elemSrc){
+   var winPos = AdFox_getWindowSize();
+   var winWidth = winPos.width;
+   var winHeight = winPos.height;
+   var scrollY = AdFox_getBodyScrollTop();
+   var scrollX =  AdFox_getBodyScrollLeft();
+   var divId = 'AdFox_banner_'+elemId;
+   var ltwhPos = AdFox_getElementPosition(divId);
+   var lPos = ltwhPos.left;
+   var tPos = ltwhPos.top;
+
+   if(scrollY+winHeight+5 >= tPos && scrollX+winWidth+5 >= lPos){
+      AdFox_getCodeScript(1,elemId,elemSrc);
+	  }else{
+	     setTimeout('AdFox_Scroll('+elemId+',"'+elemSrc+'");',100);
+	  }
+}//End function AdFox_Scroll    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    function AdFox_SetLayerVis(spritename,state){
+   document.getElementById(spritename).style.visibility=state;
+}
+
+function AdFox_Open(AF_id){
+   AdFox_SetLayerVis('AdFox_DivBaseFlash_'+AF_id, "hidden");
+   AdFox_SetLayerVis('AdFox_DivOverFlash_'+AF_id, "visible");
+}
+
+function AdFox_Close(AF_id){
+   AdFox_SetLayerVis('AdFox_DivOverFlash_'+AF_id, "hidden");
+   AdFox_SetLayerVis('AdFox_DivBaseFlash_'+AF_id, "visible");
+}
+
+function AdFox_getCodeScript(AF_n,AF_id,AF_src){
+   var AF_doc;
+   if(AF_n<10){
+      try{
+	     if(document.all && !window.opera){
+		    AF_doc = window.frames['AdFox_iframe_'+AF_id].document;
+			}else if(document.getElementById){
+			         AF_doc = document.getElementById('AdFox_iframe_'+AF_id).contentDocument;
+					 }
+		 }catch(e){}
+    if(AF_doc){
+	   AF_doc.write('<scr'+'ipt type="text/javascript" src="'+AF_src+'"><\/scr'+'ipt>');
+	   }else{
+	      setTimeout('AdFox_getCodeScript('+(++AF_n)+','+AF_id+',"'+AF_src+'");', 100);
+		  }
+		  }
+}
+
+function adfoxSdvigContent(banID, flashWidth, flashHeight){
+	var obj = document.getElementById('adfoxBanner'+banID).style;
+	if (flashWidth == '100%') obj.width = flashWidth;
+	    else obj.width = flashWidth + "px";
+	if (flashHeight == '100%') obj.height = flashHeight;
+	    else obj.height = flashHeight + "px";
+}
+
+function adfoxVisibilityFlash(banName, flashWidth, flashHeight){
+    	var obj = document.getElementById(banName).style;
+	if (flashWidth == '100%') obj.width = flashWidth;
+	    else obj.width = flashWidth + "px";
+	if (flashHeight == '100%') obj.height = flashHeight;
+	    else obj.height = flashHeight + "px";
+}
+
+function adfoxStart(banID, FirShowFlNum, constVisFlashFir, sdvigContent, flash1Width, flash1Height, flash2Width, flash2Height){
+	if (FirShowFlNum == 1) adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+	    else if (FirShowFlNum == 2) {
+		    adfoxVisibilityFlash('adfoxFlash2'+banID, flash2Width, flash2Height);
+	        if (constVisFlashFir == 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+		    if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash2Width, flash2Height);
+		        else adfoxSdvigContent(banID, flash1Width, flash1Height);
+	}
+}
+
+function adfoxOpen(banID, constVisFlashFir, sdvigContent, flash2Width, flash2Height){
+	var aEventOpenClose = new Image();
+	var obj = document.getElementById("aEventOpen"+banID);
+	if (obj) aEventOpenClose.src =  obj.title+'&rand='+Math.random()*1000000+'&prb='+Math.random()*1000000;
+	adfoxVisibilityFlash('adfoxFlash2'+banID, flash2Width, flash2Height);
+	if (constVisFlashFir != 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, 1, 1);
+	if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash2Width, flash2Height);
+}
+
+
+function adfoxClose(banID, constVisFlashFir, sdvigContent, flash1Width, flash1Height){
+	var aEventOpenClose = new Image();
+	var obj = document.getElementById("aEventClose"+banID);
+	if (obj) aEventOpenClose.src =  obj.title+'&rand='+Math.random()*1000000+'&prb='+Math.random()*1000000;
+	adfoxVisibilityFlash('adfoxFlash2'+banID, 1, 1);
+	if (constVisFlashFir != 'yes') adfoxVisibilityFlash('adfoxFlash1'+banID, flash1Width, flash1Height);
+	if (sdvigContent == 'yes') adfoxSdvigContent(banID, flash1Width, flash1Height);
+}    //-->
+</script>
+<script type="text/javascript" async="true" src="https://yandex.ru/ads/system/header-bidding.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    var adfoxBiddersMap = {
+    "betweenDigital": "816043",
+	"mediasniper": "2218745",
+    "myTarget": "810102",
+	"buzzoola": "1096246",	
+	"adfox_adsmart": "1463295",
+	"otm": "1837649",
+	"bidvol": "1837660",
+	"adfox_imho-video": "1738874",
+};
+var adUnits = [
+    {
+        "code": "adfox_153825256063495017",
+		"sizes": [[300, 600], [240,400]],
+        "bids": [
+            {
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "3235886"
+                }
+            },
+            {
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "555209"
+                }
+            },			
+			{
+                    "bidder": "adfox_adsmart",
+                    "params": {
+						p1: 'cqguf',
+						p2: 'hhro'
+					}
+            },
+			{
+                    "bidder": "otm",
+                    "params": {
+						"placementId": "27876"
+					}
+            },{
+                    "bidder": "bidvol",
+                    "params": {
+						"placementId": "13877"
+					}
+            },{
+                    "bidder": "mediasniper",
+                    "params": {
+						"placementId": "20001"
+					}
+            },			
+			{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqslb",
+						p2: "hitz"
+					}
+            }
+        ]
+    },{
+        "code": "adfox_150719646019463024",
+		"sizes": [[640,480], [640,360]],
+        "bids": [
+            {
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "555211"
+                }
+            },
+			{
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "3377340"
+                }
+            },
+			{
+                "bidder": "otm",
+                "params": {
+                    "placementId": "27898"
+                }
+            },
+			{
+                "bidder": "adfox_adsmart",
+                    "params": {
+						p1: 'cmqsb',
+						p2: 'ul'
+					}
+            }
+        ]
+    },{
+        "code": "adfox_14987283079885683",
+		"sizes": [[300,250], [300,240]],
+        "bids": [
+            {
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "2492448"
+                }
+            },
+            {
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "226830"
+                }
+            },{
+                "bidder": "mediasniper",
+                "params": {
+                    "placementId": "20002"
+                }
+            },
+			{
+                "bidder": "buzzoola",
+                "params": {
+                    "placementId": "563787"
+                }
+            },
+			{
+                "bidder": "adfox_adsmart",
+                    "params": {
+						p1: 'cqmbg',
+						p2: 'ul'
+					}
+            },
+			{
+                "bidder": "otm",
+                    "params": {
+						"placementId": "27877"
+					}
+            },{
+                    "bidder": "bidvol",
+                    "params": {
+						"placementId": "13878"
+					}
+            },	
+			{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqrzc",
+						p2: "hiua"
+					}
+            }			
+        ]        
+    },{
+        "code": "adfox_153545578261291257",
+		"bids": [            
+            		{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqrze",
+						p2: "hiuc"
+					}
+            }
+			           
+        ]        
+    },{
+        "code": "adfox_149010055036832877",
+		"bids": [            
+            		{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: 'cwkjx',
+						p2: 'hity'
+					}
+            }			           
+        ]        
+    },{
+        "code": "adfox_149874332414246474",
+		"sizes": [[640,360], [300,250], [640,480]],
+		"codeType": "combo",
+		"bids": [            
+            {
+                "bidder": "otm",
+                "params": {
+                    "placementId": "27879"
+                }
+            },
+			{
+                "bidder": "adfox_imho-video",
+                "params": {
+					p1: 'cwkjw',
+					p2: 'hiua'
+				}
+            },{
+                "bidder": "mediasniper",
+                "params": {
+                    "placementId": "20003"
+                }
+            },
+			{
+                    "bidder": "betweenDigital",
+                    "params": {
+						"placementId": "4502825"
+					}
+            }
+			           
+        ]        
+    },
+    {
+        "code": "adfox_149848658878716687",
+		"sizes": [[300,600], [240,400]],
+        "bids": [            
+            {
+                "bidder": "betweenDigital",
+                "params": {
+                    "placementId": "3377360"
+                }
+            },
+			{
+                "bidder": "myTarget",
+                "params": {
+                    "placementId": "226050"
+                }
+            },			
+			{
+                    "bidder": "adfox_imho-video",
+                    "params": {
+						p1: "cqslc",
+						p2: "hitz"
+					}
+            }
+        ]        
+    }
+];
+var userTimeout = 1000;
+window.YaHeaderBiddingSettings = {
+    biddersMap: adfoxBiddersMap,
+    adUnits: adUnits,
+    timeout: userTimeout
+};    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    window.yaContextCb = window.yaContextCb || []    //-->
+</script>
+<script type="text/javascript" async="true" src="https://yandex.ru/ads/system/context.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    window.EventObserver = {
+    observers: {},
+
+    subscribe: function (name, fn) {
+        if (!this.observers.hasOwnProperty(name)) {
+            this.observers[name] = [];
+        }
+        this.observers[name].push(fn)
+    },
+    
+    unsubscribe: function (name, fn) {
+        if (!this.observers.hasOwnProperty(name)) {
+            return;
+        }
+        this.observers[name] = this.observers[name].filter(function (subscriber) {
+            return subscriber !== fn
+        })
+    },
+    
+    broadcast: function (name, data) {
+        if (!this.observers.hasOwnProperty(name)) {
+            return;
+        }
+        this.observers[name].forEach(function (subscriber) {
+            return subscriber(data)
+        })
+    }
+};    //-->
+</script>    
+    <script>
+  var adcm_config ={
+    id:1064,
+    platformId: 64,
+    init: function () {
+      window.adcm.call();
+    }
+  };
+</script>
+<script src="https://tag.digitaltarget.ru/adcm.js" async></script>    <meta name="yandex-verification" content="12d8fca6aef166f7" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3672159-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3672159-1');
+</script>
+<meta name="google-site-verification" content="alIAYJbMuf9iHvwRUKs7zwT1OsmeUiqHPGqnnH_7hdQ" />    <link rel="stylesheet" type="text/css" media="print" href="https://nsk.aif.ru/redesign2018/css/print.css?067" />
+    <base href=""/>
+</head><body class="region__nsk main_page_body">
+<div class="overlay"></div>
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "59428", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=59428;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+
+<div class="container main_page" id="container">
+    
+        
+        
+        <!--баннер над шапкой--->
+                <div class="banner_box">
+            <div class="main_banner">
+                <noindex><div class="adv_content bp__header no_portr cont_center adwrapper no_mob"><div class="banner_params hide" data-params="{&quot;id&quot;:3029,&quot;num&quot;:1,&quot;place&quot;:&quot;header&quot;}"></div>
+<center>
+  
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 1000x180-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_154174758242018237"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+        ownerId: 249933,
+        containerId: 'adfox_154174758242018237',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'foiy',
+            puid1: ''
+        }
+    });
+});
+</script>  
+  
+  </center>
+
+<br></div></noindex>            </div>
+        </div>
+                <!--//баннер  над шапкой--->
+
+    <script>
+	currentUser = new User();
+</script>
+
+<header class="header">
+    <div class="count_box_nodisplay">
+    <div class="couter_block"><!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<img src='https://counter.yadro.ru//hit;AIF?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random()+"' width=1 height=1 alt=''>");
+//--></script><!--/LiveInternet--></div></div>    <div class="topline">
+    <a href="#" class="burger openCloser">
+        <div class="burger__wrapper">
+            <span class="burger__line"></span>
+            <span class="burger__line"></span>
+            <span class="burger__line"></span>
+        </div>
+    </a>
+    <a href="/" class="logo_box">
+        <img width="96" height="22" src="https://nsk.aif.ru/redesign2018/img/logo.svg?067" alt="Аргументы и Факты">
+        <div class="region_url">
+            nsk.aif.ru        </div>
+    </a>
+    <div itemscope itemtype="http://schema.org/Organization" class="schema_org">
+        <img itemprop="logo" src="https://nsk.aif.ru/redesign2018/img/logo.svg?067" />
+        <a itemprop="url" href="/"></a>
+        <meta itemprop="name" content="АО «Аргументы и Факты»" />
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <meta itemprop="postalCode" content="101000" />
+            <meta itemprop="addressLocality" content="Москва" />
+            <meta itemprop="streetAddress" content="ул. Мясницкая, д. 42"/>
+            <a itemprop="telephone" href="tel:+74956465757">+7 (495) 646 57 57</a>
+        </div>
+    </div>
+    <a href="#" class="region regionOpenCloser">
+        <img width="19" height="25" src="https://nsk.aif.ru/redesign2018/img/location.svg?067"><span>Новосибирск</span>
+    </a>
+
+    <!--a class="topline__hashtag" href="https://aif.ru/health/coronavirus/?utm_medium=header&utm_content=covid&utm_source=aif">#остаемсядома</a-->
+    <div class="auth_user_status_js">
+        <a href="#" class="user auth_link_login_js auth_open_js"><img width="24" height="24" src="https://nsk.aif.ru/redesign2018/img/user_ico.svg?067"></a>
+        <a href="/profile" class="user auth_link_profile_js" style="display: none"><img width="24" height="24" src="https://nsk.aif.ru/redesign2018/img/user_ico.svg?067"></a>
+    </div>
+    <div class="search_box">
+        <a href="#" class="search_ico searchOpener">
+            <img width="24" height="24" src="https://nsk.aif.ru/redesign2018/img/search_ico.svg?067">
+        </a>
+        <div class="search_input">
+            <form action="/search" id="search_form1">
+                <input type="text" name="text" maxlength="50"/>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="fixed_menu topline">
+    <div class="cont_center">
+        <a href="#" class="burger openCloser">
+            <div class="burger__wrapper">
+                <span class="burger__line"></span>
+                <span class="burger__line"></span>
+                <span class="burger__line"></span>
+            </div>
+        </a>
+        <a href="/" class="logo_box">
+            <img width="96" height="22" src="https://nsk.aif.ru/redesign2018/img/logo.svg?067" alt="Аргументы и Факты">
+            <div class="region_url">
+                nsk.aif.ru            </div>
+        </a>
+        <a href="/" class="region regionOpenCloser">
+            <img width="19" height="25" src="https://nsk.aif.ru/redesign2018/img/location.svg?067">
+            <span>Новосибирск</span>
+        </a>
+
+        <!--a class="topline__hashtag" href="https://aif.ru/health/coronavirus/?utm_medium=header&utm_content=covid&utm_source=aif">#остаемсядома</a-->
+        <div class="auth_user_status_js">
+            <a href="#" class="user auth_link_login_js auth_open_js"><img width="24" height="24" src="https://nsk.aif.ru/redesign2018/img/user_ico.svg?067"></a>
+            <a href="/profile" class="user auth_link_profile_js" style="display: none"><img width="24" height="24" src="https://nsk.aif.ru/redesign2018/img/user_ico.svg?067"></a>
+        </div>
+        <div class="search_box">
+            <a href="#" class="search_ico searchOpener">
+                <img width="24" height="24" src="https://nsk.aif.ru/redesign2018/img/search_ico.svg?067">
+            </a>
+            <div class="search_input">
+                <form action="/search">
+                    <input type="text" name="text" maxlength="50" >
+                </form>
+            </div>
+        </div>
+    </div>
+</div>    <div class="regions_box">
+    <nav class="cont_center">
+        <ul class="regions">
+            <li><a href="https://aif.ru?from_menu=1">ФЕДЕРАЛЬНЫЙ</a></li>
+            <li><a href="https://spb.aif.ru">САНКТ-ПЕТЕРБУРГ</a></li>
+
+            
+                                    <li><a href="https://adigea.aif.ru">Адыгея</a></li>
+                
+            
+                                    <li><a href="https://arh.aif.ru">Архангельск</a></li>
+                
+            
+                
+            
+                
+            
+                                    <li><a href="https://astrakhan.aif.ru">Астрахань</a></li>
+                
+            
+                                    <li><a href="https://altai.aif.ru">Барнаул</a></li>
+                
+            
+                                    <li><a href="https://aif.by">Беларусь</a></li>
+                
+            
+                                    <li><a href="https://bel.aif.ru">Белгород</a></li>
+                
+            
+                                    <li><a href="https://bryansk.aif.ru">Брянск</a></li>
+                
+            
+                                    <li><a href="https://bur.aif.ru">Бурятия</a></li>
+                
+            
+                                    <li><a href="https://vl.aif.ru">Владивосток</a></li>
+                
+            
+                                    <li><a href="https://vlad.aif.ru">Владимир</a></li>
+                
+            
+                                    <li><a href="https://vlg.aif.ru">Волгоград</a></li>
+                
+            
+                                    <li><a href="https://vologda.aif.ru">Вологда</a></li>
+                
+            
+                                    <li><a href="https://vrn.aif.ru">Воронеж</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://dag.aif.ru">Дагестан</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://ivanovo.aif.ru">Иваново</a></li>
+                
+            
+                                    <li><a href="https://irk.aif.ru">Иркутск</a></li>
+                
+            
+                                    <li><a href="https://kazan.aif.ru">Казань</a></li>
+                
+            
+                                    <li><a href="https://kzaif.kz">Казахстан</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://klg.aif.ru">Калининград</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://kaluga.aif.ru">Калуга</a></li>
+                
+            
+                                    <li><a href="https://kamchatka.aif.ru">Камчатка</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://karel.aif.ru">Карелия</a></li>
+                
+            
+                                    <li><a href="https://kirov.aif.ru">Киров</a></li>
+                
+            
+                                    <li><a href="https://komi.aif.ru">Коми</a></li>
+                
+            
+                                    <li><a href="https://kostroma.aif.ru">Кострома</a></li>
+                
+            
+                                    <li><a href="https://kuban.aif.ru">Краснодар</a></li>
+                
+            
+                                    <li><a href="https://krsk.aif.ru">Красноярск</a></li>
+                
+            
+                                    <li><a href="https://krym.aif.ru">Крым</a></li>
+                
+            
+                                    <li><a href="https://kuzbass.aif.ru">Кузбасс</a></li>
+                
+            
+                
+            
+                
+            
+                                    <li><a href="https://aif.kg">Кыргызстан</a></li>
+                
+            
+                                    <li><a href="https://mar.aif.ru">Марий Эл</a></li>
+                
+            
+                                    <li><a href="https://saransk.aif.ru">Мордовия</a></li>
+                
+            
+                                    <li><a href="https://murmansk.aif.ru">Мурманск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://nn.aif.ru">Нижний Новгород</a></li>
+                
+            
+                                    <li><a href="https://nsk.aif.ru">Новосибирск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://omsk.aif.ru">Омск</a></li>
+                
+            
+                                    <li><a href="https://oren.aif.ru">Оренбург</a></li>
+                
+            
+                                    <li><a href="https://penza.aif.ru">Пенза</a></li>
+                
+            
+                                    <li><a href="https://perm.aif.ru">Пермь</a></li>
+                
+            
+                                    <li><a href="https://pskov.aif.ru">Псков</a></li>
+                
+            
+                                    <li><a href="https://rostov.aif.ru">Ростов-на-Дону</a></li>
+                
+            
+                                    <li><a href="https://rzn.aif.ru">Рязань</a></li>
+                
+            
+                                    <li><a href="https://samara.aif.ru">Самара</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://saratov.aif.ru">Саратов</a></li>
+                
+            
+                                    <li><a href="https://sakhalin.aif.ru">Сахалин</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://smol.aif.ru">Смоленск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://stav.aif.ru">Ставрополь</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://tver.aif.ru">Тверь</a></li>
+                
+            
+                                    <li><a href="https://tomsk.aif.ru">Томск</a></li>
+                
+            
+                                    <li><a href="https://tula.aif.ru">Тула</a></li>
+                
+            
+                                    <li><a href="https://tmn.aif.ru">Тюмень</a></li>
+                
+            
+                                    <li><a href="https://udm.aif.ru">Удмуртия</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://ul.aif.ru">Ульяновск</a></li>
+                
+            
+                                    <li><a href="https://ural.aif.ru">Урал</a></li>
+                
+            
+                                    <li><a href="https://ufa.aif.ru">Уфа</a></li>
+                
+            
+                
+            
+                
+            
+                                    <li><a href="https://hab.aif.ru">Хабаровск</a></li>
+                
+            
+                
+            
+                                    <li><a href="https://chv.aif.ru">Чебоксары</a></li>
+                
+            
+                                    <li><a href="https://chel.aif.ru">Челябинск</a></li>
+                
+            
+                                    <li><a href="https://chr.aif.ru">Черноземье</a></li>
+                
+            
+                                    <li><a href="https://chita.aif.ru">Чита</a></li>
+                
+            
+                                    <li><a href="https://ugra.aif.ru">Югра</a></li>
+                
+            
+                                    <li><a href="https://yakutia.aif.ru">Якутия</a></li>
+                
+            
+                                    <li><a href="https://yamal.aif.ru">Ямал</a></li>
+                
+            
+                                    <li><a href="https://yar.aif.ru">Ярославль</a></li>
+                
+                    </ul>
+    </nav>
+</div>    <div class="top_menu_box">
+    <div class="cont_center">
+        <nav class="top_menu main_menu_wrapper_js">
+                            <ul class="main_menu main_menu_js" id="rubrics">
+                                    <li  class="menuItem top_level_item_js">
+
+        <span  title="Спецпроекты">Спецпроекты</span>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  class="menuItem">
+
+        <a  href="http://dobroe.aif.ru/" title="«АИФ. ДОБРОЕ СЕРДЦЕ»" id="custommenu-6527">«АИФ. ДОБРОЕ СЕРДЦЕ»</a>
+    
+    </li>                                                                                                                    <li  class="menuItem">
+
+        <a  href="http://warletters.aif.ru/" title="Письма на фронт" id="custommenu-9071">Письма на фронт</a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/static/1965080" title="ДЕТСКАЯ КНИГА ВОЙНЫ " id="custommenu-9075">ДЕТСКАЯ КНИГА ВОЙНЫ </a>
+    
+    </li>                                                                                <li  class="menuItem">
+
+        <a  href="https://aif.ru/special" title="ВСЕ СПЕЦПРОЕКТЫ" id="custommenu-9079">ВСЕ СПЕЦПРОЕКТЫ</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  class="menuItem top_level_item_js">
+
+        <a  href="https://nsk.aif.ru/news" title="НОВОСТИ" id="custommenu-10346">НОВОСТИ</a>
+    
+    </li>                                                <li  data-rubric_id="1295" class="menuItem top_level_item_js">
+
+        <a  href="/society" title="ОБЩЕСТВО" id="custommenu-4859">ОБЩЕСТВО</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="1313" class="menuItem">
+
+        <a  href="/society/society_persona" title="Персона" id="custommenu-4866">Персона</a>
+    
+    </li>                                                                                <li  data-rubric_id="1314" class="menuItem">
+
+        <a  href="/society/society_education" title="Образование" id="custommenu-6238">Образование</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="1325" class="menuItem top_level_item_js">
+
+        <a  href="/incidents" title="ПРОИСШЕСТВИЯ" id="custommenu-7585">ПРОИСШЕСТВИЯ</a>
+    
+    </li>                                                <li  data-rubric_id="1296" class="menuItem top_level_item_js">
+
+        <a  href="/politic" title="ПОЛИТИКА" id="custommenu-4860">ПОЛИТИКА</a>
+    
+    </li>                                                <li  data-rubric_id="1305" class="menuItem top_level_item_js">
+
+        <a  href="/money" title="ЭКОНОМИКА" id="custommenu-4863">ЭКОНОМИКА</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                            <li  data-rubric_id="1321" class="menuItem">
+
+        <a  href="/money/finance" title=" Финансы" id="custommenu-4877"> Финансы</a>
+    
+    </li>                                                </ul>
+        </div>
+    </li>                                                <li  data-rubric_id="1298" class="menuItem top_level_item_js">
+
+        <a  href="/culture" title="КУЛЬТУРА" id="custommenu-4861">КУЛЬТУРА</a>
+    
+    </li>                                                <li  data-rubric_id="5767" class="menuItem top_level_item_js">
+
+        <a  href="/gkh" title="ЖКХ" id="custommenu-8659">ЖКХ</a>
+    
+    </li>                                                <li  data-rubric_id="1302" class="menuItem top_level_item_js">
+
+        <a  href="/health" title="ЗДОРОВЬЕ" id="custommenu-4862">ЗДОРОВЬЕ</a>
+    
+    </li>                                                <li  data-rubric_id="1306" class="menuItem top_level_item_js">
+
+        <a  href="/realty" title="НЕДВИЖИМОСТЬ" id="custommenu-7496">НЕДВИЖИМОСТЬ</a>
+    
+    </li>                                                <li  data-rubric_id="1303" class="menuItem top_level_item_js">
+
+        <a  href="/sport" title="СПОРТ " id="custommenu-5555">СПОРТ </a>
+    
+    </li>                                                <li  data-rubric_id="4390" class="menuItem top_level_item_js">
+
+        <a  href="/dontknows" title="Вопрос-Ответ" id="custommenu-7534">Вопрос-Ответ</a>
+    
+            <div class="subrubrics_box submenu_js">
+            <ul>
+                                                                                                                                                                            </ul>
+        </div>
+    </li>                                            </ul>
+
+            <ul id="projects" class="specprojects static_submenu_js"></ul>
+            <div class="right_box">
+                <div class="fresh_number">
+    <h3>Свежий номер</h3>
+    <a href="/gazeta/number/48862" class="number_box">
+                    <img loading="lazy" src="https://aif-s3.aif.ru/images/027/125/da30c5089395b367d0934dc5d66208dc.jpg" width="91" height="120">
+                <div class="text">
+            № 11. 16/03/2022 <br /> АиФ на Оби        </div>
+    </a>
+</div>
+<div class="links_box">
+    <a href="/gazeta">Издания</a>
+</div>
+                <div class="sharings_box">
+    <span>АиФ в социальных сетях</span>
+    <ul class="soc">
+                <li>
+        <a href="https://vk.com/aif_ru" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/vk.svg">
+        </a>
+    </li>
+            <li>
+            <a class="rss_button_black" href="/rss/all.php" target="_blank">
+                <img src="https://nsk.aif.ru/redesign2018/img/sharings/waflya.svg?067" />
+            </a>
+        </li>
+                <li>
+        <a href="https://itunes.apple.com/ru/app/argumenty-i-fakty/id333210003?mt=8 " target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/apple.svg">
+        </a>
+    </li>
+        <li>
+        <a href="https://play.google.com/store/apps/details?id=com.mobilein.aif&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5tb2JpbGVpbi5haWYiXQ" target="_blank">
+            <img src="https://aif.ru/redesign2018/img/sharings/androd.svg">
+        </a>
+    </li>
+    </ul>
+</div>
+            </div>
+        </nav>
+    </div>
+</div></header>            	<div class="content_containers_wrapper_js">
+        <div class="content_body  content_container_js">
+            <div class="content">
+                                <section class="main_top_block ">
+            <div class="main_img_box">
+            <img loading="lazy" src="https://aif-s3.aif.ru/images/031/300/1e1a367bdd49a84bf29722539c4c7dc0.jpg">
+        </div>
+                        <div class="top_box">
+                        <a href="https://nsk.aif.ru/society/v_novosibirske_sk_ishchet_podozrevaemogo_v_iznasilovanii_dvuh_zhenshchin">
+                                <span class="top_box__title">В Новосибирске СК ищет подозреваемого в изнасиловании двух женщин</span>
+            </a>
+            <!--div class="lead">
+                            </div-->
+        </div>
+    
+            <div class="bottom_box">
+                                <div class="bottom_item">
+                                                <a href="https://nsk.aif.ru/politic/v_novosibirske_i_kolcovo_otmenili_pryamye_vybory_merov">В Новосибирске и Кольцово отменили прямые выборы мэров</a>
+                        <div class="bottom_shadow"></div>
+                    </div>
+                                <div class="bottom_item">
+                                                <a href="https://nsk.aif.ru/society/v_novosibirske_osudyat_inzhenera_kompanii_za_gibel_betonshchika_na_stroyke">В Новосибирске осудят инженера компании за гибель бетонщика на стройке</a>
+                        <div class="bottom_shadow"></div>
+                    </div>
+                                <div class="bottom_item">
+                                                <a href="https://nsk.aif.ru/society/v_svo_pogib_46-letniy_dobrovolec_iz_novosibirskoy_oblasti_andrey_sumin">В СВО погиб 46-летний доброволец из Новосибирской области Андрей Сумин</a>
+                        <div class="bottom_shadow"></div>
+                    </div>
+                    </div>
+    </section>
+
+<div class="clearfix"></div>
+
+<div class="news_list_wrapper size2">
+    <section id="news_list_main" class="news_list news_list_main_js">
+        <ul class="list_js">
+        
+<li data-item-id="4454653" data-item-published-utc="2023-02-20 15:20:42">
+    <div class="date">
+        22:20,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/v_novosibirske_poyavilos_video_draki_voditelya_i_konduktora_s_passazhirom">
+        В Новосибирске появилось видео драки водителя и кондуктора с пассажиром    </a>
+</li>
+<li data-item-id="4454699" data-item-published-utc="2023-02-20 15:08:59">
+    <div class="date">
+        22:08,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/v_hode_svo_pogib_ryadovoy_aleksandr_samoylov_iz_ubinskogo_rayona">
+        В ходе СВО погиб рядовой Александр Самойлов из Убинского района    </a>
+</li>
+<li data-item-id="4454678" data-item-published-utc="2023-02-20 14:54:00">
+    <div class="date">
+        21:54,
+                    ПРОИСШЕСТВИЯ            </div>
+    <a href="https://nsk.aif.ru/incidents/v_novosibirske_zagorelsya_chetvyortyy_most_cherez_ob">
+        В Новосибирске загорелся четвёртый мост через Обь    </a>
+</li>
+<li data-item-id="4454532" data-item-published-utc="2023-02-20 14:06:26">
+    <div class="date">
+        21:06,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/zhiteli_novosibirska_rasskazali_istoriyu_poyavleniya_ashanovskoy_gruppirovki">
+        Жители Новосибирска рассказали историю появления «ашановской» группировки    </a>
+</li>
+<li data-item-id="4454586" data-item-published-utc="2023-02-20 13:57:43">
+    <div class="date">
+        20:57,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/zhitelyam_novosibirska_massovo_otkazyvayut_v_vizah_v_germaniyu">
+        Жителям Новосибирска массово отказывают в визах в Германию    </a>
+</li>
+<li data-item-id="4454575" data-item-published-utc="2023-02-20 13:48:57">
+    <div class="date">
+        20:48,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/v_novosibirske_bezdomnyy_popal_pod_kolesa_avtobusa">
+        В Новосибирске бездомный попал под колеса автобуса    </a>
+</li>
+<li data-item-id="4454504" data-item-published-utc="2023-02-20 13:20:34">
+    <div class="date">
+        20:20,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/vpavshuyu_v_komu_na_bali_elenu_novoselcevu_dostavyat_v_novosibirsk_22_fevralya">
+        Впавшую в кому на Бали Елену Новосельцеву доставят в Новосибирск 22 февраля    </a>
+</li>
+<li data-item-id="4454435" data-item-published-utc="2023-02-20 13:19:53">
+    <div class="date">
+        20:19,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/v_novosibirske_arendodateley_obyazali_predostavlyat_dannye_o_prozhivayushchih">
+        В Новосибирске арендодателей обязали предоставлять данные о проживающих    </a>
+</li>
+<li data-item-id="4454406" data-item-published-utc="2023-02-20 12:41:37">
+    <div class="date">
+        19:41,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/v_novosibirskoy_oblasti_proizoshla_utechka_solyanoy_kisloty_na_stancii">
+        В Новосибирской области произошла утечка соляной кислоты на станции    </a>
+</li>
+<li data-item-id="4454341" data-item-published-utc="2023-02-20 12:05:11">
+    <div class="date">
+        19:05,
+                    ОБЩЕСТВО            </div>
+    <a href="https://nsk.aif.ru/society/bloger_iz_novosibirska_umerla_v_klinike_posle_dtp_na_bali">
+        Блогер из Новосибирска умерла в клинике после ДТП на Бали    </a>
+</li>    </ul>
+    <div class="news_list_bottom_links bottom_links">
+        <div class="newsfeed_all_fader"></div>
+        <a class="link_bottom_right" href="/news"><i class="red_mini_tri"></i>Все новости</a>
+    </div>
+<a href="/news" class="blue_link">Все новости</a></section>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.news_list_main_js').aifNewsList({
+                url: '/news/index/all/tpl/index%2Flast_news.phtml'
+            });
+            var mainNewsTabsEl = $('.main_news_list_tabs_js');
+            var onTabOpen = function (tab) {
+                tab.content_container.find('.list_js').scrollTop(0);
+            };
+            if (mainNewsTabsEl.length) {
+                mainNewsTabsEl.aiftabs(
+                {
+                    tabs : [
+                        {
+                            onOpen: function () {
+                                onTabOpen(this);
+                            }
+                        },
+                        {
+                            onOpen: function () {
+                                onTabOpen(this);
+                            }
+                        }
+                    ]
+                }
+                );
+            }
+            var regionNewsList = $('.news_list_main_region_js');
+            if (regionNewsList.length) {
+                regionNewsList.aifNewsList({
+                    url: '/news/index/all/tpl/index%2Flast_news.phtml/current_region/1'
+                });
+            }
+        });
+    </script>
+</div>
+
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/303/6b89b303e1680f7c9759c6f1b01d1ce3.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/serdce_ne_vyderzhalo_studentka_iz_novosibirska_umerla_posle_dtp_na_bali">
+                        <span class="item_text__title">«Сердце не выдержало». Студентка из Новосибирска умерла после ДТП на Бали</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/301/762409284a9722aa3d7e71499a7f0107.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/kto_takie_dendroarheologi_i_zachem_oni_schitayut_kolca_na_derevyah">
+                        <span class="item_text__title">Кто такие дендроархеологи, и зачем они считают кольца на деревьях</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/256/28ca615e5fd836adf0ddbb05e6974159.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/realty/skolko_nuzhno_detey_chtoby_poluchit_semeynuyu_ipoteku_rasskazyvaet_ekspert">
+                        <span class="item_text__title">Сколько нужно детей, чтобы получить семейную ипотеку. Рассказывает эксперт</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/realty" class="rubric_link">НЕДВИЖИМОСТЬ</a>
+    </section>            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/chto_za_gruppirovka_ashanovskie_kotoraya_pugaet_shkolnikov_v_novosibirske">Что за группировка «Ашановские», которая пугает школьников в Новосибирске?</a></div>
+
+        <div class="descr">
+        На проблему обратил внимание председатель Следственного комитета России Александр Бастрыкин.    </div>
+    
+    <a href="https://nsk.aif.ru/society/chto_za_gruppirovka_ashanovskie_kotoraya_pugaet_shkolnikov_v_novosibirske" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+    
+<div class="clearfix"></div>
+
+
+                            </div>
+                            <div class="right_column">
+                    <div class="content_sticky_column_js">
+                        <noindex><div class="adv_content bp__header300x250 no_lands no_portr adwrapper mbottom10 floating_banner_js"><div class="banner_params hide" data-params="{&quot;id&quot;:5347,&quot;num&quot;:1,&quot;place&quot;:&quot;header300x250&quot;}"></div>
+<center>
+
+
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: AIF.ru / * / *-->
+<!--Тип баннера: 240x400/300x250_верх_сетки-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_153825256063495017"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.adfoxCode.create({
+      ownerId: 249933,
+        containerId: 'adfox_153825256063495017',
+        params: {
+            pp: 'g',
+            ps: 'chxs',
+            p2: 'fqve',
+            puid1: ''
+          }
+    });
+});
+</script>
+
+</center></div></noindex>    <noindex><div class="adv_content bp__informers3 no_lands no_portr adwrapper mbottom10 no_mob"><div class="banner_params hide" data-params="{&quot;id&quot;:5881,&quot;num&quot;:1,&quot;place&quot;:&quot;informers3&quot;}"></div>
+<!--AdFox START-->
+<!--aif_direct-->
+<!--Площадка: nsk.aif.ru / * / *-->
+<!--Тип баннера: 300x100_1-->
+<!--Расположение: верх страницы-->
+<div id="adfox_164689651241526016"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 249933,
+            containerId: 'adfox_164689651241526016',
+            params: {
+                pp: 'g',
+                ps: 'cnbj',
+                p2: 'fpoz',
+                puid1: ''
+            }
+        })
+    })
+</script>
+ 
+
+<br>
+</div></noindex>        <section class="top5">
+    <div class="top_decor">
+        <div class="red_line"></div>
+        <h3>Топ-5 читаемых</h3>
+        <div class="red_line"></div>
+    </div>
+            <ul>
+                            <li>
+                    <a href="https://nsk.aif.ru/society/maslenica_2023_kakogo_chisla_tradicii_chto_mozhno_i_chto_nelzya_delat">
+                        Масленица 2023: какого числа, традиции, что можно и что нельзя делать                    </a>
+                </li>
+                            <li>
+                    <a href="https://nsk.aif.ru/society/v_novosibirske_voditel_i_konduktor_izbili_passazhira_avtobusa">
+                        В Новосибирске водитель и кондуктор избили пассажира автобуса                    </a>
+                </li>
+                            <li>
+                    <a href="https://nsk.aif.ru/society/v_novosibirske_sk_ishchet_podozrevaemogo_v_iznasilovanii_dvuh_zhenshchin">
+                        В Новосибирске СК ищет подозреваемого в изнасиловании двух женщин                    </a>
+                </li>
+                            <li>
+                    <a href="https://nsk.aif.ru/society/chto_za_gruppirovka_ashanovskie_kotoraya_pugaet_shkolnikov_v_novosibirske">
+                        Что за группировка «Ашановские», которая пугает школьников в Новосибирске?                    </a>
+                </li>
+                            <li>
+                    <a href="https://nsk.aif.ru/society/stali_izvestny_podrobnosti_izbieniya_passazhira_v_avtobuse_v_novosibirske">
+                        Стали известны подробности избиения пассажира в автобусе в Новосибирске                    </a>
+                </li>
+                    </ul>
+    </section>
+                    </div>
+                </div>
+                <div class="endTopToDown_js"></div>
+                    </div>
+    </div>
+
+    <div class="cont_center">
+    <div class="full_width_block">
+        <div class="fw_inner_box">
+            <div class="overfl">
+                
+    <section class="w50 fw_item">
+        <div class="fwSlider_js">
+
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://nsk.aif.ru/society/festival_iglu_gorod_eskimosov_v_novosibirske">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/285/4db48d8401130c48325294dbb60eb27f.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="gallery_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="/gallery">Галереи</a>
+                                                    </div>
+                        <a href="https://nsk.aif.ru/society/festival_iglu_gorod_eskimosov_v_novosibirske">
+                                                        <h2 class="box_title">Фестиваль иглу «Город эскимосов» в Новосибирске</h2>
+                        </a>
+
+                                                <a href="/gallery" class="galleries_link" tabindex="0">Все галереи</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://nsk.aif.ru/society/kak_vyglyadit_novyy_terminal_aeroporta_tolmachyovo_v_novosibirske">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/184/4e49c8ba9318f15a8decf7ae19573f18.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="gallery_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="/gallery">Галереи</a>
+                                                    </div>
+                        <a href="https://nsk.aif.ru/society/kak_vyglyadit_novyy_terminal_aeroporta_tolmachyovo_v_novosibirske">
+                                                        <h2 class="box_title">Новый терминал аэропорта Толмачёво в Новосибирске</h2>
+                        </a>
+
+                                                <a href="/gallery" class="galleries_link" tabindex="0">Все галереи</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://nsk.aif.ru/incidents/chto_ostalos_na_meste_vzryva_zhilogo_doma_v_novosibirske">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/172/f5ea817c6facbbf41521a3af8828a91b.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="gallery_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="/gallery">Галереи</a>
+                                                    </div>
+                        <a href="https://nsk.aif.ru/incidents/chto_ostalos_na_meste_vzryva_zhilogo_doma_v_novosibirske">
+                                                        <h2 class="box_title">Дом, где взорвался газ в Новосибирске, после разбора завалов</h2>
+                        </a>
+
+                                                <a href="/gallery" class="galleries_link" tabindex="0">Все галереи</a>
+                                            </div>
+                </div>
+                    </div>
+    </section>
+                
+    <section class="w50 fw_item">
+        <div class="fwSlider_js">
+
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/money/mymoney/skolko_stoit_shodit_na_svidanie_dlya_parnya_i_devushki_infografika">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/274/16402f60ce29c1577f3fe6f4e317fc38.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="info_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="https://aif.ru/infographic">Инфографика</a>
+                                                    </div>
+                        <a href="https://aif.ru/money/mymoney/skolko_stoit_shodit_na_svidanie_dlya_parnya_i_devushki_infografika">
+                                                        <h2 class="box_title">Сколько стоит сходить на свидание для парня и девушки? Инфографика</h2>
+                        </a>
+
+                                                <a href="https://aif.ru/infographic" class="galleries_link" tabindex="0">Вся инфографика</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/society/nature/samye_razrushitelnye_zemletryaseniya_za_poslednie_100_let_infografika">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/138/1256e06164542a560241f3f75c5a42fc.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="info_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="https://aif.ru/infographic">Инфографика</a>
+                                                    </div>
+                        <a href="https://aif.ru/society/nature/samye_razrushitelnye_zemletryaseniya_za_poslednie_100_let_infografika">
+                                                        <h2 class="box_title">Самые разрушительные землетрясения за последние 100 лет. Инфографика</h2>
+                        </a>
+
+                                                <a href="https://aif.ru/infographic" class="galleries_link" tabindex="0">Вся инфографика</a>
+                                            </div>
+                </div>
+                            <div class="fwSlider_item">
+                                                                <a class="img_box" href="https://aif.ru/dacha/calendar/lunnyy_kalendar_sadovoda_i_ogorodnika_2023_g">
+                            <img loading="lazy" alt="" src="https://aif-s3.aif.ru/images/031/054/677512e5b86fc5933f670aede41b6553.jpg"/>
+                        </a>
+                    
+                    <div class="text_box">
+                        <div class="icon_box"><i class="info_icon"></i></div>
+                        <div class="rubric_name">
+                                                            <a href="https://aif.ru/infographic">Инфографика</a>
+                                                    </div>
+                        <a href="https://aif.ru/dacha/calendar/lunnyy_kalendar_sadovoda_i_ogorodnika_2023_g">
+                                                        <h2 class="box_title">Лунный календарь садовода и огородника на 2023 год. Инфографика</h2>
+                        </a>
+
+                                                <a href="https://aif.ru/infographic" class="galleries_link" tabindex="0">Вся инфографика</a>
+                                            </div>
+                </div>
+                    </div>
+    </section>
+            </div>
+
+            <!-- Блок из 12 материалов -->
+                        
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/291/f51ab0b0d4eb9924a2d947d2c0466ff0.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/maslenica_2023_kakogo_chisla_tradicii_chto_mozhno_i_chto_nelzya_delat">
+                        <span class="item_text__title">Масленица 2023: какого числа, традиции, что можно и что нельзя делать</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/279/4904748311e14d3b2926756bbae79cff.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/novyy_metod_lecheniya_infarktov_i_insultov_sozdayut_novosibirskie_uchenye">
+                        <span class="item_text__title">Новый метод лечения инфарктов и инсультов создают новосибирские ученые</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/264/6f6d9484edc24498751b5f6498b5ff95.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/kak_krasavica-uchenyy_razrabatyvaet_tehnologii_dlya_slozhneyshih_priborov">
+                        <span class="item_text__title">Как красавица-ученый разрабатывает технологии для сложнейших приборов</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="В ту роковую пятницу взрослые в очередной раз напились и решили заняться образованием сына." src="https://aif-s3.aif.ru/images/031/224/36ca9c6bdeada0da9c94a5c59a110c41.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/ne_hotel_chitat_otchimu_dali_pozhiznennoe_za_ubiystvo_6-letnego_pasynka">
+                        <span class="item_text__title">Не хотел читать. Отчиму дали пожизненное за убийство 6-летнего пасынка</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Безутешный муж и отец не отходил от гробов." src="https://aif-s3.aif.ru/images/031/213/d81a043cde708281fa92572540f6f388.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/semi_bolshe_net_prostilis_s_mamoy_i_malyshkoy_pogibshimi_pri_vzryve">
+                        <span class="item_text__title">«Семьи больше нет». Простились с мамой и малышкой, погибшими при взрыве</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/kakogo_chisla_budet_maslenica_i_pasha_u_pravoslavnyh_v_2023_godu">Какого числа будет Масленица и Пасха у православных в 2023 году?</a></div>
+
+        <div class="descr">
+        Масленица даёт своеобразный старт Великому посту.    </div>
+    
+    <a href="https://nsk.aif.ru/society/kakogo_chisla_budet_maslenica_i_pasha_u_pravoslavnyh_v_2023_godu" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/186/c312052b49bafd2f599af1bd3fae9713.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/bez_oglyadki_na_pogodu_kak_novosibirskie_uchenye_sozdayut_superrasteniya">
+                        <span class="item_text__title">Без оглядки на погоду: как новосибирские ученые создают суперрастения</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Суд проходил за закрытыми дверями.  " src="https://aif-s3.aif.ru/images/031/184/a36c81f2c54423eb1255097d543f43ff.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/ofis_v_sarae_obvinyaemye_vo_vzryve_lzhegazovshchiki_arestovany_v_novosibirske">
+                        <span class="item_text__title">Офис — в сарае. Обвиняемые во взрыве лжегазовщики арестованы в Новосибирске</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Мама мальчика чудом выжила." src="https://aif-s3.aif.ru/images/031/183/c40a9ddbf1ad0413aa75fba13743d6f2.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/lyudi_krichali_iz-pod_plit_sibiryachka_posle_vzryva_zabrala_7-letnego_malchika">
+                        <span class="item_text__title">Люди кричали из-под плит. Сибирячка после взрыва забрала 7-летнего мальчика</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/skolko_chelovek_pogiblo_vo_vremya_vzryva_gaza_v_novosibirske">Сколько человек погибло во время взрыва газа в Новосибирске?</a></div>
+
+        <div class="descr">
+        Спасатели завершили разбор завалов на месте взрыва дома.    </div>
+    
+    <a href="https://nsk.aif.ru/society/skolko_chelovek_pogiblo_vo_vremya_vzryva_gaza_v_novosibirske" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Из-за взрыва полностью обрушился один подъезд." src="https://aif-s3.aif.ru/images/031/168/3fc48d2622af73af0cfff21fcb667565.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/na_meste_podezda_dyra_kto_vinovat_vo_vzryve_gaza_v_novosibirske">
+                        <span class="item_text__title">«На месте подъезда — дыра». Кто виноват во взрыве газа в Новосибирске?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/167/d132e9790850fa540778c624dde40e3c.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/incidents/razbor_zavalov_posle_vzryva_gaza_v_zhilom_dome_v_novosibirske">
+                        <span class="item_text__title">Разбор завалов после взрыва газа в жилом доме в Новосибирске</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/incidents" class="rubric_link">ПРОИСШЕСТВИЯ</a>
+    </section>            </div>
+    </div>
+
+        <div class="full_width_block partners_materials">
+        <div class="partners_decor_box">
+            <h2>ПАРТНЕРСКИЕ МАТЕРИАЛЫ</h2>
+        </div>
+
+        <div class="fw_inner_box">
+                    <section class="w50 fw_item">
+                                                                    <a href="https://nsk.aif.ru/import/vremya_vzletat_bio-vesta_gotova_obespechit_rf_unikalnymi_probiotikami" class="img_box">
+                        <img loading="lazy" src="https://aif-s3.aif.ru/images/027/992/62bcaa8fcb2e0fae9f6bf317dc722e5c.jpg"/>
+                    </a>
+                                <div class="text_box">
+                                                                <div class="rubric_name">Импортозамещение</div>
+                                        <a href="https://nsk.aif.ru/import/vremya_vzletat_bio-vesta_gotova_obespechit_rf_unikalnymi_probiotikami">
+                        <h2>Время взлетать! «Био-Веста» готова обеспечить РФ уникальными пробиотиками</h2>
+                    </a>
+                </div>
+
+            </section>
+                    <section class="w50 fw_item">
+                                                                    <a href="https://nsk.aif.ru/realty/sovremennye_kvartiry_v_ipoteku_dlya_it-specialistov" class="img_box">
+                        <img loading="lazy" src="https://aif-s3.aif.ru/images/028/187/889505f20410ed213de32783dbf8d4d8.jpg"/>
+                    </a>
+                                <div class="text_box">
+                                                                <div class="rubric_name">НЕДВИЖИМОСТЬ</div>
+                                        <a href="https://nsk.aif.ru/realty/sovremennye_kvartiry_v_ipoteku_dlya_it-specialistov">
+                        <h2>Современные квартиры в ипотеку для IT-специалистов</h2>
+                    </a>
+                </div>
+
+            </section>
+                </div>
+    </div>
+</div>
+
+    <div class="content_body">
+        <div class="content">
+            <!-- Блок из 6 материалов -->
+                        <section class="size2 question_answer_item" style="">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/chto_izvestno_o_vzryve_gaza_v_zhilom_dome_v_novosibirske">Взрыв газа в жилом доме в Новосибирске. Что известно на данный момент</a></div>
+
+        <div class="descr">
+        В пятиэтажном доме взорвался газ, есть погибшие    </div>
+    
+    <a href="https://nsk.aif.ru/society/chto_izvestno_o_vzryve_gaza_v_zhilom_dome_v_novosibirske" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/156/f7f28a24786ab801194fb1c23c65695e.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/incidents/kak_v_novosibirske_likvidiruyut_posledstviya_vzryva_gaza_v_zhilom_dome">
+                        <span class="item_text__title">Как в Новосибирске ликвидируют последствия взрыва газа в жилом доме</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/incidents" class="rubric_link">ПРОИСШЕСТВИЯ</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/155/f8c7ccf5f2b6af7c560d74653ed209de.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/incidents/vzryv_gaza_v_zhilom_dome_v_novosibirske">
+                        <span class="item_text__title">Взрыв газа в жилом доме в Новосибирске</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/incidents" class="rubric_link">ПРОИСШЕСТВИЯ</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/147/473eeeaad9749935f21c40cf0646b5f5.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/health/molodye_novosibirskie_uchenye_razrabatyvayut_lekarstvo_protiv_raka">
+                        <span class="item_text__title">Молодые новосибирские ученые разрабатывают лекарство против рака</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/health" class="rubric_link">ЗДОРОВЬЕ</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/130/ada54386910654f731fb717a2eeac319.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/realty/rynok_nedvizhimosti_v_turbulentnoe_vremya_itogi_prognozy_i_plan_deystviy">
+                        <span class="item_text__title">Рынок недвижимости в турбулентное время: итоги, прогнозы и план действий</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/realty" class="rubric_link">НЕДВИЖИМОСТЬ</a>
+    </section>            
+<section class="size2 news_item" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/120/76a489248ee03e812d828574fb6f7d8a.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/v_novosibirske_mnogodetnaya_mama_zinaida_iost_rodila_10-go_rebyonka">
+                        <span class="item_text__title">В Новосибирске многодетная мама Зинаида Иост родила 10-го ребёнка</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>            </div>
+        <div class="right_column">
+            <div class="content_sticky_column_js">
+                        </div>
+        </div>
+    </div>
+
+<div class="full_width_block no_padding">
+    </div>
+
+    <div class="cont_center">
+        <div class="full_width_block content_grid_js">
+            <div class="fw_inner_box">
+                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Ребенка избили вечером после уроков. " src="https://aif-s3.aif.ru/images/031/118/5b0c851d4a25a5c876b7c5e9ed126441.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/otletel_na_dva_metra_v_novosibirske_muzhchiny_izbili_12-letnego_shkolnika">
+                        <span class="item_text__title">«Отлетел на два метра». В Новосибирске мужчины избили 12-летнего школьника</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Отец Борис руководит спортивным отделом Новосибирской епархии." src="https://aif-s3.aif.ru/images/031/052/a2dce0b446f9dd724b879932b4875254.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/pauerlifter_v_ryase_svyashchennik_sovmestil_shtangu_s_molitvami_u_altarya">
+                        <span class="item_text__title">Пауэрлифтер в рясе. Священник совместил штангу с молитвами у алтаря</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/051/bc1c0d94cdbbcce31e98d14475efbfe3.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/politic/gubernator_andrey_travnikov_otmechaet_52-letie">
+                        <span class="item_text__title">Губернатор Андрей Травников отмечает 52-летие. Архивные кадры</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/politic" class="rubric_link">ПОЛИТИКА</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/082/f20d91c2c045c1f051b019139e7e2174.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/upal_v_kolodec_poteryal_pamyat_novosibirec_stal_invalidom_posle_zapoya">
+                        <span class="item_text__title">«Упал в колодец, потерял память»‎. Новосибирец стал инвалидом после запоя</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="За этой спасательной операцией без преувеличения наблюдал почти весь Новосибирск." src="https://aif-s3.aif.ru/images/031/046/a65e9f352924b0825b6e1411ab6b207a.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/nazvali_ksyushey_spasateli_vytashchili_sobaku_s_ostrova_posredi_obi">
+                        <span class="item_text__title">Назвали Ксюшей. Спасатели вытащили собаку с острова посреди Оби</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/054/f3068d1743c3d743f5eca6552dee7369.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/zapreshchali_govorit_po-russki_sibiryachka_spasla_syna_sbezhav_iz_germanii">
+                        <span class="item_text__title">«Запрещали говорить по-русски». Сибирячка спасла сына, сбежав из Германии</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/032/9e1700188f5ede32a8f83dd4adb08cd6.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/umelo_skryval_depressiyu_kak_i_pochemu_pogib_18-letniy_student_ngtu">
+                        <span class="item_text__title">«Умело скрывал депрессию». Как и почему погиб 18-летний студент НГТУ</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/021/7a548db3ce4d471d1d813266f8172130.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/apk/chto_nuzhno_poseyat_v_fevrale_na_rassadu_polnyy_spisok">
+                        <span class="item_text__title">Что нужно посеять в феврале на рассаду: полный список</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/apk" class="rubric_link">СЕЛЬСКОЕ ХОЗЯЙСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="Евгений Гришковец посетил военный госпиталь в Новосибирске." src="https://aif-s3.aif.ru/images/031/016/e277d6213c03d52a36639db129aaa976.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/culture/o_lyubvi_k_yunosti_grishkovec_v_gospitale_vstretilsya_s_uchastnikami_svo">
+                        <span class="item_text__title">О любви к юности. Гришковец в госпитале встретился с участниками СВО</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/culture" class="rubric_link">КУЛЬТУРА</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/031/003/6d7d56065d5e218a20666b4c84c6cbf6.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/my_poteryali_rebyonka_chto_izvestno_o_suicide_pyatiklassnika_v_novosibirske">
+                        <span class="item_text__title">«Мы потеряли ребёнка». Что известно о суициде пятиклассника в Новосибирске</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/990/6b44bdeec79b4c164081b54e05cb80c7.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/ne_nasilnik_ne_ubiyca_kak_byvshiy_zek_iz_novosibirska_poteryal_obe_nogi">
+                        <span class="item_text__title">«Не насильник, не убийца». Как бывший зэк из Новосибирска потерял обе ноги</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/981/8e02b55788b4fa2a330a9669d2051148.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/brosala_v_syomnyh_kvartirah_vtoroe_delo_zaveli_na_mat_sgorevshih_detey">
+                        <span class="item_text__title">Бросала в съёмных квартирах. Задержана мать погибших в пожаре детей</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/977/21e590037819ad74ef3f5c90685f338b.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/health/ne_tolko_c_vrach_iz_novosibirska_nazvala_samye_moshchnye_vitaminy_ot_orvi">
+                        <span class="item_text__title">Не только C. Врач из Новосибирска назвала самые мощные витамины от ОРВИ</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/health" class="rubric_link">ЗДОРОВЬЕ</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Уголовное дело направлено на новое рассмотрение." src="https://aif-s3.aif.ru/images/030/933/32853865ea4280000574604a55548c37.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/a_prokuror_protiv_v_sibiri_peresmotryat_delo_deputata_sbivshego_malchika">
+                        <span class="item_text__title">А прокурор — против! В Сибири пересмотрят дело депутата, сбившего мальчика</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/914/29ecf09f943ad69f48f2aaaa70613c7a.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/devushka_upala_na_parnya_razoshlis_versii_kto_pogib_v_centre_novosibirska">
+                        <span class="item_text__title">Девушка упала на парня? Разошлись версии, кто погиб в центре Новосибирска</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Врача обвинили в том, что он выполнил свои обязанности ненадлежащим образом. " src="https://aif-s3.aif.ru/images/030/904/f1004b670065c6683967329820ee26cf.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/umerla_v_mukah_v_sibiri_vracha_sudyat_za_zabytuyu_v_rane_pacientki_salfetku">
+                        <span class="item_text__title">Умерла в муках. В Сибири врача судят за забытую в ране пациентки салфетку</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/886/7105a004a75b5457295fccb012ebcb9e.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/podvig_tihogo_parenka_24-letniy_voennyy_iz_sibiri_pogib_v_zone_svo">
+                        <span class="item_text__title">Подвиг «‎тихого паренька»‎. 24-летний военный из Сибири погиб в зоне СВО</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/chto_za_innovacionnoe_cerkovnoe_kadilo_razrabotal_uchyonyy_iz_novosibirska">Что за инновационное церковное кадило разработал учёный из Новосибирска?</a></div>
+
+        <div class="descr">
+        Такое кадило может работать бесконечно.    </div>
+    
+    <a href="https://nsk.aif.ru/society/chto_za_innovacionnoe_cerkovnoe_kadilo_razrabotal_uchyonyy_iz_novosibirska" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="По понятным причинам, обратная связь от участников спецоперации не всегда поступает." src="https://aif-s3.aif.ru/images/030/884/94d3a2021ec60d7f4d3749098d89639f.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/pishu_i_kazhdyy_raz_revu_chto_zhelayut_novosibircy_v_pismah_uchastnikam_svo">
+                        <span class="item_text__title">«Пишу и каждый раз реву». Что желают новосибирцы в письмах участникам СВО</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/889/f54fd986873f169f1d62bd20af594b95.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/tysyachi_novosibircev_okunulis_v_kupeli_na_kreshchenie_fotoreportazh">
+                        <span class="item_text__title">Тысячи новосибирцев окунулись в купели на Крещение</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="На изготовление такой свечки уходит полчаса. " src="https://aif-s3.aif.ru/images/030/878/fd00000214dacce634dc443a793dd38a.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/eto_i_pechka_i_lampochka_kak_v_novosibirske_delayut_okopnye_svechi_dlya_svo">
+                        <span class="item_text__title">«Это и печка, и лампочка». Как в Новосибирске делают окопные свечи для СВО</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Медики диагностировали перелом руки в двух местах со смещением и наложили гипс. " src="https://aif-s3.aif.ru/images/030/882/603e5f1407d670335d8e3fbb0d00c800.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/ot_boli_poteryala_soznanie_pensionerka_slomala_ruku_upav_v_trolleybuse">
+                        <span class="item_text__title">Без сознания от боли. Сибирячку, сломавшую руку, высадили из троллейбуса</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/878/aa5d74a98b37af2a959e578d4259cfd9.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/money/ottok_kapitala_za_rubezh_o_chem_govoryat_cifry">
+                        <span class="item_text__title">Отток капитала за рубеж: о чем говорят цифры?</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/money" class="rubric_link">ЭКОНОМИКА</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/kak_nakazali_aviadeboshira_kotorogo_svyazali_remnyami_vo_vremya_polyota">Как наказали авиапассажира рейса «Магадан-Новосибирск», устроившего дебош?</a></div>
+
+        <div class="descr">
+        Пассажирам и бортпроводникам удалось скрутить мужчину и зафиксировать ремнями.    </div>
+    
+    <a href="https://nsk.aif.ru/society/kak_nakazali_aviadeboshira_kotorogo_svyazali_remnyami_vo_vremya_polyota" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/874/fd4b2aed37e71cfe82114d1717f86f89.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/hotel_prikryt_molodyh_mnogodetnyy_sibiryak_umer_na_rukah_u_brata_na_svo">
+                        <span class="item_text__title">Хотел «прикрыть» молодых. Многодетный сибиряк умер на руках у брата на СВО</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Родные бьются за то, чтобы как можно скорее вывезти женщину спецбортом в Новосибирск." src="https://aif-s3.aif.ru/images/030/849/a007b4d303267bfcf6d01b0e93939ef6.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/mama_v_kome_novosibirskogo_medika_posle_insulta_ne_mogut_vyvezti_s_bali">
+                        <span class="item_text__title">«Мама в коме». Новосибирского медика после инсульта не могут вывезти с Бали</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/846/fd4dd5645df6cb2288cf0404b6bbbd68.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/novoe_shou_gii_eradze_burlesk_s_4_fevralya_v_novosibirskom_cirke">
+                        <span class="item_text__title">Новое шоу Гии Эрадзе «Бурлеск» — с 4 февраля в Новосибирском цирке</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/812/266fe30bad457e3f3b04d661a261d242.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/business/put_v_10_let_ekoniva_stala_znachimym_igrokom_rynka_molochnoy_produkcii">
+                        <span class="item_text__title">Как «ЭкоНива» стала значимым игроком рынка молочной продукции</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/business" class="rubric_link">БИЗНЕС</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/passazhir_vyletel_v_okno_chto_izvestno_o_dtp_s_avtobusom_pod_novosibirskom">«Пассажир вылетел в окно»: что известно о ДТП с автобусом под Новосибирском</a></div>
+
+        <div class="descr">
+        Пострадали два человека.    </div>
+    
+    <a href="https://nsk.aif.ru/society/passazhir_vyletel_v_okno_chto_izvestno_o_dtp_s_avtobusom_pod_novosibirskom" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/health/chto_izvestno_o_massovom_zarazhenii_fluronoy_v_novosibirske">Что известно о массовом заражении флуроной в Новосибирске?</a></div>
+
+        <div class="descr">
+        Часто болезнь приводит к тяжелой пневмонии.    </div>
+    
+    <a href="https://nsk.aif.ru/health/chto_izvestno_o_massovom_zarazhenii_fluronoy_v_novosibirske" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/health" class="rubric_link">ЗДОРОВЬЕ</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="У девочки зафиксирован перелом носа со смещением, а также ушибы головы. " src="https://aif-s3.aif.ru/images/030/825/34dd5a826242aaf579606884945bf434.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/s_cepi_sorvalsya_novosibirec_slomal_nos_devochke_iz-za_zamechaniya_o_sobake">
+                        <span class="item_text__title">С цепи сорвался. Новосибирец сломал нос девочке из-за замечания о собаке</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/823/5f5a60a435f035e7392caf22e75a106c.JPG" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/kreshchenie_v_2023_godu_kakogo_chisla_kogda_kupatsya_i_nabirat_svyatuyu_vodu">
+                        <span class="item_text__title">Крещение в 2023 году: какого числа, когда купаться и набирать святую воду</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Стаж работы машинистом у Дмитрия Перепелкина составляет почти 20 лет. " src="https://aif-s3.aif.ru/images/030/819/60b6fd0a8e308fc693496113d41c64d2.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/odna_zimney_nochyu_na_putyah_mashinist_elektrichki_spas_devochku_v_sibiri">
+                        <span class="item_text__title">«Одна, зимней ночью, на путях!» Машинист электрички спас девочку в Сибири</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Маламут трепал ребенка несколько минут, это видно на кадрах видеорегистратора проезжавшей мимо машины. " src="https://aif-s3.aif.ru/images/030/800/363352b0c00326c8a23983fa9926d731.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/razorval_lico_7-letniy_malchik_chudom_vyzhil_posle_napadeniya_malamuta">
+                        <span class="item_text__title">Разорвал лицо. 7-летний мальчик чудом выжил после нападения маламута</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Жители мерзнут в квартирах из-за задуваемого в щель воздуха." src="https://aif-s3.aif.ru/images/030/782/c1342ef377b86fa931cfca9f9c4c2fe2.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/realty/raskololsya_popolam_v_novosibirske_dom_tresnul_ot_fundamenta_do_kryshi">
+                        <span class="item_text__title">«Раскололся» пополам. В Новосибирске дом треснул от фундамента до крыши</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/realty" class="rubric_link">НЕДВИЖИМОСТЬ</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/782/a991b466cf8a951120fa285a15d30412.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/v_novosibirske_pyatietazhka_tresnula_popolam_fotoreportazh">
+                        <span class="item_text__title">В Новосибирске пятиэтажка треснула пополам. Фоторепортаж</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/759/86278eaade05efbc4b5bc693d7c17767.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/kogo-to_podvozil_novosibircy_obsuzhdayut_ubiystvo_mnogodetnogo_otca">
+                        <span class="item_text__title">«Кого-то подвозил?» Новосибирцы обсуждают убийство многодетного отца</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/chto_izvestno_o_gibeli_33-letnego_mnogodetnogo_otca_ubitogo_v_novosibirske">Что известно о гибели 33-летнего многодетного отца, убитого в Новосибирске?</a></div>
+
+        <div class="descr">
+        По факту убийства человека возбуждено уголовное дело.    </div>
+    
+    <a href="https://nsk.aif.ru/society/chto_izvestno_o_gibeli_33-letnego_mnogodetnogo_otca_ubitogo_v_novosibirske" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/740/ca136d6ef298cae0d99bfaa5ebe53729.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/zastrelili_v_mashine_u_naydennogo_pogibshim_novosibirca_ostalos_troe_detey">
+                        <span class="item_text__title">Застрелили в машине? У найденного погибшим новосибирца осталось трое детей</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/739/68a1f5ecacc82bb72965eec616751365.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/pravoslavnye_vstretili_rozhdestvo_v_novosibirske_fotoreportazh">
+                        <span class="item_text__title">Православные встретили Рождество в Новосибирске. Фоторепортаж</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/society/kakaya_pogoda_budet_v_novosibirske_v_yanvare_2023_goda">Какая погода будет в Новосибирске в январе 2023 года?</a></div>
+
+        <div class="descr">
+        В Новосибирске в январе ожидается мороз до -33 градусов.    </div>
+    
+    <a href="https://nsk.aif.ru/society/kakaya_pogoda_budet_v_novosibirske_v_yanvare_2023_goda" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/710/0c87084a94ff189022865ae1e54a42f8.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/v_novosibirske_2_yanvarya_startoval_festival_snezhnyh_bab">
+                        <span class="item_text__title">Фестиваль снежных баб в Новосибирске. Фоторепортаж</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="У иностранных студентов Новосибирского государственного университета другие обычаи празднования Нового года." src="https://aif-s3.aif.ru/images/030/696/cf7ea1a47272a3335cb40cd7a59bbace.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/culture/rezhem_korov_zhzhyom_travy_kak_otmechaet_novyy_god_studentka_ngu_iz_afriki">
+                        <span class="item_text__title">«Режем коров, жжём траву!» Как отмечают Новый год студенты из Африки</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/culture" class="rubric_link">КУЛЬТУРА</a>
+    </section>                                    <section class="size2 question_answer_item content_grid_items_js" style="display: none;">
+    <div class="rubric_name">
+        Вопрос-ответ
+    </div>
+    <div class="qa-item__title"><a href="https://nsk.aif.ru/avto/kakoy_transport_budet_ostanavlivatsya_na_ostanovke_metro_sportivnaya">Какой транспорт будет останавливаться на остановке «Метро Спортивная»?</a></div>
+
+        <div class="descr">
+        В Новосибирске остановка «Метро Спортивная» начнёт работать с 31 декабря.    </div>
+    
+    <a href="https://nsk.aif.ru/avto/kakoy_transport_budet_ostanavlivatsya_na_ostanovke_metro_sportivnaya" class="red_fill_btn">Узнать</a>
+            <a href="https://nsk.aif.ru/avto" class="rubric_link">ТРАНСПОРТ</a>
+    </section>
+                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="" src="https://aif-s3.aif.ru/images/030/682/c6b8f94892bb09a3afea7cd303832091.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/pryamo_do_slyoz_vice-mer_novosibirska_tereshkova_o_novogodney_stolice_rossii">
+                        <span class="item_text__title">Прямо до слёз: вице-мэр Новосибирска Терешкова о Новогодней столице России</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Адвокат Романа Кудашкина (на фото) намерен обжаловать приговор, так как считает произошедшее несчастным случаем." src="https://aif-s3.aif.ru/images/030/670/cf4ff84807fb44ea0be76dc77186c97f.jpg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/smertelnyy_attrakcion_instruktora_akvaparka_osudili_za_smert_podrostka">
+                        <span class="item_text__title">Смертельный аттракцион. Инструктора аквапарка осудили за смерть подростка</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="На первом заседании суда Роман признался, что удары жене наносил, но не хотел, чтобы она умерла. " src="https://aif-s3.aif.ru/images/030/660/030cbc28ca1f84a9fb8055af224d63e7.jpeg" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/on_eyo_ochen_lyubil_sudyat_sibiryaka_zarezavshego_zhenu_na_glazah_u_docherey">
+                        <span class="item_text__title">«Он её очень любил». Судят сибиряка, зарезавшего жену на глазах у дочерей</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                                    
+<section class="size2 news_item content_grid_items_js" style="display: none;">
+            <span class="img_box">
+            <img loading="lazy" title="Малышка, завернутая в тонкую ткань, едва не замёрзла в десятиградусные морозы. " src="https://aif-s3.aif.ru/images/030/593/50e3e54791733762a70aa214fe492114.png" />
+        </span>
+    
+    <div class="item_text">
+        
+        <a href="https://nsk.aif.ru/society/vykinuli_posle_rodov_kak_slozhilas_sudba_devochki_iz_korobki_na_trasse">
+                        <span class="item_text__title">Выкинули в Рождество. Как сложилась судьба девочки из коробки на трассе</span>
+        </a>
+    </div>
+
+    
+            <a href="https://nsk.aif.ru/society" class="rubric_link">ОБЩЕСТВО</a>
+    </section>                            </div>
+        </div>
+    </div>
+    <div class="want_more_box">
+        <a href="#" class="red_line_btn content_grid_button_js">Хочу больше</a>
+    </div>
+
+    
+
+
+	
+    <!-- segment footer -->
+    <footer>
+    <div class="cont_center">
+        <div class="footer_wrapper">
+            <div class="footer_col">
+                <div class="footer_logo">
+                    <img src="https://nsk.aif.ru/redesign2018/img/white_logo.svg?067" alt="nsk.aif.ru">
+                    <div class="region_url">
+                        nsk.aif.ru                    </div>
+                </div>
+            </div>
+            <div class="footer_col">
+                <nav class="footer_menu">
+                    <ul>
+                    <li>
+            <a href="https://nsk.aif.ru/static/2178169">Контакты редакции</a>
+        </li>
+                            <li>
+            <a href="https://nsk.aif.ru/static/2180953">Контакты отдела рекламы</a>
+        </li>
+                <li class="error_rep"><a href="/contacts#anchor=error_form">СООБЩИТЬ В РЕДАКЦИЮ ОБ ОШИБКЕ</a></li>
+</ul>
+
+                </nav>
+                <div class="footer_text">
+                    <p><b>2023 АО «Аргументы и Факты»&nbsp;</b>Генеральный директор Руслан Новиков. Главный редактор еженедельника «Аргументы и Факты» Чкаников Михаил. Директор по развитию цифрового направления и новым медиа АиФ.ru Денис Халаимов. Шеф-редактор сайта АиФ.ru &nbsp;Владимир Шушкин.<span style="color: #999999; background-color: #1f497d;"><span rel="pastemarkerend" id="pastemarkerend89310"></span></span></p>
+
+<p><span rel="pastemarkerend" id="pastemarkerend66732"> СМИ «aif.ru» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций (РОСКОМНАДЗОР), регистрационный номер <nobr>Эл № ФС 77-78200 от 06 апреля 2020 г.</nobr> Учредитель: АО «Аргументы и факты». Интернет-сайт «aif.ru» функционирует при финансовой поддержке Министерства цифрового развития, связи и массовых коммуникаций
+Российской Федерации.<span rel="pastemarkerend" id="pastemarkerend89278"></span></span></p>
+
+<p>Шеф-редактор сайта: Шушкин В.С. e-mail: karaul@aif.ru, тел. 8 495 783 83 57. 16+</p>
+
+<p>Все права защищены. Копирование и использование полных материалов запрещено, частичное цитирование возможно только при условии гиперссылки на сайт www.aif.ru. </p>                </div>
+                <div class="counters">
+                                                                    <div class="couter_block"><!-- begin of Top100 logo -->
+
+	<div id='top100counter_bottom'  ></div>
+	
+
+<script type="text/javascript">
+var _top100q = _top100q || [];
+
+_top100q.push(["setAccount", "125100"]);
+_top100q.push(["trackPageviewByLogo", document.getElementById("top100counter_bottom")]);
+
+(function(){
+ var top100 = document.createElement("script"); top100.type = "text/javascript";
+
+ top100.async = true;
+ top100.src = ("https:" == document.location.protocol ? "https:" : "https:") + "//st.top100.ru/pack/pack.min.js";
+ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s);
+})();
+</script>
+<!-- end of Top100 logo --></div><div class="couter_block"><!--LiveInternet logo-->
+<a href="https://www.liveinternet.ru/click;AIF"
+target=_blank><img src="https://counter.yadro.ru//logo;AIF?22.2"
+title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+alt="" border=0 width=88 height=31></a>
+<!--/LiveInternet--></div><div class="couter_block"><style type="text/css">
+		.rambler_partner{
+			text-align:center; 
+			width: 105px; 
+			height: 31px; 
+			line-height: 31px; 
+			font: 0.7em'PT Sans', sans-serif;
+			display: table-cell;
+			vertical-align: middle;
+		}
+		.rambler_partner a{
+			color: #666666; 
+			text-decoration: none;
+		}
+		.rambler_partner a:hover{
+			text-decoration: underline;
+		}
+	</style>
+	<div class="rambler_partner"><a href="https://www.rambler.ru/" target="_blank">Партнер рамблера</a></div></div>
+                        <noindex><div class="adv_content bp__footer_after_counter no_lands no_portr adwrapper banner_footer_after_counter couter_block"><div class="banner_params hide" data-params="{&quot;id&quot;:2043,&quot;num&quot;:1,&quot;place&quot;:&quot;footer_after_counter&quot;}"></div>
+<a href="https://www.gipp.ru" target="_blank"><img src="/img/gipp.jpg" alt="" /></a></div></noindex>
+                        <div class="footer-link">
+                            <a href="https://appgallery.huawei.com/app/C101189759" target="_blank">
+                                <img src="https://nsk.aif.ru/redesign2018/img/huawei.png?067" />
+                            </a>
+                        </div>
+
+                        <div class="age16">16+</div>
+
+                        <div class="count_box_nodisplay">
+                            <div class="couter_block"><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(51369400, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51369400" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div><div class="couter_block"><!-- tns-counter.ru --> 
+<script language="JavaScript" type="text/javascript"> 
+    var img = new Image();
+    img.src = 'https://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*aif_ru/ru/UTF-8/tmsec=mx3_aif_ru/' + Math.round(Math.random() * 1000000000);
+</script> 
+<noscript> 
+    <img src="https://www.tns-counter.ru/V13a****aif_ru/ru/UTF-8/tmsec=mx3_aif_ru/" width="1" height="1" alt="">
+</noscript> </div><div class="couter_block"><!-- VK: 654987 --></div>
+                                                                                </div>
+
+                                                            </div>
+            </div>
+        </div>
+    </div>
+
+    <script type='text/javascript'>
+        $(document).ready(function(){
+            window.CookieMessenger('CookieMessenger');
+        });
+        </script></footer>
+
+
+
+<!-- Footer Scripts -->
+<script type="text/javascript" src="https://nsk.aif.ru/js/output/delayed.js?067"></script>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(function() { $('.header').headerJs(); });    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+$(document).ready(function() {
+    $('.content_grid_js').showMore({
+        perPage: 12,
+        itemsSelector: '.content_grid_items_js',
+        buttonSelector: '.content_grid_button_js'});
+});
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    function yandexMetrikaAjaxHit(url, options) {
+    if (url != options.referer) {
+        ym(51369400, "hit", url, options)
+    }
+}    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    ((counterHostname) => {
+        window.MSCounter = {
+            counterHostname: counterHostname
+        };
+        window.mscounterCallbacks = window.mscounterCallbacks || [];
+        window.mscounterCallbacks.push(() => {
+            msCounterExampleCom = new MSCounter.counter({
+                    'account':'aif_ru',
+                    'tmsec': 'aif_ru',
+                    'autohit' : true
+                });
+        });
+  
+        const newScript = document.createElement('script');
+        newScript.async = true;
+        newScript.src = `${counterHostname}/ncc/counter.js`;
+ 
+        const referenceNode = document.querySelector('script');
+        if (referenceNode) {
+            referenceNode.parentNode.insertBefore(newScript, referenceNode);
+        } else {
+            document.firstElementChild.appendChild(newScript);
+        }
+    })('https://tns-counter.ru/');    //-->
+</script></div>
+
+
+<div class="full_screen_adv no_portr no_lands no_desc"><!--Место для фулскрина--></div>
+<a id="backgr_link"></a>
+</body>
+</html>

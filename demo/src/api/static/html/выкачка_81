@@ -1,0 +1,320 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-Frame-Options" content="deny" />
+<meta name="DESCRIPTION" content="Сервер предоставляет авторам возможность свободной публикации и обсуждения произведений современной прозы." />
+<meta name="Keywords" content="проза произведение роман новелла миниатюра автор литература творчество лирика журнал конкурс" />
+<meta name="title" content="Проза.ру" />
+<title>Проза.ру</title>
+<link rel="stylesheet" href="/styles/s_main_11.css">
+<script language="JavaScript" src="/styles/p_main_1.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#505050" alink="#FF0000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+
+
+<div id="container">
+
+  <div id="header">
+    <div class="line1">
+      <div class="headlogo"><a href="/"><img src="/images/proza.svg" alt="Стихи.ру" title="Стихи.ру"></a></div>
+      <ul class="headmenu">
+        <li><a href="/authors/">Авторы</a></li>
+        <li><a href="/poems/">Произведения</a></li>
+        <li><a href="/board/">Рецензии</a></li>
+        <li><a href="/search.html">Поиск</a></li>
+        <li><a href="https://shop.proza.ru/">Магазин</a></li>
+        <li><a href="https://o.proza.ru/"><nobr>О портале</nobr></a></li>
+        <li><a href="/login/">Вход для авторов</a></li>      </ul>
+    </div>
+<index>
+
+
+
+    <div class="line2">
+
+<p class="credotext">Проза.ру &ndash; российский литературный портал, предоставляющий авторам возможность свободной публикации произведений. <a href="https://o.proza.ru/">Подробнее о портале &rarr;</a></p>
+
+<link rel="stylesheet" href="/styles/s_first_1.css">
+<form class="head-search" method="GET" action="/cgi-bin/search.pl">
+<input type="text" name="string" class="head-search_text" placeholder="Поиск автора">
+<button type="submit" class="head-search_submit">
+<span class="icon icon-search"></span>
+</button>
+</form>
+
+    </div>
+  </div>
+
+  <div class="layout">
+    <div class="col1">
+
+<h5 class="columnhead">Произведения</h5>
+
+<p class="toptext">На сегодняшний день 20 февраля 2023 года опубликовано <a href="/poems/">10&nbsp;893&nbsp;222</a> текстов</p>
+
+<h5 class="columntitle">Колонка редактора</h5>
+<p class="toptext">Выбор редакции портала</p>
+
+<div class="mainblock">
+<ul type="square" style="color:#606060">
+<li><a href='/editor/2020/06/19/139' class='poemlink'>Вокруг Южной Америки</a><br><a href='/avtor/vlad43' class='authorlink'>Владимир Жестков</a></li>
+<li><a href='/editor/2022/12/20/608' class='poemlink'>Подземный Лондон и лондонское метро</a><br><a href='/avtor/viorel' class='authorlink'>Виорэль Ломов</a></li>
+<li><a href='/editor/2022/12/21/659' class='poemlink'>Старый, старый Дед Мороз</a><br><a href='/avtor/divanova08' class='authorlink'>Дина Иванова 2</a></li>
+<li><a href='/editor/2022/12/29/136' class='poemlink'>О зрелости</a><br><a href='/avtor/franziri' class='authorlink'>Ирина Франц</a></li>
+<li><a href='/editor/2023/01/01/890' class='poemlink'>Как Пашу Волгина женили</a><br><a href='/avtor/alexander49' class='authorlink'>Александр Махнев Москвич</a></li>
+<li><a href='/editor/2021/01/03/850' class='poemlink'>Внук адмирала в ледовом плену </a><br><a href='/avtor/sppudovmail' class='authorlink'>Сергей Пудов</a></li>
+<li><a href='/editor/2022/12/30/1278' class='poemlink'>Грозовая туча</a><br><a href='/avtor/lidiyasmir2015' class='authorlink'>Лидиия Смирнова</a></li>
+<li><a href='/editor/2022/12/31/635' class='poemlink'>Маша и Миша</a><br><a href='/avtor/stymp' class='authorlink'>Саша Тумп</a></li>
+<li><a href='/editor/2022/12/31/1331' class='poemlink'>Птица с двумя клювами</a><br><a href='/avtor/trubadur1950' class='authorlink'>Константин Пастух -Магидин</a></li>
+<li><a href='/editor/2022/12/31/1373' class='poemlink'>Волшебный камень</a><br><a href='/avtor/aaysmont' class='authorlink'>Андрей Эйсмонт</a></li>
+<li><a href='/editor/2014/04/22/1193' class='poemlink'>Москва - Пересыпь</a><br><a href='/avtor/mariinkvp' class='authorlink'>Валерий Каменев</a></li>
+<li><a href='/editor/2014/05/06/1670' class='poemlink'>Древесница Рябинушка</a><br><a href='/avtor/chornogor' class='authorlink'>Людмила Белан-Черногор</a></li>
+<li><a href='/editor/2021/03/13/700' class='poemlink'>Модистка</a><br><a href='/avtor/mudamailru' class='authorlink'>Жеглова Людмила Петровна</a></li>
+<li><a href='/editor/2021/06/16/1046' class='poemlink'>В поисках счастья</a><br><a href='/avtor/miliku' class='authorlink'>Эмануил Бланк</a></li>
+<li><a href='/editor/2022/12/23/638' class='poemlink'>Загадка псевдонима</a><br><a href='/avtor/91919191' class='authorlink'>Светлана Данилина</a></li>
+<li><a href='/editor/2022/12/30/94' class='poemlink'>Василий</a><br><a href='/avtor/lara802' class='authorlink'>Людмила Леонидовна Лаврова</a></li>
+<li><a href='/editor/2022/12/26/723' class='poemlink'>Коков всех он был начальник</a><br><a href='/avtor/uzdechkin3' class='authorlink'>Андрей Жеребнев</a></li>
+<li><a href='/editor/2020/05/27/264' class='poemlink'>Верёвочка</a><br><a href='/avtor/iolnta' class='authorlink'>Иоланта Сержантова</a></li>
+<li><a href='/editor/2021/04/18/1059' class='poemlink'>Где живет любовь</a><br><a href='/avtor/stasyfleym' class='authorlink'>Анастасия Флейм</a></li>
+<li><a href='/editor/2020/06/19/1513' class='poemlink'>Жилины</a><br><a href='/avtor/vlad43' class='authorlink'>Владимир Жестков</a></li>
+<li><a href='/editor/2022/12/23/682' class='poemlink'>Пещерные храмы Аджанты и Эллоры</a><br><a href='/avtor/viorel' class='authorlink'>Виорэль Ломов</a></li>
+
+</ul>
+</div>
+<p class="toptext"><a href="/editor/" class="topref">Рекомендуемые произведения &rarr;</a></p>
+<br>
+
+    </div>
+    <div class="col2">
+
+<h5 class="columnhead">Авторы</h5>
+
+<p class="toptext">На портале публикуется <a href="/authors/">324&nbsp;474</a> авторов, сейчас из них <a href="/authors/online.html">669</a> в сети</p>
+
+
+<h5 class="columntitle">Рекомендуемые авторы</h5>
+
+<ul type="square" style="color:#606060">
+  <li><a href="/avtor/iolnta" class='recomlink'>Иоланта Сержантова</a></li>
+  <li><a href="/avtor/lara802" class='recomlink'>Людмила Леонидовна Лаврова</a></li>
+  <li><a href="/avtor/rozasalakh" class='recomlink'>Роза Салах</a></li>
+  <li><a href="/avtor/divanova08" class='recomlink'>Дина Иванова 2</a></li>
+  <li><a href="/avtor/ryabov3" class='recomlink'>Виктор Далёкий</a></li>
+  <li><a href="/avtor/balmetap" class='recomlink'>Галина Александровна Романова</a></li>
+  <li><a href="/avtor/franziri" class='recomlink'>Ирина Франц</a></li>
+
+</ul>
+<p class="toptext"><a href="/authors/editor.html" class="topref">Продолжение списка &rarr;</a></p>
+
+
+<h5 class="columntitle">Авторы приглашают</h5>
+
+<ul type="square" style="color:#606060">
+<li style="color:#FFFFFF; margin-bottom:10px; font-size:10pt; font-family:Trebuchet MS"><a href="/login/promo.html?invite" class="doplink">Добавить ваше имя</a></li>
+<li><a href="/avtor/vessablyumenba" class='recomlink'>Весса Блюменбаум</a></li>
+<li><a href="/avtor/lidiyagla" class='recomlink'>Лидия Гладышевская</a></li>
+<li><a href="/avtor/stateinovbkru" class='recomlink'>Анатолий Статейнов</a></li>
+<li><a href="/avtor/ljubasche4ka" class='recomlink'>Любовь Киблер</a></li>
+<li><a href="/avtor/kainira" class='recomlink'>Алёна Ким</a></li>
+</ul>
+<p class="toptext"><a href="/authors/invitations.html" class="topref">Продолжение списка &rarr;</a></p>
+
+<div class="firstdotdiv"></div>
+
+<h5 class="columntitle">Рейтинг произведений</h5>
+<ul type="square" style="color:#606060">
+<li style="color:#FFFFFF; margin-bottom:10px; font-size:10pt; font-family:Trebuchet MS"><a href="/login/page.html?rating" class="doplink">Ваши позиции в рейтинге</a></li>
+<li><a href='/2023/02/20/721' class='poemlink'>Солдат рядовой</a><br> <a href='/avtor/arkadyvilkovsky' class='authorlink'>Аркадий Вильковский</a></li>
+<li><a href='/2023/02/20/695' class='poemlink'>Приятные хлопоты</a><br> <a href='/avtor/divanova08' class='authorlink'>Дина Иванова 2</a></li>
+<li><a href='/2023/02/19/767' class='poemlink'>Вопрос на сообразительность</a><br> <a href='/avtor/romanognev' class='authorlink'>Роман Огнев</a></li>
+<li><a href='/2023/02/19/1909' class='poemlink'>Валеркины рассказы. Глава 5. Перебор</a><br> <a href='/avtor/taniatarasova' class='authorlink'>Пыжьянова Татьяна</a></li>
+<li><a href='/2021/05/07/1535' class='poemlink'>Чудо видели три свидетеля</a><br> <a href='/avtor/hogoda' class='authorlink'>Татьяна Борисовна Смирнова</a></li>
+<li><a href='/2023/02/20/184' class='poemlink'>Карл Восьмой</a><br> <a href='/avtor/igor1943' class='authorlink'>Игорь Тычинин</a></li>
+<li><a href='/2023/02/20/662' class='poemlink'>Безумный бриллиант. Год спустя</a><br> <a href='/avtor/mangerokin' class='authorlink'>Мать Моржиха</a></li>
+<li><a href='/2023/02/18/1550' class='poemlink'>По Сеньке и шапка...</a><br> <a href='/avtor/baldina' class='authorlink'>Галина Балдина</a></li>
+<li><a href='/2023/02/20/732' class='poemlink'>Запрещенная эстрада</a><br> <a href='/avtor/211996' class='authorlink'>Ваша Лена</a></li>
+<li><a href='/2023/02/20/169' class='poemlink'>Игра Золотая середина. Муки выбора</a><br> <a href='/avtor/natalinasmol' class='authorlink'>Наталина Смолл</a></li>
+
+</ul>
+<p class="toptext"><a href="/rating.html" class="topref">Полная таблица рейтинга &rarr;</a></p>
+<br>
+
+    </div>
+    <div class="col3">
+
+<!--
+<div style="margin-left:25px; margin-top:25px; margin-right:15px; margin-bottom:15px; width:320; border: 0px #C0C0C0 solid">
+<iframe id="litclubtv" width="320" height="200" src="/tv/frame.html" frameBorder="0" style="border: 1px #C0C0C0 dotted" scrolling="no" allowFullScreen></iframe>
+</div>
+-->
+
+<!--
+<div style="margin-left:25px; margin-top:25px; margin-right:15px; margin-bottom:15px; width:320; border: 0px #C0C0C0 solid">
+<div align="center" style="width:320"><iframe width="320" height="180" src="https://www.youtube.com/embed/wRSLhpmIJtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center" style="background:#E8FFE0; margin-top:4px; width:320px; font-family:Trebuchet MS; font-size:11px; color:#FFFFFF"><a href="https://www.youtube.com/watch?v=wRSLhpmIJtM" target="_blank">Интервью с Денисом Котовым</a></div>
+</div>
+<div class="firstdotdiv"></div>
+-->
+
+<!-- #include file="includes/reklama/kedrov80.html" -->
+<!-- #include file="includes/reklama/delvig.html" -->
+<!-- #include file="includes/reklama/cdl_final.html" -->
+<!-- #include file="includes/reklama/cdl_turnir.html" -->
+<!-- #include file="includes/reklama/cdl_litclubtv.html" -->
+<!-- #include file="includes/reklama/mibf_conf.html" -->
+<!-- #include file="includes/reklama/kp_conf.html" -->
+
+<!--
+<div class="firstdotdiv"></div>
+-->
+
+<h5 class="columntitle"><a href="https://sovlit.ru" target="_blank" class="toplink">Современная литература</a></h5>
+<div style="margin-left:20px; margin-top:10px">
+<table border="0" cellspacing="5" cellpaddin="0">
+  <tr>
+    <td><a class="toplink" href="https://sovlit.ru/tpost/n6k2vcd881-den-zaschitnika-otechestva-otmetili-v-do" target="_blank"><img src="https://static.tildacdn.com/tild3538-3138-4166-b338-353265306639/_-___.jpg" width="80" title="День защитника Отечества отметили в Доме литераторов"></a></td>
+    <td><div class="toptext" style="margin-left:5"><a class="toplink" href="https://sovlit.ru/tpost/n6k2vcd881-den-zaschitnika-otechestva-otmetili-v-do" target="_blank">День защитника Отечества отметили в Доме литераторов</a></div></td>
+  </tr>
+  <tr>
+    <td><a class="toplink" href="https://sovlit.ru/tpost/r5a45gxc81-startoval-festival-knizhnii-mayak-peterb" target="_blank"><img src="https://static.tildacdn.com/tild3065-3366-4437-b434-393233656637/photo.jpg" width="80" title="Стартовал фестиваль «Книжный маяк Петербурга»"></a></td>
+    <td><div class="toptext" style="margin-left:5"><a class="toplink" href="https://sovlit.ru/tpost/r5a45gxc81-startoval-festival-knizhnii-mayak-peterb" target="_blank">Стартовал фестиваль «Книжный маяк Петербурга»</a></div></td>
+  </tr>
+  <tr>
+    <td><a class="toplink" href="https://sovlit.ru/tpost/oeyvaj21y1-roman-shamilya-idiatullina-gorod-brezhne" target="_blank"><img src="https://static.tildacdn.com/tild6432-3435-4534-b136-376364663232/photo.JPG" width="80" title="Роман Шамиля Идиатуллина «Город Брежнев» экранизируют"></a></td>
+    <td><div class="toptext" style="margin-left:5"><a class="toplink" href="https://sovlit.ru/tpost/oeyvaj21y1-roman-shamilya-idiatullina-gorod-brezhne" target="_blank">Роман Шамиля Идиатуллина «Город Брежнев» экранизируют</a></div></td>
+  </tr>
+  <tr>
+    <td><a class="toplink" href="https://sovlit.ru/tpost/hmzj1gnpk1-den-knigodareniya-otmechaetsya-14-fevral" target="_blank"><img src="https://static.tildacdn.com/tild3834-3365-4865-b535-316166356635/_21.jpg" width="80" title="День книгодарения отмечается 14 февраля во многих странах"></a></td>
+    <td><div class="toptext" style="margin-left:5"><a class="toplink" href="https://sovlit.ru/tpost/hmzj1gnpk1-den-knigodareniya-otmechaetsya-14-fevral" target="_blank">День книгодарения отмечается 14 февраля во многих странах</a></div></td>
+  </tr>
+</table>
+</div>
+
+<div class="toptext" style="margin-top:10px"><a class="toplink" href="https://sovlit.ru" target="_blank">Все новости на Совлит.ру &rarr;</a></div>
+
+<div class="firstdotdiv"></div>
+
+<h5 class="columntitle">Антология русской прозы</h5>
+<div style="margin-left:25px; margin-top:5px; margin-bottom:5px"><a href="https://ant.proza.ru/"><img src="/almanac/covers/b_proza149.jpg" width="140" height="80" border="0" title="Антология русской прозы"></a></div>
+<p class="toptext" style="margin-top:15px">
+Издательство Российского союза писателей приступило к формированию Антологии русской прозы за 2023 год.</p>
+<p class="toptext"><a class="toplink" href="https://ant.proza.ru/">Подробнее об Антологии &rarr;</a></p>
+
+<div class="firstdotdiv"></div>
+
+<h5 class="columntitle">Премия &laquo;Писатель года&raquo;</h5>
+<div style="margin-left:25px; margin-bottom:5px"><a href="https://pisatelgoda.ru/"><img src="/images/pgoda.png" width="100" height="100" border="0" title="Национальная литературная премия &laquo;Писатель года&raquo;"></a></div>
+<p class="toptext">Открыт конкурс национальной литературной премии &laquo;Писатель года&raquo; за 2023&nbsp;год.</p>
+<p class="toptext"><a class="toplink" href="https://pisatelgoda.ru/">Подробнее о премии &rarr;</a></p>
+
+    </div>
+  </div>
+
+
+  <div class="layout">
+    <div class="col1">
+
+<h5 class="columntitle">Премия &laquo;Наследие&raquo;</h5>
+<div style="margin-left:25px; margin-top:5px; margin-bottom:5px"><a href="https://premianasledie.ru/"><img src="/images/nasledie.png" width="100" height="62" border="0" title="Литературная премия &laquo;Наследие&raquo;"></a></div>
+<p class="toptext">Проводится конкурс на соискание премии за 2023 год, торжественная церемония вручения премии состоится в ноябре.</p>
+<p class="toptext"><a class="toplink" href="https://premianasledie.ru/">Подробнее о премии &rarr;</a></p>
+<br>
+
+    </div>
+    <div class="col2">
+
+<h5 class="columntitle">Премия &laquo;Русь моя&raquo;</h5>
+<div style="margin-left:25px; margin-top:5px; margin-bottom:5px"><a href="https://eseninpremia.ru/"><img src="/images/rusmoya.png" width="60" height="60" border="0" title="Премия &laquo;Русь моя&raquo;"></a></div>
+<p class="toptext" style="margin-top:15px">
+Продоложается прием рукописей на соискание премии, итоги будут подведены ко Дню рождения Сергея Есенина.</p>
+<p class="toptext"><a class="toplink" href="https://eseninpremia.ru/">Подробнее о премии &rarr;</a></p>
+<br>
+
+    </div>
+    <div class="col3">
+
+<h5 class="columntitle">&laquo;Георгиевская лента&raquo;</h5>
+<div style="margin-left:25px; margin-top:0px; margin-bottom:0px"><a href="https://georglenta.ru/"><img src="/images/georglenta.png" width="100" height="72" border="0" title="Конкурс &laquo;Георгиевская лента&raquo;"></a></div>
+<p class="toptext" style="margin-top:15px">
+Проходит прием произведений за 2021-2025 год. Награждение победителей состоится <nobr>7 мая</nobr> в канун празднования Дня Победы.</p>
+<p class="toptext"><a class="toplink" href="https://georglenta.ru/">Подробнее о конкурсе &rarr;</a></p>
+<br>
+
+    </div>
+  </div>
+
+
+  </index>
+  <div id="footer">
+    <div class="footmenu">
+      <a href="/authors/">Авторы</a>&nbsp;&nbsp; 
+      <a href="/poems/">Произведения</a>&nbsp;&nbsp; 
+      <a href="/board/">Рецензии</a>&nbsp;&nbsp; 
+      <a href="/search.html">Поиск</a>&nbsp;&nbsp; 
+      <a href="https://shop.proza.ru/">Магазин</a>&nbsp;&nbsp; 
+      <a href="/login/"><nobr>Вход для авторов</nobr></a>&nbsp;&nbsp; 
+      <a href="https://o.proza.ru/"><nobr>О портале</nobr></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://stihi.ru/">Стихи.ру</a>&nbsp;&nbsp; 
+      <a href="https://proza.ru/">Проза.ру</a>
+    </div>
+
+    <table border="0" cellpadding="5" cellspacing="0" wspace="3" hspace="3" align="right">
+      <tr>
+       <td valign="top"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/rating/ru/literature/' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'></a>")
+//--></script><!--/LiveInternet-->
+</td>
+      </tr>
+    </table>
+    <p>Портал Проза.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании <a href="https://o.proza.ru/dogovor">пользовательского договора</a>. Все авторские права на произведения принадлежат авторам и охраняются <a href="https://o.proza.ru/pravo">законом</a>. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании <a href="https://o.proza.ru/pravila">правил публикации</a> и <a href="https://o.proza.ru/pravo">законодательства Российской Федерации</a>. Данные пользователей обрабатываются на основании <a href="https://o.proza.ru/policy">Политики обработки персональных данных</a>. Вы также можете посмотреть более подробную <a href="https://o.proza.ru/">информацию о портале</a> и <a href="/help/">связаться с администрацией</a>.</p>
+    <p>Ежедневная аудитория портала Проза.ру &ndash; порядка 100 тысяч посетителей, которые в общей сумме просматривают более полумиллиона страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.</p>
+    <p>&copy; Все права принадлежат авторам, 2000-2023. &nbsp; Портал работает под эгидой <a href="https://rossp.ru/" target="_blank">Российского союза писателей</a>. <span style="color:#F00000">18+</span></p>
+  </div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(548884, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/548884" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12103366-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+if((self.parent&&!(self.parent===self))&&(self.parent.frames.length!=0)){self.parent.location=document.location}
+</script>
+
+</div>
+
+</body>
+</html>
+

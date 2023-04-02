@@ -1,0 +1,1338 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]>
+<html class="no-js ie-old"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html > <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta name="format-detection" content="telephone=no">
+
+    
+                        
+        <meta name="csrf-token" content="97bc592b27a9ada2d9a4bb418ed0ebed">
+        <meta name="Copyright" content="rbс">
+    
+    
+    
+                    
+    
+    
+    
+<title>РБК Стиль. Все, о чем стоит мечтать</title>
+<meta name="Description" content="Новости и статьи о культуре и моде" />
+
+                
+    <meta property="og:url" content="https://style.rbc.ru/" />
+    <meta property="og:site_name" content="РБК Стиль" />
+    <meta property="og:title" content="РБК Стиль. Все, о чем стоит мечтать" />
+    <meta property="og:type" content="article">
+    <meta property="og:description" content="Новости и статьи о культуре и моде" />
+                    <meta property="og:image" content="https://s.rbk.ru/v4_style_static/current/images/social-icon.png" />
+                <meta name="twitter:card" content="summary">
+            <meta name="twitter:image" content="https://s.rbk.ru/v4_style_static/current/images/social-icon.png" />
+        <meta name="twitter:site" content="@ru_rbc">
+    <meta name="twitter:creator" content="@ru_rbc">
+    <meta name="twitter:title" content="РБК Стиль. Все, о чем стоит мечтать">
+    <meta name="twitter:description" content="Новости и статьи о культуре и моде">
+
+    <link rel="canonical" href="https://style.rbc.ru" />
+    <meta name="pmail-verification" content="d0ee25d82121886444eaceb7f425b0d4" />
+    
+        
+            <link rel="icon" type="image/png" href="//s.rbk.ru/v4_style_static/common/common-p.1.1.171/images/favicon.png">
+        <!--[if IE]><link rel="shortcut icon" href="//s.rbk.ru/v4_style_static/common/common-p.1.1.171/images/favicon.ico"/><![endif]-->
+    
+        <link rel="preload" href="//s.rbk.ru/files_static/edd/static/fonts/13/build/_style-fonts.css" media="screen" as="style"/>
+    <link rel="stylesheet" href="//s.rbk.ru/files_static/edd/static/fonts/13/build/_style-fonts.css" media="screen"/>
+
+    
+        <link rel="preload" href="//s.rbk.ru/v4_style_static/style-2.3.40/styles/build/_main.css" media="screen" as="style"/>
+    <link rel="stylesheet" href="//s.rbk.ru/v4_style_static/style-2.3.40/styles/build/_main.css" media="screen"/>
+    
+    <link rel="preload" href="//s.rbk.ru/v4_style_static/common/common-p.1.1.171/scripts/build/_core.js" as="script"/>
+    <script src="//s.rbk.ru/v4_style_static/common/common-p.1.1.171/scripts/build/_core.js"></script>
+
+    <script>
+        RA.version = 8;
+        RA.env = ('production' || 'production'); // develop, test, staging, production
+        window.bannersVersion = 'v8';
+        RA.config.set('banners.version', 'v8');
+        RA.config.set('develop', false);
+        RA.config.set('layout.mainMenuHeight', 100);
+        RA.config.set('layout.bottomBannerHeight', 250);
+        RA.config.set('device.isMobile', false);
+        RA.config.set('layout.mobile', false);
+        RA.config.set('layout.templatePath', 'public');
+        RA.config.set('urls.common_static', '//s.rbk.ru/v4_style_static/common/common-p.1.1.171/');
+        RA.config.set('urls.static', '//s.rbk.ru/v4_style_static/style-2.3.40/');
+        RA.config.set('urls.image', 'https://s.rbk.ru/v4_style_static/current/images/');
+        RA.config.set('showBanners', true);
+        RA.config.set('domain', '.rbc.ru');
+        RA.config.set('domainAuth', 'https://auth.rbc.ru');
+        RA.config.set('video.off', false);
+        RA.config.set('paywall.user.logined', '');
+        RA.config.set('paywall.user.paid', '');
+        RA.config.set('noVideo', false);
+    </script>
+
+                <script>
+            window.foxConfig = {
+                project: 'style',
+                useVideo: true,
+                page: 'homepage',
+                useWeboramaSegments: true,
+            };
+        </script>
+        
+    <!-- Заглушка для поддержания корректной работы common -->
+    <script>
+        RA.config.set('fox', true);
+        RA.config.set('fox-video', true);
+        RA.repo.banner = {
+            isHalt: function() {
+                return false;
+            },
+            getService: function() {
+                return {
+                    getPlaces: function() {
+                        return [];
+                    },
+                    createPlaceholder: function(){
+                        return null;
+                    }
+                }
+            },
+            addFloatTargetingKeyValue: function() {},
+            addFloatHideBanners: function() {},
+            setTargeting: function() {},
+            addEventListener: function() {},
+            removeEventListener: function() {},
+            run: function() {},
+            refresh: function() {},
+            clear: function() {},
+            exclusiveValue: function() {},
+            checkAdBlock: function() {
+                return 1;
+            },
+            clearTargeting: function() {},
+            getFloatHideBanners: function() {},
+            disableRefresh: function() {},
+            EVENTS: {}
+        };
+
+        const helpers = window.RA.repo.helpers;
+        let hashCode = 0;
+        if (helpers && helpers.hashCode) {
+            hashCode = helpers.hashCode(RA.repo.banner.checkAdBlock.toString());
+        }
+
+        window.RA.config.set('bHashCode', hashCode);
+    </script>
+    <script src="//s.rbk.ru/v2_rbcbanners_static/rbcbanners-2.1.38/fox/build/app.js" async></script>
+
+    
+            <script>
+        RA.config.set('project', 'rbcstyle');
+        RA.config.set('layout.mainMenuHeight', 140);
+    </script>
+            <!-- google analytics -->
+<script>RA.config.set('counters.ga.mediaPrefix', 'RBC');</script>
+
+<script type="text/javascript">
+    function recordOutboundLink(link, category, action) {
+        try {
+            _gat._createTracker("UA-26715313-1","myT");
+            _gat._getTrackerByName("myT")._trackEvent(category, action);
+        } catch(err) {}
+
+        setTimeout( function(){
+            document.location = link.href
+        }, 100 );
+    }
+</script>
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(
+            ['_setAccount', 'UA-26715313-1']
+            , ['_setDomainName', 'style.rbc.ru']
+            , ['_trackPageview']
+            // 2nd counter
+            ,['RBC._setAccount', 'UA-8487723-7']
+            ,['RBC._setDomainName', 'rbc.ru']
+            ,['RBC._setAllowLinker', true]
+            ,['RBC._trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+<!-- /google analytics -->
+
+<!-- google onscroll event -->
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-26715313-1', 'auto');
+    var scrollTop = 0;
+
+    window.onscroll = function(){
+        scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        if(scrollTop + document.documentElement.clientHeight >= document.documentElement.scrollHeight ){
+            ga('send', 'event', 'RBC|Style', 'ScrollENDpage');
+        }
+    };
+</script>
+<!--/ google onscroll event -->
+</head>
+<body class="index">
+                    
+            <script>
+    window._io_config = window._io_config || {};
+    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+    window._io_config["0.2.0"].push({
+        page_url: location.href,
+        page_url_canonical: location.origin + location.pathname,
+        page_title: document.getElementsByTagName('title')[0].innerHTML,
+        page_language: "ru",
+            page_type: "default",
+    });
+</script>    
+            <!-- weborama -->
+<script type='text/javascript'>
+    var wamid = '2641';
+    var typ = '3';
+    var Wvar=[];
+    Wvar.push("domain", location.host);
+
+    (function() {
+        var bs = new Image(1, 1);
+        bs.src = 'https://dx.frontend.weborama.com/collect?touchpoint=0&url=' + escape(document.location);
+    })();
+
+    (function() {
+        var w = document.createElement("script");
+        w.type = "text/javascript";
+        w.src = document.location.protocol + "//cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.wildcard.min.js?rnd="+new Date().getTime();
+        w.async = true;
+        var body = document.getElementsByTagName('script')[0];
+        body.parentNode.insertBefore(w,body);
+    })();
+</script>
+<!-- /weborama -->    
+        
+        <div class="topline__wrap">
+        <div class="topline fixed">
+                            <div class="topline__inner l-row js-topline"><div class="topline__left js-topline-left"><a class="topline__item topline__item_news-feed-handler js-news-feed-toggle__handler js-topline-dropdown-ignore js-topline-item"><span class="topline__item_news-feed-handler__line topline__item_news-feed-handler__line_first"></span><span class="topline__item_news-feed-handler__line"></span><span class="topline__item_news-feed-handler__line topline__item_news-feed-handler__line_third"></span><span class="topline__item_news-feed-handler__line"></span></a><a class="topline__logo-block" href="https://www.rbc.ru/"><span class="topline__logo "></span></a><div class="topline__items-container topline__items-container_two-anons js-topline-dropdown-container"><div class="topline__item-block js-topline-item"><a href="https://tv.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://tv.rbc.ru/?utm_source=topline"}'>
+            Телеканал
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://pro.rbc.ru/?from=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://pro.rbc.ru/?from=topline"}'>
+            Pro
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://quote.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://quote.ru/?utm_source=topline"}'>
+            Инвестиции
+                            <span class="topline__item__image-block"><img src="https://s0.rbk.ru/v6_top_pics/media/img/8/46/756105436203468.svg" class="topline__item__image" loading="lazy" alt=""/></span></a></div><div class="topline__item-block js-topline-item"><a href="https://events.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://events.rbc.ru/?utm_source=topline"}'>
+            Мероприятия
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://plus.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://plus.rbc.ru/?utm_source=topline"}'>
+            РБК+
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/neweconomy/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/neweconomy/?utm_source=topline"}'>
+            Новая экономика
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://trends.rbc.ru/trends/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://trends.rbc.ru/trends/?utm_source=topline"}'>
+            Тренды
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://realty.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://realty.rbc.ru/?utm_source=topline"}'>
+            Недвижимость
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://sportrbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://sportrbc.ru/?utm_source=topline"}'>
+            Спорт
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://style.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://style.rbc.ru/?utm_source=topline"}'>
+            Стиль
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/national" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/national"}'>
+            Национальные проекты
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://rbc.ru/gorod/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://rbc.ru/gorod/?utm_source=topline"}'>
+            Город
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/crypto/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/crypto/?utm_source=topline"}'>
+            Крипто
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/dc/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/dc/?utm_source=topline"}'>
+            Дискуссионный клуб
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://marketing.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://marketing.rbc.ru/?utm_source=topline"}'>
+            Исследования
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://ratings.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://ratings.ru/?utm_source=topline"}'>
+            Кредитные рейтинги
+                    </a></div><div class="topline__item-block js-topline-item"><a href="http://biztorg.ru/offers/main?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "http://biztorg.ru/offers/main?utm_source=topline"}'>
+            Франшизы
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/newspaper/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/newspaper/?utm_source=topline"}'>
+            Газета
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://spbspecials.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://spbspecials.rbc.ru/?utm_source=topline"}'>
+            Спецпроекты СПб
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://spb-bc.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://spb-bc.rbc.ru/?utm_source=topline"}'>
+            Конференции СПб
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://specialists.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://specialists.ru/?utm_source=topline"}'>
+            Спецпроекты
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://rescore.online/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://rescore.online/?utm_source=topline"}'>
+            Проверка контрагентов
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://lib.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://lib.rbc.ru/?utm_source=topline"}'>
+            РБК Библиотека
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://podcasts.rbc.ru/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://podcasts.rbc.ru/?utm_source=topline"}'>
+            Подкасты
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://esg.rbc.ru/" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://esg.rbc.ru/"}'>
+            ESG-индекс
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/politics/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/politics/?utm_source=topline"}'>
+            Политика
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/economics/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/economics/?utm_source=topline"}'>
+            Экономика
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/business/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/business/?utm_source=topline"}'>
+            Бизнес
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/technology_and_media/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/technology_and_media/?utm_source=topline"}'>
+            Технологии и медиа
+                    </a></div><div class="topline__item-block js-topline-item"><a href="https://www.rbc.ru/finances/?utm_source=topline" class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/finances/?utm_source=topline"}'>
+            Финансы
+                    </a></div></div><div class="topline__more"><div class="topline__item__wrap"><a href="https://companies.rbc.ru/?utm_source=topline" class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_1"><span class="topline__item_special-inner">РБК Компании</span></a><a href="https://rbclife.ru/" class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_2"><span class="topline__item_special-inner">РБК Life</span></a></div><div class="topline__dropdown"><a href="" class="topline__dropdown__handle js-topline-dropdown">
+                        ...
+                    </a><div class="topline__dropdown__list js-topline-dropdown-list"><div class="topline__dropdown__list__inner js-topline-dropdown-list-inner"></div></div></div></div></div><div class="topline__right"><div class="topline__disable-adv"><a href="https://pro.rbc.ru/rbcoffer/comfort_bannersdisable?utm_source=style.rbc.ru/&amp;utm_medium=inhouse_media&amp;utm_campaign=rbc_comfort&amp;utm_term=bannersdisable_button" class="topline__disable-adv__button">Скрыть баннеры</a></div><div class="topline__region-block"></div><div class="topline__search-block"><div class="topline__search js-search-block"><div class="topline__search__menu js-search-open"><span class="topline__search__menu__link"></span></div><div class="topline__search__body js-search-body"><a href="#" class="topline__search__close js-search-close"><span></span><span></span></a><div class="topline__search__body__inner"><form action="/search/" class="topline__search__form"><input type="hidden" name="project" value="rbcstyle"/><input class="topline__search__button" type="submit" value="Найти" /><div class="topline__search__text"><div class="topline__search__input-wrap"><input class="topline__search__input js-search-input" type="text" name="query" autocomplete="off" value="" placeholder="Поиск по сайту" /></div></div></form></div></div></div></div><div class="topline__auth js-topline-profile-container"><a href="#" class="topline__auth__link js-topline-profile-link"></a><div class="topline__auth__profile"><div class="topline__auth__profile__inner active"><div class="topline__auth__profile__menu"><div class="topline__auth__profile__menu__item"><a href="https://auth.rbc.ru/login?tab=enter&from=login_topline" class="topline__auth__profile__menu__link js-paywall-login"><b>Вход</b></a></div><div class="topline__auth__profile__menu__item"><a href="https://auth.rbc.ru/login?from=registration_topline" class="topline__auth__profile__menu__link js-paywall-login"><b>Регистрация</b></a></div></div></div></div><div class="topline__notifications__container js-topline-notifications-container" data-link="https://auth.rbc.ru"></div></div></div></div>
+            
+                            <div class="header__wrapper js-page-header">
+                    <div class="header js-header">
+    <div class="l-window__inner">
+        <div class="l-row">
+            <div class="header__background" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+                <div class="header__col-left">
+                    <div class="header__logo">
+                        <a href="/" class="header__project-name">Стиль</a>
+                    </div>
+                    <div class="header__info">
+                        <div class="header__info__inner">
+                                                            <a href="https://style.rbc.ru/items/" class="header__link" itemprop="url">Вещи</a>
+                                                            <a href="https://style.rbc.ru/beauty/" class="header__link" itemprop="url">Красота</a>
+                                                            <a href="https://style.rbc.ru/health/" class="header__link" itemprop="url">Здоровье</a>
+                                                            <a href="https://style.rbc.ru/impressions/" class="header__link" itemprop="url">Впечатления</a>
+                                                            <a href="https://style.rbc.ru/people/" class="header__link" itemprop="url">Герои</a>
+                                                            <a href="https://style.rbc.ru/life/" class="header__link" itemprop="url">Жизнь</a>
+                                                            <a href="https://style.rbc.ru/repost/" class="header__link" itemprop="url">Репост</a>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="header__col-right">
+                    <div class="header__spec js-header-spec">
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                </div>
+                    </div>
+    </div>
+
+    
+            <div class="l-window g-margin-bottom-30">
+                                                
+    
+                                                
+    
+    <div class="fox-tail"
+                            data-role="fox-tail"
+                                 data-unit="after_topline"
+         style="height: 250px;"
+    >
+                    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>            </div>
+                    </div>
+    
+            <div class="l-window">
+                <div class="l-window__inner">
+        <div class="l-row">
+            <div class="l-col-center">
+                <div class="l-col-center__inner">
+                    <div class="l-row">
+                        <div class="l-col-2">
+                                <div class="g-border g-margin-bottom-30">
+            <div class="itlg_main itlg_main__fixed">
+        <a class="itlg_main__link" href="https://style.rbc.ru/impressions/63f32f8d9a7947d6ae03c590">
+                        <span class="itlg_main__category-block">
+                <span class="itlg_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+
+            <span class="itlg_main__title">
+                Берлинале-2023: лузеры и абьюзеры
+            </span>
+
+            
+            <span class="itlg_main__author-block">
+                <span class="itlg_main__author">Опубликовано <span class="itlg_main__author-title">Cегодня</span></span>
+            </span>
+
+                                                    
+                                                <span class="itlg_main__image-block itlg_main__image-block_small">
+                        <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/6/46/756768865906466.jpg" data-size="414x276" class="itlg_main__image" loading="lazy" alt=""/>
+                    </span>
+                                    </a>
+    </div>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/impressions/63ef76ae9a794774345cf8f8">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/6/01/756766389329016.jpg" class="itmd_main__image" loading="lazy" alt=""/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">Cегодня</span></span>
+                <span class="itmd_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+            <span class="itmd_main__title">Где есть блины на Масленицу: гид по ресторанам Москвы</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/items/63ea21109a79471c74ab91a7">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/7/81/756764716398817.jpg" class="itmd_main__image" loading="lazy" alt=""/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">16.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Вещи
+                </span>
+            </span>
+            <span class="itmd_main__title">Кроссовки, косуха и приятные мелочи: что подарить на 23 февраля</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+
+                    <div class="l-row">
+                        <div class="l-col-2">
+                                <div class="itbg_medium itbg_medium_invert">
+        <a class="itbg_medium__link" href="https://style.rbc.ru/impressions/63d8f2439a79477372947ab6">
+            <span class="itbg_medium__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/630x345_crop/media/img/0/27/756751680393270.jpg" class="itbg_medium__image js-rbcslider-image" data-size="630x345" loading="lazy" alt=""/>
+                            </span>
+            <span class="itbg_medium__text-block">
+                                <span class="itbg_medium__text-block__center">
+                    <span class="itbg_medium__category-block">
+                        <span class="itbg_medium__category">
+                            
+    Впечатления
+                        </span>
+                    </span>
+                    <span class="itbg_medium__title">
+                        Небо, гонг, Масленица: культурная афиша февраля
+                    </span>
+                    <span class="itbg_medium__author-block">
+                        <span class="itbg_medium__author">Опубликовано <span class="itbg_medium__author-title">01.02.2023</span></span>
+                    </span>
+                </span>
+                <span class="itbg_medium__text-block__center-invisible"></span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1 g-hideOnSmallDesktop">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/items/63e210b29a79471ab9d37a09">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/3/95/756758572394953.jpg" class="itmd_main__image" loading="lazy" alt=""/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">09.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Вещи
+                </span>
+            </span>
+            <span class="itmd_main__title">Главные новинки и действующие лица Недели дизайна в Париже</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+
+                     <div class="l-row g-hideOnSmallDesktop">
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/impressions/63ef2c719a79474d9e32e94d">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/1/00/756766411152001.jpg" class="itmd_main__image" loading="lazy" alt="Фото: Гранд-кафе «Шануар»"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">18.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+            <span class="itmd_main__title">Тортеллини с кроликом и чкмерули из тигровых креветок: что заказать</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/items/63e228369a794726081d75d7">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/0/01/756762791925010.jpg" class="itmd_main__image" loading="lazy" alt="Фото: ПРЕСС-СЛУЖБА"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">17.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Вещи
+                </span>
+            </span>
+            <span class="itmd_main__title">Магия оранжевой ленты: новый взгляд BORK на подарки</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/beauty/63eb677b9a794705f526cb74">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/7/80/756763755576807.jpg" class="itmd_main__image" loading="lazy" alt="Фото: Shutterstock"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">19.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Красота
+                </span>
+            </span>
+            <span class="itmd_main__title">Как избавиться от постакне: 8 способов и советы косметолога</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+
+                    <div class="l-row g-hideOnFullDesktop">
+                        <div class="l-col-1">
+                                <div class="itsm_main">
+        <a class="itsm_main__link" href="https://style.rbc.ru/items/63e210b29a79471ab9d37a09">
+            <span class="itsm_main__title">
+                Главные новинки и действующие лица Недели дизайна в Париже
+            </span>
+            <span class="itsm_main__anim-block animate">
+                                <span class="itsm_main__author">Опубликовано <span class="itsm_main__author-title">09.02.2023</span></span>
+                <span class="itsm_main__category">
+                    
+    Вещи
+                </span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                <div class="itsm_main">
+        <a class="itsm_main__link" href="https://style.rbc.ru/impressions/63ef2c719a79474d9e32e94d">
+            <span class="itsm_main__title">
+                Тортеллини с кроликом и чкмерули из тигровых креветок: что заказать
+            </span>
+            <span class="itsm_main__anim-block animate">
+                                <span class="itsm_main__author">Опубликовано <span class="itsm_main__author-title">18.02.2023</span></span>
+                <span class="itsm_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+
+                    <div class="l-row g-hideOnFullDesktop">
+                        <div class="l-col-1">
+                                <div class="itsm_main">
+        <a class="itsm_main__link" href="https://style.rbc.ru/items/63e228369a794726081d75d7">
+            <span class="itsm_main__title">
+                Магия оранжевой ленты: новый взгляд BORK на подарки
+            </span>
+            <span class="itsm_main__anim-block animate">
+                                <span class="itsm_main__author">Опубликовано <span class="itsm_main__author-title">17.02.2023</span></span>
+                <span class="itsm_main__category">
+                    
+    Вещи
+                </span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                <div class="itsm_main">
+        <a class="itsm_main__link" href="https://style.rbc.ru/beauty/63eb677b9a794705f526cb74">
+            <span class="itsm_main__title">
+                Как избавиться от постакне: 8 способов и советы косметолога
+            </span>
+            <span class="itsm_main__anim-block animate">
+                                <span class="itsm_main__author">Опубликовано <span class="itsm_main__author-title">19.02.2023</span></span>
+                <span class="itsm_main__category">
+                    
+    Красота
+                </span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+
+                    <div class="l-row">
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/beauty/63ee5e6f9a794714d06b09ad">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/4/14/756766377968144.jpg" class="itmd_main__image" loading="lazy" alt=""/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">17.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Красота
+                </span>
+            </span>
+            <span class="itmd_main__title">Ампулы Babor, ароматы New Notes и другие бьюти-новинки недели</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-2 g-hideOnSmallDesktop">
+                                <div class="itbg_medium itbg_medium_invert">
+        <a class="itbg_medium__link" href="https://style.rbc.ru/impressions/63e65eea9a794731ded0000c">
+            <span class="itbg_medium__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/630x345_crop/media/img/8/98/756760762574988.png" class="itbg_medium__image js-rbcslider-image" data-size="630x345" loading="lazy" alt="Фото: more.tv"/>
+                            </span>
+            <span class="itbg_medium__text-block">
+                                <span class="itbg_medium__text-block__center">
+                    <span class="itbg_medium__category-block">
+                        <span class="itbg_medium__category">
+                            
+    Впечатления
+                        </span>
+                    </span>
+                    <span class="itbg_medium__title">
+                        Чем заняться дома: «Фишер» с Иваном Янковским и подкаст «Листай вправо»
+                    </span>
+                    <span class="itbg_medium__author-block">
+                        <span class="itbg_medium__author">Опубликовано <span class="itbg_medium__author-title">11.02.2023</span></span>
+                    </span>
+                </span>
+                <span class="itbg_medium__text-block__center-invisible"></span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1 g-hideOnFullDesktop">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/impressions/63e65eea9a794731ded0000c">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/7/61/756760762466617.png" class="itmd_main__image" loading="lazy" alt="Фото: more.tv"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">11.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+            <span class="itmd_main__title">Чем заняться дома: «Фишер» с Иваном Янковским и подкаст «Листай вправо»</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+
+                    <div class="l-row">
+                        <div class="l-col-2">
+                                <div class="g-border g-margin-bottom-30">
+            <div class="itlg_main itlg_main__fixed">
+        <a class="itlg_main__link" href="https://style.rbc.ru/impressions/63e3be6b9a7947c0b8f649a3">
+                        <span class="itlg_main__category-block">
+                <span class="itlg_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+
+            <span class="itlg_main__title">
+                Люби меня, люби: подарки из мира искусства
+            </span>
+
+            
+            <span class="itlg_main__author-block">
+                <span class="itlg_main__author">Опубликовано <span class="itlg_main__author-title">09.02.2023</span></span>
+            </span>
+
+                                                    
+                                                <span class="itlg_main__image-block itlg_main__image-block_small">
+                        <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/0/32/756759405913320.jpeg" data-size="414x276" class="itlg_main__image" loading="lazy" alt="Фото: Sound Up Love"/>
+                    </span>
+                                    </a>
+    </div>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/impressions/62455acf9a7947b8fb3dfd28">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/3/98/756487187367983.jpg" class="itmd_main__image" loading="lazy" alt="Фото: Shutterstock"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">17.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+            <span class="itmd_main__title">«Шестое чувство» и «Город грехов»: лучшие фильмы с Брюсом Уиллисом</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/people/63e6041d9a794785be7ca961">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/3/20/756760402090203.jpg" class="itmd_main__image" loading="lazy" alt=""/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">10.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Герои
+                </span>
+            </span>
+            <span class="itmd_main__title">Бренд 2MOOD — о том, как его клиенты пострадали от рук мошенников</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="l-col-right">
+                                                            
+    
+                                                                                                            
+    
+    <div class="fox-tail"
+                            data-role="fox-tail"
+                                 data-unit="right_1"
+         style="width: 300px; height: 600px;"
+    >
+                    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>            </div>
+                
+                    <div class="specials">
+        <div class="specials__container">
+            <div class="specials__logo"></div>
+            <div class="specials__wrapper">
+                <div class="specials__inner">
+                                                                        <a href="https://style.rbc.ru/beauty/63567df39a79475a0183c00d" target="_blank" class="specials__link">
+                                <span class="specials__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/230x230_crop/media/img/9/23/756698840114239.jpg" class="specials__image" loading="lazy" alt=""/>
+                                </span>
+                                <span class="specials__text">От Архангельска до Бийска: бьюти-карта России
+                                    <span class="specials__subtext"></span>
+                                </span>
+                                <span class="specials__category">
+                                    
+                                    </span>
+                            </a>
+                                                                                                <a href="https://style.rbc.ru/items/635917929a794729d752e080" target="_blank" class="specials__link">
+                                <span class="specials__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/230x230_crop/media/img/7/58/756698833269587.jpg" class="specials__image" loading="lazy" alt=""/>
+                                </span>
+                                <span class="specials__text">Лаконичные бра и пояса для чулок: семь новых коллекций белья
+                                    <span class="specials__subtext"></span>
+                                </span>
+                                <span class="specials__category">
+                                    
+                                    </span>
+                            </a>
+                                                                                                <a href="https://style.rbc.ru/impressions/636b7be49a794722a04814dd" target="_blank" class="specials__link">
+                                <span class="specials__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/230x230_crop/media/img/8/94/756698836629948.jpg" class="specials__image" loading="lazy" alt=""/>
+                                </span>
+                                <span class="specials__text">Лучшие рестораны Москвы по версии премии WHERETOEAT Moscow 2022
+                                    <span class="specials__subtext"></span>
+                                </span>
+                                <span class="specials__category">
+                                    
+                                    </span>
+                            </a>
+                                                                                                <a href="https://style.rbc.ru/beauty/6374b04f9a794744227421a7" target="_blank" class="specials__link">
+                                <span class="specials__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/230x230_crop/media/img/8/01/756698838177018.jpg" class="specials__image" loading="lazy" alt=""/>
+                                </span>
+                                <span class="specials__text">Мотивация для похудения: 10 советов и рекомендации экспертов
+                                    <span class="specials__subtext"></span>
+                                </span>
+                                <span class="specials__category">
+                                    
+                                    </span>
+                            </a>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+
+
+                                                            
+    
+                                                                                                            
+    
+    <div class="fox-tail"
+                            data-role="fox-tail"
+                                 data-unit="right_2"
+         style="width: 300px; height: 600px;"
+    >
+                    <a href="http://www.adv.rbc.ru" target="_blank" class="banner__container__link">
+    <span class="banner__container__border">
+        <span class="banner__container__text">Реклама на РБК <span class="banner__container__color">www.adv.rbc.ru</span></span>
+    </span>
+</a>            </div>
+                            </div>
+        </div>
+        <div class="l-row">
+                        </div>
+
+        
+        <div class="l-row">
+            <div class="l-col-center">
+                <div class="l-col-center__inner">
+                    <div class="l-row">
+                        <div class="l-col-2">
+                                <div class="g-border g-margin-bottom-30">
+            <div class="itlg_main itlg_main__fixed">
+        <a class="itlg_main__link" href="https://style.rbc.ru/impressions/63ef79ae9a794775aadf66e0">
+                        <span class="itlg_main__category-block">
+                <span class="itlg_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+
+            <span class="itlg_main__title">
+                Берлинале-2023: добрые не выживают
+            </span>
+
+            
+            <span class="itlg_main__author-block">
+                <span class="itlg_main__author">Опубликовано <span class="itlg_main__author-title">17.02.2023</span></span>
+            </span>
+
+                                                    
+                                                <span class="itlg_main__image-block itlg_main__image-block_small">
+                        <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/7/02/756766410351027.jpg" data-size="414x276" class="itlg_main__image" loading="lazy" alt=""/>
+                    </span>
+                                    </a>
+    </div>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/health/600ad25a9a79477c34598072">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/4/44/756113250905444.jpg" class="itmd_main__image" loading="lazy" alt="Фото: Liza Pooor/Unsplash"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">08.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Здоровье
+                </span>
+            </span>
+            <span class="itmd_main__title">10 продуктов, в которых содержится много железа</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/health/5dbc8d699a7947fba203746b">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/9/55/756765380409559.jpg" class="itmd_main__image" loading="lazy" alt="Фото: Shutterstock"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">14.02.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Здоровье
+                </span>
+            </span>
+            <span class="itmd_main__title">Гимнастика для лица: 6 эффективных упражнений</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="l-row">
+                    </div>
+
+        <div class="l-row">
+            <div class="popular">
+    <div class="popular__title">
+        <div class="popular__title__line">
+            <div class="popular__title__arrow"></div>
+        </div>
+        <div class="popular__title__text">Популярные материалы</div>
+    </div>
+
+    <div class="popular__wrapper">
+        <div class="popular__content">
+                            <a href="https://style.rbc.ru/impressions/63ea30339a794723d7cd6181" class="popular__item">
+                    <span class="popular__info__link">
+                                                    <span class="popular__image">
+                                <img src="https://s0.rbk.ru/v6_top_pics/resized/300x200_crop/media/img/7/74/756762931975747.jpg" loading="lazy" alt=""/>
+                            </span>
+                                                <span class="popular__info">
+                            <span class="popular__date">15.02.2023</span>
+                            <span class="popular__rubric">
+                                                                    Впечатления
+                                                            </span>
+                            <span class="popular__view">25 582</span>                        </span>
+                    </span>
+
+                    <span class="popular__item__title">
+                        <span class="popular__item__inner">
+                            <span class="popular__item__link">Берлинале-2023: без Голливуда, но со Спилбергом</span>
+                            <span class="popular__item__text"></span>
+                        </span>
+                    </span>
+                </a>
+                            <a href="https://style.rbc.ru/impressions/63e64feb9a7947299c73138b" class="popular__item">
+                    <span class="popular__info__link">
+                                                    <span class="popular__image">
+                                <img src="https://s0.rbk.ru/v6_top_pics/resized/300x200_crop/media/img/6/64/756760423566646.jpg" loading="lazy" alt=""/>
+                            </span>
+                                                <span class="popular__info">
+                            <span class="popular__date">12.02.2023</span>
+                            <span class="popular__rubric">
+                                                                    Впечатления
+                                                            </span>
+                            <span class="popular__view">22 255</span>                        </span>
+                    </span>
+
+                    <span class="popular__item__title">
+                        <span class="popular__item__inner">
+                            <span class="popular__item__link">Элегия жизни и смерти: зачем смотреть фильм «Больше, чем никогда»</span>
+                            <span class="popular__item__text"></span>
+                        </span>
+                    </span>
+                </a>
+                            <a href="https://style.rbc.ru/beauty/63e105059a79475122f7e575" class="popular__item">
+                    <span class="popular__info__link">
+                                                    <span class="popular__image">
+                                <img src="https://s0.rbk.ru/v6_top_pics/resized/300x200_crop/media/img/0/93/756756993538930.jpg" loading="lazy" alt="Фото: Shutterstock"/>
+                            </span>
+                                                <span class="popular__info">
+                            <span class="popular__date">07.02.2023</span>
+                            <span class="popular__rubric">
+                                                                    Красота
+                                                            </span>
+                            <span class="popular__view">3 088</span>                        </span>
+                    </span>
+
+                    <span class="popular__item__title">
+                        <span class="popular__item__inner">
+                            <span class="popular__item__link">Удлиненная челка: 7 оригинальных стрижек, которые идут всем</span>
+                            <span class="popular__item__text"></span>
+                        </span>
+                    </span>
+                </a>
+                            <a href="https://style.rbc.ru/impressions/63e24a509a7947349b635f7a" class="popular__item">
+                    <span class="popular__info__link">
+                                                    <span class="popular__image">
+                                <img src="https://s0.rbk.ru/v6_top_pics/resized/300x200_crop/media/img/0/81/756757749457810.jpg" loading="lazy" alt="Фото: ПРЕСС-СЛУЖБА"/>
+                            </span>
+                                                <span class="popular__info">
+                            <span class="popular__date">08.02.2023</span>
+                            <span class="popular__rubric">
+                                                                    Впечатления
+                                                            </span>
+                            <span class="popular__view">3 057</span>                        </span>
+                    </span>
+
+                    <span class="popular__item__title">
+                        <span class="popular__item__inner">
+                            <span class="popular__item__link">Слушаем новый альбом сайд-проекта «Би-2» «Нечетный воин»</span>
+                            <span class="popular__item__text"></span>
+                        </span>
+                    </span>
+                </a>
+                    </div>
+    </div>
+</div>
+        </div>
+
+        <div class="l-row">
+            <div class="l-col-center">
+                <div class="l-col-center__inner">
+                    <div class="l-row">
+                        <div class="l-col-2 g-hideOnSmallDesktop">
+                                <div class="itbg_medium itbg_medium_invert">
+        <a class="itbg_medium__link" href="https://style.rbc.ru/impressions/63ca45aa9a7947e9bfc0b5f4">
+            <span class="itbg_medium__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/630x345_crop/media/img/0/40/756742174813400.jpg" class="itbg_medium__image js-rbcslider-image" data-size="630x345" loading="lazy" alt=""/>
+                            </span>
+            <span class="itbg_medium__text-block">
+                                <span class="itbg_medium__text-block__center">
+                    <span class="itbg_medium__category-block">
+                        <span class="itbg_medium__category">
+                            
+    Впечатления
+                        </span>
+                    </span>
+                    <span class="itbg_medium__title">
+                        Северное сияние, океан, морские ежи: что смотреть и пробовать в Мурманске
+                    </span>
+                    <span class="itbg_medium__author-block">
+                        <span class="itbg_medium__author">Опубликовано <span class="itbg_medium__author-title">24.01.2023</span></span>
+                    </span>
+                </span>
+                <span class="itbg_medium__text-block__center-invisible"></span>
+            </span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1 g-hideOnFullDesktop">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/impressions/63ca45aa9a7947e9bfc0b5f4">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/1/24/756742174726241.jpg" class="itmd_main__image" loading="lazy" alt=""/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">24.01.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+            <span class="itmd_main__title">Северное сияние, океан, морские ежи: что смотреть и пробовать в Мурманске</span>
+        </a>
+    </div>
+                        </div>
+                        <div class="l-col-1">
+                                    <div class="itmd_main">
+        <a class="itmd_main__link" href="https://style.rbc.ru/impressions/63d8f4be9a794775406e8122">
+            <span class="itmd_main__image-block">
+                                    <img src="https://s0.rbk.ru/v6_top_pics/resized/414x276_crop/media/img/2/49/756751630197492.jpg" class="itmd_main__image" loading="lazy" alt="Фото: пресс-служба"/>
+                            </span>
+            <span class="itmd_main__anim-block animate">
+                                <span class="itmd_main__author">Опубликовано <span class="itmd_main__author-title">31.01.2023</span></span>
+                <span class="itmd_main__category">
+                    
+    Впечатления
+                </span>
+            </span>
+            <span class="itmd_main__title">От карнавала до чекапа: что предлагают отели в феврале</span>
+        </a>
+    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        </div>
+                                
+            <div class="footer">
+    <div class="footer__inner g-margin-bottom-30">
+        <div class="footer__50p">
+            <div class="footer__title">
+                <div class="footer__title__border-bottom"></div>
+                <span class="footer__title__text">СТИЛЬ</span>
+            </div>
+
+            <div class="footer__line">
+                <div class="footer__50p">
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/items/" class="footer__link">Вещи</a>
+                        </div>
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/beauty/" class="footer__link">Красота</a>
+                        </div>
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/health/" class="footer__link">Здоровье</a>
+                        </div>
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/impressions/" class="footer__link">Впечатления</a>
+                        </div>
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/people/" class="footer__link">Герои</a>
+                        </div>
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/life/" class="footer__link">Жизнь</a>
+                        </div>
+                                            <div class="footer__info">
+                            <a href="https://style.rbc.ru/repost/" class="footer__link">Репост</a>
+                        </div>
+                                    </div>
+
+                <div class="footer__50p">
+                    <div class="footer__info">
+                        <a href="/about" class="footer__link">О&nbsp;проекте</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://adv.rbc.ru/" class="footer__link">Реклама</a>
+                    </div>
+
+                                            
+                                                    <div class="footer__info">
+                                <a href="https://pro.rbc.ru/rbcoffer/comfort_email_news?utm_source=style.rbc.ru/&amp;utm_medium=inhouse_media&amp;utm_campaign=rbc_comfort&amp;utm_term=footer" class="footer__link">
+                                    РБК Comfort
+                                </a>
+                            </div>
+                                                    <div class="footer__info">
+                                <a href="https://pro.rbc.ru/offers?utm_source=style.rbc.ru/&amp;utm_medium=inhouse_media&amp;utm_campaign=rbc_pro&amp;utm_term=footer" class="footer__link">
+                                    РБК Pro
+                                </a>
+                            </div>
+                                            
+                    <div class="footer__info">
+                        <a href="/mobile" class="footer__link footer__mobile js-footer-site-version">Перейти на&nbsp;мобильную <br/>версию</a>
+                    </div>
+                    <div class="footer__social social_footer">
+                                                                </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer__50p footer__50p_last">
+            <div class="footer__title">
+                <div class="footer__title__border-bottom"></div>
+                <span class="footer__title__text">ДРУГИЕ ПРОЕКТЫ</span>
+            </div>
+
+            <div class="footer__line">
+                <div class="footer__25p">
+                    <div class="footer__info">
+                        <a href="https://www.autonews.ru/" class="footer__link">Авто</a>
+                    </div>
+                     <div class="footer__info">
+                        <a href="http://realty.rbc.ru/"class="footer__link">Недвижимость</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://www.sport.rbc.ru/"class="footer__link">Спорт</a>
+                    </div>
+                </div>
+
+                <div class="footer__25p">
+                    <div class="footer__info">
+                        <a href="http://www.rbc.ru/"class="footer__link">Новости</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://www.rbc.ru/newspaper/"class="footer__link">Газета</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://www.rbc.ru/magazine/"class="footer__link">Журнал</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://tv.rbc.ru/"class="footer__link">Телеканал</a>
+                    </div>
+                </div>
+
+                <div class="footer__25p">
+                    <div class="footer__info">
+                        <a href="http://money.rbc.ru/"class="footer__link">Деньги</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://quote.rbc.ru/shares/"class="footer__link">Quote</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://marketing.rbc.ru/"class="footer__link">Исследования</a>
+                    </div>
+                    <div class="footer__info">
+                        <a href="http://bc.rbc.ru/"class="footer__link">Конференции</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer__inner">
+        <div class="footer__divider"></div>
+    </div>
+
+    <div class="footer__inner g-margin-bottom-30">
+        <div class="footer__50p">
+            <div class="footer__line">
+                <div class="footer__50p">
+                    <div class="footer__50p__inner">
+                        &copy;&nbsp;АО &laquo;РОСБИЗНЕСКОНСАЛТИНГ&raquo;, <nobr>1995–2023</nobr><br/>
+                    </div>
+                </div>
+
+                <div class="footer__50p">
+                    Информация об&nbsp;ограничениях<br/>
+                    &copy;&nbsp;<a href="http://www.rbc.ru/restrictions#reuters" class="footer__red" target="_blank">Reuters</a>, &copy;&nbsp;<a href="http://www.rbc.ru/restrictions#press" class="footer__red" target="_blank">AP</a>, &copy;&nbsp;<a href="http://www.rbc.ru/restrictions#interfax" class="footer__red" target="_blank">Интерфакс</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer__50p">
+            <div class="footer__line">
+
+                <div class="footer__25p">
+                    <a href="http://www.rbc.ru/privacy/" class="footer__red">О&nbsp;соблюдении авторских прав</a>
+                </div>
+
+                <div class="footer__50p">
+                    Материалы с&nbsp;<span class="footer__star">отметкой</span><br/> публикуются на&nbsp;правах рекламы
+                </div>
+
+                <div class="footer__25p">
+                    <span class="footer__copy18"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer__inner">
+        <div class="footer__50p">
+            <div class="footer__50p__inner">
+                <div class="footer__gray">
+                    Сообщения и&nbsp;материалы сетевого издания &laquo;РБК&raquo; (зарегистрировано Федеральной службой по&nbsp;надзору в&nbsp;сфере связи, информационных технологий и&nbsp;массовых коммуникаций (Роскомнадзор) 03.12.2021 за&nbsp;номером ЭЛ&nbsp;&#8470;ФС77-82385) сопровождаются пометкой &laquo;РБК&raquo;. Иная&nbsp;<a href="https://www.rbc.ru/info/" class="footer__red">правовая информация</a>.
+                </div>
+            </div>
+        </div>
+        <div class="footer__35p">
+            <div class="footer__gray">
+                Все замечания и&nbsp;пожелания присылайте на&nbsp;<a href="mailto:webmaster@style.rbc.ru" class="footer__red">webmaster@style.rbc.ru</a><br/>
+                Телефон редакции: <a href="tel:+74953631111" class="footer__phone">(495) 363-11-11</a><br/>
+            </div>
+        </div>
+        <div class="footer__right">
+            <a target="_blank" href="http://www.liveinternet.ru/click">
+                <img width="31" height="31" border="0" title="LiveInternet" loading="lazy" alt="" src="//pics.rbc.ru/img/ver99/counter_liveinternet.gif"/>
+            </a>
+        </div>
+    </div>
+</div>
+
+    
+    
+    <div class="g-zeropixel">
+        <script>RA.config.set('counters.tns.tmsec', 'rbc_style');</script>
+
+<!-- tns-counter.ru -->
+<script>
+    ((ncCounterHostname, counterHostname) => {
+        window.MSCounter = {
+            ncCounterHostname: ncCounterHostname,
+            counterHostname: counterHostname
+        };
+        window.mscounterCallbacks = window.mscounterCallbacks || [];
+        window.mscounterCallbacks.push(() => {
+            msCounterExampleCom = new MSCounter.counter({
+                'account':'rbc_ru',
+                'tmsec': 'rbc_style',
+                'autohit' : true
+            });
+        });
+
+        const newScript = document.createElement('script');
+        newScript.async = true;
+        newScript.src = `${ncCounterHostname}/ncc/counter.js`;
+
+        const referenceNode = document.querySelector('script');
+        if (referenceNode) {
+            referenceNode.parentNode.insertBefore(newScript, referenceNode);
+        } else {
+            document.firstElementChild.appendChild(newScript);
+        }
+    })('https://tns-counter.ru', 'https://tns-counter.ru/');
+</script>
+<!--/ tns-counter.ru -->
+<script type="text/javascript"><!--
+
+document.write("<img src='https://counter.yadro.ru/hit;RBCRU?r"+
+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+
+        ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+
+                screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+
+        ";"+Math.random()+
+
+        "' width=1 height=1 alt=''>")//-->
+</script>
+<!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter -->
+<script>RA.config.set('counters.ya.idCounter', '16443190');</script>
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(16443190, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        triggerEvent: true,
+        webvisor: true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/16443190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    </div>
+
+    
+                <div id="id_ra_overlay" class="page-overlay"></div>    
+    <div class="g-zeropixel">
+                                                    <!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3189009", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3189009;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->                    </div>
+
+                <script type="text/javascript">
+    RA.config.set('banners.refreshConfig', [{"place_name":"right_1","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"after_topline","refresh_timeout":1,"max_refresh_count":999,"activation":"instant","tab_refresh":true,"viewable_only":false,"is_disabled":false},{"place_name":"before_footer","refresh_timeout":1,"max_refresh_count":999,"activation":"instant","tab_refresh":true,"viewable_only":false,"is_disabled":false},{"place_name":"branding","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false},{"place_name":"right_2","refresh_timeout":1,"max_refresh_count":999,"activation":"default","tab_refresh":true,"viewable_only":true,"is_disabled":false}]);
+    RA.config.set('banners.preroll', {"live":"https:\/\/yandex.ru\/ads\/adfox\/226279\/getCode","content_video":"https:\/\/yandex.ru\/ads\/adfox\/226279\/getCode","live_add_puid":true,"content_video_add_puid":true});
+</script>
+                    <script src="/dfp_site?media=desktop"></script>
+            
+    
+    <script id="js_common_script" src="//s.rbk.ru/v4_style_static/common/common-p.1.1.171/scripts/build/_common.js" data-param="0"></script>
+
+            <script>
+    RA.config.set('domainAuth', 'https://auth.rbc.ru');
+    RA.config.set('domainApigw', 'https://apigw.rbc.ru');
+    RA.config.set('paywall.staticPath', '//s.rbk.ru/v2_paywall_static/paywall-2.1.147/');
+</script>
+<script src="//s.rbk.ru/v2_paywall_static/paywall-2.1.147/scripts/build/_paywall.js"></script>
+
+    
+            <script src="//s.rbk.ru/v4_style_static/common/common-p.1.1.171/scripts/build/_main.js"></script>
+            <script src="//s.rbk.ru/v4_style_static/style-2.3.40/scripts/build/_main.js"></script>
+        <script src="//s.rbk.ru/v4_style_static/style-2.3.40/scripts/build/_index.js"></script>
+
+        
+    
+    <!--AB:  -->
+</body>
+</html>

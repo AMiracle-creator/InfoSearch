@@ -1,0 +1,2719 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ru" xml:lang="ru" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<title>
+BLIZKO РОССИЯ - Портал товаров и услуг. Покупайте и продавайте здесь
+</title>
+
+<meta content="BLIZKO поможет сделать выбор, если вы делаете ремонт, готовитесь к празднику, выбираете, где сделать маникюр или вылечить зубы. Большой выбор предложений на все случаи жизни. Для легкого выбора воспользуйтесь удобным каталогом, выбором товаров по характеристикам или поиском. Читайте отзывы о компаниях и товарах, следите за акциями. Выбирать и совершать покупки на портале BLIZKO быстро и легко, попробуйте!" name="description">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="e5e32d03e9eb7a52" name="wmail-verification">
+<meta content="0" name="barmen-region">
+<meta content="always" name="referrer">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="dQ/p2/CbTWQc232FPHCTbTxPhjARHeWzFgOXap5j2WYG2CQ3L8rApc1T6IIwY3ld+CeuOO7wJHbbj5f2wDosjQ==" />
+    <meta name='viewport' content='width=990'/>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://blizko.ru/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://blizko.ru/predl?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+</script>
+
+
+<link href="https://stblizko.ru/assets/favicon/favicon-4c6984a68671c9ca539fcaa6220a5afc.svg" rel="shortcut icon" type="image/svg+xml">
+
+<link href="https://blizko.ru/" rel="canonical" />
+
+
+<link rel="stylesheet" media="screen" href="https://stblizko.ru/assets/package/page/root-4eb18e924b6b984ed88b9538bbc0112a.css" />
+<link rel="stylesheet" media="screen" href="https://stblizko.ru/assets/packs/blizko/assets/desktop/root_index-32d10c7e8f7fa68399c8515027359688.css" />
+      <link rel="stylesheet" media="all" href="https://stblizko.ru/assets/package/desktop/portal/base-817f983ef35520b2def8439fc82607cf.css" />
+
+    <link rel="stylesheet" media="screen" href="https://stblizko.ru/assets/packs/blizko/assets/common-69c1d81b737bb4cdc1f0dd13d6d3d538.css" />
+    <link rel="stylesheet" media="screen" href="https://stblizko.ru/assets/packs/blizko/assets/desktop/base-ceeee5cbd5671664df55d523cef18425.css" />
+    <link rel="stylesheet" media="screen" href="https://stblizko.ru/assets/packs/blizko/assets/desktop/portal/base-bc4184d409f825bda75d89cd85ace309.css" />
+<link rel="stylesheet" media="screen" href="https://stblizko.ru/assets/package/treeview_assets-0f0aa50f16d12deda1af0448278ac509.css" />
+
+
+<script type="application/javascript">
+  var app = app || {
+    utils: {},
+    deferredPackageUrls: {
+      authComponent: 'https://stblizko.ru/assets/package/auth_component-fabdd7ef6c82be0dbf3c82beb1b16d4c.js',
+      orders: [
+        'https://stblizko.ru/assets/package/auth_component-fabdd7ef6c82be0dbf3c82beb1b16d4c.js',
+        'https://stblizko.ru/assets/package/orders-a4136cffed20b31708c70445e320f640.js',
+        'https://stblizko.ru/assets/packs/blizko/assets/standalone/orders-82f1c73e42992117aa1e.js'
+      ],
+    },
+    locales: {
+      removeFromFavorite: 'Удалить из избранного',
+      toFavorite: 'В избранное',
+      addToFavorite: 'Добавить в избранное',
+      inFavorite: 'В избранном',
+    },
+    config: {
+      initPhoneMask: {
+        phoneCode: '+7',
+        phonePattern: '+0 (000) 000-00-00',
+        phonePlaceholder: '+7 (___) ___-__-__'
+      },
+      isProductionMode: true,
+      isRealProduction: true,
+      revision: 'ad659942',
+      userContactPhone: '',
+      shortHost: 'blizko.ru',
+      mainHost: 'blizko.ru',
+      rootHost: '.' + 'blizko.ru',
+      assetHost: 'https://stblizko.ru/assets/',
+      currentHost: '.' + 'blizko.ru',
+      globalLocked: false,
+      ordersUpdatesLocked: false,
+      complaintMessageUrl: 'https://blizko.ru/complaint/send_message',
+      ajaxRegionsPopupUrl: 'https://blizko.ru/ajax/regions_popup?save_path=false',
+      dashboardUrl: 'https://blizko.ru/dashboard',
+      googleAnalytics: {},
+      yandexMapApiUrl: 'https://api-maps.yandex.ru/2.1/?apikey=b2311476-4e9e-4b89-ba2f-6fb0c5859c0b&lang=ru-RU',
+      analyticsCollectURL: 'https://blizko.ru/api/v1/analytics/collect',
+      isUserSigned: false,
+      isUserDurableOnLoad: false,
+      showConfirmRegionPopup: true,
+      confirmRegionURL: 'https://blizko.ru/confirm_region',
+      isCountryCurrentRegion: 'true',
+      isCartPage: false,
+      isServicePage: false,
+      showSocialInReviewsAuthPopup: true,
+      flocktory: {
+        isDisabled: false
+      },
+      api: {
+        favoriteProducts: {
+          get: 'https://blizko.ru/api/v1/favorite_products',
+          set: 'https://blizko.ru/api/v1/favorite_products?product_id=-product_id-',
+        },
+        remoteLink: 'https://blizko.ru/api/v1/remote_links',
+        errorMessages: {
+          401: 'Некорректные авторизационные данные.',
+          403: 'Некорректные авторизационные данные.',
+          default: 'Произошла ошибка. Пожалуйста, попробуйте повторить попытку.',
+        },
+        measureUnitsURL: 'https://blizko.ru/api/v1/measure_units',
+        regionsURL: 'https://blizko.ru/api/v1/regions?region_types%5B%5D=city&region_types%5B%5D=country&sort=by_name',
+        offerSubscriptionsRubricUrl: 'https://blizko.ru/api/v1/offer_subscriptions',
+        offerSubscriptionsUrl: 'https://blizko.ru/new_offers_subscription?region_id=0',
+        customerCartOrdersURL: 'https://blizko.ru/api/v1/customer/cart/orders',
+        companiesUserViewsUrl: 'https://blizko.ru/api/v1/companies/user_views',
+        portalRubricatorUrl: 'https://blizko.ru/api/v1/portal/rubricator?region_id=0',
+        mobileAppConversionAddClickUrl: 'https://blizko.ru/api/v1/mobile_app_conversions/add_click'
+      },
+      pageUrls: {
+        order: 'https://blizko.ru/sellers/order',
+        cart: 'https://blizko.ru/dashboard/customer/cart?return_to=https%3A%2F%2Fblizko.ru%2F&save=true'
+      },
+      currentRegionCapitalId: '2925',
+      showSocialRegistration: false,
+      crmAnalyticsCollectURL: 'https://crm.blizko.ru/api/v1/analytics/collect',
+      analyticsCfg: {
+        showHiddenPhonesEvent: 2118
+      },
+      minTotalValidationForms: ['form', 'form1', 'form3'],
+      barmenTemplate: 'barmen_client/showcase_blizko',
+      hideAdvertisementLabel: 'barmen-item-hide-label',
+      youtubeWidget: {
+        apiKey: 'AIzaSyDpd93l1AvzjvhD9zCHWqVdFu4DstbyVyg',
+        apiUrl: 'https://content.googleapis.com/youtube/v3/search',
+        maxResults: 6
+      },
+      userHasExtraRights: false,
+    },
+    modules: {
+      coreApplicationBase: {},
+      application: {},
+      barmen: {
+        load: function() {
+          app.modules.barmen = new Barmen({apiUrl: 'https://api.blizko.apress-barmen.ru/v1'});
+        }
+      }
+    }
+  };
+</script>
+
+<script src="https://stblizko.ru/assets/packs/blizko/assets/standalone/app_extender-bdce1bfeb09fd3822292.js"></script>
+
+
+
+
+
+<script type="application/javascript">
+  window.app.i18n || (window.app.i18n = {});
+
+  window.app.i18n['views_company_admin_toolbar_save_order'] = "Сохраните ваши товары";
+  window.app.i18n['views_catalogue_show_show_phone'] = "Показать номер";
+  window.app.i18n['promo_codes_label'] = "Промокод";
+  window.app.i18n['promo_codes_placeholder'] = "Введите ваш промокод";
+  window.app.i18n['promo_codes_button_text'] = "Применить";
+  window.app.i18n['promo_codes_button_activated'] = "Промокод применен";
+  window.app.i18n['common_not_found'] = "Не найдено";
+  window.app.i18n['common_details_button'] = "Подробнее";
+  window.app.i18n['common_similar_products_title'] = "Вам пригодятся";
+  window.app.i18n['catalog_preloader_text'] = "Загрузка...";
+  window.app.i18n['catalog_search_title'] = "Дачные постройки";
+  window.app.i18n['catalog_summer_season'] = "Дачный сезон";
+  window.app.i18n['catalog_deals'] = "Скидки";
+  window.app.i18n['catalog_button_titles_catalog'] = "Каталог";
+  window.app.i18n['catalog_button_titles_show'] = "Показать ещё";
+  window.app.i18n['catalog_button_titles_hide'] = "Скрыть";
+  window.app.i18n['catalog_button_titles_products'] = "Товары";
+  window.app.i18n['catalog_button_titles_companies'] = "Компании";
+  window.app.i18n['catalog_button_titles_services'] = "Услуги";
+
+  window.app.i18n.visitedProductsTitle = "Вы смотрели";
+  window.app.i18n['mobile_app_banner.install_link_url'] = "";
+</script>
+
+<script>
+  window.app.i18n || (window.app.i18n = {});
+
+  window.app.i18n['cannot_match'] = "не может совпадать";
+  window.app.i18n['before_break_start'] = "не может быть раньше начала перерыва";
+  window.app.i18n['after_break_stop'] = "не может быть позже окончания перерыва";
+  window.app.i18n['before_break_stop'] = "не может быть раньше окончания перерыва";
+  window.app.i18n['before_work_start'] = "не может быть раньше начала рабочего дня";
+  window.app.i18n['after_work_stop'] = "не может быть позже окончания рабочего дня";
+  window.app.i18n['empty_field'] = "укажите время работы и перерыва или выходной";
+</script>
+
+<script>
+  window.app.i18n || (window.app.i18n = {});
+
+  window.app.i18n['cart_preview.total_label'] = "Сумма:";
+  window.app.i18n['cart_preview.to_cart'] = "Перейти в корзину";
+</script>
+
+  <script>
+    //заглушка для старого кода
+    var _gaq = [];
+
+    window.addEventListener('load', function() {
+      try {
+        (function(i,s,o,g,r,a,m){a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      } catch(err) {}
+    });
+
+    window['GoogleAnalyticsObject'] = 'ga';
+    window.ga = window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+    ga('create', 'UA-589645-2', 'auto', {
+      'name': 'blizkoru',
+      'cookieDomain': 'none'
+    });
+    ga('blizkoru.send', 'pageview');
+
+    if (!ga) {
+      function ga() {}
+    }
+  </script>
+
+
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  window.addEventListener('load', function() {
+    //gtm
+    (function(w, d, s, l, i) {
+      w[l]=w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+        });
+      var
+        f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', "GTM-TLB7CM");
+  });
+</script>
+
+
+
+
+
+
+<script type="text/javascript" src="/aes-min.js" ></script><script>function toNumbers(d){var e=[];d.replace(/(..)/g,function(d){e.push(parseInt(d,16))});return e}function toHex(){for(var d=[],d=1==arguments.length&&arguments[0].constructor==Array?arguments[0]:arguments,e="",f=0;f<d.length;f++)e+=(16>d[f]?"0":"")+d[f].toString(16);return e.toLowerCase()}var a=toNumbers("aab46302473a58f3aaa59c3606316259"),b=toNumbers("6c4b6ef97a329b2785128f9c9436bb79"),c=toNumbers("5ed7f2c8f2d0577d8242d8bb229a1256");document.cookie="RBBZ="+toHex(slowAES.decrypt(c,2,a,b))+";path=/;domain=.blizko.ru";</script></head>
+<body class="main-page">
+
+    
+<noscript>
+    <img src="//mc.yandex.ru/watch/88259" style="position:absolute; left:9999px;" alt="" />
+    <img src="//mc.yandex.ru/watch/39607650" style="position:absolute; left:9999px;" alt="" />
+</noscript>
+
+<script>
+  app.config.yandexMetrika = app.config.yandexMetrika || {
+    defaultParams: {
+      webvisor: false,
+      clickmap: true,
+      trackLinks: true,
+      accurateTrackBounce: true,
+    },
+    events: []
+  };
+
+  app.config.yandexMetrika.events.push({
+    ids: [88259,39607650],
+    params: null
+  });
+</script>
+
+
+    <script>
+      app.config.defaultYmCounterId = 88259;
+    </script>
+
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TLB7CM" height="0" width="0" />
+</noscript>
+
+<div class="js-wrapper main-page-wrapper">
+  <div
+  class="js-ajax-content main-toolbar-cap main-toolbar__wrapper"
+  data-ajax-content-url="https://blizko.ru/toolbar?is_portal_page=true&amp;page_source=main&amp;return_to=https%3A%2F%2Fblizko.ru%2F"
+  data-ajax-content-event-name="toolbar:load"
+></div>
+
+
+
+
+
+    <div class="base-wrapper">
+
+<div class="portal-header js-portal-header js-toolbar-sticky">
+  <div class="portal-header__container">
+    <div class="portal-header__logo">
+      
+    <div class="header-logo" itemscope itemtype="http://schema.org/Organization">
+      <a
+        class="header-logo__link"
+        href="https://blizko.ru"
+        itemprop="url"
+      >
+        <img
+          class="header-logo__img"
+          src="https://stblizko.ru/assets/logos/logo-27c4809b10325141f44ef68551c29a90.svg"
+          alt="BLIZKO / Адреса и телефоны"
+          itemprop="logo"
+        >
+      </a>
+    </div>
+
+    </div>
+    <div
+      class="vue-catalog"
+      data-current-region=0
+      data-offers-url=https://blizko.ru/deals
+    ></div>
+    <div class="portal-header__search">
+      <form action="https://blizko.ru/predl" class="header-search-form js-portal-search-form" method="get">
+<div class="header-search-form__input-box js-psf-search-string">
+<input aria-label="Форма поиска" autocomplete="off" class="header-search-form__query js-psfss-input js-search-query" name="q" placeholder="Поиск на BLIZKO.ru" type="text">
+<button class="header-search-form__clear-button js-clear-button" type="button" value=""></button>
+<input aria-label="Найти" class="header-search-form__submit" type="submit" value="">
+</div>
+</form>
+<div class="portal-header__search-hints">
+<div class="search-history js-search-history"></div>
+<div class="searching-results js-searching-results"></div>
+</div>
+<script>
+  app.config.portalSearchHintsUrl = "https://blizko.ru/api/v1/portal/search/hints?region_id=0"
+</script>
+
+    </div>
+    <div class="portal-header__navigation-links">
+      
+<ul class="header-navigation-links">
+  <li class="header-navigation-links__item">
+    <div class="header-navigation-links__link header-navigation-links__link_favorite">
+      <div
+        class="vue-favorite-products-counter dn"
+        data-url="https://blizko.ru/wishlist"
+        data-additional-class="header-navigation-links__favorite-products"
+      ></div>
+      <a class="header-navigation-links__link header-navigation-links__link-title" href="https://blizko.ru/wishlist">
+        Избранное
+      </a>
+    </div>
+  </li>
+  <li class="header-navigation-links__item header-navigation-links__item_cart js-orders-cart-counter-container">
+    <a class="header-navigation-links__link header-navigation-links__link_cart js-orders-cart-link" href="https://blizko.ru/dashboard/customer/cart?return_to=https%3A%2F%2Fblizko.ru%2F">
+      <span
+        class="header-navigation-links__counter header-navigation-links__counter_cart js-orders-cart-counter"
+        data-tip="Товаров в корзине"
+      >
+        <span class="js-orders-cart-counter-value">0</span>
+      </span>
+      Корзина
+</a>    <div class="js-cart-preview-popup"></div>
+  </li>
+</ul>
+
+    </div>
+  </div>
+</div>
+
+<div class="confirm-region-container js-select-region js-toolbar-sticky"></div>
+</div>
+
+
+  <div class="base-wrapper">
+<nav class="portal-nav js-timeout-menu-wrap">
+<ul class="pn-list js-timeout-menu" data-direction="below" data-outside="true" data-tolerance="0">
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/construction">
+Стройка и ремонт
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/promgood/tehnika">
+Техника
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/promgood/interier">
+Интерьер
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/transport">
+Авто
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/promgood/odezhda">
+Одежда
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/tovary_dlya_detey">
+Дети
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/promgood/krasota_uhod_za_telom">
+Красота
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/promgood/medicina">
+Здоровье
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/otdyhirazvlecheniya">
+Отдых
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/service/service">
+Услуги
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link" href="https://blizko.ru/predl/equipment">
+Оборудование
+</a>
+</li>
+<li class="pn-item">
+<a class="pn-link deals js-ga-link" data-ga-action="02_Клики_Скидки_ГНОМС" data-ga-category="Действия_ЧИТАТЕЛЯ _Скидки_ГНОМС" data-ga-label="02_Клики_СК_ГН" href="https://blizko.ru/deals">
+Скидки
+</a>
+</li>
+</ul>
+</nav>
+<div class="portal-nav-outside"></div>
+
+</div>
+
+
+
+  <span class="side-tender-button js-demands-open" data-url="https://blizko.ru/dashboard/tenders/new">
+Помочь с поиском?
+</span>
+
+<div class="portal-content">
+<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" rel="stylesheet" />
+<link crossorigin="anonymous" href="https://stblizko.ru/assets/cms_assets/blizko.bootstrap.min.css" rel="stylesheet" />
+<style type="text/css">.catalog__link-item,
+
+   body {
+      font-family: 'Arial', sans-serif;
+   }
+
+   a {
+      text-decoration: none;
+      color: #000000;
+   }
+
+   .container-fluid {
+      max-width: 1200px;
+      padding-left: 0;
+      padding-right: 0;
+   }
+
+   ol,
+   ul {
+      padding-left: 0;
+      margin-bottom: inherit;
+   }
+
+   img {
+     vertical-align: initial;
+   }
+
+   .modal-dialog {
+      pointer-events: all;
+   }
+
+   .main-toolbar .mt-logo {
+      padding-bottom: 0;
+   }
+
+   .main-toolbar .mt-logo-img {
+      vertical-align: baseline;
+   }
+
+   .side-tender-button {
+      width: 180px;
+   }
+
+   /* card-portal */
+   .subgroups {
+      padding: 15px 15px 15px 15px;
+   }
+
+   .card {
+      overflow: hidden;
+      display: flex;
+      border-radius: 6px;
+      border: none;
+      box-shadow: 0 1px 2px rgb(0 0 0 / 8%), 0 2px 6px rgb(0 0 0 / 8%), 0 8px 20px rgb(0 0 0 / 10%);
+      justify-content: space-around;
+      height: 100%;
+      width: 100%;
+   }
+
+   .card-two-portal,
+   .card-three-portal,
+   .card-four-portal {
+      padding-top: 25px;
+   }
+
+   .card-one-portal {
+      padding-top: 25px;
+   }
+
+   .card__body {
+      text-align: center;
+   }
+
+   .card__header-title {
+      color: #000000;
+      font-weight: 600;
+      font-size: 22px;
+   }
+
+   .card__header-title:hover {
+      color: #000000;
+      text-decoration: underline;
+   }
+
+   .card__header {
+      margin: 10px 0 0 15px;
+   }
+
+   .card__header:hover {
+      text-decoration: underline;
+   }
+
+   .card__footer {
+      font-size: 12px;
+      margin: 20px 0 15px 15px;
+   }
+
+   .card__link {
+      display: inline-block;
+      color: #0088cc;
+   }
+
+   .card__link:hover {
+      color: #004d73;
+      text-decoration: underline;
+   }
+
+   .card__description {
+      font-size: 12px;
+      margin: 14px 0;
+   }
+
+   .card__description:hover {
+      text-decoration: none;
+   }
+
+   .card-business {
+      overflow: hidden;
+      border-radius: 6px;
+      border: none;
+      box-shadow: 0 2px 10px rgb(0 0 0 / 25%);
+      height: 100%;
+   }
+
+   .card__body-text {
+      font-size: 12px;
+      text-align: left;
+      padding-top: 20px;
+   }
+
+   .subcategories {
+      margin-bottom: 20px;
+   }
+
+
+   .subcategories:hover {
+      text-decoration: underline;
+      color: #004d73;
+   }
+
+   .card__body-img-product {
+      width: 80px;
+   }
+
+   .card__body-img {
+      width: 90%;
+   }
+
+   /* card end */
+
+   .carousel-inner {
+      border-radius: 6px;
+   }
+
+   .carousel-control-next,
+   .carousel-control-prev {
+      width: 7%;
+   }
+
+
+   /* Medium: 768px - 991px */
+   @media (max-width: 991px) {
+      .card__header-title {
+         font-size: 16px;
+      }
+
+      .card__body-img-product {
+         width: 60px;
+      }
+   }
+
+   /* Small: 576px - 767px */
+   @media (max-width: 767px) {}
+</style>
+<section class="slider-desktop-bootstrap" id="slider-desktop-bootstrap">
+<div class="container-fluid">
+<div class="carousel slide" data-bs-ride="carousel" id="carouselExampleInterval">
+<div class="carousel-inner">
+<div class="carousel-item active" data-bs-interval="5000"><a href="/deals/?utm_page=newmain"><img alt="Баннер скидки" class="d-block w-100" src="https://st34.stblizko.ru/images/useful_links/000/099/870_original.jpg?1666167717" /></a></div>
+
+<div class="carousel-item" data-bs-interval="5000"><a href="/predl/otdyhirazvlecheniya/skoro/?utm_page=newmain"><img alt="Баннер зима" class="d-block w-100" src="https://st27.stblizko.ru/images/useful_links/000/099/712_original.jpg?1665044161" /></a></div>
+
+<div class="carousel-item" data-bs-interval="5000"><a href="/predl/promgood/interier/?utm_page=newmain"><img alt="Баннер мебель" class="d-block w-100" src="https://st18.stblizko.ru/images/useful_links/000/099/991_original.jpg?1667193716" /></a></div>
+</div>
+<button class="carousel-control-prev" data-bs-slide="prev" data-bs-target="#carouselExampleInterval" type="button"><span class="visually-hidden">Previous</span></button><button class="carousel-control-next" data-bs-slide="next" data-bs-target="#carouselExampleInterval" type="button"><span class="visually-hidden">Next</span></button></div>
+</div>
+</section>
+
+<section class="card-one-portal" id="card-one-portal">
+<div class="container-fluid">
+<div class="row row-cols-2 row-cols-md-4 g-4">
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/construction/?utm_page=newmain">Стройматериалы</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/construction/building/roof/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st47.stblizko.ru/images/useful_links/000/099/453_original.png?1662707670" /> </a> <a href="/predl/construction/building/roof/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/building/roof/?utm_page=newmain">Кровельные материалы</a></p><a href="/predl/construction/building/roof/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/building/facade/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st45.stblizko.ru/images/product/720/880/519_medium.png" /> </a> <a href="/predl/construction/building/facade/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/building/facade/?utm_page=newmain">Фасадные материалы</a></p><a href="/predl/construction/building/facade/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/construction/building/insulant/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st2.stblizko.ru/images/product/155/677/665_medium.jpg" /> </a> <a href="/predl/construction/building/insulant/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/building/insulant/?utm_page=newmain">Изоляционные материалы</a></p><a href="/predl/construction/building/insulant/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/building/beton_rastvor_cement/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st15.stblizko.ru/images/product/487/765/538_medium.jpg" /> </a> <a href="/predl/construction/building/beton_rastvor_cement/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/building/beton_rastvor_cement/?utm_page=newmain">Бетон, раствор, цемент</a></p><a href="/predl/construction/building/beton_rastvor_cement/?utm_page=newmain"> </a></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/construction/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/construction/decoration/?utm_page=newmain">Отделка</a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/construction/decoration/?utm_page=newmain"><img alt="" class="card__body-img" src="https://st27.stblizko.ru/images/useful_links/000/099/819_original.jpg?1665573944" /> </a></div>
+
+<div class="card__footer"><a class="card__link" href="/predl/construction/decoration/?utm_page=newmain">В каталог</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/construction/building/?utm_page=newmain">Двери и окна</a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/construction/building/?utm_page=newmain"><img alt="" class="card__body-img" src="https://st47.stblizko.ru/images/useful_links/000/099/529_original.png?1663132091" /> </a>
+
+<div class="card__body-text">
+<div class="row justify-content-around">
+<div class="col-5"><p class="subcategories"><a href="/predl/construction/building/dveri/?utm_page=newmain">Двери</a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/construction/building/windows/?utm_page=newmain">Окна и балконы</a></p></div>
+
+<div class="col-5"><p class="subcategories"><a href="/predl/construction/building/zaboryiograzhdenija/gate/?utm_page=newmain">Заборы, ворота</a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/construction/building/lestnicy/?utm_page=newmain">Лестницы</a></p></div>
+</div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/construction/building/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col"><a href="/predl/?utm_page=newmain"><img alt="Картинка описание" src="https://st18.stblizko.ru/images/useful_links/000/099/990_original.jpg?1667193663" style="border-radius: 6px; width: 100%;" /> </a></div>
+</div>
+</div>
+</section>
+
+<section class="card-two-portal" id="card-two-portal">
+<div class="container-fluid">
+<div class="row row-cols-2 row-cols-md-4 g-4">
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/appliances/?utm_page=newmain">Бытовая техника</a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/promgood/appliances/?utm_page=newmain"><img alt="" class="card__body-img" src="https://st47.stblizko.ru/images/useful_links/000/099/473_original.jpg?1662970064" /> </a></div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/appliances/?utm_page=newmain">В каталог</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/furniture/furniture/?utm_page=newmain">Мебель для дома </a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/promgood/furniture/furniture/?utm_page=newmain"><img alt="" class="card__body-img" src="https://st27.stblizko.ru/images/useful_links/000/099/813_original.jpg?1665573021" /> </a></div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/furniture/furniture/?utm_page=newmain">В каталог</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/medicina/?utm_page=newmain">Здоровье</a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/promgood/medicina/?utm_page=newmain"><img alt="" class="card__body-img" src="https://st27.stblizko.ru/images/useful_links/000/099/814_original.jpg?1665573229" /> </a>
+
+<div class="card__body-text">
+<div class="row justify-content-around">
+<div class="col-5"><p class="subcategories"><a href="/predl/promgood/medicina/aptechka/?utm_page=newmain">Медтовары</a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/promgood/medicina/medicine/?utm_page=newmain">Лекарства </a></p></div>
+
+<div class="col-5"><p class="subcategories"><a href="/predl/promgood/medicina/vrachi/?utm_page=newmain">Прием врачей </a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/promgood/medicina/diagnostika_i_obsledovaniya/?utm_page=newmain">Обследование </a></p></div>
+</div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/medicina/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/service/?utm_page=newmain">Услуги</a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/service/?utm_page=newmain"><img alt="Картинка услуг" class="card__body-img" src="https://st27.stblizko.ru/images/useful_links/000/099/815_original.jpg?1665573328" /> </a>
+
+<div class="card__body-text">
+<div class="row justify-content-around">
+<div class="col-5"><p class="subcategories"><a href="/predl/construction/biuldservices/assemblyjobs/?utm_page=newmain">Строительство </a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/construction/biuldservices/otdelochnye_raboty/?utm_page=newmain">Отделка </a></p></div>
+
+<div class="col-5"><p class="subcategories"><a href="/predl/service/service/personalservices/?utm_page=newmain">Бытовые услуги </a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/construction/biuldservices/decorating/?utm_page=newmain">Ремонт</a></p></div>
+</div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/service/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="card-three-portal" id="card-three-portal">
+<div class="container-fluid">
+<div class="row row-cols-2 row-cols-md-4 g-4">
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/construction/?utm_page=newmain">Инженерные коммуникации</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/construction/plumbing/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st47.stblizko.ru/images/useful_links/000/099/461_original.jpg?1662959833" /> </a> <a href="/predl/construction/plumbing/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/plumbing/?utm_page=newmain">Водоснабжение, канализация </a></p><a href="/predl/construction/plumbing/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/conditioning/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st47.stblizko.ru/images/useful_links/000/099/462_original.jpg?1662959992" /> </a> <a href="/predl/construction/conditioning/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/conditioning/?utm_page=newmain">Отопление, кондиционирование </a></p><a href="/predl/construction/conditioning/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/construction/valve/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st21.stblizko.ru/images/useful_links/000/099/564_original.png?1663313819" /> </a> <a href="/predl/construction/valve/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/valve/?utm_page=newmain">Фитинги, вентили, трубы </a></p><a href="/predl/construction/valve/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/elektrotovary/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st5.stblizko.ru/images/product/726/495/872_medium.jpeg" /> </a> <a href="/predl/construction/elektrotovary/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/elektrotovary/?utm_page=newmain">Электропроводка, электротовары </a></p><a href="/predl/construction/elektrotovary/?utm_page=newmain"> </a></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/construction/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/equipment/machcommon/?utm_page=newmain">Промышленное оборудование </a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/equipment/machcommon/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img" src="https://st27.stblizko.ru/images/useful_links/000/099/816_original.jpg?1665573651" /> </a></div>
+
+<div class="card__footer"><a class="card__link" href="/predl/equipment/machcommon/?utm_page=newmain">В каталог</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/construction/instrument/?utm_page=newmain">Оборудование для строительства</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/material/metalloprokat/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st5.stblizko.ru/images/product/726/454/811_medium.jpeg" /> </a> <a href="/predl/material/metalloprokat/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/material/metalloprokat/?utm_page=newmain">Металлопрокат</a></p><a href="/predl/material/metalloprokat/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/equipment/oborudovanie_dlya_stroitelnyh_rabot/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st47.stblizko.ru/images/useful_links/000/099/470_original.jpg?1662963082" /> </a> <a href="/predl/construction/equipment/oborudovanie_dlya_stroitelnyh_rabot/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/equipment/oborudovanie_dlya_stroitelnyh_rabot/?utm_page=newmain">Строительная техника</a></p><a href="/predl/construction/equipment/oborudovanie_dlya_stroitelnyh_rabot/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/construction/equipment/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st47.stblizko.ru/images/useful_links/000/099/471_original.jpg?1662962756" /> </a> <a href="/predl/construction/equipment/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/equipment/?utm_page=newmain">Оборудование</a></p><a href="/predl/construction/equipment/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/instrument/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st35.stblizko.ru/images/icons/rubrics/menus/001/408/811_original.jpg?1655465727" style="height: 75px;" /> </a> <a href="/predl/construction/instrument/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/instrument/?utm_page=newmain">Инструменты</a></p><a href="/predl/construction/instrument/?utm_page=newmain"> </a></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/construction/instrument/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title" style="margin-bottom: 25px;"><a href="/predl/otdyhirazvlecheniya/?utm_page=newmain">Всегда нужно </a></h4>
+</div>
+
+<div class="card__body"><a href="/predl/otdyhirazvlecheniya/?utm_page=newmain"><img alt="" class="card__body-img" src="https://st27.stblizko.ru/images/useful_links/000/099/817_original.jpg?1665573763" /> </a>
+
+<div class="card__body-text">
+<div class="row justify-content-around">
+<div class="col-5"><p class="subcategories"><a href="/predl/tovary_dlya_detey/?utm_page=newmain">Товары для детей </a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/otdyhirazvlecheniya/sportivnye_tovary/?utm_page=newmain">Спорттовары</a></p></div>
+
+<div class="col-5"><p class="subcategories"><a href="/predl/promgood/household/chemical/?utm_page=newmain">Бытовая химия </a></p>
+<p class="subcategories" style="margin-bottom: 0;"><a href="/predl/computer/communications/mobile/?utm_page=newmain">Гаджеты</a></p></div>
+</div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/otdyhirazvlecheniya/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="card-four-portal" id="card-four-portal">
+<div class="container-fluid">
+<div class="row row-cols-2 row-cols-md-4 g-4">
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/furniture/furniture/bedroom/?utm_page=newmain">Для спальни</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/promgood/furniture/furniture/bedroom/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st33.stblizko.ru/images/product/705/170/166_medium.jpg" /> </a>
+<p class="card__description"><a href="/predl/promgood/furniture/furniture/bedroom/?utm_page=newmain">Мебель для спальни </a></p></div>
+
+<div class="col-5"><a href="/predl/promgood/household/textiles/matrasy/128712/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st36.stblizko.ru/images/product/693/590/498_medium.jpg" /> </a> <a href="/predl/promgood/household/textiles/matrasy/128712/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/household/textiles/matrasy/128712/?utm_page=newmain">Матрасы</a></p><a href="/predl/promgood/household/textiles/matrasy/128712/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-4"><a href="/predl/promgood/household/other/hranenie_veschey/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st39.stblizko.ru/images/useful_links/000/100/550_original.PNG?1672382465" /> </a> <a href="/predl/promgood/household/other/hranenie_veschey/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/household/other/hranenie_veschey/?utm_page=newmain">Хранение вещей</a></p><a href="/predl/promgood/household/other/hranenie_veschey/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/promgood/household/textiles/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st50.stblizko.ru/images/product/312/987/296_medium.jpg" /> </a> <a href="/predl/promgood/household/textiles/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/household/textiles/?utm_page=newmain">Текстиль, подушки, одеяла </a></p></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/furniture/furniture/bedroom/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/furniture/furniture/bathroom/?utm_page=newmain">Для ванной</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/promgood/furniture/furniture/bathroom/119906/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st45.stblizko.ru/images/product/722/761/307_medium.jpg" /> </a> <a href="/predl/promgood/furniture/furniture/bathroom/119906/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/furniture/furniture/bathroom/119906/?utm_page=newmain">Тумбы</a></p><a href="/predl/promgood/furniture/furniture/bathroom/119906/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/santehnika/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st43.stblizko.ru/images/product/622/440/685_medium.jpg" /> </a> <a href="/predl/construction/santehnika/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/santehnika/?utm_page=newmain">Сантехника</a></p><a href="/predl/construction/santehnika/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-4"><a href="/predl/promgood/household/aksessuary_dlja_vannoj_/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st33.stblizko.ru/images/product/712/401/671_medium.JPG" /> </a> <a href="/predl/promgood/household/aksessuary_dlja_vannoj_/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/household/aksessuary_dlja_vannoj_/?utm_page=newmain">Товары для ванной</a></p><a href="/predl/promgood/household/aksessuary_dlja_vannoj_/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/decoration/tile/ceramic/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st43.stblizko.ru/images/product/620/675/986_medium.jpg" /> </a> <a href="/predl/construction/decoration/tile/ceramic/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/decoration/tile/ceramic/?utm_page=newmain">Керамическая плитка</a></p><a href="/predl/construction/decoration/tile/ceramic/?utm_page=newmain"> </a></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/furniture/furniture/bathroom/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/furniture/furniture/kitchen/?utm_page=newmain">Для кухни</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-4"><a href="/predl/promgood/furniture/furniture/kitchen/garnitury_kuhonnye/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st5.stblizko.ru/images/product/726/505/792_medium.jpeg" /> </a> <a href="/predl/promgood/furniture/furniture/kitchen/garnitury_kuhonnye/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/furniture/furniture/kitchen/garnitury_kuhonnye/?utm_page=newmain">Кухонные гарнитуры</a></p><a href="/predl/promgood/furniture/furniture/kitchen/garnitury_kuhonnye/?utm_page=newmain"> </a></div>
+
+<div class="col-4"><a href="/predl/promgood/furniture/furniture/kitchen/fartuki_dlya_kuhni/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st47.stblizko.ru/images/useful_links/000/099/439_original.png?1662464709" /> </a> <a href="/predl/promgood/furniture/furniture/kitchen/fartuki_dlya_kuhni/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/furniture/furniture/kitchen/fartuki_dlya_kuhni/?utm_page=newmain">Фартуки для кухни</a></p><a href="/predl/promgood/furniture/furniture/kitchen/fartuki_dlya_kuhni/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-4"><a href="/predl/promgood/appliances/ruhonnaja/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st39.stblizko.ru/images/useful_links/000/100/549_original.PNG?1672382211" /> </a> <a href="/predl/promgood/appliances/ruhonnaja/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/appliances/ruhonnaja/?utm_page=newmain">Техника для кухни</a></p><a href="/predl/promgood/appliances/ruhonnaja/?utm_page=newmain"> </a></div>
+
+<div class="col-4"><a href="/predl/promgood/household/crockery/kohonnaiy_posuda/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st29.stblizko.ru/images/product/667/553/961_medium.jpg" /> </a> <a href="/predl/promgood/household/crockery/kohonnaiy_posuda/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/household/crockery/kohonnaiy_posuda/?utm_page=newmain">Посуда и приборы</a></p><a href="/predl/promgood/household/crockery/kohonnaiy_posuda/?utm_page=newmain"> </a></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/furniture/furniture/kitchen/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+
+<div class="col">
+<div class="card">
+<div class="card__header">
+<h4 class="card__header-title"><a href="/predl/promgood/furniture/furniture/mebel_dlja_gostinoj/?utm_page=newmain">Для гостиной</a></h4>
+</div>
+
+<div class="card__body">
+<div class="grid-row-1 d-flex justify-content-around align-items-end">
+<div class="col-4"><a href="/predl/promgood/furniture/furniture/divan/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st39.stblizko.ru/images/useful_links/000/100/552_original.png?1672383154" /> </a> <a href="/predl/promgood/furniture/furniture/divan/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/furniture/furniture/divan/?utm_page=newmain">Мягкая<br />
+мебель</a></p><a href="/predl/promgood/furniture/furniture/divan/?utm_page=newmain"> </a></div>
+
+<div class="col-4"><a href="/predl/promgood/furniture/furniture/mebel_dlja_gostinoj/17399/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st26.stblizko.ru/images/product/513/345/023_medium.jpg" /> </a> <a href="/predl/promgood/furniture/furniture/mebel_dlja_gostinoj/17399/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/furniture/furniture/mebel_dlja_gostinoj/17399/?utm_page=newmain">Стенки</a></p><a href="/predl/promgood/furniture/furniture/mebel_dlja_gostinoj/17399/?utm_page=newmain"> </a></div>
+</div>
+
+<div class="grid-row-2 d-flex justify-content-around align-items-end">
+<div class="col-5"><a href="/predl/promgood/dekor_predmety_interera/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st35.stblizko.ru/images/icons/rubrics/menus/001/411/744_original.jpg" /> </a> <a href="/predl/promgood/dekor_predmety_interera/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/promgood/dekor_predmety_interera/?utm_page=newmain">Декор, предметы интерьера</a></p><a href="/predl/promgood/dekor_predmety_interera/?utm_page=newmain"> </a></div>
+
+<div class="col-5"><a href="/predl/construction/elektrotovary/osveschenie/?utm_page=newmain"><img alt="Картинка товара" class="card__body-img-product" src="https://st52.stblizko.ru/images/product/569/552/456_medium.jpg" /> </a> <a href="/predl/construction/elektrotovary/osveschenie/?utm_page=newmain"> </a>
+<p class="card__description"><a href="/predl/construction/elektrotovary/osveschenie/?utm_page=newmain">Освещение</a></p><a href="/predl/construction/elektrotovary/osveschenie/?utm_page=newmain"> </a></div>
+</div>
+</div>
+
+<div class="card__footer"><a class="card__link" href="/predl/promgood/furniture/furniture/mebel_dlja_gostinoj/?utm_page=newmain">Смотреть больше</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+      crossorigin="anonymous"></script>
+<div class="base-wrapper">
+<div class="offers-list main-page-slider">
+  <div class="mp-header simple-">
+    Акции и скидки
+  </div>
+
+  <div class="vue-carousel-container">
+    <carousel
+      class="ol-container custom-controls"
+      :per-page="2"
+      :navigation-enabled="true"
+      :pagination-enabled="false"
+      navigation-next-label=""
+      navigation-prev-label=""
+    >
+
+      
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1043438-skidka-20-na-chehly-i-stekla-pri-pokupke-smartfona" target="_blank">
+    <div class="oli-pic">
+        <img alt="Скидка 20% на чехлы и стекла при покупке смартфона" class="oli-img js-lazy-load-image" data-src="https://st17.stblizko.ru/images/apress/deals/offer_covers/002/643/360_large.jpg?1676025263" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">RBT.RU Саяногорск, Интернет-магазин бытовой техники и электроники</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">Скидка 20% на чехлы и стекла при покупке смартфона</div>
+        <div class="oli-deadline">До 28 февраля</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        titlr="Распродажа"
+      >
+        20%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+            
+            
+            
+            Распродажа
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1045965-sozday-svoy-ofis-mechty" target="_blank">
+    <div class="oli-pic">
+        <img alt="Создай свой офис мечты" class="oli-img js-lazy-load-image" data-src="https://st17.stblizko.ru/images/apress/deals/offer_covers/002/645/896_large.jpg?1676029307" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">Ситилинк Пятигорск, интернет магазин</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">Создай свой офис мечты</div>
+        <div class="oli-deadline">До 26 октября</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        titlr="Распродажа"
+      >
+        30%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+            
+            
+            
+            Распродажа
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1041296-skidki-40" target="_blank">
+    <div class="oli-pic">
+        <img alt="Скидки 40%" class="oli-img js-lazy-load-image" data-src="https://st17.stblizko.ru/images/apress/deals/offer_covers/002/637/220_large.png?1675779868" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">МВидео Орел</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">Скидки 40%</div>
+        <div class="oli-deadline">До 28 февраля</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        titlr="Распродажа"
+      >
+        40%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+            
+            
+            
+            Распродажа
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1046436-tovary-so-skidkoy" target="_blank">
+    <div class="oli-pic">
+        <img alt="Товары со скидкой" class="oli-img js-lazy-load-image" data-src="https://st48.stblizko.ru/images/apress/deals/offer_covers/002/648/895_large.png?1676893576" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">ООО Вода-лей</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">Товары со скидкой</div>
+        <div class="oli-deadline">До 20 марта</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        title="Скидка"
+      >
+        10%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+                <span class="olit-price">
+                  15 300
+                  руб.
+                </span>
+
+                <span class="olit-price old">
+                  17 050
+                  руб.
+                </span>
+
+            
+            
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1035020-kostyum-skoroy-pomoschi-03-muzhskoy-razmer-52-so-skidkoy" target="_blank">
+    <div class="oli-pic">
+        <img alt="Костюм скорой помощи 03 мужской (размер 52) со скидкой! " class="oli-img js-lazy-load-image" data-src="https://st3.stblizko.ru/images/apress/deals/offer_covers/002/626/377_large.jpg?1673944792" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">Медтехника 78</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">Костюм скорой помощи 03 мужской (размер 52) со скидкой! </div>
+        <div class="oli-deadline">До 30 апреля</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        title="Скидка"
+      >
+        32%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+                <span class="olit-price">
+                  1 700
+                  руб.
+                </span>
+
+                <span class="olit-price old">
+                  2 500
+                  руб.
+                </span>
+
+            
+            
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1046342-stol-100h60-s-yaschikom-venge" target="_blank">
+    <div class="oli-pic">
+        <img alt="Стол 100х60 с ящиком венге" class="oli-img js-lazy-load-image" data-src="https://st48.stblizko.ru/images/apress/deals/offer_covers/002/648/670_large.jpg?1676730845" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">Мебель 812</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">Стол 100х60 с ящиком венге</div>
+        <div class="oli-deadline">До 20 марта</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        title="Скидка"
+      >
+        23%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+                <span class="olit-price">
+                  3 300
+                  руб.
+                </span>
+
+                <span class="olit-price old">
+                  4 300
+                  руб.
+                </span>
+
+            
+            
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+
+
+  <slide>
+    <div class="ol-wrap js-offer-item js-lazy-load-item ">
+      
+  <a class="ol-item " href="https://blizko.ru/deal/1046298-kreslo-kokon-v-podarok" target="_blank">
+    <div class="oli-pic">
+        <img alt="КРЕСЛО-КОКОН  в ПОДАРОК!!!!!!!" class="oli-img js-lazy-load-image" data-src="https://st48.stblizko.ru/images/apress/deals/offer_covers/002/648/523_large.jpg?1676542734" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+    </div>
+
+    <div class="oli-info">
+      <div class="oli-company">Олимпик</div>
+      <div class="oli-info-wrapper">
+        <div class="oli-title">КРЕСЛО-КОКОН  в ПОДАРОК!!!!!!!</div>
+        <div class="oli-deadline">До 28 февраля</div>
+      </div>
+      <div class="oli-type">
+        <div class="olit-label ">
+          <div class="p-ico-wrap">
+    <div class="discount">
+      <div
+        class="text-"
+        title="Скидка"
+      >
+        100%
+      </div>
+    </div>
+</div>
+
+        </div>
+
+        <div class="olit-title-wrap">
+          <div class="olit-title">
+
+                <span class="olit-price">
+                  1
+                  руб.
+                </span>
+
+                <span class="olit-price old">
+                  4 450
+                  руб.
+                </span>
+
+            
+            
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+</a>
+    </div>
+  </slide>
+
+    </carousel>
+  </div>
+
+  <a
+    class="ol-all-offers"
+    href="https://blizko.ru/deals"
+    target="_blank"
+  >
+    Смотреть больше акций и скидок
+  </a>
+</div>
+
+  <div class="recent-products recent-products_custom-root-page">
+    <div class="recent-products__title">
+      Новые товары и услуги
+    </div>
+
+
+    <div class="vue-carousel-container">
+      <carousel
+        class="recent-products__carousel custom-controls"
+        :per-page-custom="[[1100, 5], [900, 4], [700, 3]]"
+        :navigation-enabled="true"
+        :pagination-enabled="false"
+        navigation-next-label=""
+        navigation-prev-label=""
+      >
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461140818-chaynik_lara_lr00_32"
+                target="_blank"
+                title="Чайник LARA LR00-32"
+                rel="false"
+              >
+                <img alt="Чайник LARA LR00-32" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/650/799_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">1 727</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="1727.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461140818-chaynik_lara_lr00_32"
+                  target="_blank"
+                  title="Чайник LARA LR00-32"
+                  rel="false"
+                >
+                  Чайник LARA LR00-32
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461140491-samorez_dlya_sendvich_paneley_hardwex_6_3_5_5kh285mm_tsink_analog_harpoon"
+                target="_blank"
+                title="Саморез для сэндвич-панелей HARDWEX 6.3/5.5х285мм ЦИНК аналог HARPOON"
+                rel="false"
+              >
+                <img alt="Саморез для сэндвич-панелей HARDWEX 6.3/5.5х285мм ЦИНК аналог HARPOON" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/650/390_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">50</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="50.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461140491-samorez_dlya_sendvich_paneley_hardwex_6_3_5_5kh285mm_tsink_analog_harpoon"
+                  target="_blank"
+                  title="Саморез для сэндвич-панелей HARDWEX 6.3/5.5х285мм ЦИНК аналог HARPOON"
+                  rel="false"
+                >
+                  Саморез для сэндвич-панелей HARDWEX 6.3/5.5х285мм ЦИНК аналог HARPOON
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461140399-modulny_shtab_na_stroyploshchadku_6000kh5000mm"
+                target="_blank"
+                title="Модульный штаб на стройплощадку 6000х5000мм"
+                rel="false"
+              >
+                <img alt="Модульный штаб на стройплощадку 6000х5000мм" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/650/278_medium.png" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i class="bp-price fsn"><span class="price-from">от </span><span data-price-type="from">600 000</span></i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="600000.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461140399-modulny_shtab_na_stroyploshchadku_6000kh5000mm"
+                  target="_blank"
+                  title="Модульный штаб на стройплощадку 6000х5000мм"
+                  rel="false"
+                >
+                  Модульный штаб на стройплощадку 6000х5000мм
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461138763-dcke_premium_zaglushka_zheloba_shokolad"
+                target="_blank"
+                title="Döcke PREMIUM Заглушка желоба (Шоколад)"
+                rel="false"
+              >
+                <img alt="Döcke PREMIUM Заглушка желоба (Шоколад)" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/648/113_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">143</i><span class="price-currency"> руб./шт.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="143.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461138763-dcke_premium_zaglushka_zheloba_shokolad"
+                  target="_blank"
+                  title="Döcke PREMIUM Заглушка желоба (Шоколад)"
+                  rel="false"
+                >
+                  Döcke PREMIUM Заглушка желоба (Шоколад)
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461138223-taburet_barny_v_stile_loft_4"
+                target="_blank"
+                title="Табурет барный в стиле Лофт №4"
+                rel="false"
+              >
+                <img alt="Табурет барный в стиле Лофт №4" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/646/538_medium.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i class="bp-price fsn"><span class="price-from">от </span><span data-price-type="from">4 500</span></i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="4500.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461138223-taburet_barny_v_stile_loft_4"
+                  target="_blank"
+                  title="Табурет барный в стиле Лофт №4"
+                  rel="false"
+                >
+                  Табурет барный в стиле Лофт №4
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461064253-nano_nao850950sc_nanovista_ispaniya"
+                target="_blank"
+                title="Nano NAO850950SC Nanovista Испания"
+                rel="false"
+              >
+                <img alt="Nano NAO850950SC Nanovista Испания" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/564/275_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">6 250</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="6250.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461064253-nano_nao850950sc_nanovista_ispaniya"
+                  target="_blank"
+                  title="Nano NAO850950SC Nanovista Испания"
+                  rel="false"
+                >
+                  Nano NAO850950SC Nanovista Испания
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461047617-shlang_rezinovy_armir_trekhsl_morozost_polyagro_gold_platinum_3_4_50m"
+                target="_blank"
+                title="Шланг резиновый армир. трехсл. морозост. Polyagro Gold Platinum 3/4&quot;, 50м"
+                rel="false"
+              >
+                <img alt="Шланг резиновый армир. трехсл. морозост. Polyagro Gold Platinum 3/4&quot;, 50м" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/532/420_medium.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">6 587</i><span class="price-currency"> руб./шт.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="6587.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461047617-shlang_rezinovy_armir_trekhsl_morozost_polyagro_gold_platinum_3_4_50m"
+                  target="_blank"
+                  title="Шланг резиновый армир. трехсл. морозост. Polyagro Gold Platinum 3/4&quot;, 50м"
+                  rel="false"
+                >
+                  Шланг резиновый армир. трехсл. морозост. Polyagro Gold Platinum 3/4&quot;, 50м
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461043818-teploventilyator_nastenny_electrolux_efh_w_7020"
+                target="_blank"
+                title="Тепловентилятор настенный Electrolux EFH/W-7020"
+                rel="false"
+              >
+                <img alt="Тепловентилятор настенный Electrolux EFH/W-7020" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/522/877_medium.png" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">6 990</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="6990.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461043818-teploventilyator_nastenny_electrolux_efh_w_7020"
+                  target="_blank"
+                  title="Тепловентилятор настенный Electrolux EFH/W-7020"
+                  rel="false"
+                >
+                  Тепловентилятор настенный Electrolux EFH/W-7020
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461042636-komplekt_v_krovatku_podushkami_multyashki_slonenok"
+                target="_blank"
+                title="Комплект в кроватку подушками Мультяшки Слоненок"
+                rel="false"
+              >
+                <img alt="Комплект в кроватку подушками Мультяшки Слоненок" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/520/832_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">5 000</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="5000.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461042636-komplekt_v_krovatku_podushkami_multyashki_slonenok"
+                  target="_blank"
+                  title="Комплект в кроватку подушками Мультяшки Слоненок"
+                  rel="false"
+                >
+                  Комплект в кроватку подушками Мультяшки Слоненок
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461041987-sdacha_v_arendu_torgovoye_pomeshcheniye_ploshchad_93_1_kv_m_vysota_potolkov_3_1"
+                target="_blank"
+                title="Сдача в аренду, торговое помещение, площадь 93.1 кв.м., высота потолков 3.1"
+                rel="false"
+              >
+                <img alt="Сдача в аренду, торговое помещение, площадь 93.1 кв.м., высота потолков 3.1" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st18.stblizko.ru/images/product/758/409/960_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">186 199</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="186199.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461041987-sdacha_v_arendu_torgovoye_pomeshcheniye_ploshchad_93_1_kv_m_vysota_potolkov_3_1"
+                  target="_blank"
+                  title="Сдача в аренду, торговое помещение, площадь 93.1 кв.м., высота потолков 3.1"
+                  rel="false"
+                >
+                  Сдача в аренду, торговое помещение, площадь 93.1 кв.м., высота потолков 3.1
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461039896-shina_champion_13_952915"
+                target="_blank"
+                title="Шина CHAMPION 13&quot;, 952915"
+                rel="false"
+              >
+                <img alt="Шина CHAMPION 13&quot;, 952915" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st48.stblizko.ru/images/product/806/504/174_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">520</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="520.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461039896-shina_champion_13_952915"
+                  target="_blank"
+                  title="Шина CHAMPION 13&quot;, 952915"
+                  rel="false"
+                >
+                  Шина CHAMPION 13&quot;, 952915
+                </a>
+              </div>
+            </div>
+          </slide>
+
+          <slide>
+            <div class="recent-products__item js-lazy-load-item">
+              <a
+                class="recent-products__link recent-products__link_image"
+                href="https://blizko.ru/products/461036536-prodayetsya_kladovaya_ploshchadyu_3_3_kv_m_vysota_potolkov_3_0_m_na_1_urovne"
+                target="_blank"
+                title="Продается кладовая площадью 3.3 кв.м., высота потолков 3.0 м на -1 уровне"
+                rel="false"
+              >
+                <img alt="Продается кладовая площадью 3.3 кв.м., высота потолков 3.0 м на -1 уровне" itemprop="image" class="recent-products__image js-lazy-load-image" data-src="https://st39.stblizko.ru/images/product/781/614/108_medium.jpg" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+              </a>
+
+              <div class="recent-products__content">
+                <div class="recent-products__price">
+                  <i data-price-type="exact" class="bp-price fsn">299 970</i><span class="price-currency"> руб.</span><meta itemprop="priceCurrency" content="RUB"><meta itemprop="price" content="299970.0">
+                </div>
+                <a
+                  class="recent-products__link recent-products__link_title"
+                  href="https://blizko.ru/products/461036536-prodayetsya_kladovaya_ploshchadyu_3_3_kv_m_vysota_potolkov_3_0_m_na_1_urovne"
+                  target="_blank"
+                  title="Продается кладовая площадью 3.3 кв.м., высота потолков 3.0 м на -1 уровне"
+                  rel="false"
+                >
+                  Продается кладовая площадью 3.3 кв.м., высота потолков 3.0 м на -1 уровне
+                </a>
+              </div>
+            </div>
+          </slide>
+      </carousel>
+    </div>
+  </div>
+
+</div>
+<meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+<style type="text/css">body {
+      font-family: 'Arial', sans-serif;
+   }
+
+   p {
+      margin: 0;
+   }
+
+   a {
+      text-decoration: none;
+      color: #000000;
+   }
+
+   a:hover {
+      text-decoration: none;
+      color: #000000;
+   }
+
+   .container-fluid {
+      max-width: 1200px;
+   }
+
+   /* articles-desktop  */
+   .articles-desktop {
+      padding-top: 50px;
+      padding-bottom: 50px;
+   }
+
+   .articles-title {
+      margin-bottom: 30px;
+      font-size: 24px;
+      text-align: center;
+   }
+
+   .news {
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: auto;
+      grid-gap: 20px;
+      grid-template-columns: minmax(auto, 550px) minmax(auto, 310px) minmax(auto, 300px);
+   }
+
+   .card-news {
+      text-decoration: none;
+      border: 1px solid #d4d4d4;
+      background: #ffffff;
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      border-radius: 0 0 6px 6px;
+      transition: all .1s ease-in;
+      cursor: pointer;
+   }
+
+   .card-news:hover {
+      box-shadow: 0px 15px 50px rgb(0 0 0 / 13%);
+   }
+
+   .card-news-body {
+      padding: 20px 20px 20px 20px;
+
+   }
+
+   .card-footer-link {
+      font-size: 12px;
+      color: #0088cc;
+      margin: 30px 0 0 0;
+   }
+
+   .card-footer-link:hover {
+      color: #004d73;
+      text-decoration: underline;
+   }
+
+   .card-news__image {
+      padding-bottom: 40%;
+      background-size: cover;
+      background-position: center center;
+   }
+
+
+   .item-3 {
+      display: grid;
+   }
+
+   .item-4 {
+      margin-top: 20px;
+   }
+
+   .card-footer-arrow {
+      width: 25px;
+      height: 21px;
+      display: block;
+      opacity: 0;
+      transition: all 0.5s ease;
+   }
+
+   .card-news:hover .card-footer-arrow {
+      opacity: 1;
+   }
+
+   .card-news-body__text {
+      margin-bottom: 10px;
+   }
+
+   .card-news-body__title {
+      margin: 0 0 10px 0;
+      font-size: 20px;
+      font-weight: 600;
+   }
+
+   /* articles-desktop end */
+
+
+   /* Small: 576px - 767px */
+   @media (max-width: 767px) {
+      .news {
+         grid-template-columns: repeat(1, 1fr);
+      }
+   }
+
+   /* breakpoint: 0px (320px) - 450px */
+   @media (max-width: 450px) {
+
+      .card-footer-link {
+         font-size: 14px;
+      }
+
+      .card-news__image {
+         display: none;
+      }
+
+      .card-news-body__text {
+         display: none;
+      }
+   }
+</style>
+<section class="articles-desktop" id="articles-desktop">
+<div class="container-fluid">
+<h2 class="articles-title">Полезные статьи</h2>
+
+<div class="news">
+<div class="item-1"><a class="card-news" href="/sellers/articles/fence_as_art/?utm_page=newmain">
+<div class="card-news__image" style="background-image: url(https://st48.stblizko.ru/images/useful_links/000/101/013_original.PNG?1676360766);"></div>
+
+<div class="card-news-body">
+<div>
+<h4 class="card-news-body__title">Превращаем забор из профнастила в произведение искусства своими руками!</h4>
+
+<p class="card-news-body__text">Хотите похвастаться перед друзьями своими умениями и стать тем самым Мужем с Золотыми Руками? Мы знаем прекрасную идею как этого добиться, а заодно обновить скучный забор!</p>
+<p class="card-news-body__text">Забор должен защитить от взглядов, шума и пыли, быть прочным, простым в установке и уходе. И это идеальный набор качеств для профнастила.</p>
+<p class="card-news-body__text">Секрет кроется в колоннах между секциями! Колонны из природного камня или кирпича в мгновенно задают вашему забору совершенно новый уровень восприятия.</p>
+<span style="font-size: 12px; color: #969696; margin-top: 10px;">14.02.2023</span></div>
+
+<div class="card-news-footer" style="display: flex; justify-content: space-between;
+                     align-items: flex-end;"><span class="card-footer-link">Читать больше</span> <img class="card-footer-arrow" src="https://st21.stblizko.ru/images/useful_links/000/099/565_original.png?1663327376" /></div>
+</div>
+</a></div>
+<div class="item-2"><a class="card-news" href="/sellers/articles/screwdrivers/?utm_page=newmain">
+<div class="card-news-body">
+<h4 class="card-news-body__title">Недорогие шуруповерты для ледобура: обзор 4 лучших моделей</h4>
+
+<p class="card-news-body__text">Разбираемся, какой шуруповерт купить для ледобура, чтобы перестать долго возиться с лункой.</p>
+<p class="card-news-body__text">Представляем вашему вниманию четыре современные модели, которые имеют бесщеточные двигатели, что явно упрощает обслуживание и снижает риск появления загрязнений.</p>
+<p class="card-news-body__text">Данные варианты шуруповерта отличаются высокой производительностью.</p>
+<span style="font-size: 12px; color: #969696; margin-top: 10px;">13.02.2023</span>
+
+<div style="display: flex; justify-content: space-between;
+                  align-items: flex-end;"><span class="card-footer-link">Читать больше</span> <img class="card-footer-arrow" src="https://st21.stblizko.ru/images/useful_links/000/099/565_original.png?1663327376" /></div>
+</div>
+
+<div class="card-news__image" style="background-image: url(https://st48.stblizko.ru/images/useful_links/000/101/015_original.png?1676365246);border-radius: 0 0 6px 6px;"></div>
+</a></div>
+
+<div class="item-3"><a class="card-news" href="/sellers/articles/quartz-vinyl/?utm_page=newmain">
+<div class="card-news__image" style="background-image: url(https://st3.stblizko.ru/images/useful_links/000/100/702_original.PNG?1674042184);"></div>
+
+<div class="card-news-body">
+<h4 class="card-news-body__title">Недорогой неубиваемый пол. И это точно не линолеум</h4>
+<span style="font-size: 12px; color: #969696; margin-top: 10px;">18.01.2023</span>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-end;"><span class="card-footer-link">Читать больше</span> <img class="card-footer-arrow" src="https://st21.stblizko.ru/images/useful_links/000/099/565_original.png?1663327376" /></div>
+</div>
+</a>
+
+<div class="item-4"><a class="card-news" href="/sellers/articles/furniture/?utm_page=newmain">
+<div class="card-news__image" style="background-image: url(https://st47.stblizko.ru/images/useful_links/000/099/552_original.jpg?1663152447);"></div>
+
+<div class="card-news-body">
+<h4 class="card-news-body__title">7 способов реставрации старой мебели</h4>
+<span style="font-size: 12px; color: #969696; margin-top: 10px;">01.10.2022</span>
+
+<div style="display: flex; justify-content: space-between;
+                        align-items: flex-end;"><span class="card-footer-link">Читать больше</span> <img class="card-footer-arrow" src="https://st21.stblizko.ru/images/useful_links/000/099/565_original.png?1663327376" /></div>
+</div>
+</a></div>
+</div>
+</div>
+</div>
+</section>
+<script>
+  app.config.isMainPage = true;
+</script>
+</div>
+
+
+
+</div>
+      
+<footer class="portal-footer js-stop-stick js-footer">
+  <div class="portal-footer__wrapper base-wrapper wrapper">
+    
+
+
+      
+  <style type="text/css">
+  .portal-footer__links {
+    margin: 12px 10px 0;
+    display: flex;
+    gap: 140px;
+  }
+  .portal-footer__column-2 {
+    width: auto;
+  }
+
+  .portal-footer__column-2-2 {
+    width: auto;
+    display: flex;
+  }
+
+  .portal-footer__column-open-space {
+    flex: 1 1 auto;
+  }
+
+  .portal-footer__qr-border {
+    width: 335px;
+    border: 1px solid #d2d2d2;
+    border-radius: 10px;
+    padding: 10px;
+
+    font-size: 13px;
+    color: #3d3d3d;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .portal-footer__list-title {
+    display: inline-block;
+    color: var(--black-l33);
+    font: var(--body2-optimal);
+    font-weight: 700;
+    margin: 5px 0 10px;
+  }
+  .portal-footer__list-title-center {
+    display: block;
+    text-align: center;
+  }
+
+  .portal-footer__links-list,
+  .portal-footer__links-social-list {
+    margin: 20px 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .portal-footer__links-social-list {
+    display: flex;
+  }
+
+  .portal-footer__links-list ul {
+    padding: 0 0 0 10px;
+  }
+  .portal-footer__links-list ul li::before {
+    content: "-";
+    position: relative;
+    left: -8px;
+  }
+
+  .portal-footer__link {
+    color: #3d3d3d;
+    text-decoration: none;
+    transition: 0.3s;
+    transition-property: color;
+  }
+  .portal-footer__polis-link {
+    font-size: 13px;
+    color: var(--blue);
+    text-decoration: none;
+  }
+  .portal-footer__polis-link:hover {
+    color: var(--blue);
+  }
+  .portal-footer__link:hover {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  .portal-footer__qr-code {
+    display: flex;
+    gap: 15px;
+  }
+
+  .portal-footer__qr-code img {
+    min-width: 130px;
+    max-width: 150px;
+  }
+  .portal-footer__social-icon {
+    margin-right: 10px;
+  }
+
+  .portal-footer__item {
+    display: flex;
+    align-items: start;
+    font-size: var(--body2-optimal);
+    line-height: 18px;
+    margin-bottom: 10px;
+  }
+
+  .portal-footer__item-icon {
+    line-height: 25px;
+    padding-right: 10px;
+    color: rgba(0, 0, 0, 0);
+    -webkit-filter: grayscale(1);
+    filter: gray;
+    filter: grayscale(1);
+  }
+
+  .portal-footer__item-icon:hover {
+    color: rgba(0, 0, 0, 0);
+    -webkit-filter: none;
+    filter: none;
+    filter: none;
+  }
+
+  .footer-btn-list-marketing {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 6px;
+    transition: 0.5s;
+    transition-property: background, color;
+    text-decoration: none;
+  }
+
+  .btn-orange {
+    background: #ff6600;
+  }
+  .btn-orange:hover {
+    color: #d4d4d4;
+    text-decoration: none;
+    background: #f3680b;
+  }
+
+  .btn-blue {
+    background: #0088cc;
+  }
+  .btn-blue:hover {
+    color: #d4d4d4;
+    text-decoration: none;
+    background: rgb(8, 126, 185);
+  }
+
+  .portal-footer__hr {
+    margin: 20px 0;
+    border-color: #d2d2d2;
+    border-style: solid;
+  }
+
+  .portal-footer__customer-info p {
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 13px;
+    line-height: 18px;
+    color: #494949;
+  }
+</style>
+<hr class="portal-footer__hr" />
+<div class="portal-footer__links">
+  <div class="portal-footer__column-2">
+    <h3 class="portal-footer__list-title">Для покупателей</h3>
+
+    <ul class="portal-footer__links-list">
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/sellers/company"
+          >О нас</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/predl"
+          >Товары и услуги</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/deals"
+          >Акции и скидки</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/streets"
+          >Улицы города</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/opinion"
+          >Задать вопрос</a
+        >
+      </li>
+    </ul>
+
+    <ul class="portal-footer__links-social-list">
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link portal-footer__item-icon"
+          href="https://dzen.ru/blizkodom"
+          target="_blank"
+          title="Стройка и ремонт"
+        >
+          <img
+            src="https://st40.stblizko.ru/images/useful_links/000/100/711_original.png?1674210368"
+            alt=""
+        /></a>
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link portal-footer__item-icon"
+          href="https://dzen.ru/blizko"
+          target="_blank"
+          title="Уютный дом "
+          ><img
+            src="https://st40.stblizko.ru/images/useful_links/000/100/712_original.png?1674210431"
+            alt=""
+        /></a>
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link portal-footer__item-icon"
+          href="https://t.me/blizkoclub"
+          target="_blank"
+          title="Уютный дом BLIZKO Telegram"
+          ><img
+            src="https://st17.stblizko.ru/images/useful_links/000/100/975_original.png?1676023328"
+            alt=""
+        /></a>
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link portal-footer__item-icon"
+          href="https://vk.ru/blizkoclub"
+          target="_blank"
+          title="Уютный дом BLIZKO VK"
+          ><img
+            src="https://st40.stblizko.ru/images/useful_links/000/100/713_original.png?1674210479"
+            alt=""
+        /></a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="portal-footer__column-2">
+    <h3 class="portal-footer__list-title">Для продавцов</h3>
+
+    <ul class="portal-footer__links-list">
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/sellers/?area=footer_desktop"
+          >Как продавать на BLIZKO</a
+        >
+      </li>
+      <li>
+        <ul>
+          <li class="portal-footer__item">
+            <a
+              class="portal-footer__link js-dropdown-list-marketing"
+              href="https://blizko.ru/sellers/start_of_online_sales/?area=footer_desktop"
+              >Старт интернет-продаж</a
+            >
+          </li>
+          <li class="portal-footer__item">
+            <a
+              class="portal-footer__link js-dropdown-list-marketing"
+              href="https://blizko.ru/sellers/internet_sales_growth/?area=footer_desktop"
+              >Рост интернет-продаж</a
+            >
+          </li>
+        </ul>
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/sellers/reklama/?area=footer_desktop"
+          >Прайс-лист на BLIZKO</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/sellers/response/?area=footer_desktop"
+          >Отзывы наших клиентов</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link js-dropdown-list-marketing"
+          href="https://blizko.ru/sellers/create_a_website?link=true&amp;type=madesite"
+          >Создать сайт на BLIZKO</a
+        >
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="footer-btn-list-marketing js-dropdown-list-marketing btn-blue"
+          href="https://blizko.ru/company_wizard/new?link=true&amp;type=addcompany"
+          >Зарегистрировать компанию</a
+        >
+      </li>
+    </ul>
+
+    <ul class="portal-footer__links-social-list">
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link portal-footer__item-icon"
+          href="https://vk.ru/blizkobusiness"
+          target="_blank"
+          title="BLIZKO для бизнеса"
+          ><img
+            src="https://st40.stblizko.ru/images/useful_links/000/100/713_original.png?1674210479"
+            alt=""
+        /></a>
+      </li>
+      <li class="portal-footer__item">
+        <a
+          class="portal-footer__link portal-footer__item-icon"
+          href="https://tenchat.ru/blizko"
+          target="_blank"
+          title="Портал BLIZKO"
+          ><img
+            src="https://st40.stblizko.ru/images/useful_links/000/100/715_original.png?1674210507"
+            alt=""
+        /></a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="portal-footer__column-open-space"></div>
+
+  <div class="portal-footer__column-2 portal-footer__qr-border">
+    <h3 class="portal-footer__list-title portal-footer__list-title-center">
+      В приложении удобней
+    </h3>
+
+    <div class="portal-footer__qr-code">
+      <img
+        alt=""
+        src="https://st40.stblizko.ru/images/useful_links/000/100/716_original.png?1674210544"
+      /><img
+        alt=""
+        src="https://st40.stblizko.ru/images/useful_links/000/100/717_original.png?1674210577"
+      />
+    </div>
+
+    <p>Наведите камеру и скачайте бесплатное приложение</p>
+  </div>
+</div>
+
+<div class="portal-footer__customer-info">
+  <hr class="portal-footer__hr" />
+  <div class="portal-footer__customer-info-text">
+    <p>
+      BLIZKO.RU - портал товаров и услуг, мы не являемся интернет-магазином.
+    </p>
+    <p>
+      Напрямую с продавцом вы можете связаться любым удобным способом по
+      контактным данным, которые указаны справа в карточке товара.
+    </p>
+  </div>
+
+  <hr class="portal-footer__hr" />
+  <a
+    class="portal-footer__link portal-footer__polis-link js-dropdown-list-marketing"
+    href="https://www.blizko.ru/privacy_policy"
+    >Политика конфиденциальности</a
+  >
+</div>
+
+
+
+      <div class="portal-footer__row">
+          <div class="portal-footer__column">
+            <div class="portal-footer__regional-office-contacts">
+              <ul>
+	<li><span itemprop="name">Россия BLIZKO</span></li>
+	<li><span itemprop="postalCode">620014</span>,&nbsp;<span itemprop="addressLocality">Екатеринбург</span>,&nbsp;</li>
+	<li><span itemprop="streetAddress">ул. Добролюбова, 16, оф. 304</span></li>
+	<li class="footer-email"><a href="mailto:spravka@blizko.ru">spravka@blizko.ru</a></li>
+	<li class="ООО Адверта-ЕК">ООО &quot;Адверта-ЕК&quot;</li>
+</ul>
+
+            </div>
+          </div>
+
+        <noindex>
+          
+        </noindex>
+        <div class="portal-footer__column">
+          <span class="portal-footer__age-limit">
+            16+
+          </span>
+
+            <button
+              type="button"
+              class="portal-footer__mobile-switcher js-toggle-version"
+              data-mobile="1"
+            >
+              Мобильная версия сайта
+            </button>
+        </div>
+      </div>
+
+  </div>
+</footer>
+
+  
+  
+  <div class="js-subscriptions-popup"></div>
+
+
+
+<div class="js-dialog-popup-box"></div>
+<div class="dialog-popup" id="portal-popup">
+<a class="rp-close hidden-text" href="#">
+<span class="close-popup-icon">Закрыть</span>
+</a>
+<div class="pp-content" id="pp-content-popup"></div>
+</div>
+<div class="cover-all"></div>
+<div class="dialog-popup hidden" id="popup-container">
+<div class="p-close js-p-close" id="popup-close"></div>
+<div class="p-body">
+<div class="p-pad" id="popup-content"></div>
+</div>
+</div>
+<div class="popup-content hidden" id="reset-password">
+<div class="auth-popup">
+<div class="header-">Смена пароля</div>
+<div class="text-">Мы вышлем вам на почту ссылку для изменения пароля.</div>
+<form onsubmit="formSubmitter.disableButtons(this, null, null);" action="https://blizko.ru/users/password" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4R6j1zfjFy5D14XRvVBfcz3rN7pGEIbimBXyE4J4J5eSyW476LKa75JfENaxQ7VD+YMfsrn9RydVmfKP3CHSfA==" /><fieldset class="str">
+<label for="password_email">e-mail:</label>
+<input type="text" name="password[email]" id="password_email" />
+
+</fieldset>
+<fieldset class="subm">
+<input class="pt-button" id="password_submit" name="commit" type="submit" value="Отправить">
+<a class="js-go-to dashed enter js-open-auth-popup" data-to="#">Войти</a>
+</fieldset>
+</form>
+</div>
+</div>
+
+
+
+<script>
+  app.utils.extendApp({
+    'app.config.authComponent.wrappers.static': {
+      'deals-subscription-in-popup': {
+        simpleRegistration: true,
+        withoutSpinner: true,
+        orientation: 'vertical',
+        containerName: 'dealsSubscriptionInPopup',
+        fields: {
+          set: ['email'],
+          hiddenByDefault: ['password'],
+          inline: true,
+        },
+      },
+    },
+  });
+</script>
+  <script>
+  app.utils.extendApp({
+    'app.config': {
+      jobStatusURL: "https://blizko.ru/_job_",
+      istorageIframeURL: "https://blizko.ru/istorage",
+      isTouchDevice: false
+    },
+    'app.config.api': {
+      validationURL: "https://blizko.ru/api/v1/validation"
+    },
+  });
+</script>
+
+  <script>
+  app.utils.extendApp({
+    'app.config': {
+      crossDomainAuth: false,
+      isUserSigned: false,
+      currentUser: {},
+      socialNetworkProviders: ["vkontakte","facebook","odnoklassniki","mailru_oauth2","google_oauth2","yandex"],
+      omniauthAuthorizeURL: "https://blizko.ru/auth/_provider_?return_to=https%3A%2F%2Fblizko.ru%2F",
+      newOmniauthAuthorizeURL: "https://blizko.ru/auth/_provider_",
+      usersSessionURL: "https://blizko.ru/users/session",
+      usersRegistrationURL: "https://blizko.ru/users",
+      crossDomainIframe: "https://blizko.ru/crossdomain_authentication",
+      ssoUsersSessionRequestURL: "https://blizko.ru/users/session/request",
+      ssoUsersSessionHandleSigninURL: "https://blizko.ru/users/session/handle_signin",
+    },
+    'app.config.api': {
+      passwordURL: "https://blizko.ru/api/v1/users/password?return_to=https%3A%2F%2Fblizko.ru%2F",
+      usersURL: "https://blizko.ru/api/v1/users",
+      updateUserURL: "https://blizko.ru/api/v1/users/_id_",
+      authCodeURL: "https://blizko.ru/api/v1/users/auth_code",
+      mergesURL: "https://blizko.ru/api/v1/users/merges",
+      userSocialProviderURL: "https://blizko.ru/api/v1/users/social_providers/_provider_",
+      oauthStateURL: "https://blizko.ru/api/v1/auth/state/_oauth_id_",
+    },
+    'app.config.api.errorMessages': {
+      401: "Неверный логин или пароль",
+      403: "Неверный логин или пароль"
+    },
+    'app.config.validation.user': {
+      nameRegExpTemplate: "^[A-ZА-ЯЁ\\s\\.\\-]*[A-ZА-ЯЁ]+[A-ZА-ЯЁ\\s\\.\\-]*$",
+      nameWithAllowedSymbolsRegExpTemplate: "^[A-ZА-ЯЁ\\s\\.-]+$",
+      nameWithDisallowedSymbolsRegExpTemplate: "^[-\\.\\s]+$",
+      emailRegExpTemplate: "^[a-zа-яё0-9\\-_]+(?:\\.[a-zа-яё0-9\\-\\._]+)*@(?:[a-zа-яё0-9](?:[a-zа-яё0-9-]*[a-zа-яё0-9])?\\.)+[a-zа-яё0-9](?:[a-zа-яё0-9-]*[a-zа-яё0-9])?$",
+      passwordRegExpTemplate: '.{4,}',
+    },
+  });
+</script>
+
+
+  <script>
+  app.utils.extendApp({
+    'app.config.api': {
+      customerAppealURL: "https://blizko.ru/api/v1/customer/appeal",
+      customerOrdersURL: "https://blizko.ru/api/v1/customer/orders",
+      customerOrdersMessagesURL: "https://blizko.ru/api/v1/customer/orders/_id_/messages",
+      customerOrderUpdatedAtURL: "https://blizko.ru/api/v1/customer/orders/_id_/updated_at",
+      sellerOrdersURL: "https://blizko.ru/api/v1/seller/orders",
+      customerOrdersDraftsUrl: "https://blizko.ru/api/v1/customer/orders/drafts",
+      messengerSubscriptionsUrl: "https://blizko.ru/api/v1/messenger_subscriptions"
+    },
+    'app.config': {
+      getOrderPopupURLs: {
+        product: "https://blizko.ru/cosmos_client/product_orders/new",
+        message: "https://blizko.ru/cosmos_client/message_orders/new",
+        tender: "https://blizko.ru/cosmos_client/tender_orders/new"
+      },
+      orderMinTotalMessages: {
+        minTotalMessage: "Минимальная сумма заказа: _total_",
+        infoMessage: "Сумма меньше минимальной",
+        blockingMessage: "Минимальная сумма для заказа _total_\n Измените количество, чтобы оформить заказ"
+      },
+      minQuantityMessages: {
+        minQuantityMessage: "Минимальное кол-во для заказа: _min_qty_",
+        infoMessage: "Количество товара меньше минимального."
+      }
+    }
+  });
+</script>
+
+  
+<script>
+  app.utils.extendApp({
+    'app.config.api': {
+      customerCartCartItemsURL: "https://blizko.ru/api/v1/customer/cart/items",
+      customerCartCartItemURL: "https://blizko.ru/api/v1/customer/cart/items/_id_",
+      customerCartOrderPlaceURL: "https://blizko.ru/api/v1/customer/cart/orders/_id_/place",
+      customerCartURL: "https://blizko.ru/api/v1/customer/cart",
+      customerCartOrdersURL: "https://blizko.ru/api/v1/customer/cart/orders",
+      customerCartRegionsURL: "https://blizko.ru/api/v1/regions?country_iso_code=RU&region_types%5B%5D=city&region_types%5B%5D=country&sort=by_name",
+    },
+    'app.config': {
+      customerOrderURL: "https://blizko.ru/dashboard/customer/orders/_id_",
+    }
+  })
+</script>
+
+
+  <script>
+  app.config.authComponent = {
+    data: {
+      messages: {
+        invalidPasswordErrorMessage: "Пароль должен содержать не менее 4 символов"
+      },
+      sendSmsWithPassword: false,
+      restoreText: {
+        prefix: {
+          byPhone: "Профиль с таким телефоном существует, если вы забыли пароль,",
+          byMail: "Профиль с таким e-mail существует, если вы забыли пароль,"
+        },
+        email: "Восстановить пароль через email",
+        sms: "Восстановить пароль по sms",
+        email_short: "<span class=\"password-restore-link\">восстановите его по email</span>",
+        sms_short: "<span class=\"password-restore-link\">восстановите его по sms</span>"
+      }
+    },
+    content: {
+      signIn: {
+        title: "Вход",
+        buttonText: "Войти"
+      },
+      signUp: {
+        title: "Регистрация",
+        tip: "Нажимая «%buttonText%», вы даете согласие на обработку персональных данных в соответствии с <a href=\"https://blizko.ru/privacy_policy\" class=\"terms-link aui-link\" target=\"_blank\">политикой конфиденциальности</a> и принимаете условия <a href=\"https://blizko.ru/terms\" class=\"terms-link aui-link\" target=\"_blank\">пользовательского соглашения</a>.\n",
+        buttonText: "Зарегистрироваться"
+      },
+      common: {
+        title: "Регистрационные данные",
+        tip: "Нажимая «%buttonText%», вы даете согласие на обработку персональных данных в соответствии с <a href=\"https://blizko.ru/privacy_policy\" class=\"terms-link aui-link\" target=\"_blank\">политикой конфиденциальности</a> и принимаете условия <a href=\"https://blizko.ru/terms\" class=\"terms-link aui-link\" target=\"_blank\">пользовательского соглашения</a>.\n",
+        buttonText: "Отправить"
+      }
+    },
+    wrappers: {
+      dynamic: {},
+      static: {}
+    },
+    authCodeRecaptchaEnabled: false
+  };
+</script>
+
+
+      <script src="https://stblizko.ru/assets/package/desktop/portal/base-7b6c457704433b7fbcf153e5421f4df3.js" defer="defer"></script>
+
+
+
+    <script src="https://stblizko.ru/assets/packs/blizko/assets/common-bbfe6b735b0424cbce72.js" defer="defer"></script>
+    <script src="https://stblizko.ru/assets/packs/blizko/assets/desktop/base-a746b8b3f43ef299e5ae.js" defer="defer"></script>
+    <script src="https://stblizko.ru/assets/packs/blizko/assets/desktop/portal/base-bf2b59fd0580d064860b.js" defer="defer"></script>
+
+    
+
+<script src="https://stblizko.ru/assets/packs/blizko/assets/desktop/portal/root-5ce7e2fbea4182828ceb.js" defer="defer"></script>
+<script src="https://stblizko.ru/assets/packs/blizko/assets/desktop/root_index-53cd638f2724f27f24d6.js" defer="defer"></script>
+<script src="https://stblizko.ru/assets/package/treeview-73b08733a971b3135d0e5f74cc25e208.js" defer="defer"></script>
+<script src="https://stblizko.ru/assets/standalone/notifications_form-2e064962c6a6812f59c03cae136808c3.js" defer="defer"></script>
+  <script src="https://stblizko.ru/assets/standalone/google_events/portal_footer-0bde5ca0a2ddd694083b0203b661da08.js" defer="defer"></script>
+
+  <script>
+    app.config.googleAnalytics.addProductsType = false;
+  </script>
+    <script src="https://stblizko.ru/assets/standalone/analytics-a4335e2cfa27945427e8dea28744b7e1.js" defer="defer"></script>
+
+<script>
+  app.modules.main = app.modules.main || {};
+  app.modules.main.load = function() {
+    ga(
+     'blizkoru.send',
+     'event', 
+     'Действия_ЧИТАТЕЛЯ _Скидки_ГНОМС',
+     '01_Показы_Скидки_ГНОМС',
+     '01_Показы_СК_ГН');
+  
+  
+    
+  };
+</script>
+
+
+<script>
+  window.app.i18n || (window.app.i18n = {});
+  
+  window.app.i18n['apress_recaptcha.bot_detected_popup.close_button'] = "Закрыть";
+  
+  app.config.apressRecaptcha = {
+    url: "https://blizko.ru/api/v1/recaptcha/verify",
+    siteKey: "6Lf-cb0ZAAAAACmaIslsnAvHtVjmrkEObjEQ46vp",
+    minScoreValue: 0.1,
+    delay: 1000,
+    action: "/",
+    botPopupTextZone: ""
+  };
+</script>
+
+<script>
+  window.app.i18n || (window.app.i18n = {});
+
+  window.app.i18n['old_browser.title'] = "Обратите внимание";
+  window.app.i18n['old_browser.description_ie'] = "В браузере Internet Explorer могут возникать ошибки при работе с порталом.";
+  window.app.i18n['old_browser.suggest_install'] = "Для корректного отображения содержимого сайта установите новую версию одного из браузеров:";
+  window.app.i18n['old_browser.description_other_browser'] = "Похоже, ваш браузер пора обновить, чтобы не было ошибок при работе с порталом.";
+  window.app.i18n['old_browser.update'] = "Обновить";
+</script>
+
+<script>
+  window.app.i18n || (window.app.i18n = {});
+
+  window.app.i18n['searching_result.title'] = " в товарах и услугах:";
+  window.app.i18n['searching_result.search'] = "Искать ";
+  window.app.i18n['searching_result.you_searched'] = "Вы искали: ";
+  window.app.i18n['searching_result.clear_history'] = "Очистить историю";
+</script>
+
+  <script>
+    // LiveInternet
+    window.addEventListener('load', function() {
+      counter = new Image();
+      counter.src = "//counter.yadro.ru/hit;SpraBliz?r"+
+      escape(document.referrer)+((typeof(screen)=="undefined")?"":
+      ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+      screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+      ";h"+escape(document.title.substring(0,150))+
+      ";"+Math.random();
+    });
+    // LiveInternet/
+  </script>
+
+<!-- Rating Mail.ru counter -->
+  <script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "1384452", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+      if (d.getElementById(id)) return;
+      var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+      ts.src = "https://top-fwz1.mail.ru/js/code.js";
+      var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+      w.addEventListener("load", f, false);
+    })(document, window, "topmailru-code");
+  </script>
+  <noscript>
+    <div>
+      <img src="https://top-fwz1.mail.ru/counter?id=1384452;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+    </div>
+  </noscript>
+<!-- //Rating Mail.ru counter -->
+
+
+</body>
+</html>

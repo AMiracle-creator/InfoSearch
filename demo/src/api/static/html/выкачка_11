@@ -1,0 +1,2616 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="3eWpJs5I4QTNR2dSVqS3Y1gumaPu3t2-5yMmp379RdKWg-9QizmOY6kxFiM-zc01HGj--6efkIypb27vDMlynA==">
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#c80f14"/>
+    <meta name="referrer" content="origin">
+    <meta name="mobile-web-app-capable" content="yes">
+    <title>Новости Уссурийска и Приморья - UssurMedia</title>
+
+    <meta property="fb:app_id" content="1850104121934505">
+<meta name="description" content="информационное агентство, UssurMedia, новости Уссурийска, новости дня">
+<meta name="Keywords" content="информационное агентство, UssurMedia, новости Уссурийска, новости дня">
+<meta name="og:description" content="информационное агентство, UssurMedia, новости Уссурийска, новости дня">
+<meta name="Author" content="UssurMedia">
+<meta name="og:url" content="https://ussurmedia.ru/">
+<meta name="og:type" content="article">
+<meta name="og:image" content="https://primamediamts.servicecdn.ru/f/placeholder.jpg">
+<meta name="og:title" content="Новости Уссурийска и Приморья - UssurMedia">
+<link href="https://ussurmedia.ru/media/css/voice.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/w_chat.css" rel="stylesheet">
+<link href="/assets/40aba778/css/bootstrap.css?v=1566966452" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/thisDay.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/shareWithUs.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/main.min.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/style.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/component.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/jquery.mCustomScrollbar.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/jquery.mmenu.all.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/before-after.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/current-weather.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/currencies.css" rel="stylesheet">
+<link href="https://ussurmedia.ru/media/css/subscribe_form.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>    <!-- Google fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,600italic,400italic,800,800italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+    <link href='/media/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+    <link href='/media/css/jquery.updown.css' rel='stylesheet' type='text/css'>
+    <link rel="manifest" href="/manifests/manifest-117.json">
+
+    
+    <link rel="stylesheet" media="only screen and (max-device-width: 740px)" href="https://ussurmedia.ru/media/css/480.css" />
+    <link rel="stylesheet" media="only screen and (min-device-width: 320px) and (max-device-width: 740px) and (orientation:landscape)" href="https://ussurmedia.ru/media/css/480l.css" />
+    <link rel="stylesheet" media="only screen and (max-device-width: 420px) and (orientation:portrait)" href="https://ussurmedia.ru/media/css/480p.css" />
+    
+    <!-- для iPad portrait and landscape -->
+    <link rel="stylesheet" media="only screen and (min-device-width: 600px) and (max-device-width: 1028px) and (orientation:portrait)" href="https://ussurmedia.ru/media/css/1024.css">
+    <link rel="stylesheet" media="only screen and (min-device-width: 600px) and (max-device-width: 1028px) and (min-device-height: 600px) and (max-device-height: 1280px) and (orientation:landscape)" href="https://ussurmedia.ru/media/css/1024l.css">
+
+    <link rel="shortcut icon" href="https://primamediamts.servicecdn.ru/images/favicon.ico" />
+
+            <!-- apple-touch-icon -->
+        <link rel="apple-touch-icon" sizes="16x16" href="/media/img/icons/icon_prima_16x16.png">
+        <link rel="apple-touch-icon" sizes="32x32" href="/media/img/icons/icon_prima_32x32.png">
+        <link rel="apple-touch-icon" sizes="48x48" href="/media/img/icons/icon_prima_48x48.png">
+        <link rel="apple-touch-icon" sizes="64x64" href="/media/img/icons/icon_prima_64x64.png">
+        <link rel="apple-touch-icon" sizes="128x128" href="/media/img/icons/icon_prima_128x128.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/media/img/icons/icon_prima_144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/media/img/icons/icon_prima_152x152.png">
+        <link rel="apple-touch-icon" sizes="192x192" href="/media/img/icons/icon_prima_192x192.png">
+        <link rel="apple-touch-icon" sizes="256x256" href="/media/img/icons/icon_prima_256x256.png">
+        <link rel="apple-touch-icon" sizes="512x512" href="/media/img/icons/icon_prima_512x512.png">
+
+        <link rel="alternate" title="Главные новости" href="https://primamediamts.servicecdn.ru/export/new/news_main117.rss" type="application/rss+xml"/>
+
+                
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5JKGRCR');</script>
+<!-- End Google Tag Manager -->
+                <script src="https://content.adriver.ru/AdRiverFPS.js"></script>
+
+        
+        <!-- Yandex.RTB -->
+        <script>window.yaContextCb = window.yaContextCb || []</script>
+        <script src="https://yandex.ru/ads/system/context.js" async></script>
+
+                                <script async src="https://moevideo.biz/embed/js/mvpt.min.js"></script>
+        
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+          
+</head>
+<body class="region_117"id="index-index"
+>
+
+
+                    
+                                    
+
+
+            <style>
+                            .countdown a {color: #ffffff}
+                                        .countdown {background-color: #1e90ff}
+                                </style>
+    
+    <section class="countdown">
+        <a href="" target="_blank">
+            <div class="container">
+                            <div class="left">
+                  <h2 class="">Весна придет<br>ОБЯЗАТЕЛЬНО</h2>
+              </div>
+                                <div class="main_img">
+                      <div>
+                          <img src="https://primamediamts.servicecdn.ru/files2/countdown/176.jpg?1675863580" title="Весна придет" />
+                      </div>
+                  </div>
+                            <div class="right">
+                              <h3>осталось <span>7 дней</span></h3>
+                            </div>
+            </div>
+        </a>
+    </section>
+
+<header id="headerpc" class="hidden-xs hidden-sm ">
+
+    <div class="container">
+        <div class="header">
+            <a href="/" class="header-logo"><img src="https://primamediamts.servicecdn.ru/media/img/logo/svg/117.svg" style="width: 228px;" /></a>
+
+            <ul class="header-whatsapp">
+                <li class="p-16 hidden">18+</li>
+                <li class="wsapp">
+                    <a title="Прислать новость" href="/contacts/?want-share=1#shareWithUs">
+                        <div title="Прислать новость"><span class="send_news"></span>Прислать новость</div>
+                    </a>
+                </li>
+                <li class="header-target-ico">
+                                      <a href="#" id="subscribe-link" ></a>
+                    <a href="#" id="unsubscribe-link" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="Вы успешно отписались от уведомлений"></a>
+                                  </li>
+                <li class="header-target-ico">
+                      <div class="dropdown d-region hidden-xs">
+	<a target="_blank" href="#" data-toggle="dropdown" role="button" id="drop5" title="выбрать регион">
+		<i class="target-icon"></i>
+	</a>
+	<ul id="menu1" class="dropdown-menu" aria-labelledby="drop5" role="menu">
+            
+            <li role="presentation" class="active">
+                <span>Уссурийск</span>
+            </li>
+
+                                                <li role="presentation">
+                        <a role="menuitem" href="https://chukotkamedia.ru" target="_blank">Анадырь</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://eaomedia.ru" target="_blank">Биробиджан</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://priamurmedia.ru" target="_blank">Благовещенск</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://primamedia.ru" target="_blank">Владивосток</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://irkutskmedia.ru" target="_blank">Иркутск</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://krasnodarmedia.su" target="_blank">Краснодар</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://krasnoyarskmedia.ru" target="_blank">Красноярск</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://magadanmedia.ru" target="_blank">Магадан</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://nakhodka.media" target="_blank">Находка</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://kamchatkamedia.ru" target="_blank">Петропавловск-Камчатский</a>
+                    </li>
+                                                                                            <li role="presentation">
+                        <a role="menuitem" href="https://sevastopolmedia.ru" target="_blank">Севастополь</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://stavropol.media" target="_blank">Ставрополь</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://ulanmedia.ru" target="_blank">Улан-Удэ</a>
+                    </li>
+                                                                                            <li role="presentation">
+                        <a role="menuitem" href="https://amurmedia.ru" target="_blank">Хабаровск</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://chitamedia.su" target="_blank">Чита</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://sakhalinmedia.ru" target="_blank">Южно-Сахалинск</a>
+                    </li>
+                                                                <li role="presentation">
+                        <a role="menuitem" href="https://yakutiamedia.ru" target="_blank">Якутия</a>
+                    </li>
+                                            
+            <li class="divider" role="presentation"></li>
+            <li role="presentation">
+                    <a target="_blank" href="https://примамедиа.рф/" tabindex="-1" role="menuitem">Все регионы<i class="fa fa-chevron-circle-right"></i>
+                    </a>
+            </li>
+        </ul>
+    </div>
+                </li>
+            </ul>
+
+            <ul class="header-info hidden-xs hidden-sm">
+                                <li><a class="header-info__link header-info__link--align-top" href="/weather/"><span class="current-weather-widget" title="ясно"><span class="current-weather-widget__branding">Яндекс.Погода</span><img class="current-weather-widget__icon" src="https://yastatic.net/weather/i/icons/blueye/color/svg/skc_n.svg"><span class="current-weather-widget__label">-11°C</span></span></a></li>
+                <li><a class="header-info__link" href="/money/"><span class="money-widget__branding hidden-lg hidden-md">Курсы валют</span><i class="fa fa-usd" aria-hidden="true"></i> <span class="kesh-down">74.04</span><i class="fa fa-eur" aria-hidden="true"></i> <span class="kesh-down">79.13</span></a></li>
+                <!--<li>21 февраля</li>-->
+                <!--<li>Владивосток: <img src="https://ussurmedia.ru/media/img/demo-cloud.png"> 4...6 °С</li>-->
+                <!--<li>USD <span class="kesh-up">45.95</span> EUR <span class="kesh-down">57.04</span></li>-->
+            </ul>
+        </div>
+    </div>
+
+    <nav class="clear">
+        <div class="navbar navbar-default navbar-static-top noprint" role="navigation" id="stick_menu">
+            <div class="container">
+
+                <div class="navbar-header">
+                   
+					<a href="#menu" data-toggle="dropdown" class="dropdown-toggle for_tablet">
+                        <span class="si-icon si-icon-hamburger-cross" data-icon-name="hamburgerCross"></span>
+                    </a>
+
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle osn">
+                        <span class="si-icon si-icon-hamburger-cross" data-icon-name="hamburgerCross"></span>
+                    </a>
+
+                    <div class="dropdown-menu">
+                        <ul role="menu" class="dropdown-block container">
+                            <li class="container">
+                                <div class="col-md-12">
+                                    
+                                                                                                                <div class="col-md-3">
+                                            <ul>
+                                                                                                    <li><a href="/russia/" id="federal-tumbler">Россия</a></li>
+                                                                                                    
+                                                <li><a href="/news/main/">Главные</a></li>
+                                                <li><a href="/news/popular/">Популярные</a></li>
+                                                                                                                                                        <li><a href="/news/society">Общество</a></li>
+                                                                                                                                                        <li><a href="/news/politics">Политика</a></li>
+                                                                                                                                                        <li><a href="/news/business">Бизнес</a></li>
+                                                                                                                                                        <li><a href="/news/incidents">Происшествия</a></li>
+                                                                                                                                                        <li><a href="/news/sport">Спорт</a></li>
+                                                                                                                                                                                                    </ul>
+                                        </div>
+                                                                          
+                                    <div class="col-md-3">
+                                        <ul>
+                                            <li><a href="/projects/">Проекты</a></li>
+                                            <li><a href="/photos/"><i class="nav-ic-dvuc"></i>Фото</a></li>
+                                            <li><a href="/video/"><i class="nav-ic-dvuc"></i>Видео</a></li>
+                                            <li><a href="/news/articles/">Статьи</a></li>
+                                            <li><a href="/news/longread/">Истории</a></li>
+                                            <li><a href="/online/">Онлайн-эфиры</a></li>
+                                            <li><a href="/translation/">Трансляции</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <ul>
+                                            <li><a href="/contests"><i class="nav-ic-auto"></i>Фотоконкурсы</a></li>
+                                            <li><a href="/poll"><i class="nav-ic-dvuc"></i>Опросы</a></li>
+                                            <li><a href="/chat"><i class="nav-ic-dvuc"></i>Конференции</a></li>
+                                            
+                                                                                        
+                                            <li><a href="/cards/"><i class="nav-ic-dvuc"></i>Карточки</a></li>
+                                            
+                                            
+                                                                                        <!--<li><a href="https://ussurmedia.ru/catalog"><i class="nav-ic-dvuc"></i>Справочник</a></li>-->
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <ul>
+                                            <li><a href="https://ussurmedia.ru/about">О нас</a></li>
+                                            <li><a href="https://ussurmedia.ru/job">Вакансии</a></li>
+                                            <li><a href="https://primamedia.events/">Мероприятия</a></li>
+                                            <li><a href="/contacts">Контакты</a></li>
+                                            <li><a href="/a/">Реклама</a></li>
+                                        </ul>
+                                    </div>
+	                                <div class="col-md-12 stick_menu_inf">
+		                                <ul class="header-info hidden-xs hidden-sm">
+			                                <li><a class="header-info__link current-weather-widget" href="/weather/"><span class="current-weather-widget" title="ясно"><span class="current-weather-widget__branding">Яндекс.Погода</span><img class="current-weather-widget__icon" src="https://yastatic.net/weather/i/icons/blueye/color/svg/skc_n.svg"><span class="current-weather-widget__label">-11°C</span></span></a></li>
+			                                <li><a class="header-info__link" href="/money/"><span class="money-widget__branding hidden-lg hidden-md">Курсы валют</span><i class="fa fa-usd" aria-hidden="true"></i> <span class="kesh-down">74.04</span><i class="fa fa-eur" aria-hidden="true"></i> <span class="kesh-down">79.13</span></a></li>
+                                                        		                                </ul>
+	                                </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                <div style="height: 1px;overflow: hidden !important;" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li  ><a href="/news/">Новости</a></li>
+
+                                                                        <li  >
+                              <a href="/news/society">Общество</a>
+                          </li>
+                                                                        <li  >
+                              <a href="/news/politics">Политика</a>
+                          </li>
+                                                                        <li  >
+                              <a href="/news/business">Бизнес</a>
+                          </li>
+                                                                        <li  >
+                              <a href="/news/incidents">Происшествия</a>
+                          </li>
+                                                                        <li  >
+                              <a href="/news/sport">Спорт</a>
+                          </li>
+                                                                                                      
+                                                                    
+                                                    
+                                <li >
+                                    <a href="https://ussurmedia.ru/projects/853/">В фокусе</a>
+	                        </li>
+
+                                                    
+                                <li >
+                                    <a href="https://primamedia.ru/projects/860/">Сделано в РФ</a>
+	                        </li>
+
+                                                    
+                                            </ul>
+                <ul class="header-whatsapp menu-header">
+                    <li class="header-target-ico">
+                        <div class="seach_show_button"></div>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right ul-search">
+                    <li class="s-search">
+                        <form action="/search/" method="get" class="search">
+                            <input value="" type="search" name="SearchModel[keyword]" placeholder="Что ищем?" class="input" />
+                            <input type="submit" name="" value="" class="submit" />
+                        </form>
+                    </li>
+                </ul>
+                </div>
+
+            </div>
+        </div>
+    </nav>
+    
+        
+    
+</header>
+
+<section class="finanse hidden-xs">
+    <div class="container">Сайт UssurMedia.ru функционирует при финансовой поддержке Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации</div>
+</section>
+
+<header class="mobilemenu hidden-lg hidden-md  ">
+    <div class="clear">
+        <ul class="">
+                                    <li class="mobilemenu-logo"><a href="/"><img src="https://primamediamts.servicecdn.ru/media/img/logo/svg/117.svg" style="width: 105px;" /></a></li>
+            <li class="mobilemenu-loc">
+                <a title="Прислать новость" href="/contacts/?want-share=1#shareWithUs">
+                    <span class="send_news"></span>
+                </a>
+                <a class="m-search" href="/search/#search"><i class="search-icon" aria-hidden="true"></i></a>
+                                <a href="#" id="subscribe-link" ></a>
+                <a href="#" id="unsubscribe-link" data-toggle="tooltip" title="" data-placement="bottom" data-original-title="Вы успешно отписались от уведомлений"></a>
+                                
+                <ul class="nav navbar-nav navbar-right ul-search">
+                    <li class="s-search">
+                        <form action="/search/" method="get" class="search">
+                            <input value="" type="search" name="SearchModel[keyword]" placeholder="Что ищем?" class="input" />
+                            <input type="submit" name="" value="" class="submit" />
+                        </form>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div id="menu" class="noprint hidden-lg hidden-md">
+    <ul>
+                    <li><a href="/russia/" id="federal-tumbler">Новости России</a></li>
+                <li>
+            <a href="/news/">Новости</a>
+            <ul>
+                <li>
+                    <a href="/news/main/">Главные</a>
+                </li>
+                <li>
+                    <a href="/news/popular/">Популярные</a>
+                </li>
+                                                         <li  >
+                        <a href="/news/society">Общество</a>
+                    </li>
+                                                         <li  >
+                        <a href="/news/politics">Политика</a>
+                    </li>
+                                                         <li  >
+                        <a href="/news/business">Бизнес</a>
+                    </li>
+                                                         <li  >
+                        <a href="/news/incidents">Происшествия</a>
+                    </li>
+                                                         <li  >
+                        <a href="/news/sport">Спорт</a>
+                    </li>
+                                                                          <li><a href="/news/articles/">Статьи</a></li>
+                <li><a href="/news/longread/">Истории</a></li>
+            </ul>
+        </li>
+        
+
+        <li  ><a href="/projects/">Проекты</a>
+            <ul>
+                                     <li  >
+                        <a href="/projects/545/">UssurMedia выходного дня</a>
+                    </li>
+                                    <li  >
+                        <a href="/projects/889/">Фотоконкурс "Любовь - это..."</a>
+                    </li>
+                                    <li  >
+                        <a href="/projects/675/">Тесты</a>
+                    </li>
+                                    <li  >
+                        <a href="/projects/703/">Концерты в ДОРА</a>
+                    </li>
+                                    <li  >
+                        <a href="/projects/888/">Наши Герои</a>
+                    </li>
+                                    <li  >
+                        <a href="/projects/678/">Образование и развитие</a>
+                    </li>
+                            </ul>
+        </li>
+            <!--<li><a href="#contact">Lifestyle</a></li>
+            <li><a href="#contact">Авто</a></li>-->
+
+        <li><a href="#mm-3">PrimaMedia</a>
+            <ul>
+                <li><a href="https://ussurmedia.ru/about">О нас</a></li>
+                <li><a href="https://ussurmedia.ru/job">Вакансии</a></li>
+                <li><a href="https://primamedia.events/">Мероприятия</a></li>
+                <li><a href="https://ussurmedia.ru/contacts">Контакты</a></li>
+                <li><a href="https://ussurmedia.ru/a/">Реклама</a></li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="#mm-4">Выбрать регион</a>
+            
+            <ul>
+                                                                            <li role="presentation">
+                            <a role="menuitem" href="https://chukotkamedia.ru">Анадырь</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://eaomedia.ru">Биробиджан</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://priamurmedia.ru">Благовещенск</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://primamedia.ru">Владивосток</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://irkutskmedia.ru">Иркутск</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://krasnodarmedia.su">Краснодар</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://krasnoyarskmedia.ru">Красноярск</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://magadanmedia.ru">Магадан</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://nakhodka.media">Находка</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://kamchatkamedia.ru">Петропавловск-Камчатский</a>
+                        </li>
+                                                                                                                    <li role="presentation">
+                            <a role="menuitem" href="https://sevastopolmedia.ru">Севастополь</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://stavropol.media">Ставрополь</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://ulanmedia.ru">Улан-Удэ</a>
+                        </li>
+                                                                                                                    <li role="presentation">
+                            <a role="menuitem" href="https://amurmedia.ru">Хабаровск</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://chitamedia.su">Чита</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://sakhalinmedia.ru">Южно-Сахалинск</a>
+                        </li>
+                                                                                <li role="presentation">
+                            <a role="menuitem" href="https://yakutiamedia.ru">Якутия</a>
+                        </li>
+                                                </ul>
+        </li>
+
+		<!-- <li  ><a href="/time/">Время</a></li>-->
+                    <!-- <li  ><a href="/projects/people/index/">Люди</a></li> -->
+        
+		<li><a href="/photos/"><i class="nav-ic-dvuc"></i>Фоторепортажи</a></li>
+		<li><a href="/video/"><i class="nav-ic-dvuc"></i>Видео</a></li>
+        <li><a href="/contests"><i class="nav-ic-auto"></i>Фотоконкурсы</a></li>
+        <li><a href="/poll"><i class="nav-ic-dvuc"></i>Опросы</a></li>
+        <li><a href="/chat"><i class="nav-ic-dvuc"></i>Конференции</a></li>
+        
+        		
+        
+
+                
+        
+        <li><a class="header-info__link current-weather-widget" href="/weather/"><span class="current-weather-widget" title="ясно"><span class="current-weather-widget__branding">Яндекс.Погода</span><img class="current-weather-widget__icon" src="https://yastatic.net/weather/i/icons/blueye/color/svg/skc_n.svg"><span class="current-weather-widget__label">-11°C</span></span></a></li>
+        <li><a class="header-info__link" href="/money/"><span class="money-widget__branding hidden-lg hidden-md">Курсы валют</span><i class="fa fa-usd" aria-hidden="true"></i> <span class="kesh-down">74.04</span><i class="fa fa-eur" aria-hidden="true"></i> <span class="kesh-down">79.13</span></a></li>
+        
+        
+    </ul>
+</div>
+
+</header>
+
+    <section class="header_top hidden-xs header_top_mobile hidden-lg hidden-md noprint hidden-sm">
+        <div class="container">
+            <ul class="header-info">
+                                <li><a class="header-info__link header-info__link--align-top" href="/weather/"><span class="current-weather-widget" title="ясно"><span class="current-weather-widget__branding">Яндекс.Погода</span><img class="current-weather-widget__icon" src="https://yastatic.net/weather/i/icons/blueye/color/svg/skc_n.svg"><span class="current-weather-widget__label">-11°C</span></span></a></li>
+                <li><a class="header-info__link" href="/money/"><span class="money-widget__branding hidden-lg hidden-md">Курсы валют</span><i class="fa fa-usd" aria-hidden="true"></i> <span class="kesh-down">74.04</span><i class="fa fa-eur" aria-hidden="true"></i> <span class="kesh-down">79.13</span></a></li>
+            </ul>
+        </div>
+    </section>
+
+<section class="tumbler-out hidden-xs hidden-sm" style="overflow: hidden;">
+    
+
+<div class="noprint tumbler-russia-region tumbler-russia-region--mobile">
+    <label for="news-tumbler" class="news-tumbler__label news-tumbler__label--region">
+                    Новости региона
+            </label>
+
+
+    <input type="checkbox"  id="news-tumbler" 
+        class="news-tumbler--region" />
+    
+    <label for="news-tumbler" class="news-tumbler__label news-tumbler__label--russia">
+         
+            <a href="/">Новости России</a>
+            </label>
+</div></section>
+
+    <section class="s-banner b200 ">
+        <div class="container">
+            <div class="b-top">
+                              <div class="prima-pic-a a-standart"></div>
+    <!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 1200х200-->
+<!--Расположение: PC Main (1200x200) 1-->
+<div id="adfox_150873233526774764"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_150873233526774764',
+            params: {
+                pp: 'lfh',
+                ps: 'cejf',
+                p2: 'fkuu'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 300х250-->
+<!--Расположение: Mobile Main (1200x200) 1-->
+<div id="adfox_153109700368571259"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_153109700368571259',
+            params: {
+                pp: 'nbn',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>                          </div>
+        </div>
+    </section>
+
+<div class="clear"></div>            <section class="container">
+                            </section>
+
+            
+              
+                                        
+        
+
+        <section class="container">
+                    </section>        
+    
+        <section id="mp-s1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="wrapper-content">
+                    <div class="row">
+                        <div class="col-md-9 col-md-push-3">
+                            
+
+    <ul class="nav kd-hashtag">
+        <li class="dropdown">
+			<a href="https://ussurmedia.ru/news/hashtag/2149/">              <b>                #ГодныйЛайфхак              </b>			</a>                        <a id="drop4" href="#" data-toggle="dropdown" role="button">
+                <b class="caret"></b>
+            </a>
+            
+            			                <ul id="menu1" class="dropdown-menu" aria-labelledby="drop4" role="menu">
+
+                                            <li role="presentation">
+                            <a href="https://ussurmedia.ru/news/hashtag/1436/" >Рули, давай</a>
+                        </li>
+                                            <li role="presentation">
+                            <a href="https://ussurmedia.ru/news/hashtag/1424/" >Идеи правительства </a>
+                        </li>
+                                            <li role="presentation">
+                            <a href="https://ussurmedia.ru/news/hashtag/2150/" >Ностальгия по СССР</a>
+                        </li>
+                                            <li role="presentation">
+                            <a href="https://ussurmedia.ru/news/hashtag/1451/" >Немного тестов</a>
+                        </li>
+                                            <li role="presentation">
+                            <a href="https://ussurmedia.ru/news/hashtag/1423/" >Пенсионная тема</a>
+                        </li>
+                    
+                                  </ul>
+                    </li>
+    </ul>
+
+                            
+<style type="text/css">
+  .kd-mainnews .kd-news:nth-last-child(-n+3) .image-size-kd > span {
+    pointer-events: all !important;
+    background: none;
+    padding: 14px 20px !important;
+    top: 0;
+  }
+
+  .kd-mainnews .kd-news .image-size-kd > span {
+    font-size: 17px;
+    line-height: 20px;
+  }
+
+  .kd-mainnews .kd-news:nth-child(1) .image-size-kd > span {
+    font-size: 21px;
+    line-height: 27px;
+  }
+
+  .kd-mainnews .kd-news:nth-last-child(-n+3) {
+    background-color: white;
+  }
+
+  .kd-mainnews .kd-news:nth-last-child(-n+3) .image-size-kd > span > a {
+    color: #262626;
+  }
+
+  .kd-mainnews .kd-news:nth-last-child(-n+3) .image-size-kd {
+    max-height: 130px;
+  }
+
+  /*.kd-mainnews .kd-news:nth-last-child(-n+3):hover .image-size-kd > span {
+      background: -webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.7)),to(transparent));
+      background: -o-linear-gradient(bottom,rgba(0,0,0,.7),transparent);
+      background: linear-gradient(to top,rgba(0,0,0,.7),transparent);
+  }
+
+  .kd-mainnews .kd-news:nth-last-child(-n+3):hover .image-size-kd > span > a {
+      color: white;
+  }*/
+</style >
+
+
+    <h2 class="mp-nb-title hidden-xs"><a href="/news/main/?to=main">Главное<span class="hidden-xs">: Уссурийск</span></a>
+            <span>
+            <a class="voice-link voice-link--index voice-link--playlist" href="javascript:undefined" onclick="ym(32745915, 'reachGoal', 'playvoiceindex'); listen(this);" data-playlist="" data-is-index="true"><img src="https://primamediamts.servicecdn.ru/media/svg/voice.svg"></a>
+        </span>
+    </h2>
+    <div class="kd-mainnews oboloch" data-vr-zone="Главное">
+
+                    	        <div class="kd-news" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/1456016/">
+	            <div class="image-size-kd">
+	                <a href="https://ussurmedia.ru/news/1456016/" class="">
+                                                              <img src="https://primamediamts.servicecdn.ru/f/590x430/3516/3515867.jpg?bdd9ba4825bdc62fc0868f3d2c5e71b0" >
+                                                        <div class="markers-wrapp">
+                                                                                                                                                                              </div>
+              	                </a>
+
+	                <span>
+                        <a href="https://ussurmedia.ru/news/1456016/" data-vr-headline>
+                            Для всех он был лучиком света: память о герое спецоперации увековечили в Уссурийске                        </a>
+
+                    </span>
+                </div>
+            </div>
+                                	        <div class="kd-news" data-vr-contentbox="Позиция 2" data-vr-contentbox-url="https://ussurmedia.ru/news/1455326/">
+	            <div class="image-size-kd">
+	                <a href="https://ussurmedia.ru/news/1455326/" class="hidden-xs">
+                                                              <img src="https://primamediamts.servicecdn.ru/f/266x136/3513/3512642.jpg?4085149c3e9d18a69850dbef8b15c9dc">
+                                                                      <div class="markers-wrapp">
+                                                                                                                                                                              </div>
+              	                </a>
+
+	                <span>
+                        <a href="https://ussurmedia.ru/news/1455326/" data-vr-headline>
+                            Первый кинотеатр Уссурийска выставлен на продажу                        </a>
+
+                    </span>
+                </div>
+            </div>
+                                	        <div class="kd-news" data-vr-contentbox="Позиция 3" data-vr-contentbox-url="https://ussurmedia.ru/news/1455742/">
+	            <div class="image-size-kd">
+	                <a href="https://ussurmedia.ru/news/1455742/" class="hidden-xs">
+                                                              <img src="https://primamediamts.servicecdn.ru/f/266x136/3515/3514534.jpg?861b476e214585f32ec9f93fd7da2495">
+                                                                      <div class="markers-wrapp">
+                                                                                                                                                                              </div>
+              	                </a>
+
+	                <span>
+                        <a href="https://ussurmedia.ru/news/1455742/" data-vr-headline>
+                            Оттепель или мороз: чего ожидать на неделе уссурийцам (интерактивная метеокарта)                        </a>
+
+                    </span>
+                </div>
+            </div>
+                                	        <div class="kd-news" data-vr-contentbox="Позиция 4" data-vr-contentbox-url="https://ussurmedia.ru/news/1455830/">
+	            <div class="image-size-kd">
+	                <a href="https://ussurmedia.ru/news/1455830/" class="hidden-xs">
+                                          	                </a>
+
+	                <span>
+                        <a href="https://ussurmedia.ru/news/1455830/" data-vr-headline>
+                            Женщина трагически погибла на пожаре в Уссурийске                        </a>
+
+                    </span>
+                </div>
+            </div>
+                                	        <div class="kd-news" data-vr-contentbox="Позиция 5" data-vr-contentbox-url="https://ussurmedia.ru/news/1455897/">
+	            <div class="image-size-kd">
+	                <a href="https://ussurmedia.ru/news/1455897/" class="hidden-xs">
+                                          	                </a>
+
+	                <span>
+                        <a href="https://ussurmedia.ru/news/1455897/" data-vr-headline>
+                            "Мастерицу" парковки на тротуаре оштрафовали после жалобы от жителей Уссурийска                        </a>
+
+                    </span>
+                </div>
+            </div>
+                                	        <div class="kd-news" data-vr-contentbox="Позиция 6" data-vr-contentbox-url="https://ussurmedia.ru/news/1456028/">
+	            <div class="image-size-kd">
+	                <a href="https://ussurmedia.ru/news/1456028/" class="hidden-xs">
+                                          	                </a>
+
+	                <span>
+                        <a href="https://ussurmedia.ru/news/1456028/" data-vr-headline>
+                            Свои картины на помощь участникам СВО пожертвовали художники Уссурийска                        </a>
+
+                    </span>
+                </div>
+            </div>
+                        </div>
+	<br>
+
+                            <div class="row-margin-5">
+                                    <div class="maininfo rn-news" data-vr-zone="РН" id="rn1Slider" data-scrollTo="228">
+
+                                    <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/1455748/">
+                    <div class="deflt-blk box-accom acc0">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1455748/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3515/3514773.jpg?212b2255097266566e12f7518a08b51e">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1455748/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Мужчины не устоят: топ небанальных подарков к 23 февраля                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 2" data-vr-contentbox-url="https://ussurmedia.ru/news/1454282/">
+                    <div class="deflt-blk box-accom acc1">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1454282/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3510/3509427.jpeg?7333bb0e1b7d3ff0e5a7352d7d8d0f3c">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1454282/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Как порадовать мужчину новым госномером и не разориться: идея подарка к 23 февраля                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 3" data-vr-contentbox-url="https://ussurmedia.ru/news/1452603/">
+                    <div class="deflt-blk box-accom acc2">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1452603/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3505/3504848.jpg?a610751fe3f323170715d2db1034e95d">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1452603/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Магазин "Зеленый остров" подобрал подарки на 23 февраля и 8 марта                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 4" data-vr-contentbox-url="https://ussurmedia.ru/news/1453505/">
+                    <div class="deflt-blk box-accom acc3">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1453505/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3508/3507213.jpg?7de37f45e0701441cb38008895316e45">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1453505/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Праздничная акция в билайне: вернём до половины от цены смартфона                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 5" data-vr-contentbox-url="https://ussurmedia.ru/news/1451888/">
+                    <div class="deflt-blk box-accom acc4">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1451888/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3504/3503200.png?c72fb07fedccb65299ecef73fdef7916">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1451888/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    В самое сердце: парные ароматы ко Дню всех влюбленных от Л'Этуаль                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 6" data-vr-contentbox-url="https://ussurmedia.ru/news/1450772/">
+                    <div class="deflt-blk box-accom acc5">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1450772/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3499/3498621.png?652039e58a05f9c70a1bc5304ce650e7">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1450772/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Идеальный подарок в День всех влюбленных, способный растопить сердце каждого                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 7" data-vr-contentbox-url="https://ussurmedia.ru/news/1449276/">
+                    <div class="deflt-blk box-accom acc6">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1449276/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3494/3493968.jpg?ff68ec59e387dae0b7638212aad32bad">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1449276/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Комедию "О чем мечтает женщина" покажут известные российские актеры в Уссурийске                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                                                <div class="col-padding-5 col-md-3 col-sm-6 col-xs-6" data-vr-contentbox="Позиция 8" data-vr-contentbox-url="https://ussurmedia.ru/news/1449197/">
+                    <div class="deflt-blk box-accom acc7">
+                        <div class="image-size-kd">
+                            <a href="https://ussurmedia.ru/news/1449197/">
+                                <div>
+                                    <img src="https://primamediamts.servicecdn.ru/f/266x136/3494/3493804.jpg?96b4e7248a4285950c34cb1c4d65f7e9">
+                                </div>
+                            </a>
+
+                            <a href="https://ussurmedia.ru/news/1449197/">
+                                <div class="d-blk-post-title" data-vr-headline>
+                                    Премьеру "Шоу под дождем 7" привезет в Уссурийск Санкт-Петербургский театр танца                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                            
+        <div class='scroll-wrapp scroll-right' data-scroll='right' title='Вперед' data-target="rn1Slider"></div>
+        <div class='scroll-wrapp scroll-left' data-scroll='left' title='Назад' data-target="rn1Slider"></div>
+        
+    </div>
+                            </div>
+
+                                <div class="foto_vid" data-vr-zone="Фото-видео блок">
+        <div class="row relative">
+            <div class="col-md-12 col-sm-12 common-slider" id="mediaSlider" data-scrollTo="303">
+                                                            <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1453042/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3506/3505965.jpg?e84afbbf851ef098c148113619104e4c); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        От родителей не отличить: выпускники уссурийской школы заморочились с фотосессией (видео) </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1456163/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3517/3516432.jpg?5c826239dfd07d47f45103dbc7fa36e6); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        Сильнейший танцевальный коллектив региона определили в Уссурийске </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1455378/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3513/3512962.jpg?d3484610c49baf16795d825c145be9c2); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        Будущие строители стали "богинями" танцпола на сцене уссурийского колледжа </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1449688/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3496/3495732.jpeg?efda2de4eccfb193b97bf85ba783fd99); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        Правнук Жюля Верна напутствовал воздухоплавателей Приморья </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1448833/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3493/3492894.jpg?621935d01b29b7cb7952169ec2b7b4b7); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        Остатки былого веселья: прогулка по руинам новогоднего городка в Уссурийске </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1448066/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3490/3489248.jpg?873c0a42bea8c893487b8dcdcb2df71b); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        Суворовцы Уссурийска создали победный видеоролик о герое Никольск-Уссурийского </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1446961/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3485/3484657.jpg?0deb08dbbd655f9f06018b12ba596242); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        Игрушки с характером: выставка кукол ручной работы открылась в Уссурийске </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1454138/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3509/3508898.jpg?07ac6a487ad95c03e35d180c8aea78b5); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        "Золотое перо Приморья-2023". Первое медиа-событие года (ФОТО) </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1454141/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3509/3508952.jpg?5d21e21f63bca650e0ae8c7ba22a043c); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        "Золотое перо Приморья-2023". Первое медиа-событие года (ФОТО) </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1443787/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3476/3475038.jpg?908cf4ee8321cb6fd522f64c164b74d4); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        Междуречье в тумане: мощный пар несколько дней бьет из теплотрассы в Уссурийске (видео) </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1442077/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3469/3468815.jpg?6bfb9b55a9c02d1b8631afb2c9e64c04); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        Ночь в музее, аврал на корабле и Евгения Онегина сыграли на сцене студенты Уссурийска </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1440078/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3465/3464888.jpg?2ef6697b1a5a91e31fcb7825c52e8949); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        От оригами до бумажного Боба Марли: как раскрылся талант инвалида по слуху из Уссурийска </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1439787/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3464/3463343.jpg?464ec7be47d079ae2dcbb5fb6e00d3fc); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        Захотела погладить: посетительница зоопарка рассказала, почему полезла ко льву через забор </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1438154/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3460/3459872.jpg?121195d10b4ccadb2a8f3c8b328101bb); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Видео </span>
+                                        Щенков акита-ину вновь раздает губернатор Приморья (видео) </div>
+                                </div>
+                            </a>
+                        </div>
+                                                                                <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1434893/">
+                                <div class="media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/590x430/3451/3450635.jpeg?9cd681ae2a8e94ca6a16a15a680c3ebc); background-repeat: no-repeat; background-position: center;">
+                                    <div class="media-post-title media-blk">
+                                        <span>Фото </span>
+                                        Мандаринами в "масле" проводили новогодние праздники художники Уссурийска </div>
+                                </div>
+                            </a>
+                        </div>
+                                                </div>
+                <div class='scroll-wrapp scroll-right media-scroll' data-scroll='right' title='Вперед' data-target="mediaSlider"></div>
+                <div class='scroll-wrapp scroll-left media-scroll' data-scroll='left' title='Назад' data-target="mediaSlider"></div>
+        </div>
+    </div>
+
+                        </div>
+                        <div class="col-md-3 col-md-pull-9">
+                            
+    <span class="news_for_time">
+        <a href="/news/?date=21.02.2023">за сегодня</a> / <a href="/news/?date=20.02.2023">за вчера</a>
+    </span>
+            <h2 class="mp-nb-title">
+            
+            <div class="visible-xs"><span ></span>
+            <span>
+            <a class="voice-link voice-link--playlist" href="javascript:undefined" onclick="ym(32745915, 'reachGoal', 'playvoiceindex'); listen(this);" data-playlist="" data-is-index="false"><img src="https://primamediamts.servicecdn.ru/media/svg/voice.svg"></a>
+        </span>
+    </div>
+            <a href="/news/" class="hidden-xs">Все Новости</a>
+        </h2>
+        
+    <div class="mp-mainnews">
+
+      
+                
+        <div class="panel-group" >
+            <div id="collapseOne" class="panel-collapse collapse in">
+                <div class="panel-body" data-vr-zone="Последние новости">
+
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/1455860/">
+                            <a href="https://ussurmedia.ru/news/1455860/" data-vr-headline>Россиянам 55/60 лет раскрыли, как разом забрать крупную сумму уже с 3 марта</a>
+                            <span>20 февраля, 22:10</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 2" data-vr-contentbox-url="https://ussurmedia.ru/news/1456183/">
+                            <a href="https://ussurmedia.ru/news/1456183/" data-vr-headline>Отключение воды ждет жителей этих улиц Уссурийска завтра, 21 февраля</a>
+                            <span>20 февраля, 19:25</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 3" data-vr-contentbox-url="https://ussurmedia.ru/news/1455990/">
+                            <a href="https://ussurmedia.ru/news/1455990/" data-vr-headline>Россиянам раскрыли, как при выходе на пенсию получать не копейки, а хорошие суммы</a>
+                            <span>20 февраля, 19:10</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 4" data-vr-contentbox-url="https://ussurmedia.ru/news/1456181/">
+                            <a href="https://ussurmedia.ru/news/1456181/" data-vr-headline>Без света окажутся жители нескольких улиц Уссурийска 21 февраля</a>
+                            <span>20 февраля, 19:05</span>
+                        </div>
+
+                        		                    <div class="widget_banner">
+                              <!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 280x430-->
+<!--Расположение: PC Main (280x430) 1-->
+<div id="adfox_157412629849398082"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_157412629849398082',
+            params: {
+                pp: 'gqa',
+                ps: 'cejf',
+                p2: 'fekb'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 300х250-->
+<!--Расположение: Mobile Main (280x430) 1-->
+<div id="adfox_157412633431823978"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_157412633431823978',
+            params: {
+                pp: 'nbo',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>		                    </div>
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 5" data-vr-contentbox-url="https://ussurmedia.ru/news/1456271/">
+                            <a href="https://ussurmedia.ru/news/1456271/" data-vr-headline>Хабаровская студия "Мечталёт" создает работы мирового масштаба</a>
+                            <span>20 февраля, 18:30</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 6" data-vr-contentbox-url="https://ussurmedia.ru/news/1455750/">
+                            <a href="https://ussurmedia.ru/news/1455750/" data-vr-headline>"Мужчина будет в восторге": топ-10 полезных подарков на 23 февраля</a>
+                            <span>20 февраля, 18:10</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 7" data-vr-contentbox-url="https://ussurmedia.ru/news/1456163/">
+                            <a href="https://ussurmedia.ru/news/1456163/" data-vr-headline>Сильнейший танцевальный коллектив региона определили в Уссурийске</a>
+                            <span>20 февраля, 18:06</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 8" data-vr-contentbox-url="https://ussurmedia.ru/news/1455806/">
+                            <a href="https://ussurmedia.ru/news/1455806/" data-vr-headline>"Штрафы оформляют стопками": в Приморье проходят массовые задержания</a>
+                            <span>20 февраля, 17:05</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 9" data-vr-contentbox-url="https://ussurmedia.ru/news/1456077/">
+                            <a href="https://ussurmedia.ru/news/1456077/" data-vr-headline>Артиллерийский салют прогремит в Уссурийске 23 февраля</a>
+                            <span>20 февраля, 16:32</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 10" data-vr-contentbox-url="https://ussurmedia.ru/news/1456028/">
+                            <a href="https://ussurmedia.ru/news/1456028/" data-vr-headline>Свои картины на помощь участникам СВО пожертвовали художники Уссурийска</a>
+                            <span>20 февраля, 15:40</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 11" data-vr-contentbox-url="https://ussurmedia.ru/news/1456016/">
+                            <a href="https://ussurmedia.ru/news/1456016/" data-vr-headline>Для всех он был лучиком света: память о герое спецоперации увековечили в Уссурийске</a>
+                            <span>20 февраля, 15:18</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 12" data-vr-contentbox-url="https://ussurmedia.ru/news/1456015/">
+                            <a href="https://ussurmedia.ru/news/1456015/" data-vr-headline>Пользуйтесь масками: министр здравоохранения Приморья обратилась к жителям</a>
+                            <span>20 февраля, 15:10</span>
+                        </div>
+
+                        
+                                            <div class="mp-mn-post" data-vr-contentbox="Позиция 13" data-vr-contentbox-url="https://ussurmedia.ru/news/1453537/">
+                            <a href="https://ussurmedia.ru/news/1453537/" data-vr-headline>Вы должны гордиться собой, если ответите правильно на вопросы ТЕСТА</a>
+                            <span>20 февраля, 15:10</span>
+                        </div>
+
+                        
+                    
+	                <div class="mp-mn-post-shadow"></div>
+                </div>
+            </div>
+        </div>
+        	      <div class="d-blk-btn-w btn-read-all">
+		      <a href="/news/">Все новости</a>
+	      </div>
+            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+        </div>
+     </div>
+</section>
+
+
+<section id="mp-s2">
+	<div class="container">
+		<div class="row">
+          
+    <div data-vr-zone="Публикация дня" class="relative pubday-wrapp">
+
+                    <div class="col-md-3 col-sm-6">
+                <div class="deflt-blk box-accom">
+                    <div class="prima-pic-a a-standart"></div>
+                        <!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 280x430-->
+<!--Расположение: PC Main (280x430) 2-->
+<div id="adfox_150873199992578533"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_150873199992578533',
+            params: {
+                pp: 'hlq',
+                ps: 'cejf',
+                p2: 'fekb'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 300х250-->
+<!--Расположение: Mobile Main (280x430) 2-->
+<div id="adfox_152991148531959257"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_152991148531959257',
+            params: {
+                pp: 'nbp',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>                </div>
+            </div>
+                <div class="common-slider" id="pubdayslider" data-scrollTo="295">
+                                                <div class="col-md-3 col-sm-6 pubday-box" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/1454813/">
+
+                        <div class="deflt-blk box-accom acc0">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1454813/">
+
+                                                                            <div>
+                                            <div class="d-blk-corner"></div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3511/3510868.jpg?f379c7f4da03a36d416b610b80c4de61">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1454813/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Самый щедрый влюбленный России оказался жителем Приморья                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 pubday-box" data-vr-contentbox="Позиция 2" data-vr-contentbox-url="https://ussurmedia.ru/news/1455312/">
+
+                        <div class="deflt-blk box-accom acc1">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1455312/">
+
+                                                                            <div>
+                                            <div class="d-blk-corner"></div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3513/3512546.jpg?d9a58bd78f414bc2c8827c5703ab9c74">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1455312/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Мужчины, занимайте очередь: цветочная ярмарка к 8 Марта откроется в центре Уссурийска                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 pubday-box" data-vr-contentbox="Позиция 3" data-vr-contentbox-url="https://ussurmedia.ru/news/1455258/">
+
+                        <div class="deflt-blk box-accom acc2">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1455258/">
+
+                                                                            <div>
+                                            <div class="d-blk-corner"></div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3513/3512300.jpg?9bc2e41cf8113ffe0fd30cf6c030504f">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1455258/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Картинка может "замерзать": приморцев предупредили о помехах на телеэкранах                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+                  <section class="s-direct b hidden-xs">
+            <!-- Yandex.RTB R-A-177735-10 -->
+<div id="yandex_rtb_R-A-177735-10"></div>
+<script>window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+        renderTo: 'yandex_rtb_R-A-177735-10',
+        blockId: 'R-A-177735-10'
+    })
+})</script>          </section>
+                            </div>
+		</div>
+	</div>
+</section>
+
+
+<section class="s-banner middle">
+	<div class="container">
+		<div class="b-center">
+          <div class="prima-pic-a a-standart"></div>
+    <!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 1200x100-->
+<!--Расположение: PC Main (1200x100) 2-->
+<div id="adfox_150873213747282380"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_150873213747282380',
+            params: {
+                pp: 'hds',
+                ps: 'cejf',
+                p2: 'fgkg'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 300х250-->
+<!--Расположение: Mobile Main (1200x100) 1-->
+<div id="adfox_152991184004741444"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_152991184004741444',
+            params: {
+                pp: 'nec',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>		</div>
+	</div>
+</section>
+
+<!--Исторический блок"-->
+<section id="mp-sn3">
+    <div class="container">
+	    <div class="row">
+                <div class="row-margin-5">
+                        <div class="maininfo rn-news relative" data-vr-zone="РН">
+        
+
+        <div class="weekend-slider__wrapper relative" id="subjectSlider" data-scrollTo="330">
+    
+                        <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1453537/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3513/3512394.jpg?bf77aa8005fe224585deb37f47ae8c41); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Тесты</span>
+                                        Вы должны гордиться собой, если ответите правильно на вопросы ТЕСТА 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1453354/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3507/3506774.jpg?b57a3075e51dfc8cd4ef067c62f0515f); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>UssurMedia выходного дня</span>
+                                        Такой борщ вы еще не пробовали: любимое блюдо, приготовленное по молдавскому рецепту 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1453385/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3508/3507062.jpg?180097c44d0de389e71ea8c0e010ae0b); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Фотоконкурс "Любовь - это..."</span>
+                                        Хочется прыгать от счастья: приморцы делятся эмоциями после фотоконкурса "Любовь – это…" 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1449276/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3494/3493968.jpg?ff68ec59e387dae0b7638212aad32bad); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Концерты в ДОРА</span>
+                                        Комедию "О чем мечтает женщина" покажут известные российские актеры в Уссурийске 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1435577/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3453/3452907.jpg?5d6bf7a61effc0217b41fef3d00c7d01); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Образование и развитие</span>
+                                        Сигареты обменяли на мандарины в сельхозакадемии Уссурийска 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1426130/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3425/3424305.jpg?7b596e7764d497d4a2d1c91acb307b30); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Уссурийск. В фокусе</span>
+                                        Золото и серебро с Всероссийских соревнований привезли батутисты Уссурийска 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1425435/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3423/3422347.jpeg?e27ee64caf5b23609b82d4b75a76dae4); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Красота и здоровье</span>
+                                        Где в Уссурийске найти натуральную корейскую косметику для себя и близких 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <div class="col-md-3 col-sm-6">
+                <div class="weekend-blk deflt-blk box-accom relative">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1381809/">
+                                <div class="weekend media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3276/3275665.jpeg?645afa1e0b72a5c74e214fd342167a8d); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Фестиваль урожая "БахчаФЕСТ"</span>
+                                        Весит больше бурого медведя: массу тыквы-гиганта из приморского села узнали в прямом эфире 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>        
+        <div class="common-slider" id="rn2Slider" data-scrollTo="230">
+                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 5" data-vr-contentbox-url="https://ussurmedia.ru/news/1451888/">
+
+                        <div class="deflt-blk box-accom acc4">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1451888/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3504/3503200.png?c72fb07fedccb65299ecef73fdef7916">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1451888/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        В самое сердце: парные ароматы ко Дню всех влюбленных от Л'Этуаль                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 6" data-vr-contentbox-url="https://ussurmedia.ru/news/1450772/">
+
+                        <div class="deflt-blk box-accom acc5">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1450772/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3499/3498621.png?652039e58a05f9c70a1bc5304ce650e7">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1450772/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Идеальный подарок в День всех влюбленных, способный растопить сердце каждого                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 7" data-vr-contentbox-url="https://ussurmedia.ru/news/1449276/">
+
+                        <div class="deflt-blk box-accom acc6">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1449276/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3494/3493968.jpg?ff68ec59e387dae0b7638212aad32bad">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1449276/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Комедию "О чем мечтает женщина" покажут известные российские актеры в Уссурийске                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 8" data-vr-contentbox-url="https://ussurmedia.ru/news/1449197/">
+
+                        <div class="deflt-blk box-accom acc7">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1449197/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3494/3493804.jpg?96b4e7248a4285950c34cb1c4d65f7e9">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1449197/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Премьеру "Шоу под дождем 7" привезет в Уссурийск Санкт-Петербургский театр танца                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 9" data-vr-contentbox-url="https://ussurmedia.ru/news/1449206/">
+
+                        <div class="deflt-blk box-accom acc8">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1449206/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3494/3493907.jpg?08facbb1718a070d334fe15fb7052a71">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1449206/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Любовь побеждает всегда: отличные призы ко Дню влюбленных разыграет ИА UssurMedia                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 10" data-vr-contentbox-url="https://ussurmedia.ru/news/1449175/">
+
+                        <div class="deflt-blk box-accom acc9">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1449175/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3494/3493767.jpg?55c351bf41ccd43d5decc4391dcc8707">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1449175/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Живую музыку из фильмов "Брат" и "Брат 2" услышат жители Уссурийска 30 марта                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 11" data-vr-contentbox-url="https://ussurmedia.ru/news/1446191/">
+
+                        <div class="deflt-blk box-accom acc10">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1446191/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3483/3482088.jpeg?4ac7d39ce60d6a7040d7d37949e0eaf0">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1446191/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Единый срок уплаты налогов озвучили в УФНС России по Приморскому краю                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                                                <div class="col-md-3 col-sm-6 col-xs-6 reklama-box item" data-vr-contentbox="Позиция 12" data-vr-contentbox-url="https://ussurmedia.ru/news/1446164/">
+
+                        <div class="deflt-blk box-accom acc11">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1446164/">
+
+                                                                            <div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3482/3481766.jpg?801f3c895733c4a4e3742273be8ba100">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1446164/">
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Первый дата-центр уровня Tier III запустили на Дальнем Востоке                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+        <div class='scroll-wrapp scroll-left pubday-scroll rn-scroll' data-scroll='left' title='Назад' data-target="rn2Slider"></div>
+        <div class='scroll-wrapp scroll-right pubday-scroll rn-scroll' data-scroll='right' title='Вперед' data-target="rn2Slider"></div>
+        
+                <div class="scroll-wrapp scroll-right weekend-scroll" data-scroll="right" title="Вперед" data-infinity="true" data-target="subjectSlider"></div>
+                
+    </div>
+                </div>
+
+                <section class="s-banner center">
+                  <div class="container">
+                          <div class="b-center">
+                    <div class="prima-pic-a a-standart"></div>
+    <!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 1200x100-->
+<!--Расположение: PC Main (1200x100) 3-->
+<div id="adfox_152896021900884823"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_152896021900884823',
+            params: {
+                pp: 'hkx',
+                ps: 'cejf',
+                p2: 'fgkg'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 300х250-->
+<!--Расположение: Mobile Main (1200x100) 2-->
+<div id="adfox_152991158033359702"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_152991158033359702',
+            params: {
+                pp: 'nbr',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>                          </div>
+                  </div>
+                </section>
+	    </div>
+    </div>
+</section>
+
+<section id="mp-sn4">
+    <div class="container">
+        <div class="row-margin-5">
+            <div class="maininfo leftside-photoofday-wrapp rn-news relative">
+    
+    <div class="col-md-4 col-sm-6">
+        <div class="deflt-blk box-accom leftside-photo-blk">
+            
+    <div data-vr-zone="Публикация дня" class="relative pubday-wrapp">
+
+        <div class="common-slider" id="pubdayslider" data-scrollTo="295">
+                                                <div class=" pubday-box" data-vr-contentbox="Позиция 4" data-vr-contentbox-url="https://ussurmedia.ru/news/1454993/">
+
+                        <div class="deflt-blk box-accom acc3">
+                            <div class="image-size-kd">
+                                <a href="https://ussurmedia.ru/news/1454993/">
+
+                                                                            <div>
+                                            <div class="d-blk-corner"></div>
+                                            <img src="https://primamediamts.servicecdn.ru/f/266x136/3512/3511550.jpg?5314445ab712ac915951f63330bb6a4a">
+                                        </div>
+                                    
+                                </a>
+
+                                <a href="https://ussurmedia.ru/news/1454993/">
+                                    <div class="d-blk-post-title d-blk-post-header" data-vr-headline>
+                                        Выставочный проект "Тайга. Арсеньев. Узала" развернется в Уссурийске                                    </div>
+                                    <div class="d-blk-post-title" data-vr-headline>
+                                        Масштабный гастрольный тур посвящен Владимиру Арсеньеву                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+    </div>
+        </div>
+    </div>
+
+    
+    <div class="hist-wrapp common-slider">
+        
+<div class="foto_vid" data-vr-zone="Фото-видео блок">
+    <div class="row relative">
+        <div class="col-md-12 col-sm-12 common-slider">
+
+            <div class="media-box">
+                <div class="dayofevent-box-size  media-box-size lazy">
+                    <a href="/time/events/">
+                        <h3 class="m-eventinfo">
+                            21 февраля                        </h3>
+                    </a>
+                    <div id="carousel-example-generic" class="carousel slide  " data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            
+                                <div class="active  item" data-id="8459">
+                                    <div class="dayofevent-post-title media-post-title">
+                                        В этот день в 1980 году в издательстве "Советский художник" на русском и английском языках выпущен альбом "Молодые художники 70-х годов", в нем представлено творчество уссурийского художника – живописца А. Усенко.                                    </div>
+                                    <div class="carousel-caption" >
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                                        <a href="/time/events/">
+                        <span>Подробнее</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="main-photo-of-day" data-vr-zone="Фото дня на главной">
+            <div class="relative">
+                <div class="col-md-12 col-sm-12 common-slider">
+                    <div class="media-box dayofphoto-box">
+                        <a data-toggle="modal" data-target="#modal-photoday" href="#">
+                                                            <div class="photoofday-box-size  media-box-size lazy" style="background-image: url(https://primamediamts.servicecdn.ru/files/photoday/preview/92/9172.jpg); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="photopfday-sign">Фото дня</div>
+                                    <div class="media-post-title">
+                                        Бовкун Кирилл, один из первых комсомольцев города Никольск-Уссурийска, партизан-подпольщик, 1924 год. </div>
+                                </div>
+                                                    </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="modal-photoday" class="modal-lg modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+</div>
+<div class="modal-body">
+        <img style="max-width: 865px" src="https://primamediamts.servicecdn.ru/files/photoday/big/92/9172.jpg?1643114886">
+        <br><p class="day-off-photo__descr">
+             
+                Бовкун Кирилл, один из первых комсомольцев города Никольск-Уссурийска, партизан-подпольщик, 1924 год.                    </p>
+        <p class="pull-right"><small>ok.ru</small></p><br>
+
+
+</div>
+
+</div>
+</div>
+</div>        </div>
+    </div>
+</section>
+
+<section class="s-banner middle">
+    <div class="container">
+        <div class="b-center">
+          <div class="prima-pic-a a-standart"></div>
+    <!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 1200x100-->
+<!--Расположение: PC Main (1200x100) 3-->
+<div id="adfox_150847189348891039"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_150847189348891039',
+            params: {
+                pp: 'icq',
+                ps: 'cejf',
+                p2: 'fgkg'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 700x120-->
+<!--Расположение: Mobile Main (1200x100) 3-->
+<div id="adfox_150873221208955864"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_150873221208955864',
+            params: {
+                pp: 'nbs',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>        </div>
+    </div>
+</section>
+
+<section id="mp-sn5">
+    <div class="container">
+        <div class="row">
+            <div class="row-margin-5">
+                
+<div class="maininfo common-slider relative thisday-with-longread" data-vr-zone="Исторический блок">
+
+        <div class="longread-card__wrapper weekend-slider__wrapper relative">
+
+            <div class="col-md-3 col-sm-6" data-vr-zone="Лонгрид на главной">
+                <div class="longread-blk weekend-blk deflt-blk box-accom relative" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/1444483/">
+                    <div class="relative">
+                        <div class="media-box">
+                            <a href="https://ussurmedia.ru/news/1444483/">
+                                <div class="weekend media-box-size lazy longread-media" style="background-image: url(https://primamediamts.servicecdn.ru/f/266x136/3477/3476666.png?90f7a0ec3a04a25ad9b26a5a9129c22c); background-repeat: no-repeat; background-size: cover; background-position: center;">
+                                    <div class="media-post-title">
+                                        <span>Лонгрид</span>
+                                        Массовая эксгумация и фейковые мертвецы: история кладбищ Уссурийска 
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+    </div>
+
+    <div class="thisday-common">
+                    <div class="container-wrapp" data-year="1" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/1241803/">
+                <a href="https://ussurmedia.ru/news/1241803/">
+                <div class="longread-block container-block" >
+                    <div class="container-block__img">
+                        <img src="https://primamediamts.servicecdn.ru/f/266x136/2836/2835055.jpg?d41d8cd98f00b204e9800998ecf8427e" alt="">
+                        <div class="longread-block-img__hover block-img__hover">
+                                <h2>
+                                    1 <br> <span> год назад</span></h2>
+                            </div>
+                        </div>    
+                        <div class="container-block__desc">
+                            <span class="container-block__span" data-vr-headline>
+                                8 слов, смысл которых знают меньше 10 % россиян: проверь себя при помощи теста                            </span>
+                        </div>    
+                    </div>
+                </a>
+            </div>
+                    <div class="container-wrapp" data-year="3" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/911698/">
+                <a href="https://ussurmedia.ru/news/911698/">
+                <div class="longread-block container-block" >
+                    <div class="container-block__img">
+                        <img src="https://primamediamts.servicecdn.ru/f/266x136/2025/2024149.jpg?d41d8cd98f00b204e9800998ecf8427e" alt="">
+                        <div class="longread-block-img__hover block-img__hover">
+                                <h2>
+                                    3 <br> <span> года назад</span></h2>
+                            </div>
+                        </div>    
+                        <div class="container-block__desc">
+                            <span class="container-block__span" data-vr-headline>
+                                На торги выставят два исторических здания в центре Уссурийска                            </span>
+                        </div>    
+                    </div>
+                </a>
+            </div>
+                    <div class="container-wrapp" data-year="4" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/788704/">
+                <a href="https://ussurmedia.ru/news/788704/">
+                <div class="longread-block container-block" >
+                    <div class="container-block__img">
+                        <img src="https://primamediamts.servicecdn.ru/f/266x136/1734/1733110.jpg?d41d8cd98f00b204e9800998ecf8427e" alt="">
+                        <div class="longread-block-img__hover block-img__hover">
+                                <h2>
+                                    4 <br> <span> года назад</span></h2>
+                            </div>
+                        </div>    
+                        <div class="container-block__desc">
+                            <span class="container-block__span" data-vr-headline>
+                                ТОП-10 медийных мужчин Уссурийска                            </span>
+                        </div>    
+                    </div>
+                </a>
+            </div>
+                    <div class="container-wrapp" data-year="5" data-vr-contentbox="Позиция 1" data-vr-contentbox-url="https://ussurmedia.ru/news/671313/">
+                <a href="https://ussurmedia.ru/news/671313/">
+                <div class="longread-block container-block" >
+                    <div class="container-block__img">
+                        <img src="https://primamediamts.servicecdn.ru/f/266x136/1442/1441023.jpg?d41d8cd98f00b204e9800998ecf8427e" alt="">
+                        <div class="longread-block-img__hover block-img__hover">
+                                <h2>
+                                    5 <br> <span> лет назад</span></h2>
+                            </div>
+                        </div>    
+                        <div class="container-block__desc">
+                            <span class="container-block__span" data-vr-headline>
+                                Уссурийск рассматривают как площадку для сборки КамАЗов                             </span>
+                        </div>    
+                    </div>
+                </a>
+            </div>
+            </div>
+</div>            </div>
+        </div>
+    </div>
+</section>
+
+                    <section class="s-banner center">
+                <div class="container">
+                    <div class="b-center">
+                                            <div class="prima-pic-a a-standart"></div>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 1200x100-->
+<!--Расположение: PC Main (1200x100) 4-->
+<div id="adfox_162079109021149265"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_162079109021149265',
+            params: {
+                pp: 'jbk',
+                ps: 'cejf',
+                p2: 'fgkg'
+            }
+        }, ['desktop', 'tablet'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>
+<!--AdFox START-->
+<!--PrimaMedia-->
+<!--Площадка: 9 UssurMedia / * / *-->
+<!--Тип баннера: 700x120-->
+<!--Расположение: Mobile Main (1200x100) 4-->
+<div id="adfox_16207911351407910"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 233354,
+            containerId: 'adfox_16207911351407910',
+            params: {
+                pp: 'nbt',
+                ps: 'cejf',
+                p2: 'fwku'
+            }
+        }, ['phone'], {
+            tabletWidth: 1024,
+            phoneWidth: 767,
+            isAutoReloads: false
+        });
+    })
+</script>                                        </div>
+                </div>
+            </section>
+
+            
+                            
+
+    <section class="business-sec-readhead noprint">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 business-sec-header">
+                    Выбор читателей
+                </div>
+            </div>
+        </div>
+    </section> 
+
+    <section class="business-sec-readers noprint">
+        <div class="container">
+            <div class="row">
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                1                            </div>
+                            <span class="business-readers-date">19 февраля, 11:35</span>
+                                <a href="https://ussurmedia.ru/news/1455307/" class="business-readers-title">20 тысяч долларов за убитого журналиста: о чем рассказал военкор Александр Пискунов</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                2                            </div>
+                            <span class="business-readers-date">18 февраля, 10:05</span>
+                                <a href="https://ussurmedia.ru/news/1455253/" class="business-readers-title">Юная певица из Уссурийска выступила в дополнительном этапе шоу "Голос. Дети"</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                3                            </div>
+                            <span class="business-readers-date">19 февраля, 14:50</span>
+                                <a href="https://ussurmedia.ru/news/1455529/" class="business-readers-title">Неосторожная тигрица закрылась в собачьем вольере на пасеке в Хабаровском крае</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                4                            </div>
+                            <span class="business-readers-date">14 февраля, 11:23</span>
+                                <a href="https://ussurmedia.ru/news/1452394/" class="business-readers-title">Люди провоцируют хищника сами: охотоведы о нападениях тигра в Приморье</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                5                            </div>
+                            <span class="business-readers-date">17 февраля, 13:01</span>
+                                <a href="https://ussurmedia.ru/news/1453534/" class="business-readers-title">Еще 15 камер фиксации нарушений ПДД на дорогах установят в Уссурийске</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                6                            </div>
+                            <span class="business-readers-date">18 февраля, 13:59</span>
+                                <a href="https://ussurmedia.ru/news/1455312/" class="business-readers-title">Мужчины, занимайте очередь: цветочная ярмарка к 8 Марта откроется в центре Уссурийска</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                7                            </div>
+                            <span class="business-readers-date">17 февраля, 17:07</span>
+                                <a href="https://ussurmedia.ru/news/1452029/" class="business-readers-title">Кто они – волонтеры Уссурийска: интервью с теми, кто скромно делает свою огромную работу</a>
+                        </div>            
+                    </div>
+
+                
+                    <div class="col-xs-12 col-sm-6 business-sec-container">
+                        <div class="business-readers-block">
+                            <div class="business-readers-num">
+                                8                            </div>
+                            <span class="business-readers-date">17 февраля, 18:09</span>
+                                <a href="https://ussurmedia.ru/news/1455011/" class="business-readers-title">Стефания Коваленко из Уссурийска выступит в прямом эфире на шоу "Голос. Дети"</a>
+                        </div>            
+                    </div>
+
+                            </div>
+        </div>
+    </section>
+            
+            
+<section id="mp-s8" data-hide="true">
+    <div class="container">
+        <div class="row">
+            <div class="footer-soc col-md-7 hidden-sm">
+
+                <ul class="footer-social">
+                    <li class="f-social__ico footer--google">
+                        <a title="Рассылка и RSS" target="_blank" href="/rss/">
+                            <i class="ico i-f-google"></i>
+                        </a>
+                    </li>
+
+                                                                <li class="f-social__ico footer--vk">
+                              <a target="_blank" href="http://vk.com/ussurmedia">
+                                  <i class="ico i-vk"></i>
+                              </a>
+                          </li>
+                                              <li class="f-social__ico footer--od">
+                              <a target="_blank" href="https://ok.ru/ussurmedia">
+                                  <i class="ico i-od"></i>
+                              </a>
+                          </li>
+                                              <li class="f-social__ico footer--yt">
+                              <a target="_blank" href="https://www.youtube.com/channel/UCiLQPUx4dwf-Wc0H23iLSXg">
+                                  <i class="ico i-yt"></i>
+                              </a>
+                          </li>
+                                              <li class="f-social__ico footer--zen">
+                              <a target="_blank" href="https://zen.yandex.ru/ussurmedia.ru">
+                                  <i class="ico i-zen"></i>
+                              </a>
+                          </li>
+                                      
+                                        <li class="f-social__ico footer-social__ico_t6 footer--telegram">
+                          <a title="Наши новости в Telegram" target="_blank" href="https://t.me/ussurmedianews">
+                              <i class="ico i-f-telegram"></i>
+                          </a>
+                      </li>
+                  
+                  
+                                  </ul>
+
+                <div class="clearfix"></div>
+
+                <div class="footer-nav footer-links-group">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="https://ussurmedia.ru/about">О нас</a></li>
+                        <li><a href="/contacts">Контакты</a></li>
+                        <li><a href="/a/">Размещение рекламы</a></li>
+                        <li class="send-news-footer"><i class="send-news-lightning"></i><a href="/contacts/?want-share=1#shareWithUs">Прислать новость</a></li>
+                    </ul>
+
+                    <div class="mark-info">
+                        <i class="fa fa-exclamation-triangle"></i>
+                        <p>
+                            <strong>Нашли опечатку?</strong><br>Ctrl+Enter
+                        </p>
+                    </div>
+                </div>
+
+                <div class="clearfix"></div>
+
+                <div class="footer-nav">
+                  
+                  <ul class="nav navbar-nav">
+    <li ><a href="/rules/">Правила сайта</a></li>
+    <li ><a href="/mpub/">Публикации</a></li>
+</ul>
+                    <!--p><a href="/mpub/">Публикации</a></p-->
+                </div>
+
+            </div>
+
+            <div class="col-md-5 subscribe-form--footer">
+              <form onSubmit="return checkSubscribeForm(this)" class="footer_subscribe_form hidden-xs" method="POST" action="https://cp.unisender.com/ru/subscribe?hash=6oj8njdrup1secgkwqbkes1hzeuj3exrwbsnppwo6wkaoysu793no">
+    <div class="row">
+        <div class="col-md-8">            
+            <input name="email" id="subscribe_email" placeholder="Ваш e-mail">
+        </div>
+        
+        <div class="col-md-4">
+            <label class="submit_btn">
+                <input type="submit">
+                <div>
+                    <span class="hidden-xs hidden-sm">ПОДПИСАТЬСЯ</span>
+                    <span class="hidden-lg hidden-md">ПОДПИСАТЬСЯ НА НОВОСТИ</span>
+                </div>
+            </label>
+        </div>
+    </div>
+    <div class="agree_box row">
+        <label class="col-md-12 col-sm-12"><input type="checkbox" id="agree_152">Настоящим, нажимая кнопку «Подписаться», я согласен на смешанную обработку, сбор, использование, хранение, уточнение, обезличивание, блокирование, уничтожение моих персональных данных владельцем Сайта в соответствии с <a target="_blank" href="https://ussurmedia.ru/rules/">правилами</a> сайта.</label>
+    </div>
+    <input type="hidden" name="charset" value=""/>
+    <input type="hidden" name="default_list_id" value="6275930"/>
+    <input type="hidden" name="overwrite" value="2" />
+</form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="mp-s9" data-hide="true">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <p>© 2005—2023 Медиахолдинг PrimaMedia</p>
+            </div>
+
+            <div class="col-md-2 hidden-xs hidden-sm">
+                <p><a href="https://vcrt.ru/" style="color:#666">Разработка сайта — ЦРТ</a></p>
+            </div>
+
+            <div class="col-md-4 hidden-xs hidden-sm">
+                <div id="send_typo" title="Сообщение об ошибке в тексте:">
+                    <p class="typo-head">Отправить сообщение в редакцию сайта?</p>
+                    <p class="typo-content" style="height: 35px"><b></b></p>
+                    <div class="text-center">
+                        <span style="font-size: 14px;">Введите цифры с картинки в текстовое поле</span><br />
+                        <img id="typo_captcha_img" src="/phpajax/captcha/captcha.php" onClick="typo_captcha_refresh();" style="cursor: pointer; margin-right: 10px;" /><input id="typo_captcha" style="width: 100px; font-size: 32px;position: relative;top: 10px;" maxlength="5"><br />
+                        <span style="font-size: 12px;">(нажмите на картинку, если не можете прочесть цифры)</span><br /><br />
+                    </div>
+                    <div class="text-center">
+                        <button type="button" class="btn btn-success">Отправить</button>
+                        &nbsp;&nbsp;&nbsp;
+                        <button type="button" class="btn btn-default">Отменить</button>
+                    </div>
+                </div>
+                <!--<script type="text/javascript" src="https://ussurmedia.ru/media/js/orphus.js"></script>-->
+                <!-- <a href="http://orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="/media/js/orphus.gif" border="0" width="257" height="48" /></a> -->
+            </div>
+
+            <div class="col-md-3 hidden-xs hidden-sm mature-warning">
+                <div class="p-16">18+</div>
+              
+<!-- Yandex.Metrika ubercounter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(32745915, "init", { id:32745915, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, params: {"news_region":117}});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32745915" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika ubercounter -->
+
+              <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5JKGRCR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Yandex.Metrika informer  <a href="https://metrika.yandex.ru/stat/?id=32745915&from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/32745915/3_0_868686FF_666666FF_1_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="32745915" data-lang="ru" /></a> <!-- /Yandex.Metrika informer --> <!-- Yandex.Metrika counter  <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(32745915, "init", { id:32745915, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/32745915" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+
+<div style="display:none;">
+<!— Yandex.Metrika K —> <a href="https://metrika.yandex.ru/stat/?id=48156317&from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/48156317/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="48156317" data-lang="ru" /></a> <!— /Yandex.Metrika informer —> <!— Yandex.Metrika counter —> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter48156317 = new Ya.Metrika({ id:48156317, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/48156317" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+</div>
+
+<script type="text/javascript">document.write("<a href='//www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t45.4;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random()+"' border=0 width=1 height=1 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'></a>")</script>
+
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 792468
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript><img src="//counter.rambler.ru/top100.cnt?pid=792468"></noscript>
+<!-- END Top100 (Kraken) Counter -->
+
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3157100", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3157100;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="btn_fly_share">
+    <div class="btn_fly_share_panel">
+        <div class="btn_fly_share_button" title="Поделиться">
+            <i class="fa fa-share" aria-hidden="true"></i>
+            <span class="label">поделиться</span>
+        </div>
+    </div>
+</div>                
+        
+    <script src="https://ussurmedia.ru/media/js/voice.js"></script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<script src="/assets/40aba778/js/bootstrap.js?v=1566966452"></script>
+<script src="/assets/25832da8/yii.js?v=1566966452"></script>
+<script src="https://ussurmedia.ru/media/js/reklama.js"></script>
+<script src="https://ussurmedia.ru/media/js/general-scripts.min.js"></script>
+<script src="https://ussurmedia.ru/media/js/all.js"></script>
+<script src="https://ussurmedia.ru/media/js/svgicons-config.js"></script>
+<script src="https://ussurmedia.ru/media/js/jquery.showmobilemessage.js"></script>
+<script src="https://vk.com/js/api/openapi.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.scrollto/2.1.2/jquery.scrollTo.min.js"></script>
+<script src="https://primamedia.ru/inc/js/jquery.updown.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.lazy/1.7.4/jquery.lazy.min.js"></script>
+<script src="https://ussurmedia.ru/media/js/subscribe_form.js"></script>
+<script>jQuery(function ($) {
+jQuery('#modal-photoday').modal({"show":false});
+});</script>
+                <script>
+
+        (function($){
+            $(window).load(function(){
+
+                $(".mp-mainnews #accordion .panel-body").mCustomScrollbar({
+                        setHeight:500,
+                        theme:"dark-3"
+                });
+
+               $("#accordion .panel-body").mCustomScrollbar({
+                        setHeight:380,
+                        theme:"dark-3",
+                        callbacks:{
+                            onInit: function () {
+                                $(this).trigger("initialized");
+                            }
+                        }
+                });
+
+                // daydate slider
+                $('.carousel').carousel('pause');
+                
+                if (window.adblockEnabled === undefined) {
+    
+                    $('.prima-pic-a').css({"background-color" : "#E91A1F"});
+                    $('.a-standart').parent().css({"position" : "relative"});
+                    
+                    $('.prima-pic-a').show();       
+                }
+
+            });
+
+						
+        })(jQuery);
+    </script>        <script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/6.3.4/firebase-messaging.js"></script>
+
+<script >
+    "use strict";
+    
+    var MessagingController = (function () {
+        function MessagingController(ru_primamedia_MessagingController__number_region_id, ru_primamedia_MessagingController__messaging, __string_subscribe_selector, __string_unsubscribe_selector, __string_subscribe_icon, __string_unsubscribe_icon) {
+            var _this = this;
+            this.ru_primamedia_MessagingController__number_region_id = ru_primamedia_MessagingController__number_region_id;
+            this.ru_primamedia_MessagingController__messaging = ru_primamedia_MessagingController__messaging;
+            this.ru_primamedia_MessagingController__messaging.onSubscribe = function (__string_token) {
+                $.getJSON("/push/subscribe/", {
+                    PushSubscription: {
+                        token: __string_token,
+                        id_region: _this.ru_primamedia_MessagingController__number_region_id
+                    }
+                }).done(function (__any_response) {
+                    if (__any_response)
+                        localStorage.setItem("web-push", "!");
+                    else
+                        alert("Ошибка! Не удалось оформить подписку.");
+                }).fail(function () {
+                    alert("Ошибка! Не удалось оформить подписку. Попробуйте еще раз.");
+                });
+                _this.ru_primamedia_MessagingController__function_toggle(_this.ru_primamedia_MessagingController__j_query_subscribe, _this.ru_primamedia_MessagingController__j_query_unsubscribe);
+            };
+            this.ru_primamedia_MessagingController__messaging.onUnsubscribe = function (__string_token) {
+                $.getJSON("/push/unsubscribe/", {
+                    token: __string_token
+                }).done(function (__any_response) {
+                    localStorage.removeItem("web-push");
+                });
+                _this.ru_primamedia_MessagingController__function_toggle(_this.ru_primamedia_MessagingController__j_query_unsubscribe, _this.ru_primamedia_MessagingController__j_query_subscribe);
+            };
+            this.ru_primamedia_MessagingController__j_query_subscribe = $(__string_subscribe_selector).append("<img src=" + __string_subscribe_icon + " />").click(function (__click_event) {
+                __click_event.preventDefault();
+                _this.ru_primamedia_MessagingController__messaging.subscribe();
+                _this.ru_primamedia_MessagingController__function_block(_this.ru_primamedia_MessagingController__j_query_subscribe);
+            }).hide();
+            this.ru_primamedia_MessagingController__j_query_unsubscribe = $(__string_unsubscribe_selector).append("<img src=" + __string_unsubscribe_icon + " />").click(function (__click_event) {
+                __click_event.preventDefault();
+                _this.ru_primamedia_MessagingController__messaging.unsubscribe();
+                _this.ru_primamedia_MessagingController__function_block(_this.ru_primamedia_MessagingController__j_query_unsubscribe);
+            }).hide();
+            if (!!localStorage.getItem("web-push"))
+                this.ru_primamedia_MessagingController__j_query_unsubscribe.show();
+            else
+                this.ru_primamedia_MessagingController__j_query_subscribe.show();
+        }
+        MessagingController.prototype.ru_primamedia_MessagingController__function_block = function (__j_query_element) {
+            __j_query_element.css("pointer-events", "none").animate({ opacity: 0 }, 450);
+        };
+        MessagingController.prototype.ru_primamedia_MessagingController__function_toggle = function (__j_query_element_1, __j_query_element_2) {
+            __j_query_element_1.hide(), __j_query_element_2.show().css("opacity", 1);
+        };
+        return MessagingController;
+    }());
+
+    var Messaging = (function () {
+        function Messaging(__app) {
+            var _this = this;
+            var __service_worker = null;
+            this.ru_primamedia_Messaging__messaging = __app.messaging();
+            this.ru_primamedia_Messaging__messaging.onTokenRefresh(function () {
+                _this.ru_primamedia_Messaging__function_token_action(_this.onSubscribe);
+            });
+            this.ru_primamedia_Messaging__messaging.onMessage(function (__any_payload) {
+                if (!!__service_worker)
+                    __service_worker.postMessage(__any_payload);
+            });
+            navigator.serviceWorker.register("/firebase-messaging-sw.js")
+                .then(function (__service_worker_registration) {
+                __service_worker = __service_worker_registration.active;
+            })
+                .catch(function (__any_error) {
+            });
+        }
+        Messaging.prototype.ru_primamedia_Messaging__function_token_action = function (__function_callback) {
+            this.ru_primamedia_Messaging__messaging.getToken().then(__function_callback).catch(console.error);
+        };
+        Messaging.prototype.onSubscribe = function (__string_token) { };
+        Messaging.prototype.onUnsubscribe = function (__string_token) { };
+        Messaging.prototype.subscribe = function () {
+            var _this = this;
+            Notification.requestPermission()
+                .then(function (__notification_permission) {
+                if ("granted" === __notification_permission)
+                    _this.ru_primamedia_Messaging__function_token_action(_this.onSubscribe);
+            })
+                .catch(function (__any_error) {
+                console.log(__any_error);
+            });
+        };
+        Messaging.prototype.unsubscribe = function () {
+            var _this = this;
+            this.ru_primamedia_Messaging__function_token_action(function (__string_token) {
+                if (!!__string_token)
+                    _this.ru_primamedia_Messaging__messaging.deleteToken(__string_token)
+                        .then(function () {
+                        _this.onUnsubscribe(__string_token);
+                    });
+            });
+        };
+        return Messaging;
+    }());
+
+    $(function () {
+        firebase.messaging.isSupported() && new MessagingController(117, new Messaging(firebase.initializeApp({storageBucket: "", projectId: "prima-push", messagingSenderId: "882192556468", authDomain: "prima-push.firebaseapp.com", appId: "1:882192556468:web:66ac57da6dc63106", databaseURL: "https://prima-push.firebaseio.com", apiKey: "AIzaSyDHSrhkp-BXlkTaS4WZzGG7W06fguUgUhg"})), "#subscribe-link,#subscribe-mobile", "#unsubscribe-link,#unsubscribe-mobile", "https://primamediamts.servicecdn.ru/media/img/new_bell-wht.svg", "https://primamediamts.servicecdn.ru/media/img/new_bell-wht-off.svg");
+    });    
+</script>            
+    
+    
+        <script type="module">
+        import {Workbox} from "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-window.prod.mjs";
+
+        if ("serviceWorker" in navigator) {           
+          const wb = new Workbox("/service-worker.js");
+
+          wb.register();
+        }
+    </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"79c85f952a415c3e","version":"2023.2.0","r":1,"token":"48ba5e00e0d94b70ac454bd7d94e3f2d","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

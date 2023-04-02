@@ -1,0 +1,2527 @@
+
+
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="application-name" content="Поиск работы по всей России"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="https://gorodrabot.ru/mstile-144x144.png"/>
+    <meta name="msapplication-square70x70logo" content="https://gorodrabot.ru/mstile-144x144.png"/>
+    <meta name="msapplication-square150x150logo" content="https://gorodrabot.ru/mstile-144x144.png"/>
+    <meta name="msapplication-wide310x150logo" content="https://gorodrabot.ru/mstile-144x144.png"/>
+    <meta name="msapplication-square310x310logo" content="https://gorodrabot.ru/mstile-144x144.png"/>
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://gorodrabot.ru/favicon.ico"/>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57"
+          href="https://gorodrabot.ru/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="https://gorodrabot.ru/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72"
+          href="https://gorodrabot.ru/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"
+          href="https://gorodrabot.ru/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120"
+          href="https://gorodrabot.ru/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152"
+          href="https://gorodrabot.ru/apple-touch-icon-152x152.png"/>
+    <link rel="icon" type="image/png" href="https://gorodrabot.ru/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="https://gorodrabot.ru/favicon-16x16.png" sizes="16x16"/>
+
+    <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="j6CgWv5WyYxVtoK3i_xoMj5KSrOHp9fSlHFxmF9Ro4Pm59Eeij-C6jObsIPcswdLD38Y2771rbPLO1zfMCDa5A==">
+
+    <title>Работа, вакансии и резюме со всей России | Поиск работы с ГородРабот.ру</title>
+
+    <meta property="og:site_name" content="gorodrabot.ru">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://gorodrabot.ru/images/remote/white_logo_600x315.png">
+<meta property="og:title" content="Работа, вакансии и резюме со всей России">
+<meta name="description" content="Найти работу в любой точке России легко с ГородРабот.ру! Более миллиона свежих вакансий и резюме ждут Вас здесь.">
+<meta property="og:description" content="Найти работу в любой точке России легко с ГородРабот.ру! Более миллиона свежих вакансий и резюме ждут Вас здесь.">
+<meta property="og:url" content="https://gorodrabot.ru">
+<link href="https://gorodrabot.ru" rel="canonical">
+<link href="https://gorodrabot.ru/dist/common.css?v=27133675" rel="preload" as="style">
+<link href="https://gorodrabot.ru/dist/common.css?v=27133675" rel="stylesheet">
+<link href="https://gorodrabot.ru/dist/index.css?v=27133675" rel="preload" as="style">
+<link href="https://gorodrabot.ru/dist/index.css?v=27133675" rel="stylesheet">
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script>
+    window.yaContextCb=window.yaContextCb||[];
+</script></head>
+<body>
+    
+<div class="page" data-config="{&amp;quot;params&amp;quot;:{&amp;quot;_csrf-frontend&amp;quot;:&amp;quot;j6CgWv5WyYxVtoK3i_xoMj5KSrOHp9fSlHFxmF9Ro4Pm59Eeij-C6jObsIPcswdLD38Y2771rbPLO1zfMCDa5A==&amp;quot;}}">        
+<header class="d-print-none header header_small header_fixed">
+        <div class="header__fixed-content">
+                <div class="header__main-nav main-nav">
+            <nav class="header__wrapper area">
+                <button aria-label="Навигация" class="header__menu-button main-nav__menu-button menu-button button button_style_primary">
+                    <span class="menu-button__item"></span>
+                                    </button>
+                <div class="header__display-fixed-only">
+                    <div class="main-nav__main-logo  main-logo">
+                        <a class="main-logo__link  link"
+                           href="javascript:void(0)"
+                           aria-label="Поиск работы с ГородРабот.ру"
+                        >
+                            
+
+<svg class="main-logo__img" viewBox="0 0 102 32" fill="#FFF" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.04006 20.6831H0.691406V10.2496H7.81265V12.2369H3.04006V20.6831Z" />
+<path d="M14.9259 16.7084C14.9259 17.3307 14.8355 17.9028 14.6549 18.4247C14.4742 18.9366 14.2132 19.3782 13.872 19.7496C13.5307 20.1109 13.1192 20.392 12.6374 20.5927C12.1657 20.7935 11.6337 20.8938 11.0415 20.8938C10.4594 20.8938 9.92744 20.7935 9.44566 20.5927C8.97392 20.392 8.56742 20.1109 8.22617 19.7496C7.88491 19.3782 7.61893 18.9366 7.42823 18.4247C7.23752 17.9028 7.14217 17.3307 7.14217 16.7084C7.14217 16.0861 7.23752 15.519 7.42823 15.0071C7.62897 14.4952 7.89997 14.0586 8.24122 13.6973C8.59252 13.336 9.00403 13.0549 9.47577 12.8542C9.95755 12.6535 10.4795 12.5531 11.0415 12.5531C11.6136 12.5531 12.1356 12.6535 12.6073 12.8542C13.0891 13.0549 13.5006 13.336 13.8419 13.6973C14.1831 14.0586 14.4491 14.4952 14.6398 15.0071C14.8305 15.519 14.9259 16.0861 14.9259 16.7084ZM12.6374 16.7084C12.6374 16.0159 12.4969 15.4739 12.2159 15.0824C11.9449 14.6809 11.5534 14.4802 11.0415 14.4802C10.5297 14.4802 10.1332 14.6809 9.85216 15.0824C9.57112 15.4739 9.4306 16.0159 9.4306 16.7084C9.4306 17.401 9.57112 17.953 9.85216 18.3645C10.1332 18.766 10.5297 18.9667 11.0415 18.9667C11.5534 18.9667 11.9449 18.766 12.2159 18.3645C12.4969 17.953 12.6374 17.401 12.6374 16.7084Z" />
+<path d="M20.8439 16.7837C20.8439 16.0911 20.6883 15.5391 20.3772 15.1276C20.066 14.706 19.6043 14.4953 18.9921 14.4953C18.7913 14.4953 18.6057 14.5053 18.435 14.5254C18.2644 14.5354 18.1239 14.5505 18.0135 14.5705V18.6205C18.154 18.7108 18.3347 18.7861 18.5555 18.8463C18.7863 18.9065 19.0172 18.9366 19.248 18.9366C20.3119 18.9366 20.8439 18.219 20.8439 16.7837ZM23.1323 16.7235C23.1323 17.3357 23.0571 17.8928 22.9065 18.3946C22.756 18.8965 22.5351 19.3281 22.2441 19.6894C21.953 20.0507 21.5917 20.3318 21.1601 20.5325C20.7285 20.7332 20.2317 20.8336 19.6696 20.8336C19.3584 20.8336 19.0674 20.8035 18.7964 20.7433C18.5254 20.6831 18.2644 20.5977 18.0135 20.4873V23.4683H15.7702V13.0349C15.971 12.9746 16.2018 12.9194 16.4628 12.8693C16.7237 12.809 16.9947 12.7589 17.2758 12.7187C17.5668 12.6786 17.8579 12.6484 18.149 12.6284C18.4501 12.5983 18.7361 12.5832 19.0071 12.5832C19.6595 12.5832 20.2417 12.6836 20.7536 12.8843C21.2655 13.075 21.6971 13.351 22.0483 13.7124C22.3996 14.0637 22.6656 14.4952 22.8463 15.0071C23.037 15.519 23.1323 16.0911 23.1323 16.7235Z" />
+<path d="M31.6615 16.7084C31.6615 17.3307 31.5712 17.9028 31.3905 18.4247C31.2098 18.9366 30.9489 19.3782 30.6076 19.7496C30.2664 20.1109 29.8548 20.392 29.3731 20.5927C28.9013 20.7935 28.3694 20.8938 27.7772 20.8938C27.195 20.8938 26.6631 20.7935 26.1813 20.5927C25.7096 20.392 25.3031 20.1109 24.9618 19.7496C24.6206 19.3782 24.3546 18.9366 24.1639 18.4247C23.9732 17.9028 23.8778 17.3307 23.8778 16.7084C23.8778 16.0861 23.9732 15.519 24.1639 15.0071C24.3646 14.4952 24.6356 14.0586 24.9769 13.6973C25.3282 13.336 25.7397 13.0549 26.2114 12.8542C26.6932 12.6535 27.2151 12.5531 27.7772 12.5531C28.3493 12.5531 28.8712 12.6535 29.343 12.8542C29.8247 13.0549 30.2362 13.336 30.5775 13.6973C30.9188 14.0586 31.1847 14.4952 31.3754 15.0071C31.5661 15.519 31.6615 16.0861 31.6615 16.7084ZM29.3731 16.7084C29.3731 16.0159 29.2325 15.4739 28.9515 15.0824C28.6805 14.6809 28.2891 14.4802 27.7772 14.4802C27.2653 14.4802 26.8688 14.6809 26.5878 15.0824C26.3068 15.4739 26.1663 16.0159 26.1663 16.7084C26.1663 17.401 26.3068 17.953 26.5878 18.3645C26.8688 18.766 27.2653 18.9667 27.7772 18.9667C28.2891 18.9667 28.6805 18.766 28.9515 18.3645C29.2325 17.953 29.3731 17.401 29.3731 16.7084Z" />
+<path d="M32.0442 18.8463H33.0228C33.3039 18.505 33.5197 18.0835 33.6702 17.5816C33.8308 17.0697 33.9412 16.5328 34.0015 15.9707C34.0717 15.3986 34.1119 14.8315 34.1219 14.2694C34.1319 13.7073 34.137 13.2055 34.137 12.7639H40.3097V18.8463H41.6496V22.9414H39.7376V20.6831H33.9563V22.9414H32.0442V18.8463ZM38.0664 18.8463V14.6006H36.2297C36.2096 14.9519 36.1845 15.3183 36.1544 15.6997C36.1343 16.0711 36.0891 16.4424 36.0189 16.8138C35.9587 17.1751 35.8733 17.5314 35.7629 17.8827C35.6525 18.234 35.507 18.5552 35.3263 18.8463H38.0664Z" />
+<path d="M45.7629 10.1292C47.3187 10.1292 48.5131 10.4052 49.3461 10.9572C50.1792 11.4992 50.5957 12.3925 50.5957 13.6371C50.5957 14.8917 50.1742 15.8001 49.3311 16.3621C48.488 16.9142 47.2835 17.1902 45.7178 17.1902H44.9801V20.6831H42.6314V10.4002C43.1433 10.2998 43.6853 10.2295 44.2574 10.1894C44.8295 10.1492 45.3313 10.1292 45.7629 10.1292ZM45.9135 12.1315C45.7429 12.1315 45.5722 12.1366 45.4016 12.1466C45.241 12.1566 45.1005 12.1667 44.9801 12.1767V15.1878H45.7178C46.5308 15.1878 47.143 15.0774 47.5545 14.8566C47.9661 14.6358 48.1718 14.2243 48.1718 13.622C48.1718 13.331 48.1166 13.0901 48.0062 12.8994C47.9058 12.7087 47.7553 12.5581 47.5545 12.4477C47.3638 12.3273 47.128 12.247 46.8469 12.2068C46.5659 12.1566 46.2547 12.1315 45.9135 12.1315Z" />
+<path d="M54.2173 19.1173C54.4381 19.1173 54.6489 19.1123 54.8496 19.1022C55.0504 19.0922 55.211 19.0771 55.3314 19.0571V17.3558C55.2411 17.3357 55.1056 17.3156 54.9249 17.2956C54.7443 17.2755 54.5786 17.2655 54.4281 17.2655C54.2173 17.2655 54.0166 17.2805 53.8259 17.3106C53.6452 17.3307 53.4846 17.3759 53.3441 17.4461C53.2036 17.5164 53.0932 17.6117 53.0129 17.7322C52.9326 17.8526 52.8924 18.0032 52.8924 18.1838C52.8924 18.5351 53.0079 18.781 53.2387 18.9216C53.4796 19.052 53.8058 19.1173 54.2173 19.1173ZM54.0366 12.5531C54.6991 12.5531 55.2511 12.6284 55.6927 12.7789C56.1344 12.9295 56.4857 13.1453 56.7466 13.4263C57.0176 13.7073 57.2083 14.0486 57.3187 14.4501C57.4291 14.8516 57.4843 15.2982 57.4843 15.79V20.4572C57.1632 20.5275 56.7165 20.6078 56.1444 20.6981C55.5723 20.7985 54.8798 20.8487 54.0668 20.8487C53.5549 20.8487 53.0882 20.8035 52.6666 20.7132C52.2551 20.6228 51.8988 20.4773 51.5977 20.2766C51.2965 20.0658 51.0657 19.7948 50.9051 19.4636C50.7445 19.1323 50.6642 18.7258 50.6642 18.2441C50.6642 17.7824 50.7545 17.3909 50.9352 17.0697C51.1259 16.7486 51.3768 16.4926 51.688 16.3019C51.9991 16.1112 52.3554 15.9757 52.7569 15.8954C53.1584 15.8051 53.5749 15.7599 54.0065 15.7599C54.2976 15.7599 54.5535 15.775 54.7744 15.8051C55.0052 15.8251 55.1909 15.8553 55.3314 15.8954V15.6846C55.3314 15.3032 55.216 14.9971 54.9851 14.7662C54.7543 14.5354 54.3528 14.42 53.7807 14.42C53.3993 14.42 53.0229 14.4501 52.6515 14.5103C52.2802 14.5605 51.959 14.6358 51.688 14.7361L51.4019 12.9295C51.5324 12.8893 51.693 12.8492 51.8837 12.809C52.0844 12.7589 52.3002 12.7187 52.5311 12.6886C52.7619 12.6484 53.0028 12.6183 53.2538 12.5983C53.5147 12.5681 53.7757 12.5531 54.0366 12.5531Z" />
+<path d="M65.6581 10.912C65.2868 10.9923 64.9355 11.0475 64.6042 11.0777C64.273 11.1078 63.9318 11.1529 63.5805 11.2132C63.2794 11.2633 62.9783 11.3386 62.6771 11.439C62.376 11.5394 62.095 11.6799 61.834 11.8605C61.5831 12.0312 61.3623 12.252 61.1716 12.523C60.9809 12.7839 60.8454 13.1101 60.7651 13.5016C61.4175 13.1904 62.0498 13.0349 62.6621 13.0349C63.1439 13.0349 63.5905 13.1152 64.002 13.2758C64.4135 13.4363 64.7699 13.6772 65.071 13.9984C65.3821 14.3196 65.623 14.7211 65.7936 15.2029C65.9743 15.6746 66.0646 16.2266 66.0646 16.859C66.0646 17.5415 65.9643 18.1337 65.7635 18.6355C65.5628 19.1374 65.2868 19.5589 64.9355 19.9002C64.5942 20.2314 64.1927 20.4823 63.731 20.6529C63.2794 20.8135 62.7926 20.8938 62.2706 20.8938C60.8755 20.8938 59.8768 20.4723 59.2746 19.6292C58.6724 18.776 58.3713 17.5264 58.3713 15.8804C58.3713 14.7964 58.4767 13.878 58.6874 13.1252C58.8982 12.3624 59.2144 11.7301 59.6359 11.2282C60.0575 10.7163 60.5794 10.3148 61.2017 10.0238C61.824 9.7327 62.5467 9.50185 63.3697 9.33122C63.7009 9.26096 64.0321 9.21078 64.3634 9.18067C64.7046 9.14052 65.0509 9.0803 65.4022 9L65.6581 10.912ZM60.7199 15.3384C60.6999 15.4789 60.6848 15.6395 60.6748 15.8201C60.6748 16.0008 60.6748 16.1614 60.6748 16.3019C60.6748 17.1852 60.7952 17.8526 61.0361 18.3043C61.287 18.756 61.7036 18.9818 62.2857 18.9818C62.7775 18.9818 63.1539 18.7911 63.4149 18.4097C63.6758 18.0283 63.8063 17.5164 63.8063 16.874C63.8063 16.6231 63.7762 16.3822 63.716 16.1514C63.6558 15.9105 63.5604 15.6997 63.4299 15.519C63.2994 15.3384 63.1388 15.1928 62.9481 15.0824C62.7574 14.972 62.5316 14.9168 62.2706 14.9168C62.0097 14.9168 61.7337 14.9469 61.4426 15.0071C61.1616 15.0674 60.9207 15.1778 60.7199 15.3384Z" />
+<path d="M74.5949 16.7084C74.5949 17.3307 74.5045 17.9028 74.3239 18.4247C74.1432 18.9366 73.8822 19.3782 73.541 19.7496C73.1997 20.1109 72.7882 20.392 72.3064 20.5927C71.8347 20.7935 71.3027 20.8938 70.7105 20.8938C70.1284 20.8938 69.5964 20.7935 69.1147 20.5927C68.6429 20.392 68.2364 20.1109 67.8952 19.7496C67.5539 19.3782 67.2879 18.9366 67.0972 18.4247C66.9065 17.9028 66.8112 17.3307 66.8112 16.7084C66.8112 16.0861 66.9065 15.519 67.0972 15.0071C67.298 14.4952 67.569 14.0586 67.9102 13.6973C68.2615 13.336 68.673 13.0549 69.1448 12.8542C69.6265 12.6535 70.1485 12.5531 70.7105 12.5531C71.2826 12.5531 71.8046 12.6535 72.2763 12.8542C72.7581 13.0549 73.1696 13.336 73.5109 13.6973C73.8521 14.0586 74.1181 14.4952 74.3088 15.0071C74.4995 15.519 74.5949 16.0861 74.5949 16.7084ZM72.3064 16.7084C72.3064 16.0159 72.1659 15.4739 71.8849 15.0824C71.6139 14.6809 71.2224 14.4802 70.7105 14.4802C70.1987 14.4802 69.8022 14.6809 69.5212 15.0824C69.2401 15.4739 69.0996 16.0159 69.0996 16.7084C69.0996 17.401 69.2401 17.953 69.5212 18.3645C69.8022 18.766 70.1987 18.9667 70.7105 18.9667C71.2224 18.9667 71.6139 18.766 71.8849 18.3645C72.1659 17.953 72.3064 17.401 72.3064 16.7084Z" />
+<path d="M82.2795 14.6006H79.7502V20.6831H77.5069V14.6006H74.9776V12.7639H82.2795V14.6006Z" />
+<path d="M84.6776 19.4937C84.6776 19.9453 84.532 20.2916 84.2409 20.5325C83.9599 20.7633 83.6387 20.8788 83.2774 20.8788C82.9161 20.8788 82.5899 20.7633 82.2988 20.5325C82.0177 20.2916 81.8772 19.9453 81.8772 19.4937C81.8772 19.042 82.0177 18.7007 82.2988 18.4699C82.5899 18.229 82.9161 18.1086 83.2774 18.1086C83.6387 18.1086 83.9599 18.229 84.2409 18.4699C84.532 18.7007 84.6776 19.042 84.6776 19.4937Z" />
+<path d="M91.0588 16.7837C91.0588 16.0911 90.9032 15.5391 90.5921 15.1276C90.2809 14.706 89.8192 14.4953 89.207 14.4953C89.0062 14.4953 88.8205 14.5053 88.6499 14.5254C88.4793 14.5354 88.3388 14.5505 88.2284 14.5705V18.6205C88.3689 18.7108 88.5495 18.7861 88.7704 18.8463C89.0012 18.9065 89.2321 18.9366 89.4629 18.9366C90.5268 18.9366 91.0588 18.219 91.0588 16.7837ZM93.3472 16.7235C93.3472 17.3357 93.2719 17.8928 93.1214 18.3946C92.9708 18.8965 92.75 19.3281 92.459 19.6894C92.1679 20.0507 91.8066 20.3318 91.375 20.5325C90.9434 20.7332 90.4465 20.8336 89.8845 20.8336C89.5733 20.8336 89.2822 20.8035 89.0113 20.7433C88.7403 20.6831 88.4793 20.5977 88.2284 20.4873V23.4683H85.9851V13.0349C86.1858 12.9746 86.4167 12.9194 86.6776 12.8693C86.9386 12.809 87.2096 12.7589 87.4906 12.7187C87.7817 12.6786 88.0728 12.6484 88.3639 12.6284C88.665 12.5983 88.951 12.5832 89.222 12.5832C89.8744 12.5832 90.4566 12.6836 90.9685 12.8843C91.4804 13.075 91.9119 13.351 92.2632 13.7124C92.6145 14.0637 92.8805 14.4952 93.0612 15.0071C93.2519 15.519 93.3472 16.0911 93.3472 16.7235Z" />
+<path d="M101.5 12.7639C101.048 14.2895 100.577 15.7198 100.085 17.0547C99.593 18.3896 99.056 19.6844 98.4738 20.939C98.2631 21.3907 98.0523 21.7721 97.8415 22.0832C97.6307 22.4044 97.3999 22.6654 97.149 22.8661C96.898 23.0769 96.612 23.2274 96.2908 23.3178C95.9797 23.4181 95.6133 23.4683 95.1917 23.4683C94.8405 23.4683 94.5143 23.4332 94.2132 23.3629C93.9221 23.3027 93.6812 23.2324 93.4905 23.1522L93.8819 21.3605C94.1128 21.4408 94.3185 21.496 94.4992 21.5262C94.6799 21.5563 94.8706 21.5713 95.0713 21.5713C95.4728 21.5713 95.7789 21.4609 95.9897 21.2401C96.2105 21.0293 96.3962 20.7332 96.5467 20.3518C96.0349 19.3481 95.523 18.224 95.0111 16.9794C94.4992 15.7248 94.0174 14.3196 93.5658 12.7639H95.9445C96.0449 13.1553 96.1603 13.5819 96.2908 14.0436C96.4313 14.4952 96.5769 14.957 96.7274 15.4287C96.878 15.8904 97.0285 16.3421 97.1791 16.7837C97.3397 17.2253 97.4902 17.6268 97.6307 17.9881C97.7612 17.6268 97.8967 17.2253 98.0372 16.7837C98.1778 16.3421 98.3133 15.8904 98.4437 15.4287C98.5843 14.957 98.7147 14.4952 98.8352 14.0436C98.9657 13.5819 99.0811 13.1553 99.1815 12.7639H101.5Z" />
+</svg>
+                        </a>
+                    </div>
+                </div>
+                <ul class="main-nav__list">
+                                        <li class="main-nav__item main-nav__item_user-panel">
+                        <a class="main-nav__button button button_style_add" href="https://gorodrabot.ru/my/resume/create" title="Создать резюме" data-event="1" data-event_category="guest clicks" data-event_action="plus" data-event_label="Создать резюме">Создать резюме</a>                    </li>
+                    <li class="main-nav__item main-nav__item_user-panel">
+                        <a class="main-nav__button button button_style_outline-primary" href="https://gorodrabot.ru/site/login" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="menu" data-event_label="Войти">Войти</a>                    </li>
+                                        <li class="main-nav__item main-nav__item_start-spliter"></li>
+                    <li class="main-nav__item main-nav__item_mobile">
+                        <button type="button" class="main-nav__link link popup__action_opener action-list" data-popup="#advanced_search">
+                            <i class="action-list__icon fa fa-search"></i>
+                                                            Найти работу
+                                                    </button>
+                    </li>
+                    <li class="main-nav__item main-nav__item_mobile">
+                        <a class="main-nav__link link action-list" href="https://gorodrabot.ru/favorite" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="menu" data-event_label="Избранные вакансии"><i class="action-list__icon fa fa-heart"></i>Избранные вакансии (<span class="vacancy__favorite-count">0</span>)</a>                    </li>
+                    <li class="main-nav__item main-nav__item_spliter"></li>
+                            <li class="main-nav__item">
+        <button type="button" class="main-nav__link link">
+            Соискателям
+        </button>
+        <ul class="main-nav__nav nav">
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/my/resume/create" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Создать резюме">Создать резюме</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/resume_guide?utm_source=gorodrabot.ru&amp;utm_medium=landing&amp;utm_campaign=menu&amp;utm_content=resume_guide" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Как составить резюме">Как составить резюме</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/resume/example" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Образцы резюме">Образцы резюме</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://kazan.gorodrabot.ru/" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Найти работу">Найти работу</a>            </li>
+        </ul>
+    </li>
+    <li class="main-nav__item">
+        <button type="button" class="main-nav__link link">
+            Работодателям
+        </button>
+        <ul class="main-nav__nav nav">
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/vacancy_add" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Разместить вакансию">Разместить вакансию</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/resume_base" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="База резюме">База резюме</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/hr_brand" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="HR-брендирование">HR-брендирование</a>            </li>
+        </ul>
+    </li>
+    <li class="main-nav__item">
+        <button type="button" class="main-nav__link link">
+            Сервисы
+        </button>
+        <ul class="main-nav__nav nav">
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/calendar" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Производственный календарь">Производственный календарь</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/salary" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Статистика зарплат">Статистика зарплат</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/site/calculator" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Калькулятор зарплат">Калькулятор зарплат</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/fraud_vacancy_check" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Проверить вакансию">Проверить вакансию</a>            </li>
+        </ul>
+    </li>
+    <li class="main-nav__item">
+        <button type="button" class="main-nav__link link">
+            Блог
+        </button>
+        <ul class="main-nav__nav nav">
+                            <li class="nav__item">
+                    <a class="nav__link button button_style_light" href="https://gorodrabot.ru/news" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Новости">Новости</a>                </li>
+            
+                            <li class="nav__item">
+                    <a class="nav__link button button_style_light" href="https://gorodrabot.ru/article" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Статьи">Статьи</a>                </li>
+            
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/longreads" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Лонгриды">Лонгриды</a>            </li>
+
+                            <li class="nav__item">
+                    <a class="nav__link button button_style_light" href="https://gorodrabot.ru/event" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Мероприятия">Мероприятия</a>                </li>
+            
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/fraud" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Виды мошенничества">Виды мошенничества</a>            </li>
+        </ul>
+    </li>
+    <li class="main-nav__item">
+        <button type="button" class="main-nav__link link">
+            Помощь
+        </button>
+        <ul class="main-nav__nav nav">
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/faq" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Вопросы и ответы">Вопросы и ответы</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/user_agreement" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Пользовательское соглашение">Пользовательское соглашение</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/user_policy" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Политика обработки персональных данных">Политика обработки персональных данных</a>            </li>
+            <li class="nav__item">
+                <a class="nav__link button button_style_light" href="https://gorodrabot.ru/contact" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="navbar" data-event_label="Обратная связь">Обратная связь</a>            </li>
+        </ul>
+    </li>
+                    <li class="main-nav__item main-nav__item_spliter"></li>
+                                    </ul>
+                <div class="main-nav__user-panel">
+                    <button aria-label="Поиск"
+                        class="main-nav__search-button popup__action_opener button button_style_primary
+                        "
+                        data-popup="#advanced_search">
+                        <i class="main-nav__search-icon fa fa-search"></i>
+                                                    Найти работу
+                                            </button>
+                    <div class="header__action-list header__action-list_user action-list
+                         header__action-list_guest-user">
+                        <button aria-label="Меню пользователя" class="header__user-button main-nav__user-button button button_style_primary">
+                                                        <i class="fa fa-user-circle"></i>
+                                                    </button>
+                        <div class="action-list__content">
+                                                        <ul class="action-list__list list">
+    <li>
+        <a class="action-list__item button button_style_light" href="https://gorodrabot.ru/favorite" data-event="1" data-event_category="guest clicks" data-event_action="menu" data-event_label="Избранные вакансии"><i class="action-list__icon action-list__icon_favorite fa fa-heart"></i>Избранные вакансии (<span class="vacancy__favorite-count">0</span>)</a>    </li>
+    <li>
+        <div class="action-list__spliter"></div>
+    </li>
+            <li>
+            <a class="action-list__item button button_style_light" href="https://gorodrabot.ru/site/login" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="menu" data-event_label="Войти">Войти</a>        </li>
+                        <li>
+            <a class="action-list__item button button_style_light" href="https://gorodrabot.ru/site/register" rel="nofollow" data-event="1" data-event_category="guest clicks" data-event_action="menu" data-event_label="Зарегистрироваться">Зарегистрироваться</a>        </li>
+        </ul>                        </div>
+                    </div>
+                                        <div class="header__action-list header__action-list_add action-list">
+                        <button type="button"
+                            class="main-nav__add-button header__add-button add-button button button_style_add"
+                            aria-label="Разместить на сайте"></button>
+                        <div class="action-list__content">
+                            <ul class="action-list__list list">
+                                <li>
+                                    <a class="action-list__item button button_style_light" href="https://gorodrabot.ru/my/resume/create" data-event="1" data-event_category="guest clicks" data-event_action="plus" data-event_label="Создать резюме">Создать резюме</a>                                </li>
+                                <li>
+                                    <a class="action-list__item button button_style_light" href="https://gorodrabot.ru/vacancy_add" data-event="1" data-event_category="guest clicks" data-event_action="plus" data-event_label="Разместить вакансию">Разместить вакансию</a>                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                                    </div>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<div id="advanced_search" class="popup-item" data-ui-title="Поиск">
+    <div class="tabs">
+        <ul class="tabs__list list">
+            <li class="tabs__item">
+                <button data-tab="jobs" class="tabs__tab tabs__tab_active">
+                    Вакансии
+                </button>
+            </li>
+            <li class="tabs__item">
+                <button data-tab="resumes" class="tabs__tab ">
+                    Резюме
+                </button>
+            </li>
+            <li class="tabs__item">
+                <button data-tab="companies" class="tabs__tab ">
+                    Компании
+                </button>
+            </li>
+        </ul>
+        <div class="tabs__content">
+            <div data-tab="jobs"
+                class="tabs__tab-item tabs__tab-item_active">
+                <div class="advanced-search">
+                    <form action="https://kazan.gorodrabot.ru/" method="GET"
+                        class="advanced-search__form">
+                        <div class="form">
+                            <div class="form__group">
+                                <label class="form__label">Что искать</label>
+                                <div class="search autocom" data-config="{&quot;url&quot;:&quot;\/suggest\/query-q-moderation?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;value&quot;,&quot;value&quot;:&quot;value&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+                                                                        <div class="search__group form__fa fa fa_textbox fa-search">
+                                        <input type="text" id="vacancy-search_input-query" class="search__textbox fa__input textbox" name="q" placeholder="Например: менеджер" aria-label="Что искать">                                    </div>
+                                </div>
+                            </div>
+                            <div class="form__group autocom">
+                                <label class="form__label">Регион</label>
+                                <div class="form__fa fa fa_textbox fa-map-marker-alt">
+                                    <input value="Казань" type="text"
+                                        data-name-id="city_domain"
+                                        data-name-tooltip="city_region_name"
+                                        placeholder="Название региона или города..."
+                                        aria-label="Регион"
+                                        class="advanced-search__location-input fa__input textbox">
+                                </div>
+                                <input type="hidden"
+                                    name="city_region_name"
+                                    disabled
+                                    value="Республика Татарстан">
+                                <input type="hidden"
+                                    name="city_domain"
+                                    disabled
+                                    value="https://kazan.gorodrabot.ru" />
+                            </div>
+
+                            <div class="advanced-search__actions">
+                                <button type="button"
+                                    class="advanced-search__action popup__action_closer button button_style_outline">
+                                    Закрыть
+                                </button>
+                                <button type="submit" class="advanced-search__action button button_style_primary">
+                                    Найти
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    <a href="https://gorodrabot.ru/advanced_search" rel="nofollow"
+                       class="advanced-search__toggle-button button button_style_light">
+                        <span class="advanced-search__icon fa fa-sliders-h"></span>
+                        <span class="advanced-search__text">Расширенный поиск</span>
+                    </a>
+                </div>
+            </div>
+            <div data-tab="resumes"
+                class="tabs__tab-item ">
+                <div class="advanced-search">
+                    <form action="https://kazan.gorodrabot.ru/resumes" method="GET"
+                        class="advanced-search__form">
+                    <div class="form">
+                        <div class="form__group">
+                            <label class="form__label">Что искать</label>
+                            <div class="search autocom" data-config="{&quot;url&quot;:&quot;\/suggest\/query-q-moderation?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;value&quot;,&quot;value&quot;:&quot;value&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+                                    <div class="search__group form__fa fa fa_textbox fa-search">
+                                        <input name="q" value="" type="text" placeholder="Например: бухгалтер"
+                                               class="search__textbox fa__input textbox" aria-label="Что искать">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form__group autocom">
+                                <label class="form__label">Регион</label>
+                                <div class="form__fa fa fa_textbox fa-map-marker-alt">
+                                    <input value="Казань" type="text"
+                                           data-name-id="city_domain"
+                                           data-name-tooltip="city_region_name"
+                                           placeholder="Название региона или города..."
+                                           aria-label="Регион"
+                                           class="advanced-search__location-input fa__input textbox">
+                                </div>
+                                <input type="hidden"
+                                       name="city_region_name"
+                                       disabled
+                                       value="Республика Татарстан">
+                                <input type="hidden"
+                                       name="city_domain"
+                                       disabled
+                                       value="https://kazan.gorodrabot.ru" />
+                            </div>
+                            <div class="advanced-search__actions">
+                                <button type="button"
+                                        class="advanced-search__action popup__action_closer button button_style_outline">
+                                    Закрыть
+                                </button>
+                                <button type="submit" class="advanced-search__action button button_style_primary">
+                                    Найти
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    <a href="https://gorodrabot.ru/advanced_search?searchType=resume" rel="nofollow"
+                       class="advanced-search__toggle-button button button_style_light">
+                        <span class="advanced-search__icon fa fa-sliders-h"></span>
+                        <span class="advanced-search__text">Расширенный поиск</span>
+                    </a>
+                </div>
+            </div>
+            <div data-tab="companies" class="tabs__tab-item ">
+                <div class="advanced-search">
+                    <form action="https://kazan.gorodrabot.ru/companies" method="GET"
+                        class="advanced-search__form">
+                        <div class="form">
+                            <div class="form__group">
+                                <label class="form__label">Что искать</label>
+                                <div class="search autocom" data-config="{&quot;url&quot;:&quot;\/suggest\/company?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;name&quot;,&quot;value&quot;:&quot;name&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+                                    <div class="search__group form__fa fa fa_textbox fa-search">
+                                        <input name="q" value="" type="text" placeholder="Например: ГородРабот.ру"
+                                            aria-label="Что искать"
+                                            class="search__textbox fa__input textbox">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form__group autocom">
+                                <label class="form__label">Регион</label>
+                                <div class="form__fa fa fa_textbox fa-map-marker-alt">
+                                    <input value="Казань" type="text"
+                                           data-name-id="city_domain"
+                                           data-name-tooltip="city_region_name"
+                                           placeholder="Название региона или города..."
+                                           aria-label="Регион"
+                                           class="advanced-search__location-input fa__input textbox">
+                                </div>
+                                <input type="hidden"
+                                       name="city_region_name"
+                                       disabled
+                                       value="Республика Татарстан">
+                                <input type="hidden"
+                                       name="city_domain"
+                                       disabled
+                                       value="https://kazan.gorodrabot.ru" />
+                            </div>
+                            <div class="advanced-search__actions">
+                                <button type="button"
+                                        class="advanced-search__action popup__action_closer button button_style_outline">
+                                    Закрыть
+                                </button>
+                                <button type="submit" class="advanced-search__action button button_style_primary">
+                                    Найти
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="location_search" class="popup-item" data-ui-title="Регион" data-ui-maxwidth="420px">
+    <div class="location-form autocom form" data-config="{&quot;url&quot;:&quot;\/suggest\/location?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;host&quot;,&quot;value&quot;:&quot;name&quot;,&quot;tooltip&quot;:&quot;tooltip&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+        <div class="form__fa fa fa_textbox fa-map-marker-alt">
+            <input type="text" value="" placeholder="Введите название региона или города..."
+                aria-label="Регион"
+                class="location-form__input fa__input textbox">
+        </div>
+    </div>
+</div>
+    <main role="main" class="main">
+        <div class="wrapper">
+                                                            
+<div class="index-context content wrapper__indent-compensator wrapper__footer-compensator">
+    <section class="index-header-section">
+        <div class="index-header-section__body content__body area">
+            <h1 class="index-header-section__title">
+                Система поиска вакансий            </h1>
+            <div class="index-header-section__counter">
+                Сегодня на ГородРабот.ру                <strong class="index-header-section__count">
+                    3 011 672                </strong>
+                вакансии из
+                <strong class="index-header-section__count">
+                    175                </strong>
+                сайтов-источников            </div>
+            <div class="index-header-section__buttons">
+                    <a href="https://gorodrabot.ru/vacancy_add"
+       class="index-header-section__button button button_style_add button_size_lg">
+        Разместить вакансию
+    </a>
+    <a href="https://gorodrabot.ru/my/resume/create"
+       class="index-header-section__button button button_style_outline-add button_size_lg">
+        Создать резюме
+    </a>
+            </div>
+            <div class="index-header-section__search-tabs search-tabs">
+                <ul class="search-tabs__list list">
+    <li class="search-tabs__item">
+        <button data-tab="jobs" data-value="/" class="search-tabs__tab search-tabs__tab_active" data-config="{&quot;groups&quot;:[{&quot;group&quot;:&quot;.search-form__group_name_search-field&quot;,&quot;key&quot;:&quot;.search-form__label&quot;,&quot;value&quot;:&quot;\u0427\u0442\u043e \u0438\u0441\u043a\u0430\u0442\u044c:&quot;}]}">
+            Вакансии
+        </button>
+        <input type="hidden" class="search__hidden-input-default search__input_hidden" data-tab="default" data-config="{&quot;url&quot;:&quot;\/suggest\/query-q-moderation?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;value&quot;,&quot;value&quot;:&quot;value&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+    </li>
+    <li class="search-tabs__item">
+        <button data-tab="resumes" data-value="/resumes" class="search-tabs__tab" data-config="{&quot;groups&quot;:[{&quot;group&quot;:&quot;.search-form__group_name_search-field&quot;,&quot;key&quot;:&quot;.search-form__label&quot;,&quot;value&quot;:&quot;\u0427\u0442\u043e \u0438\u0441\u043a\u0430\u0442\u044c:&quot;}]}">
+            Резюме
+        </button>
+        <input type="hidden" class="search__hidden-input-default search__input_hidden" data-tab="default" data-config="{&quot;url&quot;:&quot;\/suggest\/query-q-moderation?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;value&quot;,&quot;value&quot;:&quot;value&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+    </li>
+    <li class="search-tabs__item">
+        <button data-tab="companies" data-value="/companies" class="search-tabs__tab" data-config="{&quot;groups&quot;:[{&quot;group&quot;:&quot;.search-form__group_name_search-field&quot;,&quot;key&quot;:&quot;.search-form__label&quot;,&quot;value&quot;:&quot;\u0427\u0442\u043e \u0438\u0441\u043a\u0430\u0442\u044c:&quot;}]}">
+            Компании
+        </button>
+        <input type="hidden" class="search__hidden-input-company search__input_hidden" data-tab="companies" data-config="{&quot;url&quot;:&quot;\/suggest\/company?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;name&quot;,&quot;value&quot;:&quot;name&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+    </li>
+</ul>                <div class="search-tabs__content">
+                    <form class="search-tabs__search-form search-form" action="https://kazan.gorodrabot.ru/" method="GET">
+                        <div class="search-form__group search-form__group_name_search-field">
+                            <label class="search-form__label">Что искать:</label>
+                            <div class="search autocom index-autocomplete search_switchable index-search" data-config="{&quot;url&quot;:&quot;\/suggest\/query-q-moderation?text=QUERY&quot;,&quot;bind&quot;:{&quot;id&quot;:&quot;value&quot;,&quot;value&quot;:&quot;value&quot;},&quot;mask&quot;:&quot;QUERY&quot;}">
+
+
+                                <div class="search-form__fa fa fa_textbox fa-search">
+                                    <input type="text" name="q" placeholder="Поиск" aria-label="Что искать"
+                                        class="search-form__input search-form__input_with-fa search__textbox textbox input_switchable">
+                                </div>
+                            </div>
+                            <div class="search-form__message">
+                                Например:
+                                <button type="button"
+                                    class="search-form__inserter link link_active link_underline">Бухгалтер</button>,
+                                <button type="button"
+                                    class="search-form__inserter link link_active link_underline">Программист</button>
+                            </div>
+                        </div>
+                        <div class="search-form__group search-form__group_type_location autocom">
+                            <label class="search-form__label">Где искать:</label>
+                            <input type="text"
+                                value="Казань"
+                                data-name-id="city_domain" data-name-tooltip="city_region_name"
+                                placeholder="Название региона или города..." aria-label="Где искать"
+                                class="search-form__input search-form__location textbox">
+                            <input type="hidden" name="city_region_name" disabled
+                                value="Республика Татарстан">
+                            <input type="hidden" name="city_domain" disabled
+                                value="https://kazan.gorodrabot.ru/" />
+                        </div>
+                        <div class="search-form__group search-form__group_type_submit">
+                            <label class="search-form__label">&nbsp;</label>
+                            <button class="search-form__submit button button_style_primary">
+                                Найти
+                            </button>
+                            <div class="search-form__message">
+                                <a href="https://gorodrabot.ru/advanced_search" type="button" rel="nofollow"
+                                   class="search-form__advanced-button link link_active link_underline link_default">
+                                    Расширенный поиск
+                                </a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div>
+                <div class="tags-wrapper tags-wrapper_blur_blue">
+    <div class="tags-blur"></div>
+    <div class="tags index-header-section__tags">
+                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80">Бухгалтер</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D1%83%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D1%86%D0%B0">Уборщица</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA">Охранник</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/?q=%D0%B0%D0%BA+%D0%B1%D0%B0%D1%80%D1%81+%D0%B1%D0%B0%D0%BD%D0%BA" rel="nofollow">Ак барс банк</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%81%D1%82">Экономист</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/?q=%D0%BC%D1%81%D0%B1" rel="nofollow">Мсб</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80">Администратор</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9">Разнорабочий</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%BC%D0%B5%D0%B4%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B0">Медсестра</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%B4%D0%BB%D1%8F_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD">Для женщин</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/?q=%D0%BE%D1%82+%D0%BF%D1%80%D1%8F%D0%BC%D1%8B%D1%85+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" rel="nofollow">От прямых работодателей</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_2_2">График 2/2</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/?q=%D0%B1%D0%B5%D0%B7+%D0%BE%D0%BF%D1%8B%D1%82%D0%B0" rel="nofollow">Без опыта</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0_%D0%B4%D0%BE%D0%BC%D1%83">Работа на дому</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/?jt=%D0%B2%D0%B0%D1%85%D1%82%D0%B0">Вахта</a>                        <a class="tags__tag tag ym-vts tag_style_alpha-blue" href="https://kazan.gorodrabot.ru/%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0">Подработка</a>                        <div class="tags__more">
+                                </div>
+            </div>
+    <div class="tags-blur tags-blur_right"></div>
+</div>
+
+            </div>
+        </div>
+    </section>
+        <section class="index-base-section index-base-section_theme_dotted">
+        <div class="content__body area">
+            <h2 class="index-base-section__title">
+                Обзор вакансий
+            </h2>
+            <div class="index-base-section__content">
+                <div class="tabs">
+                    <ul class="tabs__list tabs__list_scrollable list">
+    <li class="tabs__item">
+        <button data-tab="cities" class="tabs__tab tabs__tab_active">
+            <i class="tabs__tab-icon fa fa-map-marker-alt"></i>
+            По городам
+        </button>
+    </li>
+    <li class="tabs__item">
+        <button data-tab="industries" class="tabs__tab ">
+            <i class="tabs__tab-icon fa fa-stream"></i>
+            По отраслям
+        </button>
+    </li>
+    <li class="tabs__item">
+        <button data-tab="companies" class="tabs__tab">
+            <i class="tabs__tab-icon fa fa-building"></i>
+            По компаниям
+        </button>
+    </li>
+</ul>                    <div class="tabs__content tabs__content_overflow_hidden">
+                        <div data-tab="cities" class="tabs__tab-item tabs__tab-item_active">
+            <div class="index-base-section__mobile-short">
+            
+    <div class="grid">
+        <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+            <ul class="list">
+                <li>
+    <a href="https://moskva.gorodrabot.ru/" class="counter-item link link_active">
+        <strong class="counter-item__content dotted-item">Москва</strong>        <span class="counter-item__count">
+            297090        </span>
+    </a>
+</li><li>
+    <a href="https://sankt-peterburg.gorodrabot.ru/" class="counter-item link link_active">
+        <strong class="counter-item__content dotted-item">Санкт-Петербург</strong>        <span class="counter-item__count">
+            128144        </span>
+    </a>
+</li><li>
+    <a href="https://balashiha.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Балашиха</span>        <span class="counter-item__count">
+            11522        </span>
+    </a>
+</li><li>
+    <a href="https://barnaul.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Барнаул</span>        <span class="counter-item__count">
+            20165        </span>
+    </a>
+</li><li>
+    <a href="https://belgorod.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Белгород</span>        <span class="counter-item__count">
+            11674        </span>
+    </a>
+</li><li>
+    <a href="https://vladivostok.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Владивосток</span>        <span class="counter-item__count">
+            15778        </span>
+    </a>
+</li><li>
+    <a href="https://vladimir.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Владимир</span>        <span class="counter-item__count">
+            13483        </span>
+    </a>
+</li><li>
+    <a href="https://volgograd.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Волгоград</span>        <span class="counter-item__count">
+            22725        </span>
+    </a>
+</li><li>
+    <a href="https://voronej.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Воронеж</span>        <span class="counter-item__count">
+            32002        </span>
+    </a>
+</li><li>
+    <a href="https://ekaterinburg.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Екатеринбург</span>        <span class="counter-item__count">
+            60404        </span>
+    </a>
+</li><li>
+    <a href="https://ivanovo.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Иваново</span>        <span class="counter-item__count">
+            13479        </span>
+    </a>
+</li><li>
+    <a href="https://ijevsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Ижевск</span>        <span class="counter-item__count">
+            19548        </span>
+    </a>
+</li><li>
+    <a href="https://irkutsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Иркутск</span>        <span class="counter-item__count">
+            24378        </span>
+    </a>
+</li><li>
+    <a href="https://kazan.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Казань</span>        <span class="counter-item__count">
+            40209        </span>
+    </a>
+</li><li>
+    <a href="https://kaliningrad.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Калининград</span>        <span class="counter-item__count">
+            11736        </span>
+    </a>
+</li>            </ul>
+        </div>
+        <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+            <ul class="list">
+                <li>
+    <a href="https://kemerovo.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Кемерово</span>        <span class="counter-item__count">
+            19160        </span>
+    </a>
+</li><li>
+    <a href="https://kirov.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Киров</span>        <span class="counter-item__count">
+            17264        </span>
+    </a>
+</li><li>
+    <a href="https://krasnodar.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Краснодар</span>        <span class="counter-item__count">
+            43693        </span>
+    </a>
+</li><li>
+    <a href="https://krasnoyarsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Красноярск</span>        <span class="counter-item__count">
+            36212        </span>
+    </a>
+</li><li>
+    <a href="https://lipetsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Липецк</span>        <span class="counter-item__count">
+            13763        </span>
+    </a>
+</li><li>
+    <a href="https://naberejnie-chelny.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Набережные Челны</span>        <span class="counter-item__count">
+            21080        </span>
+    </a>
+</li><li>
+    <a href="https://nijni-novgorod.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Нижний Новгород</span>        <span class="counter-item__count">
+            42141        </span>
+    </a>
+</li><li>
+    <a href="https://novokuznetsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Новокузнецк</span>        <span class="counter-item__count">
+            14269        </span>
+    </a>
+</li><li>
+    <a href="https://novosibirsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Новосибирск</span>        <span class="counter-item__count">
+            55777        </span>
+    </a>
+</li><li>
+    <a href="https://omsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Омск</span>        <span class="counter-item__count">
+            32043        </span>
+    </a>
+</li><li>
+    <a href="https://orenburg.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Оренбург</span>        <span class="counter-item__count">
+            14923        </span>
+    </a>
+</li><li>
+    <a href="https://penza.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Пенза</span>        <span class="counter-item__count">
+            14871        </span>
+    </a>
+</li><li>
+    <a href="https://perm.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Пермь</span>        <span class="counter-item__count">
+            30972        </span>
+    </a>
+</li><li>
+    <a href="https://podolsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Подольск</span>        <span class="counter-item__count">
+            13358        </span>
+    </a>
+</li><li>
+    <a href="https://rostov-na-donu.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Ростов-на-Дону</span>        <span class="counter-item__count">
+            34714        </span>
+    </a>
+</li>            </ul>
+        </div>
+        <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+            <ul class="list">
+                <li>
+    <a href="https://ryazan.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Рязань</span>        <span class="counter-item__count">
+            16500        </span>
+    </a>
+</li><li>
+    <a href="https://samara.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Самара</span>        <span class="counter-item__count">
+            34690        </span>
+    </a>
+</li><li>
+    <a href="https://saratov.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Саратов</span>        <span class="counter-item__count">
+            20534        </span>
+    </a>
+</li><li>
+    <a href="https://sochi.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Сочи</span>        <span class="counter-item__count">
+            12641        </span>
+    </a>
+</li><li>
+    <a href="https://tver.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Тверь</span>        <span class="counter-item__count">
+            14446        </span>
+    </a>
+</li><li>
+    <a href="https://tolyatti.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Тольятти</span>        <span class="counter-item__count">
+            14950        </span>
+    </a>
+</li><li>
+    <a href="https://tomsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Томск</span>        <span class="counter-item__count">
+            18489        </span>
+    </a>
+</li><li>
+    <a href="https://tula.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Тула</span>        <span class="counter-item__count">
+            18953        </span>
+    </a>
+</li><li>
+    <a href="https://tumen.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Тюмень</span>        <span class="counter-item__count">
+            27607        </span>
+    </a>
+</li><li>
+    <a href="https://ulyanovsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Ульяновск</span>        <span class="counter-item__count">
+            16238        </span>
+    </a>
+</li><li>
+    <a href="https://ufa.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Уфа</span>        <span class="counter-item__count">
+            34489        </span>
+    </a>
+</li><li>
+    <a href="https://habarovsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Хабаровск</span>        <span class="counter-item__count">
+            20832        </span>
+    </a>
+</li><li>
+    <a href="https://cheboksary.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Чебоксары</span>        <span class="counter-item__count">
+            17343        </span>
+    </a>
+</li><li>
+    <a href="https://chelyabinsk.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Челябинск</span>        <span class="counter-item__count">
+            39087        </span>
+    </a>
+</li><li>
+    <a href="https://yaroslavl.gorodrabot.ru/" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Ярославль</span>        <span class="counter-item__count">
+            19420        </span>
+    </a>
+</li>            </ul>
+        </div>
+    </div>
+        </div>
+        <div class="tabs__content tabs__content_align_center">
+            <a class="button button_style_outline-primary" href="https://gorodrabot.ru/joblist">
+                Полный список
+            </a>
+        </div>
+    </div>                        <div data-tab="industries" class="tabs__tab-item">
+            <div class="index-base-section__mobile-short">
+            <div class="grid">
+                <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+                    <ul class="list">
+                        <li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=28" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Рабочий персонал</span>        <span class="counter-item__count">
+            512875        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=16" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Продажи</span>        <span class="counter-item__count">
+            378636        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=20" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Транспорт, логистика</span>        <span class="counter-item__count">
+            372676        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=17" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Производство</span>        <span class="counter-item__count">
+            329003        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=1" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Информационные технологии, интернет, телеком</span>        <span class="counter-item__count">
+            252077        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=13" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Медицина, фармацевтика</span>        <span class="counter-item__count">
+            174175        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=19" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Строительство, недвижимость</span>        <span class="counter-item__count">
+            160879        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=24" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Инсталляция и сервис</span>        <span class="counter-item__count">
+            138310        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=4" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Административный персонал</span>        <span class="counter-item__count">
+            116822        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=21" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Туризм, гостиницы, рестораны</span>        <span class="counter-item__count">
+            109820        </span>
+    </a>
+</li>                    </ul>
+                </div>
+                <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+                    <ul class="list">
+                        <li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=9" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Высший менеджмент</span>        <span class="counter-item__count">
+            106706        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=2" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Бухгалтерия, управленческий учет, финансы предприятия</span>        <span class="counter-item__count">
+            100742        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=8" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Безопасность</span>        <span class="counter-item__count">
+            76438        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=14" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Наука, образование</span>        <span class="counter-item__count">
+            62510        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=27" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Домашний персонал</span>        <span class="counter-item__count">
+            58502        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=7" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Автомобильный бизнес</span>        <span class="counter-item__count">
+            57978        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=5" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Банки, инвестиции, лизинг</span>        <span class="counter-item__count">
+            53301        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=3" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Маркетинг, реклама, PR</span>        <span class="counter-item__count">
+            50233        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=23" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Спортивные клубы, фитнес, салоны красоты</span>        <span class="counter-item__count">
+            40414        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=25" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Закупки</span>        <span class="counter-item__count">
+            35859        </span>
+    </a>
+</li>                    </ul>
+                </div>
+                <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+                    <ul class="list">
+                        <li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=12" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Консультирование</span>        <span class="counter-item__count">
+            34958        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=6" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Управление персоналом, тренинги</span>        <span class="counter-item__count">
+            28860        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=22" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Юристы</span>        <span class="counter-item__count">
+            26602        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=11" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Искусство, развлечения, масс-медиа</span>        <span class="counter-item__count">
+            23361        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=10" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Добыча сырья</span>        <span class="counter-item__count">
+            13903        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=15" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Государственная служба, некоммерческие организации</span>        <span class="counter-item__count">
+            12151        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=26" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Начало карьеры, студенты</span>        <span class="counter-item__count">
+            10486        </span>
+    </a>
+</li><li>
+    <a href="https://russia.gorodrabot.ru/?main_ind=18" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Страхование</span>        <span class="counter-item__count">
+            4531        </span>
+    </a>
+</li>                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="tabs__content tabs__content_align_center">
+            <a class="button button_style_outline-primary" href="https://gorodrabot.ru/joblist?tab=industry">
+                Полный список
+            </a>
+        </div>
+    </div>                        <div data-tab="companies" class="tabs__tab-item">
+            <div class="index-base-section__mobile-short">
+            <div class="grid">
+                <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+                    <ul class="list">
+                        <li>
+    <a href="https://gorodrabot.ru/company/1crarus" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">1C-Рарус</span>        <span class="counter-item__count">
+            138        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/2gis" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">2ГИС</span>        <span class="counter-item__count">
+            292        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/585_zolotoy" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">585, Золотой</span>        <span class="counter-item__count">
+            223        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/action" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Action</span>        <span class="counter-item__count">
+            384        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/adecco_group_russia" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Adecco Group Russia</span>        <span class="counter-item__count">
+            4        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/allianz" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Allianz</span>        <span class="counter-item__count">
+            22        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/around" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">AROUND</span>        <span class="counter-item__count">
+            114        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/aviconn" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">AVICONN</span>        <span class="counter-item__count">
+            37        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/baon" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">BAON</span>        <span class="counter-item__count">
+            29        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/bayer" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Bayer</span>        <span class="counter-item__count">
+            32        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/biglion" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Biglion</span>        <span class="counter-item__count">
+            25        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/bns_group" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">BNS Group</span>        <span class="counter-item__count">
+            81        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/calzedonia_group" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Calzedonia Group</span>        <span class="counter-item__count">
+            112        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/citibank" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Citibank</span>        <span class="counter-item__count">
+            4        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/coleman_services" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Coleman Services</span>        <span class="counter-item__count">
+            104        </span>
+    </a>
+</li>                    </ul>
+                </div>
+                <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+                    <ul class="list">
+                        <li>
+    <a href="https://gorodrabot.ru/company/consort_group" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">CONSORT Group</span>        <span class="counter-item__count">
+            28        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/cornerstone" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Cornerstone</span>        <span class="counter-item__count">
+            72        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/crocus_group" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Crocus Group</span>        <span class="counter-item__count">
+            163        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/direct_group" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Direct Group</span>        <span class="counter-item__count">
+            1        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/finn_flare" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">FINN FLARE</span>        <span class="counter-item__count">
+            55        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/fix_price" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">FIX PRICE</span>        <span class="counter-item__count">
+            1776        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/flex" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Flex</span>        <span class="counter-item__count">
+            57        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/fm_logistic" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">FM Logistic</span>        <span class="counter-item__count">
+            230        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/ginza_project" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Ginza Project</span>        <span class="counter-item__count">
+            125        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/glance__filippe_grandy" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Glance &amp; Filippe Grandy</span>        <span class="counter-item__count">
+            5        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/homework" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Homework</span>        <span class="counter-item__count">
+            159        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/ingate" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Ingate</span>        <span class="counter-item__count">
+            19        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/inventive_retail_group" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Inventive Retail Group</span>        <span class="counter-item__count">
+            106        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/itm" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">ITM</span>        <span class="counter-item__count">
+            140        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/johnson__johnson" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Johnson &amp; Johnson</span>        <span class="counter-item__count">
+            41        </span>
+    </a>
+</li>                    </ul>
+                </div>
+                <div class="grid__col grid__col_xs_12 grid__col_sm_4 grid__col_md_4 grid__col_lg_4">
+                    <ul class="list">
+                        <li>
+    <a href="https://gorodrabot.ru/company/lamoda" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Lamoda</span>        <span class="counter-item__count">
+            492        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/leader_team" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Leader Team</span>        <span class="counter-item__count">
+            7        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/lg" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">LG</span>        <span class="counter-item__count">
+            2        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/lider" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">LIDER</span>        <span class="counter-item__count">
+            37        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/mailru" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Mail.Ru</span>        <span class="counter-item__count">
+            6        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/majorauto" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Major-Auto</span>        <span class="counter-item__count">
+            12        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/manpowergroup" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">ManpowerGroup</span>        <span class="counter-item__count">
+            3        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/mercury" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Mercury</span>        <span class="counter-item__count">
+            39        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/merlion" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">MERLION</span>        <span class="counter-item__count">
+            99        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/metro" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">METRO</span>        <span class="counter-item__count">
+            180        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/mybox" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">mybox</span>        <span class="counter-item__count">
+            103        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/naumen" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">NAUMEN</span>        <span class="counter-item__count">
+            73        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/nestle" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">Nestle</span>        <span class="counter-item__count">
+            69        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/ostin" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">O&#039;STIN</span>        <span class="counter-item__count">
+            258        </span>
+    </a>
+</li><li>
+    <a href="https://gorodrabot.ru/company/obi" class="counter-item link link_active">
+        <span class="counter-item__content dotted-item">OBI</span>        <span class="counter-item__count">
+            36        </span>
+    </a>
+</li>                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="tabs__content tabs__content_align_center">
+            <a class="button button_style_outline-primary" href="https://gorodrabot.ru/joblist?tab=company">
+                Полный список
+            </a>
+        </div>
+    </div>                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        <section class="index-base-section index-base-section_theme_dark">
+        <div class="content__body area">
+            <h2 class="index-base-section__title">
+                Эти вакансии нравятся соискателям
+            </h2>
+            <div class="index-base-section__content">
+                <div class="tile-grid">
+                    
+<a href="https://gorodrabot.ru/vacancy/175340005/taynyiy_pokupatel_moskva" class="tile-grid__item tile"
+     >
+    <div class="small-snippet">
+        <div class="small-snippet__title">
+            Тайный покупатель        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ООО МаркетингСервис                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Москва                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                30 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                35 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </div>
+</a>
+
+<a href="https://gorodrabot.ru/vacancy/78558657/taynyiy_pokupatel_sankt-peterburg" class="tile-grid__item tile"
+     >
+    <div class="small-snippet">
+        <div class="small-snippet__title">
+            Тайный покупатель        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ООО МаркетингСервис                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Санкт-Петербург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                30 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                35 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </div>
+</a>
+
+<a href="https://gorodrabot.ru/vacancy/321838503/vahter_storoj_orenburg" class="tile-grid__item tile"
+     >
+    <div class="small-snippet">
+        <div class="small-snippet__title">
+            Вахтер (сторож)        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    Центр Сервисных Услуг                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Оренбург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                13 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                19 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </div>
+</a>
+
+<a href="https://gorodrabot.ru/vacancy/224355781/gosudarstvennyiy_slujaschiy_novosibirsk" class="tile-grid__item tile"
+     >
+    <div class="small-snippet">
+        <div class="small-snippet__title">
+            Государственный служащий        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ФКУ ЛИУ-10                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Новосибирск                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                35 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                42 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </div>
+</a>
+
+<a href="https://gorodrabot.ru/vacancy/335508801/operator_po_dobyichi_nefti_i_gaza_4_razryada_orenburg" class="tile-grid__item tile"
+     >
+    <div class="small-snippet">
+        <div class="small-snippet__title">
+            Оператор по добычи нефти и газа 4 разряда        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    Центр Сервисных Услуг                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Оренбург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                45 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                120 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </div>
+</a>
+
+<a href="https://gorodrabot.ru/vacancy/638260683/testirovschik_sankt-peterburg" class="tile-grid__item tile"
+     >
+    <div class="small-snippet">
+        <div class="small-snippet__title">
+            Тестировщик        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ИП Суворова Екатерина Михайловна                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Санкт-Петербург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                40 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                50 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </div>
+</a>
+                </div>
+                <div class="content__more content__more_align_center">
+                    <a href="https://russia.gorodrabot.ru/" class="button button_style_outline-primary">
+                        Все вакансии
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+        <section class="index-base-section index-base-section_theme_dotted">
+        <div class="content__body area">
+            <h2 class="index-base-section__title">
+                Удалённая работа и работа вахтой
+            </h2>
+            <div class="index-base-section__content index-base-section__content_overflow_hidden">
+                <div class="index-grid">
+                    <div class="index-grid__item">
+                        <h3 class="index-grid__title">
+                            Работа вахтой
+                        </h3>
+                        <ul class="checkpoint-list">
+                            <li class="checkpoint-list__point">
+    <a href="https://gorodrabot.ru/vacancy/335508801/operator_po_dobyichi_nefti_i_gaza_4_razryada_orenburg" class="link checkpoint-list__item small-snippet"
+         >
+        <div class="small-snippet__title">
+            Оператор по добычи нефти и газа 4 разряда        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    Центр Сервисных Услуг                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Оренбург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                45 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                120 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </a>
+</li><li class="checkpoint-list__point">
+    <a href="https://gorodrabot.ru/vacancy/637244515/bortprovodnik_styuardessa_kruiznogo_laynera_moskva" class="link checkpoint-list__item small-snippet"
+        rel="nofollow" >
+        <div class="small-snippet__title">
+            Бортпроводник/Стюардесса круизного лайнера        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ooo МТЛК                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Москва                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                125 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                </div>
+            </a>
+</li><li class="checkpoint-list__point">
+    <a href="https://gorodrabot.ru/vacancy/324175056/storoj_moskva" class="link checkpoint-list__item small-snippet"
+         >
+        <div class="small-snippet__title">
+            Сторож        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ООО &quot;Армада-Групп&quot;                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Москва                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                55 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                </div>
+            </a>
+</li>                            <li class="checkpoint-list__split-point">
+                                <a href="https://russia.gorodrabot.ru/?jt=%D0%B2%D0%B0%D1%85%D1%82%D0%B0" class="link link_active link_underline">Все вакансии</a>
+                            </li>
+                        </ul>
+                    </div>
+                                            <div class="index-grid__item">
+                            
+<div id="yandex_rtb_1289473-14" aria-hidden="true"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+        renderTo: 'yandex_rtb_1289473-14',
+        blockId: 'R-A-1289473-14',
+    })
+});
+</script>
+&nbsp;                        </div>
+                                        <div class="index-grid__item">
+                        <h3 class="index-grid__title">
+                            Удалённая работа
+                        </h3>
+                        <ul class="checkpoint-list">
+                            <li class="checkpoint-list__point">
+    <a href="https://gorodrabot.ru/vacancy/78558657/taynyiy_pokupatel_sankt-peterburg" class="link checkpoint-list__item small-snippet"
+         >
+        <div class="small-snippet__title">
+            Тайный покупатель        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ООО МаркетингСервис                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Санкт-Петербург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                30 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                35 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </a>
+</li><li class="checkpoint-list__point">
+    <a href="https://gorodrabot.ru/vacancy/638260683/testirovschik_sankt-peterburg" class="link checkpoint-list__item small-snippet"
+         >
+        <div class="small-snippet__title">
+            Тестировщик        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    ИП Суворова Екатерина Михайловна                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Санкт-Петербург                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                40 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                50 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </a>
+</li><li class="checkpoint-list__point">
+    <a href="https://gorodrabot.ru/vacancy/402871990/prepodavatel_angliyskogo_yazyika_moskva" class="link checkpoint-list__item small-snippet"
+         >
+        <div class="small-snippet__title">
+            Преподаватель английского языка        </div>
+        <ul class="small-snippet__meta-list list">
+            <li>
+                <span class="small-snippet__meta">
+                    <i class="small-snippet__meta-icon fa fa-building"></i>
+                    Онлайн-школа английского языка                </span>
+            </li>
+            <li>
+                <span class="small-snippet__meta small-snippet__meta_active">
+                    <i class="small-snippet__meta-icon fa fa-map-marker-alt"></i>
+                    Москва                </span>
+            </li>
+        </ul>
+                <div class="small-snippet__salary-group">
+                        <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    от
+                </span>
+                35 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                                    <span class="small-snippet__salary">
+                <span class="small-snippet__salary-pref">
+                    до
+                </span>
+                75 000 <span class="small-snippet__currency"> руб.</span>
+            </span>
+                    </div>
+            </a>
+</li>                            <li class="checkpoint-list__split-point">
+                                <a href="https://russia.gorodrabot.ru/?jt=%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0" class="link link_active link_underline">Все вакансии</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="index-advantages-section">
+        <div class="content__body area">
+            <h2 class="index-advantages-section__title">
+                Чем отличается система поиска вакансий
+                <br><span class="index-adventages-section__highlighter">
+                    ГородРабот.ру                </span>
+            </h2>
+            <div class="index-adventages-section__content">
+                <div class="index-advantages-section__advantages index-advantages">
+    <div class="index-advantages__item">
+        <div class="index-advantages__value">
+            <span class="index-adventages-section__highlighter">
+                +
+            </span>
+            100
+        </div>
+        <div class="index-advantages__text">
+            проверенных источников вакансий
+        </div>
+    </div>
+    <div class="index-advantages__item">
+        <div class="index-advantages__value">
+            <span class="index-adventages-section__highlighter">
+                +
+            </span>
+            300 000
+        </div>
+        <div class="index-advantages__text">
+            пользователей каждый день
+        </div>
+    </div>
+    <div class="index-advantages__item">
+        <div class="index-advantages__value">
+            3 минуты
+        </div>
+        <div class="index-advantages__text">
+            среднее время поиска подходящей вакансии на сайте
+        </div>
+    </div>
+    <div class="index-advantages__item">
+        <div class="index-advantages__value">
+            <span class="index-adventages-section__highlighter">
+                +
+            </span>
+            200
+        </div>
+        <div class="index-advantages__text">
+            лучших работодателей России
+        </div>
+    </div>
+</div>
+<a href="https://gorodrabot.ru/vacancy_add" class="index-advantages-section__button button button_style_add button_size_lg">Разместить вакансию</a>            </div>
+        </div>
+    </section>
+
+    
+<section class="index-base-section index-base-section_theme_dark">
+    <div class="content__body area">
+                    <div class="default-grid">
+                <div class="default-grid__content">
+                    
+<h2 class="index-base-section__title index-base-section__title_type_left">
+    Статистика зарплаты в России</h2>
+<div class="index-base-section__content">
+        <div class="statistics-gradient">
+        <div class="statistics-gradient__item">
+            <h3 class="statistics-gradient__title">
+                Средняя зарплата
+            </h3>
+            <div class="statistics-gradient__value">
+                57 340                <span class="statistics-gradient__sign">руб.</span>
+            </div>
+            <p class="statistics-gradient__desc">
+                Средний показатель всех зарплат в вакансиях сайта
+            </p>
+        </div>
+        <div class="statistics-gradient__item">
+            <h3 class="statistics-gradient__title">
+                Медианная зарплата
+            </h3>
+            <div class="statistics-gradient__value">
+                45 000                <span class="statistics-gradient__sign">руб.</span>
+            </div>
+            <p class="statistics-gradient__desc">
+                Средний показатель центральной части зарплатной вилки, без учёта самых высоких и самых низких зарплат
+            </p>
+        </div>
+        <div class="statistics-gradient__item">
+            <h3 class="statistics-gradient__title">
+                Модальная зарплата
+            </h3>
+            <div class="statistics-gradient__value">
+                30 000                <span class="statistics-gradient__sign">руб.</span>
+            </div>
+            <p class="statistics-gradient__desc">
+                Самая частая сумма зарплаты в вакансиях сайта
+            </p>
+        </div>
+    </div>
+        <div class="index-base-section__index-blocks index-blocks">
+                <div class="index-blocks__item">
+            <div class="statistics-item">
+                <h3 class="statistics-item__title">
+                    Самая востребованная профессия:
+                </h3>
+                <a href="https://russia.gorodrabot.ru/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" class="statistics-item__value link">
+                    <i class="statistics-item__icon fa fa-search"></i>Водитель                </a>
+                <span class="statistics-item__meta"><b>585 779</b> поисковых запросов</span>
+            </div>
+        </div>
+                        <div class="index-blocks__item">
+            <div class="statistics-item">
+                <h3 class="statistics-item__title">
+                    Самая высокооплачиваемая профессия:
+                </h3>
+                <a href="https://russia.gorodrabot.ru/?q=cto" class="statistics-item__value link">
+                    <i class="statistics-item__icon fa fa-search"></i>CTO                </a>
+                <span class="statistics-item__meta"><b>206 397</b> руб.</span>
+            </div>
+        </div>
+            </div>
+</div>
+<div class="content__more content__more_align_center">
+    <a href="https://gorodrabot.ru/salary" class="button button_style_outline-primary">Подробнее</a>
+</div>                </div>
+                <div class="default-grid__sidebar default-grid__sidebar_mob">
+                    
+<div id="yandex_rtb_1289473-13" aria-hidden="true"></div>
+<script>
+window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+        renderTo: 'yandex_rtb_1289473-13',
+        blockId: 'R-A-1289473-13',
+    })
+});
+</script>
+                </div>
+            </div>
+            </div>
+</section>
+    <section class="index-base-section index-base-section_theme_dotted index-base-section_solid">
+    <div class="content__body area">
+        <h2 class="index-base-section__title">
+            Блог
+        </h2>
+        <div class="index-base-section__content">
+            <div class="tabs">
+                <ul class="tabs__list tabs__list_scrollable list">
+                    <li class="tabs__item">
+                        <button data-tab="articles" class="tabs__tab tabs__tab_active">
+                            <i class="tabs__tab-icon fa fa-newspaper"></i>
+                            Статьи
+                        </button>
+                    </li>
+                                            <li class="tabs__item">
+                            <button data-tab="news" class="tabs__tab">
+                                <i class="tabs__tab-icon fa fa-newspaper"></i>
+                                Новости
+                            </button>
+                        </li>
+                                        <li class="tabs__item">
+                        <button data-tab="events" class="tabs__tab">
+                            <i class="tabs__tab-icon fa fa-calendar-alt"></i>
+                            Мероприятия
+                        </button>
+                    </li>
+                </ul>
+                <div class="tabs__content">
+                    <div data-tab="articles" class="tabs__tab-item tabs__tab-item_active">
+                        <div class="card-grid card-grid_mode_wide">
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/article/1093">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/articles/mobile/1093.jpg?v=1676447632"
+                alt="ТОП-6 токсичных черт сплетников на рабочем месте"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">ТОП-6 токсичных черт сплетников на рабочем месте</h3>            <p class="card__desc">
+                Статья ознакомит вас с токсичными чертами сплетников на рабочем месте и поможет избежать негативных последствий на работе, связанных с возникновением слухов и сплетен.            </p>
+        </div>
+        <div class="card__meta">
+            15.02.2023 11:15                    </div>
+    </a>
+</article>
+
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/article/1092">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/articles/mobile/1092.jpg?v=1675840858"
+                alt="Как договориться о зарплате после предложения о работе: ТОП-13 проверенных советов"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Как договориться о зарплате после предложения о работе: ТОП-13 проверенных советов</h3>            <p class="card__desc">
+                Увлекательная, интересная и познавательная статья, которая поможет вам успешно договориться о зарплате после предложения о работе. В статье рассмотрены полезные советы и практические рекомендации от экспертов. Предоставленная информация поможет грамотно вести переговоры, касающиеся повышения уровня заработной платы.            </p>
+        </div>
+        <div class="card__meta">
+            08.02.2023 10:35                    </div>
+    </a>
+</article>
+
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/article/1091">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/articles/mobile/1091.jpg?v=1675235121"
+                alt="Что делать, если ваши инструменты повышения производительности делают вас менее продуктивными?"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Что делать, если ваши инструменты повышения производительности делают вас менее продуктивными?</h3>            <p class="card__desc">
+                В статье описаны причины, как ваши инструменты повышения производительности могут сделать вас менее продуктивными.            </p>
+        </div>
+        <div class="card__meta">
+            01.02.2023 10:35                    </div>
+    </a>
+</article>
+
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/article/1090">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/articles/mobile/1090.jpg?v=1674631417"
+                alt="Типы офисных хулиганов и способы их поставить на место на работе"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Типы офисных хулиганов и способы их поставить на место на работе</h3>            <p class="card__desc">
+                У вас на работе проблемы? Неважно, насколько вы сообразительны в офисной политике, иногда люди играют нечестно. У нас есть несколько способов справиться с офисным хулиганом.
+Трудно поверить, что офисные хулиганы существуют, но они есть. Практически на любой работе можно встретить офисного хулигана.            </p>
+        </div>
+        <div class="card__meta">
+            25.01.2023 10:40                    </div>
+    </a>
+</article>
+
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/article/1089">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/articles/mobile/1089.jpg?v=1674027719"
+                alt="В чем нужно приходить на собеседование?"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">В чем нужно приходить на собеседование?</h3>            <p class="card__desc">
+                &quot;В чем нужно приходить на собеседование?&quot; Этот вопрос актуален для молодых специалистов, которые стремятся получить хорошую работу в успешной компании. В этой статье говорится о том, что нужно одевать на собеседование и как вести себя с потенциальным работодателем.            </p>
+        </div>
+        <div class="card__meta">
+            18.01.2023 10:44                    </div>
+    </a>
+</article>
+
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/article/1088">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/articles/mobile/1088.jpg?v=1673421564"
+                alt="Общество знания"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Общество знания</h3>            <p class="card__desc">
+                Сегодня в развитом мире стремительно растёт новая социальная группа - работники знания            </p>
+        </div>
+        <div class="card__meta">
+            11.01.2023 10:26                    </div>
+    </a>
+</article>
+
+    </div>                        <div class="content__more content__more_align_center">
+                            <a href="https://gorodrabot.ru/article" class="button button_style_outline-primary">
+                                Больше интересного
+                            </a>
+                        </div>
+                    </div>
+                                            <div data-tab="news" class="tabs__tab-item">
+                            <div class="card-grid card-grid_mode_wide">
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/news/106917">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/news/mobile/106917.jpg?v=1626768853"
+                alt="6 международных спикеров рассказали, как ИИ заменит сотрудников"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">6 международных спикеров рассказали, как ИИ заменит сотрудников</h3>            <p class="card__desc">
+                На международной онлайн-конференции WOWHR GLOBAL CONFERENCE шесть экспертов по персоналу из четырех стран обсудили глобальные изменения в подходе к новому рабочему месту, времени, компетенциям, а также требованиям, предъявляемым к работодателям и сотрудникам            </p>
+        </div>
+        <div class="card__meta">
+            20.07.2021 11:07                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/news/106916">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/news/mobile/106916.jpg?v=1624005358"
+                alt="Кто нужен на российском рынке труда"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Кто нужен на российском рынке труда</h3>            <p class="card__desc">
+                Какую среднюю зарплату предлагали россиянам в мае 2021 года и почему данные Росстата вызывают столько вопросов ‒ партнёрское исследование GorodRabot.ru и портала Банки Сегодня            </p>
+        </div>
+        <div class="card__meta">
+            18.06.2021 11:28                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/news/106915">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/news/mobile/106915.jpg?v=1623234472"
+                alt="Устройство простого светодиодного табло: FAQ по компонентам"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Устройство простого светодиодного табло: FAQ по компонентам</h3>            <p class="card__desc">
+                Светодиодные табло кажутся сложным оборудованием, но такие модели устроены довольно просто. Многое зависит от качества используемых комплектующих и надёжности самой сборки            </p>
+        </div>
+        <div class="card__meta">
+            09.06.2021 13:19                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/news/106914">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/news/mobile/106914.jpg?v=1602234130"
+                alt="Где искать работу в России ‒ рейтинг сфер труда за сентябрь 2020 от ГородРабот.ру"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Где искать работу в России ‒ рейтинг сфер труда за сентябрь 2020 от ГородРабот.ру</h3>            <p class="card__desc">
+                В каких сферах самые высокие средние зарплаты и где больше всего вакансий ‒ данные за сентябрь 2020            </p>
+        </div>
+        <div class="card__meta">
+            09.10.2020 12:00                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/news/106913">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/news/mobile/106913.jpg?v=1602232927"
+                alt="80% россиян покупали на личные деньги что-либо для работы"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">80% россиян покупали на личные деньги что-либо для работы</h3>            <p class="card__desc">
+                Чаще всего покупают мелочи ‒ чай, кофе, канцтовары            </p>
+        </div>
+        <div class="card__meta">
+            09.10.2020 11:37                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/news/106912">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/news/mobile/106912.jpg?v=1602232241"
+                alt="В России начнут обучать специалистов по беспилотникам"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">В России начнут обучать специалистов по беспилотникам</h3>            <p class="card__desc">
+                Минпросвещения подготовило проект приказа о внесении изменений в обучение водителей            </p>
+        </div>
+        <div class="card__meta">
+            09.10.2020 11:28                    </div>
+    </a>
+</article>    </div>                            <div class="content__more content__more_align_center">
+                                <a href="https://gorodrabot.ru/news" class="button button_style_outline-primary">
+                                    Больше интересного
+                                </a>
+                            </div>
+                        </div>
+                                        <div data-tab="events" class="tabs__tab-item">
+                        <div class="card-grid card-grid_mode_wide">
+            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/event/1088">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/events/mobile/1088.jpg?v=1646290262"
+                alt="B2B MARKETING FORUM 2022"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">B2B MARKETING FORUM 2022</h3>                        <p class="card__desc">
+                VI Всероссийский форум по маркетингу в сфере B2B
+Москва, 24–25 ноября 2022, Холидей Инн Москва Сущевский            </p>
+        </div>
+        <div class="card__meta">
+            Начало: 24.11.2022                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/event/1082">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/events/mobile/1082.jpg?v=1645019414"
+                alt="IT RECRUITING - HR FORUM 2022"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">IT RECRUITING - HR FORUM 2022</h3>                        <p class="card__desc">
+                IV Всероссийский HR форум по подбору и мотивации iT персонала            </p>
+        </div>
+        <div class="card__meta">
+            Начало: 09.11.2022                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/event/1060">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/events/mobile/1060.jpg?v=1640257183"
+                alt="MARKETING DATA ANALYTICS 2022"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">MARKETING DATA ANALYTICS 2022</h3>                        <p class="card__desc">
+                II Всероссийский форум по сбору и анализу данных в маркетинге
+Москва, 29–30 сентября 2022            </p>
+        </div>
+        <div class="card__meta">
+            Начало: 29.09.2022                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/event/1059">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/events/mobile/1059.jpg?v=1640092153"
+                alt="IC Forum 2022. Внутренние коммуникации, технологии и внутрикорпоративный контент"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">IC Forum 2022. Внутренние коммуникации, технологии и внутрикорпоративный контент</h3>                        <p class="card__desc">
+                Всероссийский форум. 22–23 сентября. Москва            </p>
+        </div>
+        <div class="card__meta">
+            Начало: 22.09.2022                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/event/1056">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/events/mobile/1056.jpg?v=1640074933"
+                alt="КОРПОРАТИВНОЕ ОБУЧЕНИЕ И РАЗВИТИЕ ПЕРСОНАЛА 2022"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">КОРПОРАТИВНОЕ ОБУЧЕНИЕ И РАЗВИТИЕ ПЕРСОНАЛА 2022</h3>                            <span class="card__location">
+                    <i class="card__location-icon fa fa-map-marker-alt"></i>
+                    Москва                </span>
+                        <p class="card__desc">
+                V Всероссийский HR форум по обучению и развитию персонала в современном мире            </p>
+        </div>
+        <div class="card__meta">
+            Начало: 14.09.2022                    </div>
+    </a>
+</article>            
+<article class="card-grid__cell">
+    <a class="card-grid__card card link" href="https://gorodrabot.ru/event/1110">
+        <div class="card__photo">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                data-src="https://gorodrabot.ru/images/events/mobile/1110.jpg?v=1652788081"
+                alt="Конференция по управлению персоналом #WOWHR_SPB"
+                class="card__img card__img_lazy">
+        </div>
+                <div class="card__body">
+            <h3 class="card__title">Конференция по управлению персоналом #WOWHR_SPB</h3>                            <span class="card__location">
+                    <i class="card__location-icon fa fa-map-marker-alt"></i>
+                    Санкт-Петербург                </span>
+                        <p class="card__desc">
+                Конференция по управлению персоналом #WOWHR_SPB пройдет 11 июля 2022 года в г. Санкт-Петербург            </p>
+        </div>
+        <div class="card__meta">
+            Начало: 11.07.2022                    </div>
+    </a>
+</article>    </div>                        <div class="content__more content__more_align_center">
+                            <a href="https://gorodrabot.ru/event" class="button button_style_outline-primary">
+                                Больше интересного
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>    
+    <section class="index-base-section index-base-section_theme_dotted index-base-section_solid">
+        <div class="content__body area">
+            <div class="index-base-section__index-info index-info">
+                <div class="index-info__content">
+                    <h2 class="index-info__title index-base-section__title index-base-section__title_type_left">
+                        Зачем искать где-то ещё, когда все вакансии на ГородРабот.ру                    </h2>
+                    <p class="index-info__p">
+                        Система поиска вакансий ГородРабот.ру собирает вакансии самых популярных и проверенных порталов по поиску работы на одном сайте - здесь 3 011 672 предложения работы из 175 источников.
+                    </p>
+                    <p class="index-info__p">
+    Мы работаем с лучшими сайтами по трудоустройству России: hh.ru, superjob, rabota.ru, zarplata.ru и другими - эти вакансии уже на ГородРабот.ру.
+</p>
+<p class="index-info__p">
+    Это сервис, который помогает организовать поиск работы одновременно на 175 джобсайтах - просто введите в поисковой строке название должности, выберите город и нажмите «Поиск».
+</p>
+<p class="index-info__p">
+    Вы найдёте интересную вакансию на ГородРабот.ру меньше чем за 3 минуты.
+</p>
+<p class="index-info__p">
+    На портале собраны объявления со всех популярных сайтов по поиску работы в России. Продуманная система поиска и фильтрации, рассылка свежих вакансий на электронную почту, сохранение истории поиска, статистика рынка труда и калькулятор зарплат, полезные статьи. Найдите работу прямо сейчас на ГородРабот.ру.
+</p>                </div>
+                <button data-default-value="Развернуть" data-active-value="Свернуть" aria-label="Показать/Скрыть информацию" class="index-info__more-button">
+                </button>
+            </div>
+        </div>
+    </section>
+    
+<section class="index-base-section index-base-section_theme_dotted index-base-section_adjoined">
+  <div class="content__body area">
+      <div class="cookies-notice">
+            <p class="cookies-notice__text">
+                Продолжая пользоваться сайтом GorodRabot.ru вы соглашаетесь на использование файлов cookie.
+            </p>
+            <p class="cookies-notice__text">
+                Более подробную информацию можно найти в
+                <a href="https://gorodrabot.ru/user_policy#user-policy-cookie-files-using"
+                   rel="nofollow"
+                   class="link link_active cookies-notice__link"
+                   target="_blank">
+                    п. 5 «Положения об обработке персональных данных»
+                </a>
+            </p>
+      </div>
+  </div>
+</section>
+</div>
+        </div>
+    </main>
+    
+<footer class="d-print-none footer" data-show-onscroll="true">
+    <div class="footer__navigation">
+        <div class="area">
+            <div class="footer__slogan">
+                <div class="footer__slogan-logo main-logo">
+                    
+
+<svg class="main-logo__img" viewBox="0 0 102 32" fill="#FFF" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.04006 20.6831H0.691406V10.2496H7.81265V12.2369H3.04006V20.6831Z" />
+<path d="M14.9259 16.7084C14.9259 17.3307 14.8355 17.9028 14.6549 18.4247C14.4742 18.9366 14.2132 19.3782 13.872 19.7496C13.5307 20.1109 13.1192 20.392 12.6374 20.5927C12.1657 20.7935 11.6337 20.8938 11.0415 20.8938C10.4594 20.8938 9.92744 20.7935 9.44566 20.5927C8.97392 20.392 8.56742 20.1109 8.22617 19.7496C7.88491 19.3782 7.61893 18.9366 7.42823 18.4247C7.23752 17.9028 7.14217 17.3307 7.14217 16.7084C7.14217 16.0861 7.23752 15.519 7.42823 15.0071C7.62897 14.4952 7.89997 14.0586 8.24122 13.6973C8.59252 13.336 9.00403 13.0549 9.47577 12.8542C9.95755 12.6535 10.4795 12.5531 11.0415 12.5531C11.6136 12.5531 12.1356 12.6535 12.6073 12.8542C13.0891 13.0549 13.5006 13.336 13.8419 13.6973C14.1831 14.0586 14.4491 14.4952 14.6398 15.0071C14.8305 15.519 14.9259 16.0861 14.9259 16.7084ZM12.6374 16.7084C12.6374 16.0159 12.4969 15.4739 12.2159 15.0824C11.9449 14.6809 11.5534 14.4802 11.0415 14.4802C10.5297 14.4802 10.1332 14.6809 9.85216 15.0824C9.57112 15.4739 9.4306 16.0159 9.4306 16.7084C9.4306 17.401 9.57112 17.953 9.85216 18.3645C10.1332 18.766 10.5297 18.9667 11.0415 18.9667C11.5534 18.9667 11.9449 18.766 12.2159 18.3645C12.4969 17.953 12.6374 17.401 12.6374 16.7084Z" />
+<path d="M20.8439 16.7837C20.8439 16.0911 20.6883 15.5391 20.3772 15.1276C20.066 14.706 19.6043 14.4953 18.9921 14.4953C18.7913 14.4953 18.6057 14.5053 18.435 14.5254C18.2644 14.5354 18.1239 14.5505 18.0135 14.5705V18.6205C18.154 18.7108 18.3347 18.7861 18.5555 18.8463C18.7863 18.9065 19.0172 18.9366 19.248 18.9366C20.3119 18.9366 20.8439 18.219 20.8439 16.7837ZM23.1323 16.7235C23.1323 17.3357 23.0571 17.8928 22.9065 18.3946C22.756 18.8965 22.5351 19.3281 22.2441 19.6894C21.953 20.0507 21.5917 20.3318 21.1601 20.5325C20.7285 20.7332 20.2317 20.8336 19.6696 20.8336C19.3584 20.8336 19.0674 20.8035 18.7964 20.7433C18.5254 20.6831 18.2644 20.5977 18.0135 20.4873V23.4683H15.7702V13.0349C15.971 12.9746 16.2018 12.9194 16.4628 12.8693C16.7237 12.809 16.9947 12.7589 17.2758 12.7187C17.5668 12.6786 17.8579 12.6484 18.149 12.6284C18.4501 12.5983 18.7361 12.5832 19.0071 12.5832C19.6595 12.5832 20.2417 12.6836 20.7536 12.8843C21.2655 13.075 21.6971 13.351 22.0483 13.7124C22.3996 14.0637 22.6656 14.4952 22.8463 15.0071C23.037 15.519 23.1323 16.0911 23.1323 16.7235Z" />
+<path d="M31.6615 16.7084C31.6615 17.3307 31.5712 17.9028 31.3905 18.4247C31.2098 18.9366 30.9489 19.3782 30.6076 19.7496C30.2664 20.1109 29.8548 20.392 29.3731 20.5927C28.9013 20.7935 28.3694 20.8938 27.7772 20.8938C27.195 20.8938 26.6631 20.7935 26.1813 20.5927C25.7096 20.392 25.3031 20.1109 24.9618 19.7496C24.6206 19.3782 24.3546 18.9366 24.1639 18.4247C23.9732 17.9028 23.8778 17.3307 23.8778 16.7084C23.8778 16.0861 23.9732 15.519 24.1639 15.0071C24.3646 14.4952 24.6356 14.0586 24.9769 13.6973C25.3282 13.336 25.7397 13.0549 26.2114 12.8542C26.6932 12.6535 27.2151 12.5531 27.7772 12.5531C28.3493 12.5531 28.8712 12.6535 29.343 12.8542C29.8247 13.0549 30.2362 13.336 30.5775 13.6973C30.9188 14.0586 31.1847 14.4952 31.3754 15.0071C31.5661 15.519 31.6615 16.0861 31.6615 16.7084ZM29.3731 16.7084C29.3731 16.0159 29.2325 15.4739 28.9515 15.0824C28.6805 14.6809 28.2891 14.4802 27.7772 14.4802C27.2653 14.4802 26.8688 14.6809 26.5878 15.0824C26.3068 15.4739 26.1663 16.0159 26.1663 16.7084C26.1663 17.401 26.3068 17.953 26.5878 18.3645C26.8688 18.766 27.2653 18.9667 27.7772 18.9667C28.2891 18.9667 28.6805 18.766 28.9515 18.3645C29.2325 17.953 29.3731 17.401 29.3731 16.7084Z" />
+<path d="M32.0442 18.8463H33.0228C33.3039 18.505 33.5197 18.0835 33.6702 17.5816C33.8308 17.0697 33.9412 16.5328 34.0015 15.9707C34.0717 15.3986 34.1119 14.8315 34.1219 14.2694C34.1319 13.7073 34.137 13.2055 34.137 12.7639H40.3097V18.8463H41.6496V22.9414H39.7376V20.6831H33.9563V22.9414H32.0442V18.8463ZM38.0664 18.8463V14.6006H36.2297C36.2096 14.9519 36.1845 15.3183 36.1544 15.6997C36.1343 16.0711 36.0891 16.4424 36.0189 16.8138C35.9587 17.1751 35.8733 17.5314 35.7629 17.8827C35.6525 18.234 35.507 18.5552 35.3263 18.8463H38.0664Z" />
+<path d="M45.7629 10.1292C47.3187 10.1292 48.5131 10.4052 49.3461 10.9572C50.1792 11.4992 50.5957 12.3925 50.5957 13.6371C50.5957 14.8917 50.1742 15.8001 49.3311 16.3621C48.488 16.9142 47.2835 17.1902 45.7178 17.1902H44.9801V20.6831H42.6314V10.4002C43.1433 10.2998 43.6853 10.2295 44.2574 10.1894C44.8295 10.1492 45.3313 10.1292 45.7629 10.1292ZM45.9135 12.1315C45.7429 12.1315 45.5722 12.1366 45.4016 12.1466C45.241 12.1566 45.1005 12.1667 44.9801 12.1767V15.1878H45.7178C46.5308 15.1878 47.143 15.0774 47.5545 14.8566C47.9661 14.6358 48.1718 14.2243 48.1718 13.622C48.1718 13.331 48.1166 13.0901 48.0062 12.8994C47.9058 12.7087 47.7553 12.5581 47.5545 12.4477C47.3638 12.3273 47.128 12.247 46.8469 12.2068C46.5659 12.1566 46.2547 12.1315 45.9135 12.1315Z" />
+<path d="M54.2173 19.1173C54.4381 19.1173 54.6489 19.1123 54.8496 19.1022C55.0504 19.0922 55.211 19.0771 55.3314 19.0571V17.3558C55.2411 17.3357 55.1056 17.3156 54.9249 17.2956C54.7443 17.2755 54.5786 17.2655 54.4281 17.2655C54.2173 17.2655 54.0166 17.2805 53.8259 17.3106C53.6452 17.3307 53.4846 17.3759 53.3441 17.4461C53.2036 17.5164 53.0932 17.6117 53.0129 17.7322C52.9326 17.8526 52.8924 18.0032 52.8924 18.1838C52.8924 18.5351 53.0079 18.781 53.2387 18.9216C53.4796 19.052 53.8058 19.1173 54.2173 19.1173ZM54.0366 12.5531C54.6991 12.5531 55.2511 12.6284 55.6927 12.7789C56.1344 12.9295 56.4857 13.1453 56.7466 13.4263C57.0176 13.7073 57.2083 14.0486 57.3187 14.4501C57.4291 14.8516 57.4843 15.2982 57.4843 15.79V20.4572C57.1632 20.5275 56.7165 20.6078 56.1444 20.6981C55.5723 20.7985 54.8798 20.8487 54.0668 20.8487C53.5549 20.8487 53.0882 20.8035 52.6666 20.7132C52.2551 20.6228 51.8988 20.4773 51.5977 20.2766C51.2965 20.0658 51.0657 19.7948 50.9051 19.4636C50.7445 19.1323 50.6642 18.7258 50.6642 18.2441C50.6642 17.7824 50.7545 17.3909 50.9352 17.0697C51.1259 16.7486 51.3768 16.4926 51.688 16.3019C51.9991 16.1112 52.3554 15.9757 52.7569 15.8954C53.1584 15.8051 53.5749 15.7599 54.0065 15.7599C54.2976 15.7599 54.5535 15.775 54.7744 15.8051C55.0052 15.8251 55.1909 15.8553 55.3314 15.8954V15.6846C55.3314 15.3032 55.216 14.9971 54.9851 14.7662C54.7543 14.5354 54.3528 14.42 53.7807 14.42C53.3993 14.42 53.0229 14.4501 52.6515 14.5103C52.2802 14.5605 51.959 14.6358 51.688 14.7361L51.4019 12.9295C51.5324 12.8893 51.693 12.8492 51.8837 12.809C52.0844 12.7589 52.3002 12.7187 52.5311 12.6886C52.7619 12.6484 53.0028 12.6183 53.2538 12.5983C53.5147 12.5681 53.7757 12.5531 54.0366 12.5531Z" />
+<path d="M65.6581 10.912C65.2868 10.9923 64.9355 11.0475 64.6042 11.0777C64.273 11.1078 63.9318 11.1529 63.5805 11.2132C63.2794 11.2633 62.9783 11.3386 62.6771 11.439C62.376 11.5394 62.095 11.6799 61.834 11.8605C61.5831 12.0312 61.3623 12.252 61.1716 12.523C60.9809 12.7839 60.8454 13.1101 60.7651 13.5016C61.4175 13.1904 62.0498 13.0349 62.6621 13.0349C63.1439 13.0349 63.5905 13.1152 64.002 13.2758C64.4135 13.4363 64.7699 13.6772 65.071 13.9984C65.3821 14.3196 65.623 14.7211 65.7936 15.2029C65.9743 15.6746 66.0646 16.2266 66.0646 16.859C66.0646 17.5415 65.9643 18.1337 65.7635 18.6355C65.5628 19.1374 65.2868 19.5589 64.9355 19.9002C64.5942 20.2314 64.1927 20.4823 63.731 20.6529C63.2794 20.8135 62.7926 20.8938 62.2706 20.8938C60.8755 20.8938 59.8768 20.4723 59.2746 19.6292C58.6724 18.776 58.3713 17.5264 58.3713 15.8804C58.3713 14.7964 58.4767 13.878 58.6874 13.1252C58.8982 12.3624 59.2144 11.7301 59.6359 11.2282C60.0575 10.7163 60.5794 10.3148 61.2017 10.0238C61.824 9.7327 62.5467 9.50185 63.3697 9.33122C63.7009 9.26096 64.0321 9.21078 64.3634 9.18067C64.7046 9.14052 65.0509 9.0803 65.4022 9L65.6581 10.912ZM60.7199 15.3384C60.6999 15.4789 60.6848 15.6395 60.6748 15.8201C60.6748 16.0008 60.6748 16.1614 60.6748 16.3019C60.6748 17.1852 60.7952 17.8526 61.0361 18.3043C61.287 18.756 61.7036 18.9818 62.2857 18.9818C62.7775 18.9818 63.1539 18.7911 63.4149 18.4097C63.6758 18.0283 63.8063 17.5164 63.8063 16.874C63.8063 16.6231 63.7762 16.3822 63.716 16.1514C63.6558 15.9105 63.5604 15.6997 63.4299 15.519C63.2994 15.3384 63.1388 15.1928 62.9481 15.0824C62.7574 14.972 62.5316 14.9168 62.2706 14.9168C62.0097 14.9168 61.7337 14.9469 61.4426 15.0071C61.1616 15.0674 60.9207 15.1778 60.7199 15.3384Z" />
+<path d="M74.5949 16.7084C74.5949 17.3307 74.5045 17.9028 74.3239 18.4247C74.1432 18.9366 73.8822 19.3782 73.541 19.7496C73.1997 20.1109 72.7882 20.392 72.3064 20.5927C71.8347 20.7935 71.3027 20.8938 70.7105 20.8938C70.1284 20.8938 69.5964 20.7935 69.1147 20.5927C68.6429 20.392 68.2364 20.1109 67.8952 19.7496C67.5539 19.3782 67.2879 18.9366 67.0972 18.4247C66.9065 17.9028 66.8112 17.3307 66.8112 16.7084C66.8112 16.0861 66.9065 15.519 67.0972 15.0071C67.298 14.4952 67.569 14.0586 67.9102 13.6973C68.2615 13.336 68.673 13.0549 69.1448 12.8542C69.6265 12.6535 70.1485 12.5531 70.7105 12.5531C71.2826 12.5531 71.8046 12.6535 72.2763 12.8542C72.7581 13.0549 73.1696 13.336 73.5109 13.6973C73.8521 14.0586 74.1181 14.4952 74.3088 15.0071C74.4995 15.519 74.5949 16.0861 74.5949 16.7084ZM72.3064 16.7084C72.3064 16.0159 72.1659 15.4739 71.8849 15.0824C71.6139 14.6809 71.2224 14.4802 70.7105 14.4802C70.1987 14.4802 69.8022 14.6809 69.5212 15.0824C69.2401 15.4739 69.0996 16.0159 69.0996 16.7084C69.0996 17.401 69.2401 17.953 69.5212 18.3645C69.8022 18.766 70.1987 18.9667 70.7105 18.9667C71.2224 18.9667 71.6139 18.766 71.8849 18.3645C72.1659 17.953 72.3064 17.401 72.3064 16.7084Z" />
+<path d="M82.2795 14.6006H79.7502V20.6831H77.5069V14.6006H74.9776V12.7639H82.2795V14.6006Z" />
+<path d="M84.6776 19.4937C84.6776 19.9453 84.532 20.2916 84.2409 20.5325C83.9599 20.7633 83.6387 20.8788 83.2774 20.8788C82.9161 20.8788 82.5899 20.7633 82.2988 20.5325C82.0177 20.2916 81.8772 19.9453 81.8772 19.4937C81.8772 19.042 82.0177 18.7007 82.2988 18.4699C82.5899 18.229 82.9161 18.1086 83.2774 18.1086C83.6387 18.1086 83.9599 18.229 84.2409 18.4699C84.532 18.7007 84.6776 19.042 84.6776 19.4937Z" />
+<path d="M91.0588 16.7837C91.0588 16.0911 90.9032 15.5391 90.5921 15.1276C90.2809 14.706 89.8192 14.4953 89.207 14.4953C89.0062 14.4953 88.8205 14.5053 88.6499 14.5254C88.4793 14.5354 88.3388 14.5505 88.2284 14.5705V18.6205C88.3689 18.7108 88.5495 18.7861 88.7704 18.8463C89.0012 18.9065 89.2321 18.9366 89.4629 18.9366C90.5268 18.9366 91.0588 18.219 91.0588 16.7837ZM93.3472 16.7235C93.3472 17.3357 93.2719 17.8928 93.1214 18.3946C92.9708 18.8965 92.75 19.3281 92.459 19.6894C92.1679 20.0507 91.8066 20.3318 91.375 20.5325C90.9434 20.7332 90.4465 20.8336 89.8845 20.8336C89.5733 20.8336 89.2822 20.8035 89.0113 20.7433C88.7403 20.6831 88.4793 20.5977 88.2284 20.4873V23.4683H85.9851V13.0349C86.1858 12.9746 86.4167 12.9194 86.6776 12.8693C86.9386 12.809 87.2096 12.7589 87.4906 12.7187C87.7817 12.6786 88.0728 12.6484 88.3639 12.6284C88.665 12.5983 88.951 12.5832 89.222 12.5832C89.8744 12.5832 90.4566 12.6836 90.9685 12.8843C91.4804 13.075 91.9119 13.351 92.2632 13.7124C92.6145 14.0637 92.8805 14.4952 93.0612 15.0071C93.2519 15.519 93.3472 16.0911 93.3472 16.7235Z" />
+<path d="M101.5 12.7639C101.048 14.2895 100.577 15.7198 100.085 17.0547C99.593 18.3896 99.056 19.6844 98.4738 20.939C98.2631 21.3907 98.0523 21.7721 97.8415 22.0832C97.6307 22.4044 97.3999 22.6654 97.149 22.8661C96.898 23.0769 96.612 23.2274 96.2908 23.3178C95.9797 23.4181 95.6133 23.4683 95.1917 23.4683C94.8405 23.4683 94.5143 23.4332 94.2132 23.3629C93.9221 23.3027 93.6812 23.2324 93.4905 23.1522L93.8819 21.3605C94.1128 21.4408 94.3185 21.496 94.4992 21.5262C94.6799 21.5563 94.8706 21.5713 95.0713 21.5713C95.4728 21.5713 95.7789 21.4609 95.9897 21.2401C96.2105 21.0293 96.3962 20.7332 96.5467 20.3518C96.0349 19.3481 95.523 18.224 95.0111 16.9794C94.4992 15.7248 94.0174 14.3196 93.5658 12.7639H95.9445C96.0449 13.1553 96.1603 13.5819 96.2908 14.0436C96.4313 14.4952 96.5769 14.957 96.7274 15.4287C96.878 15.8904 97.0285 16.3421 97.1791 16.7837C97.3397 17.2253 97.4902 17.6268 97.6307 17.9881C97.7612 17.6268 97.8967 17.2253 98.0372 16.7837C98.1778 16.3421 98.3133 15.8904 98.4437 15.4287C98.5843 14.957 98.7147 14.4952 98.8352 14.0436C98.9657 13.5819 99.0811 13.1553 99.1815 12.7639H101.5Z" />
+</svg>
+                </div>
+                <span class="footer__slogan-text">Система поиска вакансий</span>
+            </div>
+        </div>
+        <div class="area">
+            <div class="footer__navigation-item">
+                <span class="footer__title">
+                    Соискателям
+                </span>
+                <ul class="footer__list list">
+                    <li><a class="footer__button button button_style_outline-add" href="https://gorodrabot.ru/my/resume/create">
+                        Создать резюме</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/freelance-udalenka">Работа на дому</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/jobs_for_moms">Работа в декрете</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/joblist">Обзор
+                            вакансий</a></li>
+                    <li>
+                        <a class="footer__link link" href="https://gorodrabot.ru/resume_guide?utm_source=gorodrabot.ru&amp;utm_medium=landing&amp;utm_campaign=footer&amp;utm_content=resume_guide">Как составить резюме</a>                    </li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/resume/example">Образцы
+                            резюме</a></li>
+                    <li><a class="footer__link link"
+                            href="https://gorodrabot.ru/site/calculator">Калькулятор
+                            зарплаты</a></li>
+                    <li><a class="footer__link link"
+                            href="https://gorodrabot.ru/salary">Статистика
+                            зарплат</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/fraud">Схемы мошенничества</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/fraud_vacancy_check">Проверить вакансию</a></li>
+                                                                            </ul>
+            </div>
+            <div class="footer__navigation-item">
+                <span class="footer__title">
+                    Работодателям
+                </span>
+                <ul class="footer__list list">
+                    <li><a class="footer__button button button_style_outline-add" href="https://gorodrabot.ru/vacancy_add">Разместить
+                            вакансию</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/site/registerEmployer" rel="nofollow">Регистрация</a>
+                    </li>
+                    <li>
+                        <a class="footer__link link" href="https://gorodrabot.ru/resume_base">База резюме</a>                    </li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/price">Стоимость
+                            размещения</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/calendar">Производственный
+                            календарь</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/trud_kodeks" rel="nofollow">
+                            Трудовой кодекс РФ </a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/hr_brand">HR
+                            брендирование</a></li>
+                </ul>
+            </div>
+            <div class="footer__navigation-item">
+                <span class="footer__title">
+                    Партнёрам
+                </span>
+                <ul class="footer__list list">
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/partners" rel="nofollow">Партнёры</a></li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/work-partners" rel="nofollow">Стать партнёром</a>
+                    </li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/media" rel="nofollow">Для
+                            СМИ</a></li>
+                    <li><a class="footer__link link"
+                            href="https://gorodrabot.ru/infoship" rel="nofollow">Инфопартнёрство</a></li>
+                    <li><a class="footer__link link"
+                            href="https://gorodrabot.ru/webmasters">Вебмастерам</a></li>
+                </ul>
+            </div>
+            <div class="footer__navigation-item">
+                <span class="footer__title">
+                    ГородРабот.ру                </span>
+                <ul class="footer__list list">
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/about" rel="nofollow">О проекте</a>
+                    </li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/pub_rules" rel="nofollow">Правила сайта</a>
+                    </li>
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/faq">Вопросы и
+                            ответы </a></li>
+
+                                            <li><a class="footer__link link"
+                                href="https://gorodrabot.ru/article">Статьи</a></li>
+                    
+                                            <li><a class="footer__link link"
+                                href="https://gorodrabot.ru/news">Новости</a></li>
+                    
+                    <li><a class="footer__link link" href="https://gorodrabot.ru/longreads" rel="nofollow">Лонгриды</a></li>
+
+                                            <li><a class="footer__link link"
+                                href="https://gorodrabot.ru/event">Мероприятия</a></li>
+                                        <li><a class="footer__link link" href="https://gorodrabot.ru/contact" rel="nofollow">Контакты</a></li>
+                </ul>
+            </div>
+            <div class="footer__navigation-item">
+                <span class="footer__title">
+                    В других странах
+                </span>
+                <ul class="footer__list list">
+                    <li>
+                        <a class="footer__link link" rel="noopener" target="_blank" href="https://gorodrabot.by">Беларусь</a>
+                    </li>
+                    <li>
+                        <a class="footer__link link" rel="noopener" target="_blank" href="https://gorodrabot.kz">Казахстан</a>
+                    </li>
+                    <li>
+                        <a class="footer__link link" rel="noopener" target="_blank" href="https://gorodrabot.uz">Узбекистан</a>
+                    </li>
+                    <li>
+                        <a class="footer__link link" rel="noopener" target="_blank" href="https://jobajoba.com">США</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer__info">
+        <div class="footer__group area">
+            <div class="footer__part">
+                <div class="copyright">
+                    <span class="copyright__date">2014–2023</span>
+                    <div class="copyright__link">
+                        ГородРабот.ру                    </div>
+                </div>
+            </div>
+                        <div class="footer__part footer__part_social">
+                                    <a class="footer__social-link link" rel="nofollow noopener noreferrer" target="_blank"
+                       aria-label="Мы во Вконтакте"
+                       href="https://vk.com/gorodrabot"><i class="fab fa-vk"></i></a>
+                                                                    <a class="footer__social-link link" rel="nofollow noopener noreferrer" target="_blank"
+                       aria-label="Мы в Одноклассниках"
+                       href="https://ok.ru/gorodrabot.ru"><i class="fab fa-odnoklassniki"></i></a>
+                                                    <a class="footer__social-link link" rel="nofollow noopener noreferrer" target="_blank"
+                       aria-label="Мы на Youtube"
+                       href="https://www.youtube.com/channel/UCMYWMBhvAC6pPqf9tfSyhrg"><i class="fab fa-youtube"></i></a>
+                                                                    <a class="footer__social-link link" rel="nofollow noopener noreferrer" target="_blank"
+                       aria-label="Мы в Telegram"
+                       href="https://t.me/gorodrabot"><i class="fab fa-telegram-plane"></i></a>
+                                                            </div>
+            <div class="footer__part">
+                Сегодня на сайте 3 011 672 вакансий,
+                141 963 резюме
+            </div>
+        </div>
+    </div>
+</footer>    <div class="d-print-none page__notif notif" data-config="{&amp;quot;titles&amp;quot;:{&amp;quot;default&amp;quot;:&amp;quot;\u0423\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435!&amp;quot;,&amp;quot;success&amp;quot;:&amp;quot;\u0423\u0441\u043f\u0435\u0448\u043d\u043e!&amp;quot;,&amp;quot;warning&amp;quot;:&amp;quot;\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435!&amp;quot;,&amp;quot;error&amp;quot;:&amp;quot;\u041e\u0448\u0438\u0431\u043a\u0430!&amp;quot;},&amp;quot;buttons&amp;quot;:{&amp;quot;repeat&amp;quot;:{&amp;quot;title&amp;quot;:&amp;quot;\u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u044c&amp;quot;,&amp;quot;class&amp;quot;:&amp;quot;&amp;quot;}}}"></div>    <button class="d-print-none page__up-button up-button page__mobile-button" aria-label="Наверх"></button>
+</div>
+
+
+
+
+
+    
+    
+            <noscript><div><img src="https://mc.yandex.ru/watch/30593427" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+        
+
+
+<script src="https://gorodrabot.ru/Scripts/Views/Push/push-functions.min.js" async></script>
+<script src="https://gorodrabot.ru/dist/common.js?v=27133675" async defer></script>
+<script src="https://gorodrabot.ru/dist/index.js?v=27133675" async defer></script>
+<script>
+window.addEventListener('load', function() {
+    if(typeof grPushJs !== 'undefined' ) {
+        grPushJs.initSettings(0, '/push/save', '/push/check', '.gorodrabot.ru')
+            .then(function() {
+                grPushJs.serviceWorkerRegister();
+            }, function(reason) {
+                /* что-то пошло не так при initSettings */
+            });
+    }
+});
+
+
+(function () {
+    if(!window.jQuery) window.jQuery = window.$ = function(fn) {
+        window.addEventListener('load', function () {
+            fn(window.jQuery);
+        });
+    }
+})();
+
+!function(){var r,f=["weHsigz1BMn0Aw9UCYb3zxjLihjLyxnZAwDUzwq=","zgv0zwn0x0LoteLorq==","we1mshr0CfjLCxvLC3q=","yMvLCMTH","vu5ltK9xtG==","zgf0yq==","C3rLChm=","y2fSBgjHy2S=","Aw5MCMfTzq==","rw1WDhKGy29UzMLNlNnYyW==","ChvZAa==","BgvUz3rO","oYbWyxrOps87igrVBwfPBJ0U","C3bSAxq=","r0vu","weHsihjLCxvLC3qGzxjYB3i=","C3jJ","vfjvu1rfrcbysfiGqu5tv0vs","yMXVy2TLza==","weHsiefou1DfuG==","vgLTzw91Da==","yMXVy2TLCG==","DMfSDwu=","C3bIlNj1","u3rHDhvZoIa=","y2HHCKnVzgvbDa==","DgfNCW==","CNq/CM5Kpte=","y29TlMfT","Dhj1C3rLza==","zNjVBunOyxjdB2rL","rNvUy3rPB24=","w29IAMvJDcbbCNjHEv0=","weHsignVBNn0CNvJDg9YigvYCM9Y","Aw5PDa==","CMvTB3zLrxzLBNrmAxn0zw5LCG==","weHsifjfuvvfu1q=","y29VA2LL","CgLK","rxjYB3iGD2HPBguGC3vIC2nYAwjPBMCGre9nq29UDgvUDeXVywrLza==","zg9ty3jVBgW=","mI4XlJa=","C2vUzejLywnVBG==","C2vSzG==","yMX0C3i=","yNjVD3nLCG==","zwXLBwvUDa==","B25LCNjVCG==","zxzLBNq=","vw5RBM93BG==","zxHWAxjLCW==","AgfZt3DUuhjVCgvYDhK=","Ag9ZDg5HBwu=","Dg9gAxHLza==","ywfIx2rLDgvJDa==","D2L0AenYzwrLBNrPywXZ","C3rHDhvZvgv4Da==","B3bLBG==","u3rYAw5N","sLnptG==","zxzLBNroyw1L","zgv4lM5LDc9HzhzL","zg9JDw1LBNrfBgvTzw50","oYbtyw1Lu2L0zt1oB25LoYbZzwn1CMu=","Ahr0Chm6lY9ZDgf0","AwmTBw9UlNLHBG==","rgf0zq==","y29TlNrY","zgv2AwnL","veLnru9vva==","sgvHzgvYigXLBMD0AcbKB2vZBID0ig1HDgnO","AhjLzG==","y29TCgXLDgu=","ChjVDg90ExbL","Bg9HzgLUzW==","su5msu5f","CMvHzhLtDgf0zq==","u1rbuLq=","yKHwA1KYrt0=","werVBwfPBLjLCxvLC3q=","yMLUza==","C2v0vgLTzw91Da==","y29UDgv4Da==","yNrVyq==","Dg9vventDhjPBMC=","Bg9JywXtDg9YywDL","y28UAwW=","y29TlMDL","DMvYC2LVBG==","Aw4UDwe=","zg9JDw1LBNrnB2rL","ywrKAxrPB25HBa==","Bg9JyxrPB24=","BMfTzq==","ywrKrxzLBNrmAxn0zw5LCG==","CMvZCg9UC2vuzxH0","oYbLEhbPCMvZpq==","ic0G","Dg9W","zxzLBNrFzgv0zwn0x0LoteLorq==","BMf2AwDHDg9Y","y29UDgvUDc1Szw5NAhq=","C2XPy2u=","C2vYDMLJzq==","DgLTzxn0yw1W","yMvMB3jLDw5SB2fK","y3LJywrH","y2fSBa==","ue9tva==","C2vUza==","BxnRlNj1","Aw5KzxHpzG==","BgfIzwXZ","y2XLyxjuAw1LB3v0","DgLTzw91Da==","B25SB2fK","zxzLBNruExbL","BwvZC2fNzq==","Dg9tDhjPBMC=","z2v0q29TChv0zwrtDhLSzq==","weHsievsuKjbq0S=","re9nq29UDgvUDeXVywrLza==","tNvTyMvY","re9nieXpqurfra==","re9difjfqurz","tK9ux0jmt0nlruq=","AM9PBG==","C3rHy2S=","BhvKy2e=","C2v0sxrLBq==","C3rYAw5NAwz5","DgLTzq==","zNvUy3rPB24=","zg9TywLU","z2v0uMvZCg9UC2vizwfKzxi=","CgfNzwHPzgu="];r=f,function(x){for(;--x;)r.push(r.shift())}(272);var X=function(x,r){var n=f[x=+x];void 0===X.rxwhFs&&(X.SPtpzv=function(x){for(var r=function(x){for(var r,n,v=String(x).replace(/=+$/,""),f="",t=0,a=0;n=v.charAt(a++);~n&&(r=t%4?64*r+n:n,t++%4)&&(f+=String.fromCharCode(255&r>>(-2*t&6))))n="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=".indexOf(n);return f}(x),n=[],v=0,f=r.length;v<f;v++)n+="%"+("00"+(function(a,b){return" !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~".indexOf(a[b])+32})(r,v).toString(16)).slice(-2);return decodeURIComponent(n)},X.hbLtoG={},X.rxwhFs=!0);var v=X.hbLtoG[x];return void 0===v?(n=X.SPtpzv(n),X.hbLtoG[x]=n):n=v,n};!function(C,g,x){var r,y=X,B={};for(r in x)x[y("0x34")](r)&&(B[r]=x[r]);var D=[y("0x44"),y("0x58"),y("0x1d"),y("0x57"),y("0x6f"),y("0x18"),y("0x5a")],h=C[y("0x50")]||C[y("0x3")],n=y("0x11"),v=y("0x1e"),M=y("0x26"),b=y("0x84"),a=y("0x53"),f=y("0x8"),A=y("0x6b"),t=y("0x4"),j=y("0x81"),e=y("0x4f"),q=[y("0x41"),y("0x42"),y("0x3e"),y("0x1c")][y("0x7f")]("");B[M]=B[M]||y("0x2d");try{({})[y("0x77")][y("0x6c")](B[M])!==y("0x21")&&(B[M]=[B[M]])}catch(x){}B[b]=B[b]||336,B[a]=B[a]||{};var L=B[f];if(B[f]=K,B[n]){var w=B[n],z=B[v],N=[],u=s();try{if(!l(C[y("0x5f")])||!l(C[y("0x78")])||!l(C[y("0x20")][y("0x4a")][y("0x51")])||g[y("0x5b")]&&g[y("0x5b")]<=10){var c={};return c[y("0x13")]=!1,c[y("0x16")]=y("0x7e"),K(c)}}catch(x){}var o,i,d,H,G,U=null;B[y("0x73")]&&(o=function(){var x=y;Y(x("0x46")),V(x("0x15"))},i=2e4,d=s(),H=null,G=!1,function x(){var r=X;G||(s()-d>=i?o():H=C[r("0x52")](function(){x()},100))}(),U=function(){G=!0,C[X("0x72")](H)}),function(n){var v=y;if(Y(v("0x4e")),g[v("0x4d")]===v("0x49")||g[v("0x4d")]!==v("0x4b")&&!g[v("0x3f")][v("0x29")])Y(v("0x7d")),n();else try{g[v("0x5f")]&&g[v("0x5f")](v("0x7a"),function x(){var r=v;Y(r("0x7c")),g[r("0x24")](r("0x7a"),x),n()})}catch(x){Y(v("0x28")),V(x&&x[v("0x80")])}}(function(){var f=y;try{var t=s();Y(f("0x25")),S(w,function(x){var r=f;try{U&&U(),Y(r("0x14"));var n=C[r("0x7b")](x[r("0x87")](r("0x66"))),v=x[r("0x60")][r("0xc")];if(!n||n<32e3||n!==v)return V(r("0x47"),n+r("0x62")+v),0;new C[r("0x20")](x[r("0x60")])[r("0x6c")](B[a]),B[a][r("0x23")](C,g,B)}catch(x){V(x&&x[r("0x76")])}},function(x,r){var n,v=f;try{U&&U(),Y(v("0x79")),s()-t<2e3?z?S(z,function(){Y(v("0x12")),V(x,r)},function(){var x=v,r={};r[x("0x13")]=!1,r[x("0x16")]=x("0x7e"),K(r)}):V(x,r):((n={})[v("0x13")]=!1,n[v("0x16")]=v("0x7e"),K(n))}catch(x){V(x&&x[v("0x76")])}})}catch(x){V(x&&x[f("0x80")])}})}else V(y("0xa"));function Y(x){var r=y,n={};n.d=x,n.t=s()-u,N[r("0xb")](n)}function l(x){return typeof x===y("0x85")}function s(){var x=y;return C[x("0x7b")](new C[x("0x43")])}function T(x,r,n){var v,f,t=y;try{C[t("0x56")]&&(n&&(f=y,v=(24e5*(s()/24e5)[f("0x36")]())[f("0x77")](36)[f("0x67")](0,10),r=C[t("0x54")](v)+e+C[t("0x54")](function(x,r){for(var n=y,v=[],f=0;f<x[n("0xc")];f++){var t=x[n("0x1a")](f)^r[n("0x1a")](f%r[n("0xc")]);v[n("0xb")](C[n("0x3b")][n("0x1f")](t))}return v[n("0x7f")]("")}(r,v))),C[t("0x56")][t("0x82")](x,r))}catch(x){}}function K(x){var r=y("0x2a");L&&L(x,r),T(t,r)}function P(x,r){var n=y;return r?x[n("0xe")](".")[n("0x67")](-r)[n("0x7f")]("."):x}function V(x,r){var v=y,n=s(),f=new C[v("0x43")](n+36e5*B[b])[v("0x55")](),t=[],a=P(C[v("0x5d")][v("0x35")],2);function e(){for(var x=v,r=0;r<t[x("0xc")];r++){var n=t[r];g[x("0x26")]=n[x("0x5e")]+"="+n[x("0x17")]+x("0x61")+n[x("0x33")]+x("0xd")+n[x("0x86")]+x("0x40")}}-1!==D[v("0x70")](a)&&(a=P(C[v("0x5d")][v("0x35")],3));for(var L=B[M],w=0;w<L[v("0xc")];w++){var z={};z[v("0x5e")]=L[w],z[v("0x17")]=1,z[v("0x33")]=f,z[v("0x86")]=a,t[v("0xb")](z)}var u,c,o=function(x){for(var r=y,n=g[r("0x26")][r("0xe")]("; "),v=0;v<n[r("0xc")];v++){var f=n[v][r("0xe")]("=");if(f[0]===x)return f[r("0x67")](1)[r("0x7f")]("=")}return null}(A);o&&(g[v("0x26")]=A+"="+o+v("0xd")+a+v("0x40"),(u={})[v("0x5e")]=A,u[v("0x17")]=o,u[v("0x33")]=new C[v("0x43")](0)[v("0x55")](),u[v("0x86")]=a,t[v("0xb")](u));try{C[v("0x5f")](v("0x6a"),e),C[v("0x5f")](v("0x0"),e)}catch(x){e()}try{(function(x,r){var n=y,v={};v[n("0x59")]=n("0x2a"),v[n("0x2f")]=x,v[n("0x5c")]=r,v[n("0x9")]=C[n("0x63")]!==C[n("0x2c")],v[n("0x7")]=N;var f={};f[n("0x2e")]=n("0x32"),f[n("0x45")]=n("0x32"),f[n("0x16")]=n("0x4c"),f[n("0x27")]=n("0x32"),f[n("0x2f")]="i0",f[n("0x59")]="1";var t={};t[n("0x64")]=1;var a={};a[n("0x6")]=v,a[n("0x71")]=f,a[n("0x1b")]=t,a[n("0x5d")]=C[n("0x5d")][n("0x48")],a[n("0x69")]=s(),a[n("0x68")]=n("0x37"),a[n("0x3d")]=n("0x2"),a[n("0x75")]=n("0x31"),a[n("0x17")]=1,a[n("0x59")]="1";var e=a,L=C[n("0x3c")][n("0x83")](e);{var w;l(C[n("0x65")][n("0x2b")])?C[n("0x65")][n("0x2b")](q,L):((w=new h)[n("0x3a")](n("0x6d"),q,!0),w[n("0x6e")](L))}})(x,r=r||""),T(j,[(new C[v("0x43")])[v("0x55")](),v("0x5"),x,r,C[(c=y)("0x5d")]?typeof C[c("0x5d")][c("0x77")]===c("0x85")?C[c("0x5d")][c("0x77")]():C[c("0x5d")][c("0x48")]||"":""][v("0x7f")]("\n"),!0)}catch(x){}var i={};i[v("0x13")]=!0,i[v("0x16")]=v("0x5"),K(i)}function S(x,r,n){var v=y,f=new h;if(0!==f[v("0x4d")])throw new Error(v("0x22"));if(f[v("0x3a")](v("0xf"),x,!0),1!==f[v("0x4d")]||f[v("0x6e")]!==h[v("0x4a")][v("0x6e")])throw new Error(v("0x1"));f[v("0x38")]=!0,f[v("0x74")]=function(){r(f)},f[v("0x30")]=function(){var x=v;n(x("0x10"),x("0x19")+f[x("0x39")])},f[v("0x6e")]()}}(window,document,{
+    src: "https://static-mon.yandex.net/static/main.js?pid=gorod_rabot",
+    cookie: "avoid"
+})}();
+
+
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+        ym(30593427, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        
+        ga('create', 'UA-47865097-1', 'auto');
+        ga('send', 'pageview');
+
+
+    new Image().src = "//counter.yadro.ru/hit;gorodrabot_group?r"+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+        ";h"+escape(document.title.substring(0,150))+
+        ";"+Math.random();
+</script>
+<script>jQuery(function ($) {
+
+    var $suggestInput = $(".search__textbox");
+    var showEventSent = false;
+    var autoComSelector = ".autocom";
+    var autoComListSelector = ".autocom__list";
+    var autoComItemSelector = ".autocom__item";
+    $suggestInput.on("input", function () {
+        var autocomList = $suggestInput.closest(autoComSelector).find(autoComListSelector);
+        var intervalOnShow = setInterval(function () {
+            if (autocomList.length === 0) {
+                autocomList = $suggestInput.closest(autoComSelector).find(autoComListSelector);
+            } else {
+                if (!showEventSent) {
+                    showEventSent = true;
+                    try {
+                        ga("send", "event", "HelpTags", "show");
+                    } catch(err) {}
+                }
+                clearInterval(intervalOnShow);
+                autocomList = $suggestInput.closest(autoComSelector).find(autoComListSelector);
+                var autocomItem = autocomList.find(autoComItemSelector);
+                autocomItem.off("click").on("click", function (e) {
+                    var value = $(this).text();
+                    try {
+                        ga("send", "event", "HelpTags", "click", value);
+                    } catch(err) {}
+                });
+            }
+        }, 200);
+    });
+
+
+    $('.search-form__advanced-button').on('click', function(e) {
+        var value = $('.search-tabs__tab.search-tabs__tab_active').data('value');
+        var linkParam = '';
+        if (value.length > 1) {
+            if (value === '/resumes') {
+                linkParam = 'resume';
+            } else {
+                if (value === '/companies') {
+                    linkParam = 'company';
+                }
+            }
+            this.setAttribute('href', this.getAttribute('href') + '?searchType=' + linkParam);
+        }
+    });
+
+
+    try {
+        ga("send", "event", "mainPageTags", "show");
+    } catch (err) {}
+
+    $(document).on("click", "a.ym-vts", function() {
+        try {
+            ga("send", "event", "mainPageTags", "click", this.text);
+        } catch (err) {}
+    });
+
+
+try {
+    $('[data-event="1"]').on('click', function(event) {
+        try {
+            var element = event.currentTarget;
+            var category = element.dataset['event_category'];
+            var action = element.dataset['event_action'];
+            var label = element.dataset['event_label'];
+            ga('send', 'event', category, action, label);
+        } catch (err) {}
+    });
+} catch (err) {}
+
+
+    $('.search__action-list .action-list__list .action-list__item').on('click', function(e) {
+        var value = this.dataset['value'];
+        if (value.includes('/resumes')) {
+           url = 'https://gorodrabot.ru/advanced_search?searchType=resume';
+        } else if (value.includes('/companies')) {
+           url = 'https://gorodrabot.ru/advanced_search?searchType=company';
+        } else {
+           url = 'https://gorodrabot.ru/advanced_search';
+        }
+        
+        $('.header__advanced-button').attr('href', url);
+    });
+
+});</script></body>
+</html>

@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Land of Games</title>
+<meta name="charset" content="utf-8">
+<meta name="title" content="Land of Games">
+<meta name="description" content="Игровой портал Land of Games включает в себя новости игр, кино и железа, а также предлагает почитать обзоры, гайды и прохождения, поиграть во флеш игры и ознакомиться с каталогом игр.">
+<meta name="keywords" content="">
+<link rel="canonical" href="https://landofgames.ru/">
+<link rel="alternate" type="application/rss+xml" title="Land of Games" href="https://landofgames.ru/rss.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="Land of Games" href="https://landofgames.ru/index.php?do=opensearch">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Land of Games">
+<meta property="twitter:description" content="Игровой портал Land of Games включает в себя новости игр, кино и железа, а также предлагает почитать обзоры, гайды и прохождения, поиграть во флеш игры и ознакомиться с каталогом игр.">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Land of Games">
+<meta property="og:title" content="Land of Games">
+<meta property="og:description" content="Игровой портал Land of Games включает в себя новости игр, кино и железа, а также предлагает почитать обзоры, гайды и прохождения, поиграть во флеш игры и ознакомиться с каталогом игр.">
+<link rel="alternate" hreflang="x-default" href="https://landofgames.ru/" />
+<link rel="alternate" hreflang="ru" href="https://landofgames.ru/" />
+<link rel="alternate" hreflang="en" href="https://landofgames.ru/en/" />
+<link rel="alternate" hreflang="de" href="https://landofgames.ru/de/" />
+<link rel="alternate" hreflang="fr" href="https://landofgames.ru/fr/" />
+<link rel="alternate" hreflang="pl" href="https://landofgames.ru/pl/" />
+<link rel="alternate" hreflang="pt" href="https://landofgames.ru/pt/" />
+<link rel="alternate" hreflang="th" href="https://landofgames.ru/th/" />
+<link rel="alternate" hreflang="vi" href="https://landofgames.ru/vi/" />
+<meta name="HandheldFriendly" content="true">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="120x120" href="/favicon-120x120.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#ffffff">
+<style type="text/css">
+    .menu-item {display: none;}
+    .itm-extra-hover {opacity: 0;}
+    a.short-title {color: #444;}
+   
+    .adfox_top_mobile_new {height: 270px;} 
+</style>
+<link href="/templates/LandofGames/fonts/pt-sans-v11-cyrillic-regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
+<link href="/templates/LandofGames/css/style.css?v=1.997" rel="stylesheet" type="text/css">
+<script data-cfasync="false">window.yaContextCb=window.yaContextCb||[]</script>
+<script data-cfasync="false" src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    type: 'floorAd',    
+    blockId: 'R-A-748947-15'
+  })
+})</script>
+</head>
+<body>
+<header class="header-area"></header>
+<div class="header">
+<div class="container header-box">
+<div class="mbl-menu-case">
+<div class="mbl-menu-btn"><i class="icon-menu"></i></div>
+</div>
+<a href="/" class="logo-new">
+<div class="logo-circle"><span class="logo-c1"></span><span class="logo-c2"></span><span class="logo-c3"></span><span class="logo-c4"></span></div>
+<p>Land of Games</p>
+</a>
+<nav class="menu-box">
+<ul class="menu">
+
+<li class="menu-item"><a href="/news/">Новости</a>
+<div class="menu-box-in">
+<ul>
+<li><a href="/news/games-news/">Игровые новости</a></li>
+<li><a href="/news/hardware/">Железо</a></li>
+<li><a href="/news/cinema/">Кино</a></li>
+<li><a href="/events/">События</a></li>
+</ul>
+</div>
+</li>
+<li class="menu-item"><a href="/articles/">Статьи</a>
+<div class="menu-box-in">
+<ul>
+<li><a href="/articles/reviews/">Обзоры</a></li>
+<li><a href="/articles/preview/">Превью</a></li>
+<li><a href="/articles/guides/">Гайды</a></li>
+<li><a href="/articles/walkthroughs/">Прохождения</a></li>
+<li><a href="/articles/feature/">Фичеры</a></li>
+<li><a href="/articles/cosplay/">Косплей</a></li>
+</ul>
+</div>
+</li>
+<li class="menu-item"><a href="/games/">Игры</a></li>
+<li class="menu-item m-extra"><i class="icon-circle"></i><i class="icon-circle"></i><i class="icon-circle"></i>
+<div class="menu-box-in">
+<ul>
+<li><a href="/cheat-codes/">Чит-коды</a></li>
+<li><a href="/trainers/">Трейнеры</a></li>
+<li><a href="/problems/">Решение проблем</a></li>
+<li><a href="/flash-games/">Флеш игры</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>
+<div class="btn-social"> <a href="https://vk.com/landofgamesvk" class="btn-vk" target="_blank" rel="external noopener noreferrer" title="Группа ВКонтакте"><i class="icon-vkontakte"></i></a> <a href="https://twitter.com/Land__of__Games" class="btn-tw" target="_blank" rel="external noopener noreferrer" title="Twitter"><i class="icon-twitter"></i></a> </div>
+<div class="panel">
+<div class="round-btn search-btn"><i class="icon-search"></i></div>
+<div class="pm-inform">
+<div class="round-btn notice-btn" data-pm-show="pmshow"><i class="icon-bell-alt"></i></div>
+<div class="pm-inform-list">
+<div class="pm-inform-ttl">Уведомления </div>
+<ul></ul>
+</div>
+</div>
+<div class="round-btn login-btn"><i class="icon-login"></i></div>
+<div class="login-area">
+<form method="post">
+<div class="reg-ttl">Авторизация</div>
+<div class="login-box">
+<div class="login-close"><i class="icon-cancel"></i></div>
+<div class="log-center">
+<input placeholder="E-mail" type="text" name="login_name" id="login_name" class="input-min input-dark">
+<input placeholder="Пароль" type="password" name="login_password" id="login_password" class="input-min input-dark">
+<a href="https://landofgames.ru/index.php?do=lostpassword" class="pass-rem-link">Забыли пароль?</a>
+<div class="btn-log-box">
+<button class="btn-submit wide-sub" onclick="submit();" type="submit">Войти<i class="icon-login"></i></button>
+</div>
+</div>
+<div class="title-soc-log">Вход и регистрация через</div>
+<div class="soc-log">
+<a href="https://oauth.vk.com/authorize?client_id=6001777&amp;redirect_uri=https%3A%2F%2Flandofgames.ru%2Findex.php%3Fdo%3Dauth-social%26provider%3Dvk&amp;scope=offline%2Cemail&amp;state=3c80588efa318497a528d4cac89a6a76&amp;response_type=code&amp;v=5.90" class="soc-log-btn vk-soc" target="_blank"><i class="icon-vkontakte"></i> ВКонтакте</a>
+<a href="https://accounts.google.com/o/oauth2/auth?client_id=871542155788-scek1jjbpj805f7sd02aslb69gtkorhe.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Flandofgames.ru%2Findex.php%3Fdo%3Dauth-social%26provider%3Dgoogle&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&amp;state=3c80588efa318497a528d4cac89a6a76&amp;response_type=code" class="soc-log-btn g-soc" target="_blank"><span class="blue">G</span><span class="red">o</span><span class="orange">o</span><span class="blue">g</span><span class="green">l</span><span class="red">e</span></a>
+<a href="https://oauth.yandex.ru/authorize?client_id=37a72ee9238c477088be1bec41d7338a&amp;redirect_uri=https%3A%2F%2Flandofgames.ru%2Findex.php%3Fdo%3Dauth-social%26provider%3Dyandex&amp;state=3c80588efa318497a528d4cac89a6a76&amp;response_type=code" class="soc-log-btn y-soc" target="_blank"><span>Я</span>ндекс</a>
+</div>
+<a href="https://landofgames.ru/index.php?do=register" class="reg-btn">Регистрация</a>
+<input name="login" type="hidden" id="login" value="submit">
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<nav class="mbl-menu-box">
+<div class="mbl-menu-top">
+<span class="mbl-menu-close"><i class="icon-menu"></i></span>
+</div>
+<ul class="mbl-menu">
+
+<li class="mbl-menu-item"><a href="/news/">Новости</a></li>
+<li class="mbl-menu-item"><a href="/games/">Игры</a></li>
+<li class="mbl-menu-item"><a href="/articles/reviews/">Обзоры</a></li>
+<li class="mbl-menu-item"><a href="/articles/guides/">Гайды</a></li>
+<li class="mbl-menu-item"><a href="/articles/preview/">Превью</a></li>
+<li class="mbl-menu-item"><a href="/articles/walkthroughs/">Прохождения</a></li>
+<li class="mbl-menu-item"><a href="/articles/feature/">Фичеры</a></li>
+<li class="mbl-menu-item"><a href="/problems/">Решение проблем</a></li>
+<li class="mbl-menu-item"><a href="/cheat-codes/">Чит-коды</a></li>
+<li class="mbl-menu-item"><a href="/trainers/">Трейнеры</a></li>
+<li class="mbl-menu-item"><a href="/flash-games/">Флеш игры</a></li>
+</ul>
+</nav>
+<div class="search-box">
+<div class="container q_search">
+<form id="q_search" class="centersearch" method="post">
+<input id="story" name="story" placeholder="Поиск..." type="search" autocomplete="off">
+<div class="q-search-cats">
+<div class="q-sch-btn"><i class="icon-tags"></i></div>
+<ul>
+<li><label for="sch-guides">Гайды</label></li>
+<li><label for="sch-news">Новости</label></li>
+<li><label for="sch-arts">Статьи</label></li>
+<li><label for="sch-games">Игры</label></li>
+</ul>
+<input id="sch-guides" class="hidden" name="cats-qsearch" value="8,9" type="checkbox">
+<input id="sch-news" class="hidden" name="cats-qsearch" value="2,3,4,12,82" type="checkbox">
+<input id="sch-arts" class="hidden" name="cats-qsearch" value="5,6,7,16,13,14,15,81" type="checkbox">
+<input id="sch-games" class="hidden" name="cats-qsearch" value="1" type="checkbox">
+</div>
+<input type="hidden" name="do" value="search">
+<input type="hidden" name="subaction" value="search">
+</form>
+<div class="round-btn search-btn-close"><i class="icon-cancel"></i></div>
+</div>
+</div>
+<div class="w-page">
+
+
+
+
+
+<div id="adfox_166426531147579015"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 707246,
+            containerId: 'adfox_166426531147579015',
+            params: {
+                pp: 'g',
+                ps: 'fztc',
+                p2: 'hiur'
+            }
+        })
+    })
+</script>
+
+
+
+
+
+<div id="adfox_157961470892842089"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 211055,
+            containerId: 'adfox_157961470892842089',
+            params: {
+                pp: 'g',
+                ps: 'dvmy',
+                p2: 'esll'
+            }
+        })
+    })
+</script>
+<div id="updown-area"><div id="updown"></div></div>
+<div class="container main-box">
+<div class="content-m">
+<div id="bp_3607517624" class="grid itms-blk">
+<div class="content-item-b">
+<div class="item-img-box bigsmall">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/1676908095_1.jpg); background-position: 0% 15%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-b-title">Появились первые оценки Atomic Heart, новый геймплей и сравнения консольных версий</div>
+
+<a href="https://landofgames.ru/news/games-news/22625-pojavilis-pervye-ocenki-atomic-heart-novyj-gejmplej-i-sravnenija-konsolnyh-versij.html" class="itm-img-link"></a>
+</div>
+</div>
+<div class="big-small">
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676896515_1.jpg); background-position: 0% 51%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-title">Сундуки с глазом в Hogwarts Legacy: как найти и открыть</div>
+
+<a href="https://landofgames.ru/articles/guides/22623-sunduki-s-glazom-v-hogwarts-legacy-kak-najti-i-otkryt.html" class="itm-img-link"></a>
+</div>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+ <div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676790495_1.jpg); background-position: 0% 21%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-title">Инсайдеры раскрыли еще один дизайн Капитана Р и сведения о новом лучнике из Сумеру в Genshin&hellip;</div>
+
+<a href="https://landofgames.ru/news/games-news/22618-insajdery-raskryli-esche-odin-dizajn-kapitana-r-i-svedenija-o-novom-luchnike-iz-sumeru-v-genshin-impact.html" class="itm-img-link"></a>
+</div>
+</div>
+</div>
+</div>
+<aside class="adswrap">
+
+
+
+
+
+<div id="adfox_158823805899061952"></div>
+<script>  
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 211055,
+            containerId: 'adfox_158823805899061952',
+            params: {
+                pp: 'g',
+                ps: 'dvmy',
+                p2: 'fdbs'
+            }
+        })
+    })
+</script>
+</aside>
+<section>
+<div class="ttl-main-area">
+<h1 class="ttl-main ttl-m-news"><a href="/news/">Новости</a></h1> <a href="/news/games-news/" class="url-main mn-news">Игровые</a> <a href="/news/hardware/" class="url-main mn-news">Железо</a> <a href="/news/cinema/" class="url-main mn-news">Кино</a>
+</div>
+<div class="row-m">
+<div class="col-2-3">
+<div id="bpa_1947568447" class="grid itms-blk">
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676800413_1.jpg); background-position: 0% 10%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/news/games-news/22619-trojnye-bannery-sposobnosti-baj-chzhu-i-drugie-slivy-po-genshin-impact.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+1 день назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-news">Новости</span>
+</div>
+<a href="https://landofgames.ru/news/games-news/22619-trojnye-bannery-sposobnosti-baj-chzhu-i-drugie-slivy-po-genshin-impact.html" class="short-title">Тройные баннеры, способности Бай Чжу и другие сливы по Genshin Impact</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676565796_1.jpg); background-position: 0% 32%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/news/games-news/22611-honkai-star-rail-smogla-privlech-k-sebe-milliony-igrokov-esche-do-oficialnogo-reliza.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+3 дня назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-news">Новости</span>
+</div>
+<a href="https://landofgames.ru/news/games-news/22611-honkai-star-rail-smogla-privlech-k-sebe-milliony-igrokov-esche-do-oficialnogo-reliza.html" class="short-title">Honkai: Star Rail смогла привлечь к себе миллионы игроков еще до официального релиза</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676565467_1.jpg); background-position: 0% 18%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/news/games-news/22610-novye-chasti-deus-ex-i-tomb-raider-vyjdut-v-blizhajshie-pjat-let.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+3 дня назад <i class="icon-comment-empty"></i>1 </div>
+</a>
+<span class="item-cat item-cat-news">Новости</span>
+</div>
+<a href="https://landofgames.ru/news/games-news/22610-novye-chasti-deus-ex-i-tomb-raider-vyjdut-v-blizhajshie-pjat-let.html" class="short-title">Новые части Deus Ex и Tomb Raider выйдут в ближайшие пять лет</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676481192_1.jpg); background-position: 0% 23%;"></div>
+<div class="item-video-box"><span class="item-video vid-hide"><i class="icon-play-circled2"></i></span></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/news/games-news/22606-insajder-rasskazal-o-dobavlenii-djehi-v-standartnyj-banner-i-reranah-sajno-ajaki-i-shjen-hje-v-genshin-impact-35.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+4 дня назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-news">Новости</span>
+</div>
+<a href="https://landofgames.ru/news/games-news/22606-insajder-rasskazal-o-dobavlenii-djehi-v-standartnyj-banner-i-reranah-sajno-ajaki-i-shjen-hje-v-genshin-impact-35.html" class="short-title">Инсайдер рассказал о добавлении Дэхьи в стандартный баннер и реранах Сайно, Аяки и Шэнь Хэ в Genshin Impact 3.5</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676479796_1.jpg); background-position: 0% 12%;"></div>
+<div class="item-video-box"><span class="item-video vid-hide"><i class="icon-play-circled2"></i></span></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/news/games-news/22605-sledujuschij-jetap-zbt-onlajn-shutera-battle-teams-2-nachnetsja-16-fevralja.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+4 дня назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-news">Новости</span>
+</div>
+<a href="https://landofgames.ru/news/games-news/22605-sledujuschij-jetap-zbt-onlajn-shutera-battle-teams-2-nachnetsja-16-fevralja.html" class="short-title">Следующий этап ЗБТ онлайн-шутера Battle Teams 2 начнется 16 февраля</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676436981_1.jpg); background-position: 0% 21%;"></div>
+<div class="item-video-box"><span class="item-video vid-hide"><i class="icon-play-circled2"></i></span></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/news/games-news/22603-strim-po-genshin-impact-35-novye-promokody.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+5 дней назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-news">Новости</span>
+</div>
+<a href="https://landofgames.ru/news/games-news/22603-strim-po-genshin-impact-35-novye-promokody.html" class="short-title">Стрим по Genshin Impact 3.5: новые промокоды</a>
+</div>
+<div data-block-id="bpa_1947568447" class="nav-ajax">
+<span data-page-num="2" class="nextajax">Показать еще</span>
+</div>
+</div>
+</div>
+<div class="col-1-3">
+<div id="bpa_1719240678" class="side-posts fade">
+<div class="side-posts-ttl ttl-green side-arrows-in">
+<h3>Новости.Топ</h3>
+</div>
+<div class="loader">
+<div class="fadein">
+<div class="side-post">
+<div class="side-post-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676800413_1.jpg);"></div>
+<a href="https://landofgames.ru/news/games-news/22619-trojnye-bannery-sposobnosti-baj-chzhu-i-drugie-slivy-po-genshin-impact.html" class="side-post-txt">
+<div>
+<p class="side-post-time">1 день назад</p>
+<p class="side-post-name">Тройные баннеры, способности Бай Чжу и другие сливы по Genshin Impact</p>
+</div>
+</a>
+</div>
+
+ <a href="https://landofgames.ru/news/games-news/22610-novye-chasti-deus-ex-i-tomb-raider-vyjdut-v-blizhajshie-pjat-let.html" class="side-txt-min">
+<p class="side-txt-time">3 дня назад</p>
+<p class="side-txt-name">Новые части Deus Ex и Tomb Raider выйдут в ближайшие пять лет</p>
+</a>
+<a href="https://landofgames.ru/news/games-news/22603-strim-po-genshin-impact-35-novye-promokody.html" class="side-txt-min">
+<p class="side-txt-time">5 дней назад</p>
+<p class="side-txt-name">Стрим по Genshin Impact 3.5: новые промокоды</p>
+</a>
+<a href="https://landofgames.ru/news/games-news/22606-insajder-rasskazal-o-dobavlenii-djehi-v-standartnyj-banner-i-reranah-sajno-ajaki-i-shjen-hje-v-genshin-impact-35.html" class="side-txt-min">
+<p class="side-txt-time">4 дня назад</p>
+<p class="side-txt-name">Инсайдер рассказал о добавлении Дэхьи в стандартный баннер и реранах Сайно, Аяки и Шэнь&hellip;</p>
+</a>
+<a href="https://landofgames.ru/news/games-news/22611-honkai-star-rail-smogla-privlech-k-sebe-milliony-igrokov-esche-do-oficialnogo-reliza.html" class="side-txt-min">
+<p class="side-txt-time">3 дня назад</p>
+<p class="side-txt-name">Honkai: Star Rail смогла привлечь к себе миллионы игроков еще до официального релиза</p>
+</a>
+<a href="https://landofgames.ru/news/games-news/22605-sledujuschij-jetap-zbt-onlajn-shutera-battle-teams-2-nachnetsja-16-fevralja.html" class="side-txt-min">
+<p class="side-txt-time">4 дня назад</p>
+<p class="side-txt-name">Следующий этап ЗБТ онлайн-шутера Battle Teams 2 начнется 16 февраля</p>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="ttl-main-area">
+<h1 class="ttl-main"><a href="/articles/">Статьи</a></h1> <a href="/articles/reviews/" class="url-main mn-rev">Обзоры</a> <a href="/articles/preview/" class="url-main mn-pre">Превью</a> <a href="/articles/feature/" class="url-main">Фичеры</a>
+</div>
+<div id="bp_3355367816" class="grid itms-blk">
+<div class="content-item-b">
+<div class="item-img-box bigsmall">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-01/1673973477_1.jpg); background-position: 0% 15%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-b-title">Обновление 3.5 для Genshin Impact: дата выхода, баннеры, персонажи, события и оружие</div>
+
+<a href="https://landofgames.ru/articles/feature/22441-obnovlenie-35-dlja-genshin-impact-data-vyhoda-bannery-personazhi-sobytija-i-oruzhie.html" class="itm-img-link"></a>
+</div>
+</div>
+<div class="big-small"> 
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2022-12/thumbs/1671813627_1.jpg); background-position: 0% 32%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-title">Рост персонажей в Genshin Impact: самые высокие и низкие герои</div>
+
+<a href="https://landofgames.ru/articles/feature/22310-rost-personazhej-v-genshin-impact-samye-vysokie-i-nizkie-geroi.html" class="itm-img-link"></a>
+</div>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2022-12/thumbs/1671775684_1.jpg); background-position: 0% 4%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-title">Сколько лет персонажам Genshin Impact: возраст героев</div>
+
+<a href="https://landofgames.ru/articles/feature/22306-skolko-let-personazham-genshin-impact-vozrast-geroev.html" class="itm-img-link"></a>
+</div>
+</div>
+</div>
+<div class="big-small">
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2022-06/thumbs/1655731880_1.jpg); background-position: 0% 27%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-title">Как купить игру в Steam (Стиме) в России в 2023 году</div>
+
+<a href="https://landofgames.ru/articles/feature/13594-kak-kupit-igru-v-steam-stime-v-rossii-v-2022-godu.html" class="itm-img-link"></a>
+</div>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2021-07/thumbs/1627626094_1-1.jpg); background-position: 0% 4%;"></div>
+<div class="itm-shdw"></div>
+<div class="item-title">Как улучшить отзывчивость управления с помощью NVIDIA Reflex</div>
+
+<a href="https://landofgames.ru/articles/feature/11530-kak-uluchshit-otzyvchivost-upravleniya-s-pomoschyu-nvidia-reflex.html" class="itm-img-link"></a>
+</div>
+</div>
+</div>
+<div class="content-item-b">
+<div class="item-img-box bigsmall">
+<div class="item-img" style="background-image: url(/uploads/posts/2019-05/1557407637_1.jpg); "></div>
+<div class="itm-shdw"></div>
+<div class="item-b-title">Лучшие игры про Вторую мировую войну</div>
+
+<a href="https://landofgames.ru/articles/feature/6599-luchshie-igry-pro-vtoruyu-mirovuyu-voynu.html" class="itm-img-link"></a>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="ttl-main-area">
+<h1 class="ttl-main"><a href="/articles/">Статьи</a></h1> <a href="/articles/walkthroughs/" class="url-main mn-walk">Прохождения</a> <a href="/articles/guides/" class="url-main mn-gui">Гайды</a>
+</div>
+<div class="row-m">
+<div class="col-2-3">
+<div id="bpa_863557763" class="grid itms-blk">
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676905718_1.jpg); background-position: 0% 64%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/articles/walkthroughs/22624-kolokolnyj-perezvon-v-hogwarts-legacy-kak-reshit-zagadku-s-kolokolami.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+39 минут назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-walk">Прохождения</span>
+</div>
+<a href="https://landofgames.ru/articles/walkthroughs/22624-kolokolnyj-perezvon-v-hogwarts-legacy-kak-reshit-zagadku-s-kolokolami.html" class="short-title">Колокольный перезвон в Hogwarts Legacy: как решить загадку с колоколами</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676869502_1.jpg); background-position: 0% 49%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/articles/guides/22622-luchistye-kristally-v-hadramavet-v-genshin-impact-kak-najti.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+10 часов назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-gui">Гайды</span>
+</div>
+<a href="https://landofgames.ru/articles/guides/22622-luchistye-kristally-v-hadramavet-v-genshin-impact-kak-najti.html" class="short-title">Лучистые кристаллы в Хадрамавет в Genshin Impact: как найти</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676821410_1.jpg); background-position: 0% 14%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/articles/guides/22621-vse-pobochnye-kvesty-v-hogwarts-legacy-kak-nachat.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+23 часа назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-gui">Гайды</span>
+</div>
+<a href="https://landofgames.ru/articles/guides/22621-vse-pobochnye-kvesty-v-hogwarts-legacy-kak-nachat.html" class="short-title">Все побочные квесты в Hogwarts Legacy: как начать</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676805555__logo.jpg); background-position: 0% 47%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/articles/walkthroughs/22620-vosstavshij-feniks-v-hogwarts-legacy-kak-nachat-i-najti-feniksa.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+1 день назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-walk">Прохождения</span>
+</div>
+<a href="https://landofgames.ru/articles/walkthroughs/22620-vosstavshij-feniks-v-hogwarts-legacy-kak-nachat-i-najti-feniksa.html" class="short-title">Восставший феникс в Hogwarts Legacy: как начать и найти феникса</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/6-alternativnyj-variant-1.jpg); background-position: 0% 37%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/articles/guides/22617-luk-amosa-v-genshin-impact-kak-poluchit-i-na-kogo-postavit.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+1 день назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-gui">Гайды</span>
+</div>
+
+<a href="https://landofgames.ru/articles/guides/22617-luk-amosa-v-genshin-impact-kak-poluchit-i-na-kogo-postavit.html" class="short-title">Лук Амоса в Genshin Impact: как получить и на кого поставить</a>
+</div>
+<div class="content-item">
+<div class="item-img-box">
+<div class="item-img" style="background-image: url(/uploads/posts/2023-02/thumbs/1676731492__logo.jpg); background-position: 0% 46%;"></div>
+<div class="itm-shdw"></div>
+<a href="https://landofgames.ru/articles/walkthroughs/22616-zal-irodiany-v-hogwarts-legacy-kak-reshit-vse-golovolomki.html" class="itm-extra-hover">
+<div class="itm-extra-info">
+2 дня назад <i class="icon-comment-empty"></i>0 </div>
+</a>
+<span class="item-cat item-cat-walk">Прохождения</span>
+</div>
+<a href="https://landofgames.ru/articles/walkthroughs/22616-zal-irodiany-v-hogwarts-legacy-kak-reshit-vse-golovolomki.html" class="short-title">Зал Иродианы в Hogwarts Legacy: как решить все головоломки</a>
+</div>
+<div data-block-id="bpa_863557763" class="nav-ajax">
+<span data-page-num="2" class="nextajax">Показать еще</span>
+</div>
+</div>
+</div>
+<div class="col-1-3">
+<div class="side-posts">
+<div class="side-posts-ttl ttl-orange"><h3>Новые комментарии</h3></div>
+<div class="blk-com">
+<div class="blk-com-main">
+<div class="blk-com-ava" style="background-image: url('/templates/LandofGames/dleimages/noavatar.png')"></div>
+<div class="blk-com-txt">
+<div class="blk-com-author"><a onclick="ShowProfile('Freybj%C3%B6rn', 'https://landofgames.ru/user/Freybj%C3%B6rn/', '0'); return false;" href="https://landofgames.ru/user/Freybj%C3%B6rn/">Freybjörn</a> <div class="blk-com-data">3 дня назад</div></div>
+<a href="https://landofgames.ru/news/games-news/22610-novye-chasti-deus-ex-i-tomb-raider-vyjdut-v-blizhajshie-pjat-let.html#comment-id=8580" class="blk-com-link">Будет очень круто увидеть новый Деус и будем верить, что не разочарует.. Что в целом Эниксы</a>
+<p class="ttl-com"><a href="https://landofgames.ru/news/games-news/22610-novye-chasti-deus-ex-i-tomb-raider-vyjdut-v-blizhajshie-pjat-let.html"><span title="Новые части Deus Ex и Tomb Raider выйдут в ближайшие пять лет">Новые части Deus Ex и Tomb Rai</span>...</a></p>
+</div>
+</div>
+</div><div class="blk-com">
+<div class="blk-com-main">
+<div class="blk-com-ava" style="background-image: url('//landofgames.ru/uploads/fotos/foto_9585.jpg')"></div>
+<div class="blk-com-txt">
+<div class="blk-com-author"><a onclick="ShowProfile('%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9+%D0%93%D1%83%D1%82%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3', 'https://landofgames.ru/user/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9+%D0%93%D1%83%D1%82%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3/', '0'); return false;" href="https://landofgames.ru/user/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9+%D0%93%D1%83%D1%82%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3/">Андрей Гутенберг</a> <div class="blk-com-data">6 дней назад</div></div>
+<a href="https://landofgames.ru/news/games-news/22585-pojavilis-pervye-fan-arty-geo-koshkodevochki-iz-genshin-impact-37.html#comment-id=8558" class="blk-com-link">Конский хвост каштанового цвета... Звучит как-то не очень привлекательно... Ну, буду</a>
+<p class="ttl-com"><a href="https://landofgames.ru/news/games-news/22585-pojavilis-pervye-fan-arty-geo-koshkodevochki-iz-genshin-impact-37.html"><span title="Появились первые фан-арты Гео кошкодевочки из Genshin Impact 3.7">Появились первые фан-арты Гео </span>...</a></p>
+</div>
+</div>
+</div><div class="blk-com">
+<div class="blk-com-main">
+<div class="blk-com-ava" style="background-image: url('/templates/LandofGames/dleimages/noavatar.png')"></div>
+<div class="blk-com-txt">
+<div class="blk-com-author"><a onclick="ShowProfile('wirkuri', 'https://landofgames.ru/user/wirkuri/', '0'); return false;" href="https://landofgames.ru/user/wirkuri/">wirkuri</a> <div class="blk-com-data">1 неделю назад</div></div>
+<a href="https://landofgames.ru/news/games-news/22585-pojavilis-pervye-fan-arty-geo-koshkodevochki-iz-genshin-impact-37.html#comment-id=8539" class="blk-com-link">она похожа на Кагамине Рин</a>
+<p class="ttl-com"><a href="https://landofgames.ru/news/games-news/22585-pojavilis-pervye-fan-arty-geo-koshkodevochki-iz-genshin-impact-37.html"><span title="Появились первые фан-арты Гео кошкодевочки из Genshin Impact 3.7">Появились первые фан-арты Гео </span>...</a></p>
+</div>
+</div>
+</div>
+</div>
+<div id="bpa_3420388660" class="side-posts max-w fade">
+<div class="side-posts-ttl side-arrows-in">
+<h3>Игры.Топ</h3>
+</div>
+<div class="loader">
+<div class="fadein">
+<div class="side-games">
+<div class="side-game" data-bg="/uploads/posts/2020-10/thumbs/1602482731_1.jpg">
+<a href="https://landofgames.ru/games/9820-genshin-impact.html"></a>
+<i class="icon-bell-alt fav-plus login-btn tipso" data-tipso="Чтобы подписаться, необходимо авторизироваться"></i>
+<div class="side-game-dtls"><p>Genshin Impact</p></div>
+</div>
+<div class="side-game" data-bg="/uploads/posts/2022-01/thumbs/1642259799_1.jpg">
+<a href="https://landofgames.ru/games/12579-elden-ring.html"></a>
+<i class="icon-bell-alt fav-plus login-btn tipso" data-tipso="Чтобы подписаться, необходимо авторизироваться"></i>
+<div class="side-game-dtls"><p>Elden Ring</p></div>
+</div>
+<div class="side-game" data-bg="/uploads/posts/2022-01/thumbs/1642259017_1.jpg">
+<a href="https://landofgames.ru/games/12578-dying-light-2-stay-human.html"></a>
+<i class="icon-bell-alt fav-plus login-btn tipso" data-tipso="Чтобы подписаться, необходимо авторизироваться"></i>
+<div class="side-game-dtls"><p>Dying Light 2 Stay Human</p></div>
+</div>
+<div class="side-game" data-bg="/uploads/posts/2022-05/thumbs/1653325840_1.jpg">
+<a href="https://landofgames.ru/games/13398-v-rising.html"></a>
+<i class="icon-bell-alt fav-plus login-btn tipso" data-tipso="Чтобы подписаться, необходимо авторизироваться"></i>
+<div class="side-game-dtls"><p>V Rising</p></div>
+</div>
+<div class="side-game" data-bg="/uploads/posts/2013-04/thumbs/1656174179_136625_cover.jpg">
+<a href="https://landofgames.ru/games/20338-hogwarts-legacy.html"></a>
+<i class="icon-bell-alt fav-plus login-btn tipso" data-tipso="Чтобы подписаться, необходимо авторизироваться"></i>
+<div class="side-game-dtls"><p>Hogwarts Legacy</p></div>
+</div>
+<div class="side-game" data-bg="/uploads/posts/2022-11/thumbs/1667981970_112875_cover.jpg">
+<a href="https://landofgames.ru/games/22121-god-of-war-ragnarok.html"></a>
+<i class="icon-bell-alt fav-plus login-btn tipso" data-tipso="Чтобы подписаться, необходимо авторизироваться"></i>
+<div class="side-game-dtls"><p>God of War Ragnarok</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div id="bpa_1452830935" class="block-big fade">
+<div class="name-big-area arrows-big">
+<h3 class="name-big">Ожидаемые релизы</h3>
+<div data-block-id="bpa_1452830935" class="nav-arrowsmin">
+<span class="prev"><i class="icon-left"></i></span><span data-page-num="2" class="next"><i class="icon-right"></i></span>
+</div>
+</div>
+<div class="block-big-grid fadein">
+<div class="game-object">
+<div class="game-object-img" data-bg="/uploads/posts/2012-07/thumbs/1656173933_76747_1.jpg"></div>
+<div class="game-object-shad"></div>
+<div class="game-object-main">
+<div class="game-object-info">
+<a href="https://landofgames.ru/games/20312-atomic-heart.html" title="Atomic Heart">Atomic Heart</a>
+<p class="game-object-date" title="Дата выхода">21 февраля 2023 г.</p>
+<p>PC (Windows), PlayStation 4, Xbox One, PlayStation 5, Xbox Series X/S</p>
+<p>Шутер, Приключение</p>
+</div>
+<div class="game-object-cover" data-bg="/uploads/posts/2012-07/thumbs/1656173940_76747_cover.jpg">
+<a href="https://landofgames.ru/games/20312-atomic-heart.html"></a>
+</div>
+</div>
+</div>
+<div class="game-object">
+<div class="game-object-img" data-bg="/uploads/posts/2012-06/thumbs/1656173854_142901_1.jpg"></div>
+<div class="game-object-shad"></div>
+<div class="game-object-main">
+<div class="game-object-info">
+<a href="https://landofgames.ru/games/20304-the-day-before.html" title="The Day Before">The Day Before</a>
+<p class="game-object-date" title="Дата выхода">10 ноября 2023 г.</p>
+<p>PC (Windows), PlayStation 5, Xbox Series X/S</p>
+<p>Шутер, Приключение</p>
+</div>
+<div class="game-object-cover" data-bg="/uploads/posts/2012-06/thumbs/1656173853_142901_cover.jpg">
+<a href="https://landofgames.ru/games/20304-the-day-before.html"></a>
+</div>
+</div>
+</div>
+<div class="game-object">
+<div class="game-object-img" data-bg="/uploads/posts/2012-03/thumbs/1656173875_101440_1.jpg"></div>
+<div class="game-object-shad"></div>
+<div class="game-object-main">
+<div class="game-object-info">
+<a href="https://landofgames.ru/games/20306-stalker-2-heart-of-chornobyl.html" title="S.T.A.L.K.E.R. 2: Heart of Chornobyl">S.T.A.L.K.E.R. 2: Heart of Chornobyl</a>
+<p class="game-object-date" title="Дата выхода">2023 г.</p>
+<p>PC (Windows), Xbox Series X/S</p>
+<p>Шутер, RPG, Приключение</p>
+</div>
+<div class="game-object-cover" data-bg="/uploads/posts/2012-03/thumbs/1656173884_101440_cover.jpg">
+<a href="https://landofgames.ru/games/20306-stalker-2-heart-of-chornobyl.html"></a>
+</div>
+</div>
+</div>
+<div class="game-object">
+<div class="game-object-img" data-bg="/uploads/posts/2015-05/thumbs/1656176622_154775_1.jpg"></div>
+<div class="game-object-shad"></div>
+<div class="game-object-main">
+<div class="game-object-info">
+<a href="https://landofgames.ru/games/20596-robocop-rogue-city.html" title="Robocop: Rogue City">Robocop: Rogue City</a>
+<p class="game-object-date" title="Дата выхода">2023 г.</p>
+<p>PC (Windows), PlayStation 5, Xbox Series X/S</p>
+<p>Шутер, Приключение</p>
+</div>
+<div class="game-object-cover" data-bg="/uploads/posts/2015-05/thumbs/1656176629_154775_cover.jpg">
+<a href="https://landofgames.ru/games/20596-robocop-rogue-city.html"></a>
+</div>
+</div>
+</div>
+<div class="game-object">
+<div class="game-object-img" data-bg="/uploads/posts/2010-01/thumbs/1656174370_135671_1.jpg"></div>
+<div class="game-object-shad"></div>
+<div class="game-object-main">
+<div class="game-object-info">
+<a href="https://landofgames.ru/games/20360-test-drive-unlimited-solar-crown.html" title="Test Drive Unlimited Solar Crown">Test Drive Unlimited Solar Crown</a>
+<p class="game-object-date" title="Дата выхода">2023 г.</p>
+<p>PC (Windows), Nintendo Switch, PlayStation 5, Xbox Series X/S</p>
+<p>Гонки, Симулятор</p>
+</div>
+<div class="game-object-cover" data-bg="/uploads/posts/2010-01/thumbs/1656174375_135671_cover.jpg">
+<a href="https://landofgames.ru/games/20360-test-drive-unlimited-solar-crown.html"></a>
+</div>
+</div>
+</div>
+<div class="game-object">
+<div class="game-object-img" data-bg="/uploads/posts/2011-02/thumbs/1656177997_194436_1.jpg"></div>
+<div class="game-object-shad"></div>
+<div class="game-object-main">
+<div class="game-object-info">
+<a href="https://landofgames.ru/games/20736-flintlock-the-siege-of-dawn.html" title="Flintlock: The Siege of Dawn">Flintlock: The Siege of Dawn</a>
+<p class="game-object-date" title="Дата выхода">2023 г.</p>
+<p>PC (Windows), PlayStation 4, Xbox One, PlayStation 5, Xbox Series X/S</p>
+<p>RPG, Приключение</p>
+</div>
+<div class="game-object-cover" data-bg="/uploads/posts/2011-02/thumbs/1656178004_194436_cover.jpg">
+<a href="https://landofgames.ru/games/20736-flintlock-the-siege-of-dawn.html"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<footer class="footer">
+<div class="container footer-box">
+<div class="foot-menu">
+<ul>
+<li><b>Новости</b></li>
+<li><a href="/news/games-news/">Игровые новости</a></li>
+<li><a href="/news/hardware/">Железо</a></li>
+<li><a href="/news/cinema/">Кино</a></li>
+</ul>
+<ul>
+<li><b>Статьи</b></li>
+<li><a href="/articles/reviews/">Обзоры</a></li>
+<li><a href="/articles/preview/">Превью</a></li>
+<li><a href="/articles/guides/">Гайды</a></li>
+<li><a href="/articles/walkthroughs/">Прохождения</a></li>
+<li><a href="/articles/feature/">Фичеры</a></li>
+</ul>
+<ul>
+<li><b>Игры</b></li>
+<li><a href="/games/#genre=Экшены">Экшены</a></li>
+<li><a href="/games/#genre=Шутеры">Шутеры</a></li>
+<li><a href="/games/#genre=RPG">Ролевые</a></li>
+<li><a href="/games/#genre=Стратегии">Стратегии</a></li>
+<li><a href="/games/#genre=Гонки">Гонки</a></li>
+</ul>
+<ul>
+<li><b>Сообщество</b></li>
+<li><a href="https://vk.com/landofgamesvk" target="_blank" rel="external noopener noreferrer"><i class="icon-vkontakte"></i> Вконтакте</a></li>
+<li><a href="https://twitter.com/Land__of__Games" target="_blank" rel="external noopener noreferrer"><i class="icon-twitter"></i> Twitter</a></li>
+<li><a href="https://www.youtube.com/channel/UCI8-RZ21TG_2Nhgw53fWbVA" target="_blank" rel="external noopener noreferrer"><i class="icon-youtube-play"></i> YouTube</a></li>
+</ul>
+</div>
+<div class="foot-info">
+<div class="foot-links">
+<a href="/user-policy.html">Пользовательское соглашение</a>
+<a href="/siterules.html">Правила</a>
+<a href="/index.php?do=feedback">Обратная связь</a>
+<a href="/vakansii-na-saite-landofgames.html">Вакансии</a>
+<a href="/advertising.html">Реклама</a>
+<select onchange="window.location.href=this.value;">
+<option value="https://landofgames.ru/de/"> Deutsch (de)</option>
+<option value="https://landofgames.ru/en/"> English (en)</option>
+<option value="https://landofgames.ru/fr/"> Français (fr)</option>
+<option value="https://landofgames.ru/pl/"> Polski (pl)</option>
+<option value="https://landofgames.ru/pt/"> Português (pt)</option>
+<option value="https://landofgames.ru/ru/" selected> Русский (ru)</option>
+<option value="https://landofgames.ru/th/"> ภาษาไทย (th)</option>
+ <option value="https://landofgames.ru/vi/"> Tiếng Việt (vi)</option>
+</select>
+</div>
+<div class="copyright">LandofGames.ru <span>&copy;</span> 2022
+<span class="age-r">18+</span>
+
+<script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t16.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+</script>
+
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<script>
+document.querySelectorAll('.fadein').forEach(function(el) {
+	el.style.opacity = '1';
+});
+</script>
+<script src="/templates/LandofGames/js/jquery3.js"></script>
+<script src="/templates/LandofGames/js/app.js?v=1.551"></script>
+
+
+<script type="module">
+import PhotoSwipeLightbox from '/templates/LandofGames/js/photoswipe-lightbox.esm.min.js';
+
+const lightbox = new PhotoSwipeLightbox({
+  gallery: '#main_art',  
+  children: '.img_link',
+  pswpModule: '/templates/LandofGames/js/photoswipe.esm.min.js'
+});
+lightbox.init();
+    
+const screenbox = new PhotoSwipeLightbox({
+  gallery: '#tab-screenshots',  
+  children: '.img_link',
+  pswpModule: '/templates/LandofGames/js/photoswipe.esm.min.js'
+});
+screenbox.init();
+    
+const combox = new PhotoSwipeLightbox({
+  gallery: '#dle-comments-list',  
+  children: '.img_link',
+  pswpModule: '/templates/LandofGames/js/photoswipe.esm.min.js'
+});
+combox.init(); 
+</script>
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "a2180154-7f0e-4e42-9529-a4d6862a2a55"
+    });
+    
+  });
+</script>
+
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33211308 = new Ya.Metrika({
+                    id:33211308,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33211308" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77023619-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<script>
+$(document).ready(function () {
+  setTimeout(function() { 
+  
+      $("#sidebar").stick_in_parent({
+        offset_top: 65
+      });
+      $("#leftside").stick_in_parent({
+        offset_top: 65
+      }); 
+  
+  }, 1500);
+});
+</script>
+
+<script>
+$('.tipso').tipso({
+    speed: 300,
+    delay: 100
+});
+$('.tipso-right').tipso({
+    speed: 300,
+    delay: 100,
+    position: 'right'
+});
+</script>
+<script>
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = 'da1b71f2ab249ea07b5856bd514b856f937fdb7e';
+var dle_group      = 5;
+var dle_skin       = 'LandofGames';
+var dle_wysiwyg    = '2';
+var quick_wysiwyg  = '2';
+var dle_min_search = '4';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = ["Заполните поле с именем", "Заполните поле с сообщением", "Заполните поле с темой сообщения"];
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_c_title    = 'Отправка жалобы';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_mail       = 'Ваш e-mail:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице:';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var dle_sub_agree  = 'Вы действительно хотите подписаться на комментарии к данной публикации?';
+var dle_captcha_type  = '1';
+var dle_share_interesting  = ["Поделиться ссылкой на выделенный текст", "Twitter", "Facebook", "Вконтакте", "Прямая ссылка:", "Нажмите правой клавишей мыши и выберите «Копировать ссылку»"];
+var DLEPlayerLang     = {prev: 'Предыдущий',next: 'Следующий',play: 'Воспроизвести',pause: 'Пауза',mute: 'Выключить звук', unmute: 'Включить звук', settings: 'Настройки', enterFullscreen: 'На полный экран', exitFullscreen: 'Выключить полноэкранный режим', speed: 'Скорость', normal: 'Обычная', quality: 'Качество', pip: 'Режим PiP'};
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+jQuery(function($){
+FastNewSearch();
+});
+//-->
+</script>
+</body>
+</html>
+

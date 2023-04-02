@@ -1,0 +1,1734 @@
+<!DOCTYPE html> <html> <head> <TITLE>Футбол на Куличках - новости футбола, лига чемпионов, лига Европы, Чемпионаты России, Англии, Испании, Италии, Германии, Украины и Казахстана, коэффициенты УЕФА</TITLE> <link href="/favicon.ico" rel="SHORTCUT ICON" type="image/x-icon"> <meta charset="cp-1251">
+<meta name="referrer" content="origin"/>
+<!--        <meta name="viewport" content="width=1000px, initial-scale=1.0">        -->
+        <meta property="og:title" content="Футбол на Куличках" />
+        <meta property="og:image" content="https://football.kulichki.net/interface/fnk_logo.jpg" />
+        <meta property="og:site_name" content="ФНК" />
+        <meta property="og:description" content="Футбол на Куличках : Новости футбола" />
+        <meta Name="Author" Content="E-Mail: football@kulichki.com">
+        <meta Name="description" content="Футбол на Куличках - Новости футбола, Лига Чемпионов, Лига Европы, ЕВРО-2020, Чемпионаты России, Италии, Англии, Германии, Испании, Франции и Украины. Кубок России. Коэффициенты УЕФА." />
+        <meta Name="keywords" Content="Футбол на Куличках Новости футбола Football Soccer Лига Чемпионов Champions League ЕВРО-2020 Чемпионат России Италии Англии Германии Испании Коэффициенты УЕФА Кубок России" />
+        <meta name="revisit" Content="10 days" />
+        <meta name="audience" Content="all" />
+        <meta name="robots" Content="index, all" />
+        <meta name="robots" content="noyaca"/>
+        <meta name="Pragma" Content="no-cache" />
+        <meta name="home_url" Content="https://football.kulichki.net/" />
+        <meta name="verify-v1" content="KDn2xkbZ5MCWmIlAMrslEku5jD5dWWo0EjdB02ZyREg=" />
+        <meta name="verify-v1" content="xALNg5Vg4IDxqfwn5hWpjgFx6xxqLAdj07BUQpXes+k=" />
+        <meta name="verify-v1" content="QR6wVmDcOS/+N9rFV6mIOyySJ5qItTE8B9WPINfYUxo=" />
+<meta name="yandex-verification" content="8e620fb62be5a804" />
+<meta name="yandex-verification" content="553e1a26a32db821" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+
+        <link href="base/1styles1.css" rel="stylesheet" type="text/css">
+        <link rel="apple-touch-icon" href="/apple/touch-icon-iphone-60x60.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple/touch-icon-ipad-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple/touch-icon-iphone-retina-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple/touch-icon-ipad-retina-152x152.png">
+
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+            {lang: \'ru\'}
+        </script>
+       
+		<script type="text/javascript">
+			document.createElement("article");
+			document.createElement("footer");
+			document.createElement("header");
+			document.createElement("hgroup");
+			document.createElement("nav");
+		</script>
+
+
+        <script type="text/javascript" src="/banner/mobile_bunner1.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/banner/banner.css" />
+
+
+<script>
+	(function(i,s,o,g,r,a,m){
+	i["esSdk"] = r;
+	i[r] = i[r] || function() {
+		(i[r].q = i[r].q || []).push(arguments)
+	}, a=s.createElement(o), m=s.getElementsByTagName(o)[0]; a.async=1; a.src=g;
+	m.parentNode.insertBefore(a,m)}
+	) (window, document, "script", "https://esputnik.com/scripts/v1/public/scripts?apiKey=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0NTI0ZWZhYTJkYzI2MGRmYTM4YTE1NDBlMWE1YjA0ZWNlYjIzNTEyMzE2ZWQxODYwMmEzNDM3N2Q5OGEwMjBlMjlhY2IxNzQwZWIzYTQzNjJhMTQ3N2ZmZGYwMWQwNDY1ZGIzYjMwNTU0MzA2YWFhZjY3MzE1ZDMxOTA5YWQ0YWE0Y2ZhOTMyMzA2OTc0MTRmYzNjZTUzNGI4ODA0NjE3MDU4YmU0OWQ5YzE4Njg1OWZiMDdlNCJ9.eFi8-zgKtF71uO4jPgl2aVl6Ye6Ff-gzpB---vOhg03IdAia_sb_urpe9ns6Re4_XcIhlTZLSO5Fcj-Q7pd5gA&domain=ADA08BBE-3B7B-4CD0-A75A-724B7D8635CF", "es");
+	es("pushOn");
+</script>
+
+<link rel="manifest" href="/manifest.json">
+
+<link rel="canonical" href="https://football.kulichki.net/" >
+
+    </head>
+    <body id="body" class="qwe" onload="checkBrowser();" >
+
+
+<div id="VTOoXbAR"></div>
+
+<!-- Copy and paste this code into banner place on the page. -->
+<script>
+  (function(w,d,o,g,r,a,m){
+    d.write('<div id="'+(cid=(Math.random()*1e17).toString(36))+'"></div>');
+    w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+    function e(b,w,r){if(w[r+'h']=b.pop()){
+        a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+        a.src='//cdn.'+w[r+'h']+'/libs/b.js';a.onerror=function(){e(g,w,r)};p.parentNode.insertBefore(a,p)
+    }}if(!w.ABN){e(g,w,r)};w[r](cid,{id:1723548931})
+  })(window,document,'script',['trafficdok.com'],'ABNS');
+</script>
+
+<!--
+<script type="text/javascript"> var head = document.getElementsByTagName("head")[0], s = document.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "//oconner.biz/js/lib.js"); s.onload = function(){ AMSP.loadAsset("0ce9962768c6a4d583130414709f8fd2", ""); }; head.insertBefore(s, head.firstChild);</script>
+-->
+
+
+
+      <div class="wrapper">
+            <div class="top_light"></div>
+            <div class="header">
+                <div class="header_cont">
+                    <a class="logo" href="/"><img src="images/logo.png" title="Футбол" /></a>
+
+                    <div class="inl vtop" > <Center>
+
+<!-- AdGlare: Display Ad -->
+
+<span id=zone651822225></span>
+
+<div id='zone_1722063324'></div>
+
+<div class="YGBTEE324977"></div>
+
+<!-- Yandex.RTB -->
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script type="text/javascript" src="/geo_rew/t2.js"></script>
+
+<br>
+ </div>
+
+                </div>
+                <img class="ftbl_left_img" src="images/bg_img_left.png" alt="" />
+                <img class="ftbl_right_img" src="images/bg_img_right.png" alt="" />
+            </div>
+			<div class="opera_clear"></div>
+            <div class="content">  
+                 <div class="content_top_line" style="padding: 10px 1px;">
+                    
+&nbsp;&nbsp;
+<div class="inl vmid">
+<div id='zone_1448001232'></div>
+
+<script>
+    (function(w,d,o,g,r,a,m){
+        var cid='zone_1448001232';
+        w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+        function e(b,w,r){if((w[r+'h']=b.pop())&&!w.ABN){
+            var a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+            a.src='//cdn.'+w[r+'h']+'/libs/e.js';a.onerror=function(){e(g,w,r)};
+            p.parentNode.insertBefore(a,p)}}e(g,w,r);
+        w[r](cid,{id:1448001232,domain:w[r+'h']});
+    })(window,document,'script',['trafficdok.com'],'ABNS');
+</script>
+
+
+<!--
+Устанавливая код зоны, убедитесь:
+  - вы сообщили все домены, с которых будет вызываться код зоны
+  - сайт не ограничивает загрузка контента в Content Security Policy
+  - код зоны установлен в рекламное место внутри страницы
+  - верстка сайта позволяет отобразить баннер на мобильных устройствах в полный размер
+-->
+</div>
+
+<div class="inl vmid" style="
+width: 272px;
+height: 54px;
+">
+
+<script>
+  (function() {
+    var cx = '015427880924055915628:w-8e8-yvwyo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+</div>                      
+                    <div class="inl vmid marg">
+                        <form class="subscribe" action="/cgi-bin/subscribe.cgi" target="_new">
+                           
+                            <div class="inl vmid">
+                                <input type="hidden" name="list" value="fnk">
+                                <input type="hidden" name="followupurl" value="http://football.kulichki.net/">
+                                <input class="email_field" type="text" name="email" placeholder="E-mail:" />
+                            </div>
+                            <div class="inl vmid radio_buttons">
+                                <p>Подписаться: <input type="radio" name="action" value="subscribe" checked></p>
+                            </div>
+                            <div class="inl vmid">
+                                <input type="submit" value="Подписаться">
+                            </div>
+                        </form>
+                    </div>
+                                            
+<a target="_blank" href="https://vk.com/fnk_news">
+                            <img class="inl vmid" border="0" src="images/vk.jpg" alt="ФНК Вконтакте" align="bottom"></a>
+
+<a target="_blank" href="https://twitter.com/fnk_news">
+                            <img class="inl vmid" border="0" src="images/twitter.jpg" alt="ФНК в Твиттере" align="bottom"></a>
+
+<a target="_blank" href="https://t.me/footballkulichki">
+                            <img class="inl vmid" border="0" src="images/telegram.jpg" alt="ФНК в Telegram" align="bottom"></a>
+
+<a target="_blank" href="https://zen.yandex.ru/fnk">
+                            <img class="inl vmid" border="0" src="images/zen.png" alt="ФНК в Яндекс Дзен" align="bottom"></a>
+
+                        <a href="/news.rss">
+                            <img class="inl vmid" border="0" src="images/rss_button.jpg" alt="новости ФНК в формате RSS" align="bottom">
+                        </a>
+                   </div>
+                
+                <div class="column-flex">
+                    <div class="" style="white-space: normal; width: 740px;">
+                        <div class="bunner_container">                                                
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+<script type="text/javascript" src="/geo_rev/g1.js"></script>
+
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+
+                        </div>
+
+						<div class="column-flex">
+							<div style="white-space: normal;" class="col1 inl vtop"> 
+								<div><div class="green-bg">
+<div class="bunner_container" style="padding-bottom: 0;">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<div id="b673a9eef4" style="display: none"></div>
+
+
+<!-- BEGIN ADVERTSERVE CODE -->
+
+<!-- Copy and paste this code into banner place on the page. -->
+
+<div id="oWpEWLlJ"></div>
+
+
+<!-- Copy and paste this code into banner place on the page. -->
+<script>
+  (function(w,d,o,g,r,a,m){
+    d.write('<div id="'+(cid=(Math.random()*1e17).toString(36))+'"></div>');
+    w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+    function e(b,w,r){if(w[r+'h']=b.pop()){
+        a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+        a.src='//cdn.'+w[r+'h']+'/libs/b.js';a.onerror=function(){e(g,w,r)};p.parentNode.insertBefore(a,p)
+    }}if(!w.ABN){e(g,w,r)};w[r](cid,{id:1490079524})
+  })(window,document,'script',['trafficdok.com'],'ABNS');
+</script>
+<!-- END ADVERTSERVE CODE -->
+
+
+<!-- BEGIN ADVERTSERVE CODE -->
+
+</div> 
+<div class=bunner_container > 
+
+<!-- Copy and paste this code into banner place on the page. -->
+
+<div id="sfLqyAEk"></div>
+
+
+<!-- Copy and paste this code into banner place on the page. -->
+<script>
+  (function(w,d,o,g,r,a,m){
+    d.write('<div id="'+(cid=(Math.random()*1e17).toString(36))+'"></div>');
+    w[r]=w[r]||function(){(w[r+'l']=w[r+'l']||[]).push(arguments)};
+    function e(b,w,r){if(w[r+'h']=b.pop()){
+        a=d.createElement(o),p=d.getElementsByTagName(o)[0];a.async=1;
+        a.src='//cdn.'+w[r+'h']+'/libs/b.js';a.onerror=function(){e(g,w,r)};p.parentNode.insertBefore(a,p)
+    }}if(!w.ABN){e(g,w,r)};w[r](cid,{id:2119237131})
+  })(window,document,'script',['trafficdok.com'],'ABNS');
+</script>
+<!-- END ADVERTSERVE CODE -->
+
+
+
+<!-- BEGIN ADVERTSERVE CODE -->
+<!-- END ADVERTSERVE CODE -->
+
+
+</div>
+
+<nav>
+
+<li>
+<h3>LIVE:</h3>
+<ul>
+
+<li><a href="/live.htm">Live-результаты</a></li>
+<li><a href="/trans/">Текстовые Онлайн трансляции</a></li>
+</ul>
+</li>
+
+
+<li>
+<h3>СОРЕВНОВАНИЯ:</h3>
+<ul>
+<li><a href="/world/2022/">ЧМ 2022</a></li>
+<li><a href="/league/">Лига чемпионов</a></li>
+<li><a href="/uefa_cup/">Лига Европы</a></li>
+<li><a href="/lc/">Лига конференций</a></li>
+<li><a href="/euro/2024/">ЕВРО 2024</a></li>
+<li><a href="/nations/">Лига наций</a></li>
+<li><a href="/supercup/">Суперкубок УЕФА</a></li>
+<li><a href="/league/world/">Клубный ЧМ</a></li>
+
+
+</ul>
+</li>
+
+
+<li><h3>РОССИЯ:</h3>
+<ul>
+
+<li><a href="/ruschamp/">Премьер-лига</a></li>
+<li><a href="/fnl/">Первая лига</a></li>
+<li><a href="/ruscup/">Кубок России</a></li>
+<li><a href="/ruschamp/kalendar.htm">Календарь</a></li>
+<li><a href="/ruschamp/2023/bomb.htm">Бомбардиры</a></li>
+<li><a href="/rusnews/russia/supercup/matches/67164.htm">Суперкубок</a></li>
+<li><a href="/ruschamp/coaches/">Тренеры</a></li>
+<li><a href="/ruschamp/referees/">Судьи</a></li>
+<li><a href="/ruschamp/stadiums/">Стадионы</a></li>
+<li><a href="/rusnews/russia/">Сборная России</a></li>
+</ul>
+</li>
+
+
+<li>
+<h3>ЧЕМПИОНАТЫ:</h3>
+<ul>
+
+<li><a href="/england/">Англия</a></li>
+<li><a href="/germany/">Германия</a></li>
+<li><a href="/spain/">Испания</a></li>
+<li><a href="/italy/">Италия</a></li>
+<li><a href="/france/">Франция</a></li>
+<li><a href="/holland/">Нидерланды</a></li>
+<li><a href="/portugal/">Португалия</a></li>
+<li><a href="/turkey/">Турция</a></li>
+<li><a href="/belarus/">Беларусь</a></li>
+<li><a href="/kz/">Казахстан</a></li>
+<li><a href="/mls/">MLS</a></li>
+
+</ul>
+</li>
+
+
+<li>
+<h3>МЕЖСЕЗОНЬЕ:</h3>
+<ul>
+
+<li><a href="/transfers/russia.htm">Трансферы</a></li>
+
+<li><a href="/mid/">Контрольные матчи</a></li>
+	
+</ul></li>
+
+
+<li>
+<h3>РАЗНОЕ:</h3>
+<ul>
+<li><a href="/prognoz/">Прогнозы от ФНК</a></li>
+<li><a href="/rusnews/">Российские новости</a></li>
+<li><a href="/worldnews/">Мировые Новости</a></li>
+<li><a href="/uefa.htm">Коэффициенты УЕФА</a></li>
+<li><a href="/fifa.htm">Рейтинг ФИФА</a></li>
+<li><a href="http://toto.kulichki.net/totaliz1.htm">Тотализатор</a></li>
+<li><a href="/voting/">Голосование</a></li>
+<li><a href="/poisk.htm">Поиск</a></li>
+<li><a href="/forum/viewtopic.php?f=11&t=340">Вакансии</a></li>
+<li><a href="/forum/">Новый Форум</a></li>
+<li><a href="http://soccerforum.kulichki.net">Старый Форум</a></li>
+<li><a href="/cont.htm">Контакты</a></li>
+</ul>
+</li>
+
+
+<li>
+<h3>АРХИВЫ:</h3>
+<ul>
+
+<li><a href="/world/2018/">ЧМ 2018</a></li>
+<li><a href="/world/2014/">ЧМ 2014</a></li>
+<li><a href="/world/2010/">ЧМ 2010</a></li>
+<li><a href="/w2006/">ЧМ 2006</a></li>
+<li><a href="/world/2002/">ЧМ 2002</a></li>
+<li><a href="/euro/2020/">ЕВРО 2020</a></li>
+<li><a href="/euro/2016/">ЕВРО 2016</a></li>
+<li><a href="/euro/2012/">ЕВРО 2012</a></li>
+<li><a href="/euro/2008/">ЕВРО 2008</a></li>
+<li><a href="/euro/2004/">ЕВРО 2004</a></li>
+<li><a href="/euro/2000/">ЕВРО 2000</a></li>
+<li><a href="/america/2021/">Кубок Америки 2021</a></li>
+<li><a href="/america/2019/">Кубок Америки 2019</a></li>
+<li><a href="/america/2016/">Кубок Америки 2016</a></li>
+<li><a href="/america/2015/">Кубок Америки 2015</a></li>
+<li><a href="/america/2011/">Кубок Америки 2011</a></li>
+<li><a href="/africa/2021/">Кубок Африки 2021</a></li>
+<li><a href="/africa/2019/">Кубок Африки 2019</a></li>
+<li><a href="/africa/2017/">Кубок Африки 2017</a></li>
+<li><a href="/africa/2015/">Кубок Африки 2015</a></li>
+<li><a href="/africa/2013/">Кубок Африки 2013</a></li>
+<li><a href="/africa/2012/">Кубок Африки 2012</a></li>
+<li><a href="/africa/2010/">Кубок Африки 2010</a></li>
+<li><a href="/mid/2019/">Кубок Азии 2019</a></li>
+<li><a href="/mid/2015/asia.htm">Кубок Азии 2015</a></li>
+<li><a href="/olimp/2020/">Олимпиада 2020</a></li>
+<li><a href="/olimp/2016/">Олимпиада 2016</a></li>
+<li><a href="/olimp/2012/">Олимпиада 2012</a></li>
+<li><a href="/olimp/2008/">Олимпиада 2008</a></li>
+<li><a href="/olimp/2004/">Олимпиада 2004</a></li>
+<li><a href="/olimp/">Олимпиада 2000</a></li>
+
+</ul>
+</li>
+</nav>
+</div>
+
+<div>
+</div>
+
+<div align="center">
+</div>
+
+<div align="center">
+
+	<!--LiveInternet counter--><script type="text/javascript"><!--
+	document.write("<a href='http://www.liveinternet.ru/click' "+
+	"target=_blank><img src='https://counter.yadro.ru/hit?t28.6;r"+
+	escape(document.referrer)+((typeof(screen)=="undefined")?"":
+	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+	";"+Math.random()+
+	"' alt='' title='LiveInternet: показано количество просмотров и"+
+	" посетителей' "+
+	"border=0 width=88 height=120></a>")//--></script><!--/LiveInternet-->
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new
+Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(62493154, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62493154"
+style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</div>
+								<div><img src="/interface/0.gif" width="162" height="1"></div>                        
+								<div><table BORDER=01  bordercolor="#336633" width="100%" bgcolor="#336633" CELLSPACING=0 CELLPADDING=0>
+<tr><td>
+<table BORDER=01  bordercolor="#FFFFCC"  width="100%"  bgcolor="#336633" CELLSPACING=0 CELLPADDING=0>
+<tr><td>
+<table BORDER=0  bgcolor="#336633" CELLSPACING=0 CELLPADDING=3>
+<td align=left valign=top>
+<p>
+<a href="http://www.kulichki.com/advert"><font color="#FFFF00" size=2>НАША РЕКЛАМА:</a>
+<p>
+
+<a href="https://www.strategya.com/"><font color="#FFFF00" size="2">Рейтинги букмекерских контор</font></a> для ставок на футбол от https://www.strategya.com/<br>
+
+<a href="http://www.glenfarclas.net"><font color="#FFFF00" size=2>Glenfarclas</a><br>
+
+</td></tr></table>
+</td></tr></table>
+</td></tr></table></div> 
+
+								<div class="news_container">
+									<h2 class="title" style="margin-bottom: 0;">Голосование</h2>
+									<div style="margin-bottom: 0; border-bottom: 0;" class="right_news_bl">
+										<p>Новый вопрос голосования: <b><a href="/voting/">"Лучший футболист 17-го тура чемпионата России".</a></b> На предыдущий вопрос "Лучший футболист 16-го тура чемпионата России" большинство посетителей ФНК ответили - Ираклий Квеквескири.</p>
+									</div>
+								</div>
+
+							</div>
+							<div style="display: none;">
+								<img src="/interface/0.gif" width="10" height="1">
+							</div>
+							<div style="white-space: normal;" class="col2 inl vtop">
+
+								<center><table border="0" width="100%" cellspacing="1" cellpadding="0" style="border-collapse: separate;"><tr><th bgColor="#336633" colspan="3" style="text-align: center;"><font size="2" face="Arial"><span style="font-weight: 400; color: #ffffff;">Текстовая on-line трансляция.</span></font></th></tr><tr><th bgColor="#FFFFFF" colspan="3"><p align="left"><font face="Arial" size="2"><img border="0" src="/trans/flags/italy.gif" width="18" height="12"><span style="font-weight: 400"> Чемпионат Италии, 23-й тур</span></font></th></tr><tr><td bgColor="#F2F2F2" align="right"><p align="left"><font size="2" face="Arial">
+
+ 
+<img src=/flash1.gif>
+ 22:45. <b><a href="/trans/2023/19702.htm">Торино - Кремонезе - 0:0</a></b></font></p></td><td align="left" bgColor="#F2F2F2"><p style="margin-left: 0px"><font face="Arial" color="#808080"><a href="/trans/2023/19702.htm"><font size="2" color="#0000FF"><b style="color: #0028f9">Текст</b></font></a></font></p></td><td align="left" bgColor="#F2F2F2"><font size="2" face="Arial">
+<a href=https://football.kulichki.net/italy/2023/23/10a.htm> <b>Прогноз</b> </a>
+</font></td></tr></table><br></center>
+								
+
+<font color=red><b>ДЖЕЙМС УОРД-ПРОУЗ – ЛУЧШИЙ ИГРОК НЕДЕЛИ.<br></font>
+<a href="/">Футбол. ФНК.</a></b> Аналитика.<br>
+<img border="0" src="/photo/27596.jpg" align="right" hspace="5" vspace="2"  title="Фото - GI">
+В чемпионате Англии, как и в других турнирах, есть свои локальные легенды и местные герои. Для каждой позиции, для каждой роли на поле найдется свой пример и эталон. Есть футболисты с необычными жизненными путями, как защитник Тони Адамс из лондонского "Арсенала". "Канониры" вообще дали миру много харизматичных игроков – и вратарь Дэвид Симен, и <a href=/coaches/61.htm>Патрик Виейра</a>, и Деннис Бергкамп, и Тьерри Анри. Да "Арсенал" сам как история с его великим сезоном без поражений. Были в Англии и свои невероятные бомбардиры, как Алан Ширер и Криштиану Роналду. Были и обидные трагедии с большими игроками, как случилось с падением Стивена Джеррарда, когда <a href=/england/2023/teams/liverpool.htm>"Ливерпуль"</a> потерял все шансы на чемпионство. Но не только с топовыми командами связаны все сюжеты. Например, любой болельщик скажет, что никто не бросает ауты лучше, чем Рори Делап из "Сток Сити". А сам <a href=/coaches/51.htm>Хосеп Гвардиола</a> назвал однажды лучшего исполнителя стандартных положений. Главный тренер <a href=/england/2023/teams/mancity.htm>"Манчестер Сити"</a> указал на Джеймса Уорд-Проуза из <a href=/england/2023/teams/southampton.htm>"Саутгемптона"</a>. Действительно, о его штрафных говорят все. Вот на выходных <a href=/england/2023/teams/chelsea.htm>"Челси"</a> узнал, как это пропускать от Уорд-Проуза. Его гол помог команде одержать долгожданную победу над лондонцами... <a href="/worldnews/news.htm?737106">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<br>
+<br>
+
+<center>
+
+<!-- Yandex.RTB R-A-1959255-2 -->
+<div id="yandex_rtb_R-A-1959255-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1959255-2',
+    blockId: 'R-A-1959255-2'
+  })
+})</script>
+
+</center>
+
+
+
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>ПОДДАВКИ ОТ "АРСЕНАЛА" И "МАНЧЕСТЕР СИТИ". <br></font>
+<a href="/england/">Футбол. Чемпионат Англии.</a></b> Обзор 24-го тура.<br>
+<img src="/photo/27591.jpg" align="left" title="Фото - GI">
+В чемпионате Англии лидеров вдруг начало лихорадить, вряд ли они нарочно играют в поддавки. Среди недели "Манчестер Сити" обыграл "Арсенал", сравнявшись с ним по очкам. В выходные ситуация поменялась, вновь "пушкари" имеют небольшой отрыв. Коллектив Микеля Артеты пусть и не без проблем, но все-таки одолел <a href=/england/2023/teams/astonvilla.htm>"Астон Виллу"</a> в самом результативном матче тура. Дружина Хосепа Гвардиолы приехала к "Ноттингему Форесту" за тремя очками, но получила одно, позволив соперникам сравнять счет в концовке. Недалеко от дуэта лидеров располагается <a href=/england/2023/teams/manutd.htm>"Манчестер Юнайтед"</a>, который разгромил <a href=/england/2023/teams/leicester.htm>"Лестер"</a> с дублем Рэшфорда, находящегося в прекрасной форме. На четвертом месте в таблице произошли изменения, на него поднялся <a href=/england/2023/teams/tottenham.htm>"Тоттенхэм"</a>, за которым осталось дерби с <a href=/england/2023/teams/west_ham.htm>"Вест Хэмом"</a>. "Шпоры" обогнали <a href=/england/2023/teams/newcastle.htm>"Ньюкасл"</a>, потерпевший второе поражение в премьер-лиге, во второй раз за сезон "сорок" одолел "Ливерпуль". "Челси" продолжает со своими многомиллионными новичками терять очки, "синие" дома умудрились проиграть последней команде чемпионата "Саутгемптону". Еще у лондонцев серьезную травму головы получил Аспиликуэта... <a href="/england/2023/24/">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>НЕВЕРОЯТНАЯ ПОБЕДА ПСЖ, ГОЛ ГОЛОВИНА И ВОЛЕВОЙ УСПЕХ "МАРСЕЛЯ".<br></font>
+<a href="/france/">Футбол. Чемпионат Франции.</a></b> Обзор 24-го тура.<br>
+<img src="/photo/27595.jpg" align="right" title="Фото - GI">
+24-й тур чемпионата Франции получился очень интересным и богатым на события. <a href=/france/2023/teams/psg.htm>"Пари Сен-Жермен"</a> в домашнем матче с <a href=/france/2023/teams/lille.htm>"Лиллем"</a> сначала вёл в счёте 2:0, потом проигрывал 2:3, но в итоге сумел победить 4:3! И решающий гол в самой концовке забил <a href=/players/5452.htm>Лионель Месси</a>. Аргентинец отличился красивым ударом со штрафного, который сам же и заработал. ПСЖ набрал 57 очков. На пять баллов отстаёт <a href=/france/2023/teams/marseille.htm>"Марсель"</a>. В гостевой игре против <a href=/france/2023/teams/toulouse.htm>"Тулузы"</a> провансальцы пропустили быстрый гол, однако после перерыва пришли в себя и довели дело до победы. <a href=/france/2023/teams/monaco.htm>"Монако"</a> продолжает длительную беспроигрышную серию. На этот раз монегаски в гостях одолели неудобный для себя <a href=/france/2023/teams/brest.htm>"Брест"</a> со счётом 2:1. Первый гол в матче забил <a href=/players/10475.htm>Александр Головин</a>, у которого в текущем розыгрыше чемпионата Франции уже 6 забитых мячей и 6 голевых передач. "Монако" с 50-ю баллами идёт на третьем месте в турнирной таблице. На один балл от команды Филиппа Клемана  отстаёт <a href=/france/2023/teams/lans.htm>"Ланс"</a>. В отчётном туре кроваво-золотые уверенно дома переиграли <a href=/france/2023/teams/nantes.htm>"Нант"</a> со счётом 3:1. <a href=/france/2023/teams/rennais.htm>"Ренн"</a> и <a href=/france/2023/teams/lorient.htm>"Лорьян"</a> одержали важные для себя победы, переиграв <a href=/france/2023/teams/clermont.htm>"Клермон"</a> и <a href=/france/2023/teams/ajaccio.htm>"Аяччо"</a> соответственно... <a href="/france/2023/24/">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>ТРОЕВЛАСТИЕ В НЕМЕЦКОЙ БУНДЕСЛИГЕ.<br></font>
+<a href="/germany/">Футбол. Чемпионат Германии.</a></b> Обзор 21-го тура.<br>
+<img src="/photo/27592.jpg" align="left" title="Фото - GI">
+Не случилось то, чего все так долго ждали. <a href=/germany/2023/teams/bayern.htm>"Бавария"</a> проиграла в меньшинстве менхенгладбахской "Боруссии" (2:3), но при этом удержалась на первом месте, даже несмотря на то, что "Унион" дома встречался с <a href=/germany/2023/teams/shalke04.htm>"Шальке"</a> (0:0). Гельзенкирхенцы не дали главному преследователю ФКБ одолеть себя, а потому подопечные Нагельсманна все еще лидеры гонки в Бундеслиге, хотя количество набранных очков одинаковое теперь у мюнхенцев, берлинцев и дортмундцев – по 43. Кстати, "Боруссия" Терзича справилась с <a href=/germany/2023/teams/gerta.htm>"Гертой"</a> (4:1), хоть один из лидеров не допустил осечку. Зато все трое удачно сыграли в еврокубках, "красные" справились с ПСЖ (1:0), "черно-желтые" с "Челси" (тоже 1:0), а "Унион" на выезде не проиграл <a href=/holland/2023/teams/ajax.htm>"Аяксу"</a> (0:0), что тоже можно считать успехом. В других матчах 21-го тура чемпионата Германии <a href=/germany/2023/teams/wolfsburg.htm>"Вольфсбург"</a> продолжил свою неудачную серию, проиграв <a href=/germany/2023/teams/leipzig.htm>"Лейпцигу"</a> (0:3), тем же отметился и <a href=/germany/2023/teams/hoffenheim.htm>"Хоффенхайм"</a>, который уступил <a href=/germany/2023/teams/augsburg.htm>"Аугсбургу"</a> (0:1). О различных взлетах и падениях пришло время рассказать в нашем обзоре, где найдется место каждой из восемнадцати команд немецкого первенства... <a href="/germany/2023/21/">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<br>
+
+<center>
+
+
+<center>
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+<script type="text/javascript" src="/geo_rev/g2t.js"></script>
+
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+</center>
+
+
+
+
+<script> </script>
+
+
+</center>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>ВАЛИДОЛЬНАЯ ПОБЕДА "ФЕЙЕНООРДА" В СХВАТКЕ ЛИДЕРОВ.<br></font>
+<a href="/holland/">Футбол. Чемпионат Нидерландов.</a></b> Обзор 22-го тура.<br>
+<img src="/photo/27593.jpg" align="right" title="Фото - GI">
+В мидвик еврокубковый плей-офф возобновился для флагманов футбола Нидерландов – "Аякса" и ПСВ. "Евреи" в родных стенах разошлись безголевым миром с берлинским "Унионом", а "крестьяне" устроились на 0:3 в Севилье, несмотря на качественный первый тайм. Амстердамцы и эйндховенцы по-разному провели свои матчи чемпионата на фоне усталости: "Аякс" разгромил <a href=/holland/2023/teams/sparta.htm>"Спарту"</a>, а ПСВ потерял очки в гостях у <a href=/holland/2023/teams/utrecht.htm>"Утрехта"</a>. Главным же событием 22-го тура Эредивизи стала разборка <a href=/holland/2023/teams/feyenoord.htm>"Фейеноорда"</a> и АЗ в Роттердаме. <a href=/coaches/93.htm>Арне Слот</a> громко заявил о себе именно в Алкмааре, да и Джаханбахш с Идрисси раскрылись именно в форме "сыроваров". Лидер чемпионата не позволил себе сантиментов, разобравшись с АЗ благодаря очередному результативному дальнему удару. <a href=/holland/2023/teams/twente.htm>"Твенте"</a> блекло отыграл на выезде в оверэйсельском дерби и заслуженно проиграл <a href=/holland/2023/teams/eagles.htm>"Гоу Эхед Иглс"</a>, а <a href=/holland/2023/teams/heerenveen.htm>"Херенвен"</a> на классе выиграл принципиальный матч у <a href=/holland/2023/teams/cambuur.htm>"Камбюра"</a>. "Валвейк" и <a href=/holland/2023/teams/volendam.htm>"Волендам"</a> улучшили турнирную ситуацию после домашних успехов, в то время как НЕК отметился крупной выездной победой. <a href=/holland/2023/teams/groningen.htm>"Гронинген"</a> же в который раз не порадовал своих болельщиков... <a href="/holland/2023/22/">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>"БАРСЕЛОНА" В РЕЖИМЕ ЭКОНОМИИ ОБЫГРАЛА "КАДИС".<br></font>
+<a href="/spain/">Футбол. Чемпионат Испании.</a></b> 22-й тур.<br>
+19 февраля. Барселона. Стадион <a href=/stadiums/141.htm>"Камп Ноу"</a>.<br>
+<img src="/photo/27594.jpg" align="left" title="Фото - GI">
+<b><font color="#000080">БАРСЕЛОНА - КАДИС - 2:0</font> (2:0).<br>
+Голы: <a href=/players/5011.htm>Серхи Роберто</a>, 43 (1:0). Левандовски, 45+1 (2:0).</b><br>
+Все помнят проблемы, которые доставил <a href=/spain/2023/teams/10.htm>"Кадис"</a> в прошлом и позапрошлом сезонах каталонцам. Не получилась игра простой и в этот раз. Первый тайм гости отработали прилично и даже забили гол, который был отменен из-за офсайда. Было три-четыре хороших момента и у хозяев, однако в целом казалось, что "Кадис" дотерпит до перерыва. Не вышло – в раздевалку <a href=/spain/2023/teams/4.htm>"Барселона"</a> забила два гола за три минуты. <a href=/players/18419.htm>Ферран Торрес</a> создал первый сольным проходом и пасом на гол Левандовски. Защитник вынес из пустых ворот мяч после удара поляка, но Серхи Роберто подсуетился на добивании. Пару минут спустя уже сам Серхи Роберто протащил мяч до штрафной и отдал Левандовски, который отлично исполнил эпизод. Поначалу и после перерыва каталонцы доминировали. Вполне мог закончить все Левандовски, но попал в перекладину с нескольких метров. Постепенно Хави начал экономить силы и лидеров на <a href=https://football.kulichki.net/uefa_cup/>Лигу Европы</a>. С середины тайма "Кадис" воспрянул духом, забил еще один отмененный гол, проверил на прочность каркас ворот, но так и не сумел размочить счет. "Барселона" восстанавливает свои плюс восемь очков от "Реала"... <a href="/spain/2023/22/1.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>"АТЛЕТИКО" ДОЖАЛ "АТЛЕТИК".<br></font>
+<a href="/spain/">Футбол. Чемпионат Испании.</a></b> 22-й тур.<br>
+19 февраля. Мадрид. Стадион <a href=/stadiums/604.htm>"Цивитас Метрополитано"</a>.<br>
+<img src="/photo/27590.jpg" align="right" title="Фото - GI">
+<b><font color="#000080">АТЛЕТИКО - АТЛЕТИК - 1:0</font> (0:0).<br>
+Гол: Гризманн, 73 (1:0).</b><br>
+В первом тайме баски навязали борьбу хозяевам, а по моментам смотрелись даже острее. Игровой перевес мадридцев был незначителен, а шанс забить они создали лишь однажды, когда проиграл дуэль вратарю Карраско. У "Атлетика" по хорошему моменту не реализовали <a href=/players/12660.htm>Дани Гарсия</a> и Сансет. Во втором тайме хозяева планомерно наращивали давление. Симеоне освежил игру заменами, у гостей же контригра практически пропала. В итоге за пятнадцать минут до конца Гризманну удался классный удар с линии штрафной, который стал не берущимся для в целом уверенно отыгравшего Агирресабалы. Плана В у Вальверде не нашлось – <a href=/spain/2023/teams/3.htm>"Атлетико"</a> спокойно и уверенно доиграл по счету, который вполне мог улучшить, будь Мората, Депай и Гризманн конкретнее в завершении. Однако и минимальной победы достаточно, чтобы упрочить позиции в зоне <a href=https://football.kulichki.net/league/>Лиги чемпионов</a>, а <a href=/spain/2023/teams/2.htm>"Атлетик"</a> в который уже раз при не самой плохой игре подводит реализация. Баски осложняют себе борьбу за место в еврокубках... "Атлетико" проводит слабый сезон и на чемпионство давно не претендует. Команда Симеоне вполне может остаться вообще без медалей, если "Реалу Сосьедад" хватит... <a href="/spain/2023/22/8.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>ДОРТМУНДСКАЯ "БОРУССИЯ" ДОГОНЯЕТ ЛИДЕРОВ.<br></font>
+<a href="/germany/">Футбол. Чемпионат Германии.</a></b> 21-й тур.<br>
+19 февраля. Дортмунд. Стадион <a href=/stadiums/102.htm>"Сигнал Идуна Парк"</a>.<br>
+<img src="/photo/27589.jpg" align="left" title="Фото - GI">
+<b><font color="#000080">БОРУССИЯ Д - ГЕРТА - 4:1</font> (2:0).<br>
+Голы: Адейеми, 27 (1:0). Мален, 32 (2:0). Тусар, 47 (2:1). Ройс, 76 (3:1). Брандт, 90 (4:1).</b><br>
+Дортмундская "Боруссия" в рамках 21-го тура чемпионата Германии обыграла на своем поле "Герту", а это значит, что теперь в немецкой Бундеслиге самый настоящий триумвират. У "Баварии", "Униона" и "шмелей" по 43 набранных очка. Как известно, берлинцы допустили осечку, не обыграв "Шальке" на своем поле (0:0), а мюнхенцы и вовсе уступили менхенгладбахцам (2:3). Зато "черно-желтые" одолели других представителей столицы, пусть те и выглядели достаточно неплохо. В первом тайме здорово сыграл Адейеми, отметившийся голом, после чего он еще и оформил голевую передачу на Малену, а потом Карима пришлось заменить, т.к. он получил повреждение (пожелаем ему здоровья, разумеется). "Старая дама" после перерыва сократила отставание, отличился Тусар, затем еще и Нидерлехнер мог забивать, однако там выручил Кобель. В дальнейшем Ройс забил, а Брандт установил окончательный счет в дуэли – 4:1. Класс сказался, подопечные Терзича одержали очередную победу. Дортмундский клуб сейчас очень хорош, можно с уверенностью сказать, что ФКБ будет сложно отстаивать свой титул, ведь у него есть серьезные противники... <a href="/germany/2023/21/5.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>"ТОТТЕНХЭМ" ПОДНЯЛСЯ НА ЧЕТВЁРТОЕ МЕСТО, ОТПРАВИВ "ВЕСТ ХЭМ" В ЗОНУ ВЫЛЕТА.<br></font>
+<a href="/england/">Футбол. Чемпионат Англии.</a></b> 24-й тур.<br>
+19 февраля. Лондон. Стадион <a href=/stadiums/680.htm>"Тоттенхэм Хотспур"</a>.<br>
+<img src="/photo/27588.jpg" align="right" title="Фото - GI">
+<b><font color="#000080">ТОТТЕНХЭМ - ВЕСТ ХЭМ - 2:0</font> (0:0).<br>
+Голы: Эмерсон, 56 (1:0). Сон Хын Мин, 72 (2:0).</b><br>
+"Тоттенхэм", который ведёт упорную борьбу за место в Лиге чемпионов на следующий сезон, в лондонском дерби на своём поле принимал "Вест Хэм". Подопечные Дэвида Мойеса находятся внизу турнирной таблицы и каждый набранный балл для них на вес золота. Хозяев к поединку с "молотобойцами" готовил ассистент главного тренера Кристиан Стеллини. Сам же <a href=/coaches/56.htm>Антонио Конте</a> отсутствовал, так как недавно перенёс операцию и ему предписан постельный режим. "Вест Хэм" начал встречу смело и уже на первой минуте мог открыть счёт, но <a href=/players/15974.htm>Джаррод Боуэн</a> немного не попал в дальний угол классным ударом в одно касание с линии штрафной площади. "Тоттенхэм" ответил на 12-й минуте, когда после розыгрыша углового претендовал на пенальти. Мяч явно попал в руку <a href=/players/6242.htm>Тило Керер</a>а, который прерывал передачу Ришарлисона на <a href=/players/8771.htm>Харри Кейн</a>а, но главный арбитр матча Майкл Оливер никакого нарушения правил не увидел. В дальнейшем на поле очень долго не было опасных моментов. "Тоттенхэм" больше владел мячом, но никак не мог подобраться к воротам соперника. А "Вест Хэм" совсем забыл про атакующие действий. При этом темп матча был высоким... <a href="/england/2023/24/9.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br><br><center>
+
+<div id="yandex_rtb_R-A-1959255-3"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1959255-3',
+    blockId: 'R-A-1959255-3'
+  })
+})</script>
+
+</center>
+
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>ДУБЛЬ РЭШФОРДА ПОМОГ "МАНЧЕСТЕР ЮНАЙТЕД" РАЗГРОМИТЬ "ЛЕСТЕР".<br></font>
+<a href="/england/">Футбол. Чемпионат Англии.</a></b> 24-й тур.<br>
+19 февраля. Манчестер. Стадион <a href=/stadiums/80.htm>"Олд Траффорд"</a>.<br>
+<img src="/photo/27587.jpg" align="left" title="Фото - GI">
+<b><font color="#000080">МАНЧЕСТЕР ЮНАЙТЕД - ЛЕСТЕР - 3:0</font> (1:0).<br>
+Голы: Рэшфорд, 25 (1:0). Рэшфорд, 58 (2:0). Санчо, 62 (3:0).</b><br>
+"Манчестер Юнайтед" разгромил "Лестер" на своём поле в матче двадцать четвёртого тура АПЛ. "Красные дьяволы" выиграли по делу, но итоговый счёт не до конца соответствует содержанию игры. Первый тайм манкунианцы провели слабо, а стартовый отрезок матча они откровенно провалили. В первые двадцать минут "лисы" владели ощутимым преимуществом и должны были открывать счёт, но Барнс и Ихеаначо упустили убойнейшие моменты. В обоих случаях блестящую игру продемонстрировал Де Хеа. В середине первой сорокапятиминутки команда Эрика тен Хага внезапно вышла вперёд благодаря результативному удару Рэшфорда. Хозяева сохранили лидерство по итогам первой сорокапятиминутки, но этот перевес не был заслуженным. Зато вторую половину встречи "МЮ" действительно провёл мощно. Команда тен Хага поймала атакующую волну и стала на постоянной основе создавать опасные моменты. Особенно в быстрых отрывах, против которых "Лестер" не смог найти противоядие. По ходу второй половины встречи "красные дьяволы" дважды поразили ворота Уорда и довели своё преимущество до итогового разгрома. Сначала Рэшфорд оформил дубль... <a href="/england/2023/24/6.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>"РЕАЛ" ДОЖАЛ "ОСАСУНУ" В ПАМПЛОНЕ.<br></font>
+<a href="/spain/">Футбол. Чемпионат Испании.</a></b> 22-й тур.<br>
+18 февраля. Памплона. Стадион "Рейно-де-Наварра".<br>
+<img src="/photo/27586.jpg" align="right" title="Фото - ФК Реал Мадрид">
+<b><font color="#000080">ОСАСУНА - РЕАЛ МАДРИД - 0:2</font> (0:0).<br>
+Голы: Вальверде, 78 (0:1). Асенсио, 90+2 (0:2).</b><br>
+В преддверии лигочемпионского поединка с "Ливерпулем" "Реал" добыл уверенную победу в Примере. Правда, она далась "сливочным" нелегко, и ещё за двенадцать минут до конца основного времени на табло горели нули. <a href=/spain/2023/teams/13.htm>"Осасуна"</a> в первом круге отобрала очки у "Королевского клуба" на <a href=/stadiums/150.htm>"Сантьяго Бернабеу"</a>, дала она бой фавориту и в Памплоне. Первый тайм Реал" вряд ли может занести себе в актив. "Осасуна" довольно быстро выровняла игру и по созданным моментам не уступила гостям. После перерыва гости прибавили в движении и едва не отличились уже на 46-й минуте. А вскоре поразил чужие ворота <a href=/players/19607.htm>Винисиус Жуниор</a>, но сделал это из явного офсайда. "Осасуна" довольно быстро вспомнила про контригру, и вот уже <a href=/players/15797.htm>Анте Будимир</a> едва не забил пяткой. Игра шла на встречных курсах. У Винисиуса за 12 минут было два выхода один на один с голкипером, однако <a href=/players/21066.htm>Серхио Эррера</a> в обоих случаях выручил свою команду. Между этими эпизодами мадридцев спасла штанга после удара Мои Гомеса. В концовке поединка настырнее были гости, и на 78-й минуте <a href=/players/7345.htm>Федерико Вальверде</a> с передачи Винисиуса открыл счёт. Более того, на флажке разыгравшийся "Реал" забил ещё дважды. И если гол Винисиуса снова не был засчитан из-за положения...  <a href="/spain/2023/22/6.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+<br>
+<center><hr color=#008000></center>
+
+<font color=red><b>"ЛИВЕРПУЛЬ" ОСТАНОВИЛ БЕСПРОИГРЫШНУЮ СЕРИЮ "НЬЮКАСЛА".<br></font>
+<a href="/england/">Футбол. Чемпионат Англии.</a></b> 24-й тур.<br>
+18 февраля. Ньюкасл. Стадион <a href=/stadiums/448.htm>"Сент-Джеймс Парк"</a>.<br>
+<img src="/photo/27584.jpg" align="left" title="Фото - ФК Ливерпуль">
+<b><font color="#000080">НЬЮКАСЛ - ЛИВЕРПУЛЬ - 0:2</font> (0:2).<br>
+Голы: Нуньес, 10 (0:1). Гакпо, 17 (0:2).</b><br>
+"Ньюкасл" имел лишь одно поражение в чемпионате, случилось оно еще в августа от "Ливерпуля". Команды встретились в рамках второго круга АПЛ, и снова сильнее оказались мерсисайдцы, хотя по турнирному положению фаворитами в дуэли были "черно-белые", у которых в итоге в премьер-лиге прервалась серия из 17-ти встреч без поражений. "Сороки" с первых минут устроил штурм чужих ворот, заставляя паниковать защитников "красных", и если полевые "Ливерпуля" теряли позиции, то Алиссон был непробиваем. А затем и партнеры бразильского вратаря начали блистать, отправив в глубокий нокдаун хозяев. Нуньес и Гакпо забили мячи в течение семи минут после ошибок "Ньюкасла" в обороне, после этого коллектив <a href=/coaches/69.htm>Эдди Хау</a> подвел Поуп, поймавший мяч руками за пределами штрафной. Вратаря удалили, место на последнем рубеже занял Дубравка. "Черно-белые" осложнили себе жизнь не только в противостоянии с дружиной Юргена Клоппа, но и в будущем финале Кубка Лиги. Через неделю Поуп не сможет сыграть из-за дисквалификации, Дубравка же заигран в турнире за "Манчестер Юнайтед", поэтому также останется вне заявки. Это дела будущего, а в игре на "Сент-Джеймс Парк" мерсисайдцы до перерыва старались замедлить...  <a href="/england/2023/24/7.htm">
+<img border="0" src="/interface/forw2.gif" width="69" height="13" align="absbottom"></a>
+
+							</div>                        
+						</div>
+					</div>
+					<div style="white-space: normal;" class="col3 inl vtop">      
+
+                       <center>
+
+<!-- Yandex.RTB R-A-136704-2 -->
+
+<!-- Yandex.RTB -->
+
+
+<center>
+
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+<script type="text/javascript" src="/geo_rev/g2rt.js"></script>
+
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
+</center>
+
+
+</center>
+
+
+
+                        <div>
+                            <h2>Новости</h2>
+
+                            
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737143>
+
+Виталий Шитов: "Спартак" не отпустил на просмотр в "Крылья Советов".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 18:30:34
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737142>
+
+Оливер Гласнер: "Нельзя говорить, что "Наполи" - это только нападение".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 18:27:29
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737141>
+
+Агент Тимура Сулейманова: "В ближайшее время клуб сделает официальное объявление по контракту".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 18:14:36
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737140>
+
+Александр Шикунов: "Только сам "Зенит" может проиграть чемпионство".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 18:13:23
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737139>
+
+В "Шиннике" заявили, что турецкий отель признал свою вину в инциденте.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 18:00:14
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737138>
+
+Виктор Гончаренко: "Знаем, как играет "Ростов". Необходимо свести ошибки к минимуму".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 17:48:51
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737137>
+
+"Енисей" и Артур Арустамян расторгли контракт по соглашению сторон.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 17:42:08
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737136>
+
+Агент Макса Крузе: "Ни один клуб из РПЛ не интересовался моим клиентом".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 17:40:52
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737135>
+<b>
+Состоялась жеребьевка 1/4 финала Кубка Германии: "Лейпциг" сыграет против "Боруссии" Д.
+</b>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 17:29:10
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737134>
+
+"Волга" отдала в аренду "Урарту" Темура Джикию.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 17:16:13
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737133>
+
+Дмитрий Ефремов: "В "Зените" всех можно опасаться".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 17:08:42
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737132>
+
+"Велес" подписал полузащитника Самину Абдуллахи.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 16:52:43
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737131>
+
+"Краснодар" продает билеты на ответный кубковый матч против ЦСКА от 300 рублей.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 16:51:21
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737130>
+
+Основатель "Амкала" Герман Попков: "Мне бы хотелось бы вернуть старый регламент Кубка России".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 16:44:41
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737129>
+
+Гендиректор "Зенита": "Бразильцы и колумбийцы помогут Ренану почувствовать себя в "Зените" как дома".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 16:28:37
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737128>
+
+Алехандро Гарначо близок к продлению контракта с "Манчестер Юнайтед".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 16:20:53
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737127>
+
+Валерий Гладилин: "Спартак" в состоянии защитить титул обладателя Кубка России".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 16:09:48
+</DIV>
+
+<DIV class=title_r>
+<A href=/prognoz/news.htm?737126>
+<i>
+Прогноз на матч Интер – Порту 22 февраля.
+</i>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:57:06
+</DIV>
+
+<DIV class=title_r>
+<A href=/prognoz/news.htm?737125>
+<i>
+Прогноз на матч Лейпциг – Манчестер Сити 22 февраля.
+</i>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:55:57
+</DIV>
+
+<DIV class=title_r>
+<A href=/prognoz/news.htm?737124>
+<i>
+Прогноз на матч Локомотив – Спартак 22 февраля.
+</i>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:54:47
+</DIV>
+
+<DIV class=title_r>
+<A href=/prognoz/news.htm?737123>
+<i>
+Прогноз на матч Ростов – Урал 22 февраля.
+</i>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:53:26
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737122>
+
+Дмитрий Булыкин: "Думаю, "Локомотив" должен преподнести сюрприз в кубковом матче".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:48:48
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737121>
+
+У Неймара диагностирован частичный разрыв связок голеностопного сустава
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:46:36
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737120>
+
+Владимир Пономарёв: "Переход Зелимхана Бакаева в ЦСКА - это было бы здорово".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:37:16
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737119>
+
+Защитник Константин Ерохин на правах свободного агента перешёл в "Уфу".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:34:37
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737118>
+
+Сергей Степашин: "Захарян все прекрасно понимает. Чуть подтянется и будет играть как Кварацхелия".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:24:17
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737117>
+
+"Рубин" начал выплачивать долги перед 11 агентами.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 15:04:33
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737116>
+
+"Базель" пригласил сына пресс-атташе тульского "Арсенала" на игру в качестве извинений.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:56:49
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737115>
+
+Юрий Сёмин: "Во второй части сезона борьба за чемпионство продолжится, еще никто ничего не выиграл".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:55:56
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737114>
+
+Гаджи Гаджиев: "Детский футбол в России умер давно, но сейчас он оживает".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:51:40
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737113>
+
+Георгий Джикия: "Всегда говорил, что Кварацхелия хороший игрок. Смотрю, переживаю и рад за него".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:42:56
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737112>
+
+Роберт Ренан: "Мне выпал большой шанс проявить себя".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:34:27
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737111>
+
+Данни - о гражданстве Малкома и Клаудиньо: "Они сделали правильное решение".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:19:19
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737110>
+
+Максим Боков: "Если у "Зенита" грамотная селекционная служба, то Ренан должен влиться сразу".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 14:08:50
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737109>
+
+Хавбек "Чертаново" Станислав Топинка станет игроком "Локомотива".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 13:59:11
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737108>
+
+Александр Мостовой: "Локомотиву" нечего терять и их не будут ругать, если они проиграют".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 13:55:40
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737107>
+
+Тони Кроос и Орельен Чуамени не попали в заявку "Реала" на матч с "Ливерпулем".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 13:43:33
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737106>
+<b>
+Джеймс Уорд-Проуз - лучший игрок недели (версия ФНК).
+</b>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 13:39:52
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737105>
+
+Сергей Силкин: "Не думаю, что "Динамо" способно выиграть Кубок России".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 13:30:12
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737104>
+
+Агент Корая Гюнтера: "Летний трансфер в Россию возможен".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 13:28:11
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737103>
+
+Сергей Шавло: "Локомотив" даст бой "Спартаку". Игра будет сложная для обеих команд".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:59:59
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737102>
+
+Сын пресс-атташе "Арсенала" обратился в полицию из-за избиения болельщиками "Базеля".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:53:12
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737101>
+
+Банк из США призвал покупателей "Манчестер Юнайтед" не критиковать Глейзеров.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:51:13
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737100>
+
+Вячеслав Караваев согласовал новый контракт с "Зенитом".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:47:02
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737099>
+
+"Зенит" продолжает переговоры с Далером Кузяевым по поводу продления контракта.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:45:04
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737098>
+
+Эльмир Набиуллин вернётся в "Рубин".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:40:23
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737097>
+
+Вячеслав Колосков: "Зениту" получение российского гражданства Малкомом и Клаудиньо ничего не даст".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:35:08
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737096>
+
+Агент Оздоева: "Магомед не отказывался играть за сборную России".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:31:55
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737095>
+
+Ольга Смородская: "Зенит" страхует себя на случай всяческих изменений по лимиту".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:29:04
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737094>
+
+Роберт Ренан прибыл в Санкт-Петербург.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 12:00:28
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737093>
+
+В "Базеле" объяснили причины резкой реакции фанатов на поведение сына пресс-атташе тульского "Арсенала".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:58:41
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737092>
+
+"Бавария" летом хочет подписать Дани Себальоса.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:55:18
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737091>
+
+Спортивный юрист рассказал, почему Малком и Клаудиньо не смогут играть за сборную России.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:49:31
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737090>
+
+Первый тренер Александра Кокорина: "В сборной России мы Сашу не увидим. Пусть получает гражданство Кипра".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:37:26
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737089>
+
+"Урал" отдал Рамазана Гаджимурадова в аренду в махачкалинское "Динамо".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:29:05
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737088>
+
+Карим Бензема всё ещё не продлил контракт с "Реалом".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:23:13
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737087>
+
+Игорь Осинькин: "Для нашей команды Зуев уже взрослый, состоявшийся игрок".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:05:26
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737086>
+
+В менхенгладбахской "Боруссии" подтвердили, что Маркус Тюрам покинет клуб летом.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 11:03:01
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737085>
+
+Лука Модрич: "В матче с "Ливерпулем" мы готовы ко всему".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 10:46:21
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737084>
+
+Станислав Черчесов: "Не очень понимаю, как Малком и Клаудиньо могут стать российскими футболистами и попасть в нашу сборную".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 10:42:13
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737083>
+
+Массимилиано Аллегри: "У "Ювентуса" есть хорошие шансы пройти дальше в Лиге Европы".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 10:29:50
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737082>
+
+Руслан Пименов: "Перед матчем "Локомотив" - "Спартак" серьёзный ажиотаж".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 10:20:38
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737081>
+
+Руслан Безруков: "ЦСКА есть ЦСКА, приятно одержать победу над таким соперником".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 10:13:05
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737080>
+
+В "Динамо" опровергли, что Арсен Захарян говорил о желании перейти в "Галатасарай".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 10:00:10
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737079>
+
+Андрей Канчельскис: "У меня есть желание тренировать клуб РПЛ, но нет предложений".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 09:49:29
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737078>
+
+Юрий Нагорных - об интересе "Зенита" к Дмитрию Баринову: "Пока есть контракт — ничего предлагать нельзя".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 09:41:58
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737077>
+
+Андрей Червиченко: "Получение российских паспортов и смена футбольного гражданства — две большие разницы".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 09:29:34
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737076>
+
+Ферран Торрес: "Я доволен, потому что сыграл на нравящейся мне позиции".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 09:14:37
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737075>
+
+Сербский журналист: "РПЛ является отличной платформой и местом развития сербских футболистов".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 09:12:41
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737074>
+
+Киран Тирни нужен "Ньюкаслу".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:59:00
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737073>
+
+Раде Крунич: "Было непросто в матче с "Монцей", но "Милан" хорошо подготовился".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:49:28
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737072>
+
+ПСЖ рассматривает вариант с возвращением Томаса Тухеля.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:46:43
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737071>
+
+Сержиу Консейсау: "Мы мечтаем о победе над "Интером".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:36:11
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737070>
+
+Эрик тен Хаг: "Я сделаю все, чтобы "Манчестер Юнайтед" был как можно лучше".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:29:46
+</DIV>
+
+<DIV class=title_r>
+<A href=/rusnews/news.htm?737069>
+
+Юрий Нагорных: "Локомотив" устойчив в финансовом плане".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:20:19
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737068>
+
+Хави: "Мы много играем и очень сильно устали".
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 08:12:52
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737067>
+<b>
+Невероятная победа ПСЖ, гол Головина и волевой успех "Марселя". Обзор 24-го тура чемпионата Франции.
+</b>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 01:30:26
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737066>
+
+Чемпионат Португалии. "Каса Пиа" и "Гимарайнш" обошлись без голов.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 01:29:15
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737065>
+<b>
+Чемпионат Испании. "Барселона" в режиме экономии обыграла "Кадис".
+</b>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 01:23:16
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737064>
+<b>
+Валидольная победа “Фейеноорда” в схватке лидеров. Обзор 22-го тура чемпионата Нидерландов.
+</b>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 01:04:23
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737063>
+
+Чемпионат Италии. "Рома" нанесла поражение "Вероне" и ворвалась в топ-4.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 00:42:58
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737062>
+
+Чемпионат Франции. "Марсель" увозит победу из Тулузы.
+
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 00:37:21
+</DIV>
+
+<DIV class=title_r>
+<A href=/worldnews/news.htm?737061>
+<b>
+Троевластие. Обзор 21-го тура чемпионата Германии.
+</b>
+</A></DIV>
+<DIV class=date_r>
+20.02.2023 00:01:51
+</DIV>
+
+                        </div>
+
+
+                        <!--                    <div><img src="/interface/0.gif" alt="" width="150" height="1"></div>                   -->
+
+                        
+
+                    </div>
+                </div>
+
+                <div>
+                    <div class="aCenter"><center>
+
+<!-- Composite Start --> 
+
+            <div class="rzTegn324668"></div>
+            <script>
+                window.k_init = window.k_init || [];
+                k_init.push({
+                    id: 'rzTegn324668',
+                    type: 'bn',
+                    domain: 'hdbcome.com',
+                    refresh: false,
+                    next: 0
+                });
+
+                var s = document.createElement('script');
+                s.setAttribute('async', true);
+                s.setAttribute('charset', 'utf-8');
+                s.setAttribute('data-cfasync', false);
+                s.src = 'https://hdbcome.com/qh9hh4h7.js';
+                document.head && document.head.appendChild(s);
+            </script>
+
+<!-- Composite End -->
+
+</center>
+<br>
+</div>
+                    <div class="social_container">                       
+                        <div class="inl vbot aLeft leftCont">
+                            <div  style="white-space: nowrap;" class="top">
+                                <div class="inl vmid">
+                         
+                                </div>
+							</div>
+                            
+                                                                                      <!-- <tr><td>
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="football_kulichki" data-lang="ru">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+                            </td></tr> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+                <div class="tit_end"><b>Футбол на Куличках</b> (ФНК) - 
+                    популярнейший футбольный сайт для русскоязычных поклонников футбола! Здесь 
+                    всегда можно найти самую свежую информацию о мировом и европейском футболе. 
+                    Если вы всегда хотите быть в курсе последних футбольный событий - добро 
+                    пожаловать на ФНК! У нас самым подробным образом освещается российская 
+                    премьер-лига и выступление российских клубов и сборной России в различных 
+                    турнирах под эгидой ФИФА и УЕФА. Кроме того, на нашем сайте вы всегда 
+                    сможете найти информацию по основным европейским футбольным чемпионатам, 
+                    включая высшие дивизионы Украины и Голландии.<br>
+                    <b>ФНК</b> - это постоянное обновляемый источник информации со свежими 
+                    новостями, информационными и аналитическими статьями наших собственных 
+                    авторов. Все, что вы сможете у нас найти, посвящено исключительно футболу и 
+                    направлено на его освещение и популяризацию. Если вам не безразличен футбол 
+                    и вы всегда хотите быть в курсе всех последних событий из мира футбола, то 
+                    вам на ФНК!<br><b>ФНК</b> – это круглосуточный информационный источник с 
+                    постоянным динамическим обновлением футбольных новостей. Здесь в любое время 
+                    есть все самые последние новости футбола, результаты матчей Лиги Чемпионов и 
+                    Лиги Европы, отборочных матчей и финальных турниров к Чемпионатам Мира и 
+                    Европы, статьи, обзоры, видео, фотографии и онлайн-трансляции.<br>
+                    <b>Лента футбольных новостей</b> обновляется круглые сутки, результаты матчей и 
+                    обзорные статьи размещается, сразу после завершения футбольных матчей. Если 
+                    у вас нет возможности посмотреть какой-либо матч «вживую», то вы всегда 
+                    сможете следить за его событиями в режиме онлайн по нашим текстовым 
+                    трансляциям. А сразу по их окончанию, вы сразу найдете подробную статистику 
+                    и обзорные статьи по всем встречам. Все обновления происходят сразу же после 
+                    финального свистка.<br>
+                    <b>ФНК</b> - это еще и большой футбольный архив, включающий в себя 
+                    чемпионаты прошлых лет России, Англии, Германии, Италии, Испании, Франции, 
+                    Украины, Голландии, Лигу Чемпионов, Лигу Европы, Кубок УЕФА, чемпионаты мира 
+                    и Европы, Кубок Первого Канала и Кубок Содружества. По каждому футбольному 
+                    турниру вы сможете найти подробнейшую информацию, статистику, списки 
+                    бомбардиров, календари, обзорные и аналитические статьи.<br>
+                    Если ваш интерес к российскому футболу простирается дальше российской 
+                    Премьер-лиги, то на ФНК вы сможете найти информацию и по Первому дивизиону 
+                    российского чемпионата с турнирными таблицами, календарями и списками 
+                    бомбардиров. Также, на ФНК вы найдете подробнейшую информацию по каждому из 
+                    клубов как российской Премьер-лиги, так и по сильнейшей в Европе – 
+                    Английской Премьер-лиге.<br>
+                    <b>Лига Чемпионов, Лига Европы</b> национальные чемпионаты и кубки, матчи 
+                    сборных - всю, актуальную информацию о футболе, вы всегда найдете на ФНК. 
+                    Постоянно обновляемые рейтинги УЕФА и ФИФА, тотализаторы, различные опросы и 
+                    голосования, удобный поиск, ссылки на официальные сайты клубов - все это 
+                    предлагает вам ФНК.<br>
+                    <b>ФНК</b> - это еще и свое «футбольное сообщество» с удобными форумами для 
+                    обсуждения любых событий из мира футбола. Каждый матч или любое другое 
+                    значимое футбольное событие всегда можно обсудить на форумах ФНК.<br>
+                    <b>Наш сайт </b>постоянно развивается, появляются новые разделы, растет 
+                    армия поклонников, каждый из которых может легко принять участие в жизни 
+                    ФНК. Окунитесь и вы в мир футбола вместе с нами.</div>
+                <p><script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script> <a href="http://www.buyukan.ru/" target="_blank">айкидо</a> Айкикай Динамо.  |  У нас всегда можно найти <a href="https://bukmekerov.net/bukmekery/fonbet/" target="_blank">отзывы игроков о фонбет</a> и информацию о других букмекерах Букмекеров.нет  |  Раздел с <a href="https://kapper1.ru/kappery-telegram/" target="_blank">лучшими капперами в телеграмме</a>  |  <a href="https://aibolit-smolensk.ru/" target="_blank">Плей Фортуна официальный сайт</a>  |  Свежие новости футбола от <a href="https://fanday.net/" target="_blank">fanday.net</a>  |  <a href="https://pierrejewellery.ru/katalog/all-engagement/pomolvochnye-kolca-s-brilliantami" target="_blank">купить кольцо помолвочное с бриллиантом</a> в москве  |  <a href="https://ukrfootball.ua/casino/" target="_blank">Рейтинг</a> онлайн компаний в интернете 
+</p>
+                <div class="foot_menu">
+                    <a href="mailto:football@kulichki.com">Футбол на Куличках</a>                        
+                </div>
+                <div style="white-space: nowrap;" class="bot_line">
+                    <p class="inl vmid">Copyright (c) Чертовы Кулички, 1996-2023.</p><p class="inl vmid">
+                        <a href="http://brend-a.com">Создание сайта</a> - <a href="http://brend-a.com">веб студия</a> <a href="http://brend-a.com">“Бренд-А”</a>
+                    </p>
+                </div>
+
+                </div>
+        </div>
+
+<!--
+
+<div class="custom-banner-wrapper" id="customBanner" style="display: none;">
+                <div class="custom-banner-content">
+                    <div style="width: 20.5%; text-align: left;">
+
+<a href=https://chrome.google.com/webstore/detail/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B8%D1%87%D0%BA%D0%B0%D1%85-%D1%84%D0%BD%D0%BA/dcjfmmlklnmncaeonkfofgahaaiconmd>
+
+<img src="/banner/banner-logo.png" alt="logo" /></a>
+                    </div>
+                    <div style="width: 63.5%; margin-top: 4px;">
+                        <p>
+
+
+
+Установите приложение "Футбол на Куличках" для Google Chrome 
+                            и навсегда гарантируете себе беспроблемный доступ на наш сайт.
+
+                        </p>
+                    </div>
+                    <div style="width: 16%; text-align: right; margin-top: 5px;">
+
+<a href=https://chrome.google.com/webstore/detail/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB-%D0%BD%D0%B0-%D0%BA%D1%83%D0%BB%D0%B8%D1%87%D0%BA%D0%B0%D1%85-%D1%84%D0%BD%D0%BA/dcjfmmlklnmncaeonkfofgahaaiconmd class="batton-install">
+Установить
+</a>
+                    </div>
+                </div>
+<!--
+                <div class="close-btn" onclick="closeBanner();"></div>
+-->
+                <div class="close-btn" onclick="location.href='/?api=1';"></div>
+
+
+            </div>
+
+        <!--Код мобыльного баннера. По сути изменился текст и пару параметров. -->
+
+        <div class="mobile-custom-banner-wrapper" id="mobileCustomBanner" style="display: none;">
+            <div class="custom-banner-content">
+                <div class="left">
+                    <a href=/app/?api=1>
+                        <img src="/banner/banner-logo.png" alt="logo">
+                    </a>
+                </div>
+                <div class="center">
+                    <p>
+                        Установите мобильное приложение "Футбол на Куличках" для Андроид
+                        и навсегда гарантируйте себе беспроблемный доступ на наш сайт
+                    </p>
+                </div>
+                <div class="right">
+
+                    <a href="/app/?api=1" class="batton-install">
+                        Установить
+                    </a>
+                </div>
+            </div>
+
+
+<div class="close-btn" onclick="closeMobileBanner();"></div>  
+
+
+        </div>
+
+
+
+
+    </body>
+
+</html>
+

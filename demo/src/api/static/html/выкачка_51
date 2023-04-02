@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Тексты песен</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://yastatic.net/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/i/style.css?1.3.1" type="text/css" media="screen" />
+	
+	<style>
+
+		
+
+	
+	</style>
+	<script type="text/javascript" src="https://yastatic.net/jquery/2.1.3/jquery.min.js"></script>
+	<script type="text/javascript" src="https://yastatic.net/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/i/super.js?v1.3"></script>
+		
+	
+	<meta name="yandex-verification" content="06c2c465782262ac" />
+	<meta name="yandex-verification" content="f168370c78a413a1" />
+	<meta name="yandex-verification" content="82a35e334b3af4a0" />
+	<meta name="yandex-verification" content="0ff6dfeb281e508c" />
+  </head>
+  <body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="container">
+
+<style>
+
+	.headline {
+		
+		text-align: left;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		max-width: 594px;
+		
+	}
+	
+	.logopesni {
+		
+		font-size: 18px;
+		
+		
+	}
+	
+	.logopesni img {
+		
+		width: 35px;
+		height: 35px;
+		margin-right: 5px;
+		
+	}
+	
+	.alf {
+		
+		font-size: 0;
+		
+	}
+	
+	.alf span {
+		
+	display: inline-block;
+    width: 20px;
+    margin: 1px;
+    background-color: #f5f5f5;
+    text-align: center;
+	
+	white-space-collapsing:discard;
+	font-size: 14px;
+		
+	}
+	
+	.alf span a {
+		
+	color: black;
+		
+	}
+	
+	h1 {
+		
+		font-size: 18px;
+		margin-top: 18px;
+		
+	}
+	
+	
+	.songtext {
+		
+		overflow-wrap: break-word;
+		
+	}
+	
+	.search_form_div form {
+		
+		margin: 0px;
+		
+	}
+	
+	.search_form_div {
+		
+		padding: 5px;
+		background-color: #f5f5f5;
+		margin-bottom: 10px;
+		
+	}
+
+	.search_form_top {
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-direction: row;
+		flex-direction: row;
+		
+		max-width: 594px;
+		padding: 5px;
+		
+		background-color: #f5f5f5;
+		
+	}
+		
+	.search_form_top > .flex-item {
+		-webkit-flex: auto;
+		flex: auto;
+		margin-right: 5px;
+	}
+		
+	.search_form_top > .raw-item {
+		width: 100px;
+	}
+
+
+@media (min-width:801px)  {	
+	
+	.arow {
+		
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-direction: row;
+		flex-direction: row;
+				
+	}
+	
+	.acol1 {
+
+		-webkit-flex: auto;
+		flex: auto;
+		max-width: 594px;	
+		
+	}
+	
+	.acol2 {
+		
+		width: 500px;
+		
+	}
+
+}
+
+li {
+	list-style-type: none;
+}
+
+ul {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.alflink {
+		
+		padding-bottom: 12px;
+		display: block;
+		
+}
+
+.textlist li{
+	padding-bottom: 12px;
+}
+
+</style>	
+
+<div class="headline"><a class="logopesni" href="/"><img src="/i/pesni.guru.png">Гуру Песен</a> <a href="/top/" style="float:right;margin-top:10px;">Популярное</a></div>
+
+<form role="search" action="/" method="get">
+	<div class="search_form_top">
+		<input id="qinput" type="text" class="form-control flex-item" placeholder="Поиск текста песни" name="q" value="">
+		<button type="submit" class="btn btn-default raw-item">Найти</button>	
+	</div>
+	<input type="hidden" name="do" value="searchredirect">
+</form>
+
+
+<div class="alf">
+	<div>
+		<span><a href="/artist/а">А</a></span>
+		<span><a href="/artist/б">Б</a></span>
+		<span><a href="/artist/в">В</a></span>
+		<span><a href="/artist/г">Г</a></span>
+		<span><a href="/artist/д">Д</a></span>
+		<span><a href="/artist/е">Е</a></span>
+		<span><a href="/artist/ж">Ж</a></span>
+		<span><a href="/artist/з">З</a></span>
+		<span><a href="/artist/и">И</a></span>
+		<span><a href="/artist/к">К</a></span>
+		<span><a href="/artist/л">Л</a></span>
+		<span><a href="/artist/м">М</a></span>
+		<span><a href="/artist/н">Н</a></span>
+		<span><a href="/artist/о">О</a></span>
+		<span><a href="/artist/п">П</a></span>
+		<span><a href="/artist/р">Р</a></span>
+		<span><a href="/artist/с">С</a></span>
+		<span><a href="/artist/т">Т</a></span>
+		<span><a href="/artist/у">У</a></span>
+		<span><a href="/artist/ф">Ф</a></span>
+		<span><a href="/artist/х">Х</a></span>
+		<span><a href="/artist/ц">Ц</a></span>
+		<span><a href="/artist/ч">Ч</a></span>
+		<span><a href="/artist/ш">Ш</a></span>
+		<span><a href="/artist/э">Э</a></span>
+		<span><a href="/artist/ю">Ю</a></span>
+		<span><a href="/artist/я">Я</a></span>
+	</div>
+	<div>
+		<span><a href="/artist/0-9">#</a></span>
+		<span><a href="/artist/a">A</a></span>
+		<span><a href="/artist/b">B</a></span>
+		<span><a href="/artist/c">C</a></span>
+		<span><a href="/artist/d">D</a></span>
+		<span><a href="/artist/e">E</a></span>
+		<span><a href="/artist/f">F</a></span>
+		<span><a href="/artist/g">G</a></span>
+		<span><a href="/artist/h">H</a></span>
+		<span><a href="/artist/i">I</a></span>
+		<span><a href="/artist/j">J</a></span>
+		<span><a href="/artist/k">K</a></span>
+		<span><a href="/artist/l">L</a></span>
+		<span><a href="/artist/m">M</a></span>
+		<span><a href="/artist/n">N</a></span>
+		<span><a href="/artist/o">O</a></span>
+		<span><a href="/artist/p">P</a></span>
+		<span><a href="/artist/q">Q</a></span>
+		<span><a href="/artist/r">R</a></span>
+		<span><a href="/artist/s">S</a></span>
+		<span><a href="/artist/t">T</a></span>
+		<span><a href="/artist/u">U</a></span>
+		<span><a href="/artist/v">V</a></span>
+		<span><a href="/artist/w">W</a></span>
+		<span><a href="/artist/x">X</a></span>
+		<span><a href="/artist/y">Y</a></span>
+		<span><a href="/artist/z">Z</a></span>
+	</div>
+</div>
+
+
+
+			
+			<h1>Тексты песен</h1>
+			
+			<div class="arow">
+				<div class="acol1">
+					<div class="songtext">
+						
+						<p>Pesni.guru - сайт для Гуру. Большой сборник текстов песен.</p><p><b>Популярное сейчас</b><br><ul><li><a href="/text/паша-изотов-нежно">Паша Изотов - Нежно</a></li><li><a href="/text/токийский-гуль-opening-оригинал">Токийский гуль - Opening оригинал</a></li><li><a href="/text/кыз-бурак-андай-жигит-мырзасы-эмес-кыргызымдын">Кыз-Бурак - Андай жигит мырзасы эмес кыргызымдын</a></li><li><a href="/text/м-а-али-ма-атаев-п-к-ыз">М&#1201;&#1179;а&#1171;али Ма&#1179;атаев - П&#1241;к &#1179;ыз</a></li><li><a href="/text/vspak-хочу">Vspak - Хочу</a></li><li><a href="/text/григорий-лепс-и-ирина-аллегрова-я-тебе-не-верю">Григорий Лепс и Ирина Аллегрова - Я тебе не верю</a></li><li><a href="/text/куба-вставай-донбасс">Куба - Вставай Донбасс</a></li><li><a href="/text/внимание-продатся-bmw-x5">ВНИМАНИЕ&#33;&#33;&#33; - ПРОДАЁТСЯ  BMW X5 &#33;&#33;&#33;</a></li><li><a href="/text/жубаныш-жексен-amp-abik-jeksen-жолдар">Жубаныш Жексен &amp; Abik Jeksen  - Жолдар</a></li><li><a href="/text/реп-мальчикам-на-23-мальчикам-на-23-февраля">Реп мальчикам на 23 - Мальчикам на 23 февраля</a></li><li><a href="/text/oxxxymiron-versus-battle-3-feat-johnyboy">Oxxxymiron - Versus Battle 3 (feat. Johnyboy)</a></li><li><a href="/text/небесна-сотня-тльки-щоб-не-даремно">Небесна сотня - Тільки щоб не даремно</a></li><li><a href="/text/мен-деп-ойла">... - Мен деп ойла</a></li><li><a href="/text/нурлан-онербаев-анашым-анасы-бар-адамдар">Нурлан Онербаев -  Анашым (Анасы бар адамдар)</a></li><li><a href="/text/казахская-песня-балхадиша">Казахская песня - Балхадиша</a></li><li><a href="/text/maher-zain-ya-nabi-salam-alayka-arabic-version-nogoomelarabcom">Maher Zain - Ya Nabi Salam Alayka (Arabic Version) - NogoomElArab.com</a></li><li><a href="/text/наша-строевая-песня-полки-идут-стеной">Наша Строевая песня - Полки идут стеной</a></li><li><a href="/text/fcdk-москалв-на-нож">FCDK - Москалів на Ножі</a></li><li><a href="/text/омар-кыргызстан">Омар - Кыргызстан</a></li><li><a href="/text/виктор-цой-белый-снег">Виктор Цой - Белый снег</a></li><li><a href="/text/каракат-аяулы-ана">Каракат - Аяулы ана</a></li><li><a href="/text/stalker-анекдоты-из-зоны-черный-сталкер-vkcomstalkerjokes">S.T.A.L.K.E.R. Анекдоты из Зоны - Черный Сталкер (vk.com/stalkerjokes)</a></li><li><a href="/text/коричневое-ухо-фараонов">Коричневое ухо - Фараонов</a></li><li><a href="/text/аттахият-аттахият-1правильное-чтение-без-ошибок">Аттахият - Аттахият 1(правильное чтение без ошибок)</a></li><li><a href="/text/халы-н-балапан-аз">халы&#1179; &#1241;ні - балапан &#1179;аз</a></li><li><a href="/text/аселя-бекежанова-ай-дидарлы-анашым">Аселя Бекежанова - Ай дидарлы анашым</a></li><li><a href="/text/кулху-аллаху-ахад-сура-112-аль-ихляс-искренность">Кулху Аллаху ахад  - Сура 112 (Аль-Ихляс | Искренность)</a></li><li><a href="/text/сура-аль-ихлас-аль-фалакъ-ан-нас">Сура - "Аль-Ихлас" "Аль-Фалакъ" "Ан-Нас"</a></li></ul><h3>Сейчас смотрят</h3><ul><li><a href="/text/пф-экраны-2014">П.ф. - Экраны (2014)</a></li><li><a href="/text/edgar-позови">EDGAR - Позови</a></li><li><a href="/text/зануда-монпасье-feat-легенды-про-быба">Зануда - Монпасье (feat. Легенды Про (Быба))</a></li><li><a href="/text/рашид-бейбутов-я-встретил-девушку-полумесяцем-бровь-как-приятно-опять-услышать-песню-которую-тебе-напевал-дедушка-когда-ты-была-еще-совсем-крохой">&#9829;Рашид Бейбутов - Я встретил девушку полумесяцем бровь - Как приятно опять услышать песню, которую тебе напевал дедушка, когда ты была еще совсем крохой:))</a></li><li><a href="/text/linkin-park-numb-piano-instrumental">Linkin Park - Numb (piano instrumental)</a></li><li><a href="/text/николай-грищенков-забытый-случай-моя-душа-2016г">Николай Грищенков -  Забытый случай  (Моя душа) 2016г</a></li><li><a href="/text/calvertron-ft-mellefresh-8bit-dreamz-dank-usa-remix">Calvertron ft. Mellefresh   - 8bit Dreamz (Dank (USA) Remix)</a></li><li><a href="/text/demi-lovato-and-jonas-brothers-youre-my-favorite-song">Demi Lovato and Jonas Brothers - You're My Favorite Song</a></li><li><a href="/text/идет-солдат-по-городу-минус">Идет солдат по городу - минус</a></li><li><a href="/text/лина-милович-про-детство">Лина Милович - Про детство</a></li></ul>						
+						
+					</div>
+				</div>
+				<div class="acol2">
+					<div class="my-bar">
+
+																
+					</div>
+
+					
+					
+				</div>
+			</div>
+	<footer>
+		
+	© 2023 <a href="https://pesni.guru">pesni.guru</a><br>	
+		
+	Сделано на планете Земля <br>	
+		
+	Обратная связь: <a href="mailto:pesniclub@yandex.ru">pesniclub@yandex.ru</a><br>
+
+	Права на тексты песен, переводы принадлежат их авторам. Все тексты и переводы представлены для ознакомления.
+	<!--<br>
+	<a href="/new/">Новые</a> | <a href="/top/">Популярные</a> | <a href="/sitemap/">Карта сайта</a>-->
+	</footer>
+
+	</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135053002-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135053002-1');
+</script>
+
+	
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter24017614 = new Ya.Metrika({id:24017614, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/24017614" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+	
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' border='0' width='0' height='0'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+  </body>
+</html>
